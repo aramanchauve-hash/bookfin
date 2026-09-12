@@ -1,0 +1,39 @@
+# Seuls Cargo.toml, Cargo.lock, src/ et migrations/ sont nécessaires pour
+# construire et faire tourner l'API Bookfin. Tout le reste est exclu du
+# contexte de build Docker pour rester rapide et ne rien exposer d'inutile.
+
+# Rust
+target/
+
+# Dépôt / éditeurs
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Secrets / environnement
+.env
+.env.*
+!.env.example
+
+# Application mobile (non concernée par l'image API)
+mobile/
+
+# Contenus volumineux non nécessaires au build de l'API
+corpus/
+docs/
+scripts/
+seeds/
+style/
+ui.xml
+*.png
+
+# Fichiers de config non utilisés par le Dockerfile
+docker-compose.yml
+railway.toml
+README.md
+
+# Artefacts temporaires
+*.log
+Thumbs.db
+.DS_Store
