@@ -1,0 +1,19 @@
+# Configuration Railway pour l'alpha Bookfin — API Axum uniquement.
+#
+# Périmètre volontairement restreint : seul le backend REST (/api/v1/*, /health)
+# est servi. Le pipeline cargo-leptos (UI web, assets /pkg/*) n'est pas construit
+# ici et reste un sujet local/debug séparé.
+#
+# Aucun secret dans ce fichier : DATABASE_URL, PORT, etc. doivent être définis
+# comme variables d'environnement dans le dashboard Railway.
+
+[build]
+builder = "NIXPACKS"
+buildCommand = "cargo build --release --bin bookfin"
+
+[deploy]
+startCommand = "./target/release/bookfin"
+healthcheckPath = "/health"
+healthcheckTimeout = 100
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 10
