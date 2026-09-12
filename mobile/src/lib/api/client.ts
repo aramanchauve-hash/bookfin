@@ -26,6 +26,33 @@ export class ApiError extends Error {
   get isCodeExpired(): boolean {
     return this.status === 410;
   }
+
+  /**
+   * 422 de validation des métriques de lecture (temps trop court, scroll insuffisant,
+   * délai serveur insuffisant). C'est un état récupérable et attendu du produit,
+   * PAS une erreur réseau/serveur : le lecteur n'a simplement pas encore assez lu.
+   */
+  get isReadingValidationError(): boolean {
+    if (this.status !== 422) return false;
+    if (this.payload && typeof this.payload === 'object' && 'error' in this.payload) {
+      return this.payload.error === 'reading_validation_failed';
+    }
+    // Repli : sur l'endpoint /api/v1/reactions, 422 n'est utilisé que pour ce cas.
+    return true;
+  }
+
+  /** Code de raison sanitisé pour les logs dev (ex: "insufficient_scroll"). Jamais de contenu utilisateur. */
+  get validationReason(): string | undefined {
+    if (this.payload && typeof this.payload === 'object' && 'reason' in this.payload) {
+      return this.payload.reason;
+    }
+    return undefined;
+  }
+}
+
+/** Détection d'environnement dev/alpha (Expo définit global.__DEV__ au runtime). */
+export function isDevBuild(): boolean {
+  return typeof __DEV__ !== 'undefined' ? __DEV__ : process.env.NODE_ENV !== 'production';
 }
 
 export function getAppVersions(): { appVersion: string; buildVersion: string } {
@@ -43,9 +70,7 @@ export function getAppVersions(): { appVersion: string; buildVersion: string } {
  */
 export function getApiBaseUrl(): string {
   const envUrl = process.env.EXPO_PUBLIC_API_BASE_URL;
-
-  // Détection d'environnement (Expo définit global.__DEV__)
-  const isDev = typeof __DEV__ !== 'undefined' ? __DEV__ : process.env.NODE_ENV !== 'production';
+  const isDev = isDevBuild();
 
   if (!isDev) {
     if (!envUrl) {

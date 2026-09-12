@@ -10,6 +10,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { palette, typography } from '../lib/theme/typography';
 import { useReadingSession } from '../state/useReadingSession';
 import { PageFlipTransition } from '../components/PageFlipTransition';
+import { SwipeableReadingContainer } from '../components/SwipeableReadingContainer';
 import { ReadingContent } from '../components/ReadingContent';
 import { ReactionToolbar } from '../components/ReactionToolbar';
 import { RevealBanner } from '../components/RevealBanner';
@@ -59,23 +60,44 @@ export const ReadingScreen: React.FC = () => {
         </View>
       )}
 
-      {/* 2. Bannière d'erreur réseau discrète si anomalie */}
+      {/* 2. Bannière d'erreur réseau discrète si anomalie (vraies erreurs réseau/serveur uniquement) */}
       {state.status === 'error' && state.errorMessage && (
         <NetworkBanner message={state.errorMessage} onRetry={handleRetry} />
       )}
 
-      {/* 3. Contenu de lecture enveloppé dans la transition de page */}
+      {/* 2bis. Indication discrète non bloquante après un 422 de validation de lecture :
+          la lecture et la réaction restent immédiatement disponibles, pas de bouton Réessayer. */}
+      {state.status === 'reading' && state.validationHint && (
+        <View style={styles.hintContainer}>
+          <Text
+            style={[
+              styles.hintText,
+              { color: theme.textMuted, fontFamily: typography.fontFamilySans },
+            ]}
+          >
+            {state.validationHint}
+          </Text>
+        </View>
+      )}
+
+      {/* 3. Contenu de lecture enveloppé dans le conteneur gestuel et la transition de page */}
       {state.currentPage && (
-        <PageFlipTransition
-          triggerKey={state.currentPage.impression_id || state.currentPage.id || state.currentPage.page_id}
-          type={state.transitionType}
+        <SwipeableReadingContainer
+          enabled={state.status === 'revealed'}
+          onSwipeLeft={handleContinueBook}
           style={styles.transitionContainer}
         >
-          <ReadingContent
-            page={state.currentPage}
-            onScroll={tracker.onScroll}
-          />
-        </PageFlipTransition>
+          <PageFlipTransition
+            triggerKey={state.currentPage.impression_id || state.currentPage.id || state.currentPage.page_id}
+            type={state.transitionType}
+            style={styles.transitionContainer}
+          >
+            <ReadingContent
+              page={state.currentPage}
+              onScroll={tracker.onScroll}
+            />
+          </PageFlipTransition>
+        </SwipeableReadingContainer>
       )}
 
       {/* 4. Révélation sobre de l'auteur et du titre post-réaction */}
@@ -134,5 +156,15 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     alignItems: 'center',
     width: '100%',
+  },
+  hintContainer: {
+    paddingHorizontal: 20,
+    paddingVertical: 6,
+    alignItems: 'center',
+    width: '100%',
+  },
+  hintText: {
+    fontSize: 12,
+    textAlign: 'center',
   },
 });

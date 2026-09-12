@@ -232,6 +232,19 @@ async fn feed_next_handler(
     }
 }
 
+/// Code de raison stable (machine-readable) pour les 422 de validation de lecture.
+/// Permet au client mobile de distinguer un rejet de validation "récupérable"
+/// (le lecteur doit simplement continuer un peu) d'une vraie erreur réseau/serveur,
+/// sans dépendre du texte du message (fragile, non stable en i18n).
+pub fn reading_validation_reason(err: &DomainError) -> Option<&'static str> {
+    match err {
+        DomainError::ReadingTooFast { .. } => Some("reading_too_fast"),
+        DomainError::InsufficientScroll { .. } => Some("insufficient_scroll"),
+        DomainError::ServerTimeElapsedTooShort { .. } => Some("server_time_elapsed_too_short"),
+        _ => None,
+    }
+}
+
 async fn reactions_handler(
     headers: HeaderMap,
     Extension(pool): Extension<PgPool>,
@@ -260,11 +273,14 @@ async fn reactions_handler(
 
     match use_case.execute(payload, &config).await {
         Ok(resp) => Ok((StatusCode::CREATED, Json(resp))),
-        Err(DomainError::ReadingTooFast { .. })
-        | Err(DomainError::InsufficientScroll { .. })
-        | Err(DomainError::ServerTimeElapsedTooShort { .. }) => Err((
+        Err(e) if reading_validation_reason(&e).is_some() => Err((
             StatusCode::UNPROCESSABLE_ENTITY,
-            "Metriques de lecture invalides ou delai insuffisant".to_string(),
+            serde_json::json!({
+                "error": "reading_validation_failed",
+                "reason": reading_validation_reason(&e),
+                "message": "Métriques de lecture invalides ou délai insuffisant"
+            })
+            .to_string(),
         )),
         Err(DomainError::DuplicateReaction) | Err(DomainError::AlreadyReacted) => Err((
             StatusCode::CONFLICT,

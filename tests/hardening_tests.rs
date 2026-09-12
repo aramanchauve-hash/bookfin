@@ -90,6 +90,74 @@ fn test_reading_validation_cases_a_to_e() {
 }
 
 // --------------------------------------------------
+// Régression bug alpha : 422 métriques de lecture bloquant côté mobile
+// --------------------------------------------------
+
+#[test]
+fn test_reading_validation_reason_is_stable_and_machine_readable() {
+    use bookfin::web::api_v1::reading_validation_reason;
+
+    let config = ReadingValidationConfig::default();
+
+    let too_fast = validate_reading_metrics_full(1000, 1.0, true, false, &config).unwrap_err();
+    assert_eq!(
+        reading_validation_reason(&too_fast),
+        Some("reading_too_fast")
+    );
+
+    let insufficient_scroll =
+        validate_reading_metrics_full(5000, 0.10, false, true, &config).unwrap_err();
+    assert_eq!(
+        reading_validation_reason(&insufficient_scroll),
+        Some("insufficient_scroll")
+    );
+
+    let now = Utc::now();
+    let served_at = now - Duration::milliseconds(500);
+    let too_soon = validate_server_timing_with_config(served_at, now, &config).unwrap_err();
+    assert_eq!(
+        reading_validation_reason(&too_soon),
+        Some("server_time_elapsed_too_short")
+    );
+
+    // Une erreur qui n'est pas une validation de lecture ne doit jamais recevoir de raison
+    // "récupérable" : le mobile doit la traiter comme une vraie erreur (réseau/serveur).
+    assert_eq!(
+        reading_validation_reason(&DomainError::AlreadyReacted),
+        None
+    );
+}
+
+#[test]
+fn test_scrollable_page_becomes_valid_after_real_progression() {
+    // Contenu qui dépasse le viewport (content_overflows = true) sur Android :
+    // un simple survol ne suffit pas, il faut une progression réelle du scroll
+    // pour que la réaction soit validée (bas de page non atteint).
+    let config = ReadingValidationConfig::default();
+
+    // Progression insuffisante (l'utilisateur vient d'ouvrir la page) -> rejeté
+    let barely_scrolled = validate_reading_metrics_full(5000, 0.05, false, true, &config);
+    assert!(
+        matches!(barely_scrolled, Err(DomainError::InsufficientScroll { .. })),
+        "Un scroll quasi nul sur une page qui déborde doit être rejeté"
+    );
+
+    // Progression réelle jusqu'au seuil requis -> accepté
+    let fully_scrolled = validate_reading_metrics_full(5000, 0.80, false, true, &config);
+    assert!(
+        fully_scrolled.is_ok(),
+        "Une progression réelle de scroll (0.80 >= seuil 0.75) doit valider la lecture"
+    );
+
+    // Atteindre le bas de la page dispense explicitement du seuil de profondeur
+    let bottom_reached_early = validate_reading_metrics_full(5000, 0.05, true, true, &config);
+    assert!(
+        bottom_reached_early.is_ok(),
+        "bottom_reached=true doit valider la lecture même avec un scroll_depth faible"
+    );
+}
+
+// --------------------------------------------------
 // Section 1, 2, 4, 8: Tests d'intégration sur base de données
 // --------------------------------------------------
 

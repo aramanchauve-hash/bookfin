@@ -102,7 +102,8 @@ const styles = StyleSheet.create({
     fontSize: typography.reading.fontSize,
     lineHeight: typography.reading.lineHeight,
     letterSpacing: typography.reading.letterSpacing,
-    textAlign: 'left',
+    textAlign: 'justify',
+    writingDirection: 'ltr',
   },
   bottomSpacer: {
     height: 32,

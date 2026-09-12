@@ -127,6 +127,14 @@ export class ReadingTrackerCore {
 }
 
 /**
+ * Convertit le scroll_depth du tracker (pourcentage 0-100) vers la fraction 0.0-1.0
+ * attendue par le backend (cf. ReadingValidationConfig::min_scroll_depth = 0.75).
+ */
+export function toServerScrollDepth(scrollDepthPercent: number): number {
+  return scrollDepthPercent / 100;
+}
+
+/**
  * Hook React intégrant le ReadingTrackerCore avec le cycle de vie du composant.
  */
 export function useReadingTracker(pageId?: string) {

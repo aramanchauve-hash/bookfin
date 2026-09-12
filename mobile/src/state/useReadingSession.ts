@@ -1,14 +1,15 @@
 import { useCallback, useEffect, useReducer, useRef } from 'react';
-import { initialReadingState, readingReducer } from './readingReducer';
+import { canSubmitReaction, initialReadingState, readingReducer } from './readingReducer';
+import { resolveReactionErrorAction } from './reactionErrorPolicy';
 import {
   continueReading,
   fetchNextRandomPage,
   revealPageMetadata,
   submitReaction,
 } from '../lib/api/readingApi';
-import { ApiError } from '../lib/api/client';
+import { ApiError, isDevBuild } from '../lib/api/client';
 import { generateClientRequestId, getCurrentUserId } from '../lib/auth/userContext';
-import { useReadingTracker } from '../lib/metrics/useReadingTracker';
+import { toServerScrollDepth, useReadingTracker } from '../lib/metrics/useReadingTracker';
 import { ReactionType } from '../types/api';
 
 export function useReadingSession() {
@@ -46,8 +47,9 @@ export function useReadingSession() {
   // 2. Soumission de réaction (Like / Dislike) avec métriques locales
   const handleReaction = useCallback(
     async (reaction: ReactionType) => {
-      // Verrou anti-double-tap
-      if (state.status !== 'reading' || !state.currentPage || isActionLockedRef.current) {
+      // Verrou anti-double-tap. 'error' est autorisé pour que Réessayer fonctionne
+      // réellement après une vraie erreur réseau (voir bug alpha : écran figé).
+      if (!canSubmitReaction(state.status) || !state.currentPage || isActionLockedRef.current) {
         return;
       }
       isActionLockedRef.current = true;
@@ -55,8 +57,12 @@ export function useReadingSession() {
       const eventId = state.pendingEventId || generateClientRequestId();
       dispatch({ type: 'REACT_START', reaction, eventId });
 
+      // Snapshot pris au moment de CE clic : chaque tentative (initiale ou après un
+      // 422 de validation) reflète le temps actif et le scroll accumulés jusqu'ici,
+      // jamais une valeur figée d'un essai précédent.
+      const snapshot = tracker.getSnapshot(state.currentPage.token_count);
+
       try {
-        const snapshot = tracker.getSnapshot(state.currentPage.token_count);
         const userId = getCurrentUserId();
 
         await submitReaction({
@@ -65,7 +71,7 @@ export function useReadingSession() {
           impression_id: state.currentPage.impression_id || state.currentPage.id!,
           reaction: reaction,
           reading_time_ms: snapshot.dwell_time_ms,
-          scroll_depth: snapshot.scroll_depth_percent,
+          scroll_depth: toServerScrollDepth(snapshot.scroll_depth_percent),
           bottom_reached: snapshot.bottom_reached,
           content_overflows: snapshot.content_overflows,
           event_id: eventId,
@@ -76,10 +82,19 @@ export function useReadingSession() {
         const metadata = await revealPageMetadata(state.currentPage.page_id, userId);
         dispatch({ type: 'REACT_SUCCESS', metadata });
       } catch (err: any) {
-        dispatch({
-          type: 'REACT_ERROR',
-          message: err.message || 'Échec de lenvoi de la réaction.',
-        });
+        if (isDevBuild() && err instanceof ApiError && err.isReadingValidationError) {
+          // Log sanitisé dev/alpha uniquement : aucun token, aucune URL, aucun contenu
+          // littéraire, aucune donnée personnelle. Juste les métriques numériques et le motif.
+          // eslint-disable-next-line no-console
+          console.log('[Bookfin][dev] 422 validation de lecture', {
+            reason: err.validationReason,
+            reading_time_ms: snapshot.dwell_time_ms,
+            scroll_depth_percent: snapshot.scroll_depth_percent,
+            bottom_reached: snapshot.bottom_reached,
+            content_overflows: snapshot.content_overflows,
+          });
+        }
+        dispatch(resolveReactionErrorAction(err));
       } finally {
         isActionLockedRef.current = false;
       }
@@ -125,12 +140,14 @@ export function useReadingSession() {
   const handleRandomPage = useCallback(async () => {
     if (
       (state.status !== 'revealed' && state.status !== 'end_of_edition') ||
+      !state.currentPage ||
       isActionLockedRef.current
     ) {
       return;
     }
+    dispatch({ type: 'NAVIGATE_START', action: 'random_page' });
     await loadRandomPage('fade');
-  }, [state.status, loadRandomPage]);
+  }, [state.status, state.currentPage, loadRandomPage]);
 
   // 5. Réessai en cas d'erreur
   const handleRetry = useCallback(async () => {

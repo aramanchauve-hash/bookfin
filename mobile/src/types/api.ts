@@ -26,7 +26,7 @@ export interface SubmitReactionRequestDto {
   impression_id: string;
   reaction: ReactionType; // 'like' | 'dislike' attendu par Axum
   reading_time_ms: number; // en millisecondes attendu par Axum
-  scroll_depth: number; // [0.0..100.0] attendu par Axum
+  scroll_depth: number; // fraction [0.0..1.0] attendu par Axum (ReadingValidationConfig::min_scroll_depth)
   bottom_reached?: boolean;
   content_overflows?: boolean;
   event_id?: string;
