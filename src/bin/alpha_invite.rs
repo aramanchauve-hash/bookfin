@@ -1,4 +1,3 @@
-use dotenvy::dotenv;
 use sqlx::postgres::PgPoolOptions;
 use std::env;
 use uuid::Uuid;
@@ -15,17 +14,7 @@ struct InviteRow {
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let args: Vec<String> = env::args().collect();
-    let cli_db_url = args
-        .iter()
-        .position(|a| a == "--database-url")
-        .and_then(|idx| args.get(idx + 1).cloned());
-
-    let database_url = cli_db_url
-        .or_else(|| env::var("DATABASE_URL").ok())
-        .unwrap_or_else(|| {
-            dotenv().ok();
-            env::var("DATABASE_URL").expect("DATABASE_URL must be set")
-        });
+    let database_url = env::var("DATABASE_URL").map_err(|_| "DATABASE_URL must be set")?;
 
     let pool = PgPoolOptions::new()
         .max_connections(2)
@@ -112,6 +101,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             }
         }
         "revoke" => {
+            if !args.iter().any(|arg| arg == "--confirm-revoke") {
+                eprintln!("Refus de révocation : ajoutez --confirm-revoke pour désactiver un code.");
+                return Ok(());
+            }
+
             let mut code = None;
             let mut i = 2;
             while i < args.len() {
@@ -156,5 +150,5 @@ fn print_usage() {
     println!("Commandes :");
     println!("  create --code <CODE> [--max-uses 1] [--note <NOTE>]");
     println!("  list");
-    println!("  revoke --code <CODE>");
+    println!("  revoke --code <CODE> --confirm-revoke");
 }

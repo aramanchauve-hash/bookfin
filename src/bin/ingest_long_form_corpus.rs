@@ -3,7 +3,7 @@
 
 use serde::Deserialize;
 use sha2::{Digest, Sha256};
-use sqlx::{PgPool, Postgres, Transaction};
+use sqlx::{PgPool, Postgres, QueryBuilder, Transaction};
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
@@ -127,23 +127,32 @@ async fn import_work(
     .bind(&work.rights_status).bind(&work.rights_basis).bind(&work.license).bind(&work.source_text_sha256)
     .execute(&mut **tx).await?;
 
-    for (zero_index, page) in pages.iter().enumerate() {
+    let mut page_query = QueryBuilder::<Postgres>::new(
+        "INSERT INTO pages (id, edition_id, page_number, source_page_number, content, content_hash, \
+         language_tag, token_count, random_key, is_active, version, created_at) ",
+    );
+    page_query.push_values(pages.iter().enumerate(), |mut row, (zero_index, page)| {
         let page_number = (zero_index + 1) as i32;
         let page_id = Uuid::new_v5(
             &namespace,
             format!("{}:{}:1", edition_id, page_number).as_bytes(),
         );
-        sqlx::query(
-            r#"INSERT INTO pages (id, edition_id, page_number, source_page_number, content, content_hash,
-                 language_tag, token_count, random_key, is_active, version, created_at)
-               VALUES ($1,$2,$3,NULL,$4,$5,$6,$7,$8,true,1,NOW())
-               ON CONFLICT (id) DO UPDATE SET content=EXCLUDED.content, content_hash=EXCLUDED.content_hash,
-                 token_count=EXCLUDED.token_count, random_key=EXCLUDED.random_key, is_active=true"#,
-        )
-        .bind(page_id).bind(edition_id).bind(page_number).bind(page).bind(content_hash(page))
-        .bind(&work.language_tag).bind(page.split_whitespace().count() as i32).bind(stable_random_key(page_id))
-        .execute(&mut **tx).await?;
-    }
+        row.push_bind(page_id)
+            .push_bind(edition_id)
+            .push_bind(page_number)
+            .push("NULL")
+            .push_bind(page)
+            .push_bind(content_hash(page))
+            .push_bind(&work.language_tag)
+            .push_bind(page.split_whitespace().count() as i32)
+            .push_bind(stable_random_key(page_id))
+            .push("true, 1, NOW()");
+    });
+    page_query.push(
+        " ON CONFLICT (id) DO UPDATE SET content=EXCLUDED.content, content_hash=EXCLUDED.content_hash, \
+         token_count=EXCLUDED.token_count, random_key=EXCLUDED.random_key, is_active=true",
+    );
+    page_query.build().execute(&mut **tx).await?;
     Ok(pages.len())
 }
 
@@ -167,8 +176,7 @@ async fn ensure_long_form_metadata_schema(pool: &PgPool) -> Result<(), Box<dyn s
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let _ = dotenvy::dotenv();
-    let database_url = std::env::var("DATABASE_URL")?;
+    let database_url = std::env::var("DATABASE_URL").map_err(|_| "DATABASE_URL must be set")?;
     let manifest: Manifest = serde_json::from_str(&fs::read_to_string(MANIFEST_PATH)?)?;
     let pool = PgPool::connect(&database_url).await?;
     if let Err(error) = sqlx::migrate!("./migrations").run(&pool).await {

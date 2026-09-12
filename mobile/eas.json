@@ -22,7 +22,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_API_BASE_URL": "https://alpha-api.bookfin.app"
+        "EXPO_PUBLIC_API_BASE_URL": "https://bookfin-api-production.up.railway.app"
       }
     },
     "production": {
@@ -35,4 +35,3 @@
     "production": {}
   }
 }
-
