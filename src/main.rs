@@ -2,6 +2,7 @@
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     use axum::extract::Extension;
+    use axum::routing::get;
     use axum::Router;
     use bookfin::infrastructure::db::{init_db_pool, run_migrations};
     use bookfin::web::app::{shell, App};
@@ -46,6 +47,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let cors = tower_http::cors::CorsLayer::permissive();
 
     let app = Router::new()
+        .route("/health", get(|| async { "OK" }))
         .leptos_routes_with_context(
             &leptos_options,
             routes,
@@ -67,9 +69,19 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .layer(Extension(pool))
         .with_state(leptos_options);
 
-    let bind_addr = std::env::var("BIND_ADDR")
+    // Priorité de résolution de l'adresse d'écoute :
+    // 1. BIND_ADDR explicite (contrôle total, ex: tests locaux avancés)
+    // 2. PORT (fourni nativement par Railway) -> écoute sur 0.0.0.0:$PORT
+    // 3. Repli local inchangé (127.0.0.1:3000 via Cargo.toml/LEPTOS_SITE_ADDR)
+    let bind_addr: std::net::SocketAddr = std::env::var("BIND_ADDR")
         .ok()
         .and_then(|a| a.parse().ok())
+        .or_else(|| {
+            std::env::var("PORT")
+                .ok()
+                .and_then(|p| p.parse::<u16>().ok())
+                .map(|port| std::net::SocketAddr::from(([0, 0, 0, 0], port)))
+        })
         .unwrap_or(addr);
 
     log!("Démarrage du serveur Bookfin sur http://{}", bind_addr);
