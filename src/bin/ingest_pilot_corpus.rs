@@ -1,13 +1,19 @@
 use rand::Rng;
 use serde::Deserialize;
 use sha2::{Digest, Sha256};
-use sqlx::PgPool;
+use sqlx::{postgres::PgConnectOptions, PgPool};
 use std::fs;
 use std::path::Path;
+use std::str::FromStr;
 use uuid::Uuid;
 
 const NAMESPACE_UUID: &str = "7b1981a4-6842-4dc8-a83a-867df3c965e9";
 const TARGET_PAGE_CHARS: usize = 1600;
+const LOCAL_DEV_DATABASE_URL: &str = "postgres://bookfin:bookfin@localhost:5432/bookfin";
+const DATABASE_URL_REQUIRED_MESSAGE: &str =
+    "DATABASE_URL must be set; use --allow-local-fallback only for explicit local development";
+const REMOTE_RESET_REFUSED_MESSAGE: &str =
+    "--reset is allowed only for a local PostgreSQL database (localhost, 127.0.0.1, or ::1)";
 
 #[derive(Debug, Deserialize)]
 struct PilotManifest {
@@ -118,27 +124,69 @@ fn compute_content_hash(text: &str) -> String {
     format!("{:x}", hasher.finalize())
 }
 
+fn resolve_database_url(
+    database_url: Option<String>,
+    allow_local_fallback: bool,
+) -> Result<String, &'static str> {
+    match database_url.filter(|url| !url.trim().is_empty()) {
+        Some(url) => Ok(url),
+        None if allow_local_fallback => Ok(LOCAL_DEV_DATABASE_URL.to_owned()),
+        None => Err(DATABASE_URL_REQUIRED_MESSAGE),
+    }
+}
+
+fn is_local_database_url(database_url: &str) -> bool {
+    let Ok(options) = PgConnectOptions::from_str(database_url) else {
+        return false;
+    };
+
+    matches!(
+        options.get_host(),
+        host if host.eq_ignore_ascii_case("localhost")
+            || host == "127.0.0.1"
+            || host == "::1"
+            || host == "[::1]"
+    )
+}
+
+fn validate_reset_target(database_url: &str) -> Result<(), &'static str> {
+    if is_local_database_url(database_url) {
+        Ok(())
+    } else {
+        Err(REMOTE_RESET_REFUSED_MESSAGE)
+    }
+}
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let _ = dotenvy::dotenv();
+    let args: Vec<String> = std::env::args().collect();
+    let allow_local_fallback = args.iter().any(|arg| arg == "--allow-local-fallback");
+    let reset_requested = args.iter().any(|arg| arg == "--reset");
+    let database_url =
+        resolve_database_url(std::env::var("DATABASE_URL").ok(), allow_local_fallback)?;
 
-    let database_url = std::env::var("DATABASE_URL")
-        .unwrap_or_else(|_| "postgres://bookfin:bookfin@localhost:5432/bookfin".to_string());
+    if reset_requested {
+        validate_reset_target(&database_url)?;
+    }
 
     println!("===============================================================================");
     println!("  Bookfin - Ingestion du Corpus Pilote de Nouvelles du Domaine Public");
     println!("===============================================================================");
-    println!("Connexion PostgreSQL : {}", database_url);
+    println!("Connexion a PostgreSQL configuree.");
 
-    let pool = PgPool::connect(&database_url).await?;
+    let pool = PgPool::connect(&database_url)
+        .await
+        .map_err(|_| "Unable to connect to configured PostgreSQL database")?;
 
     println!("Application des migrations SQLx...");
     sqlx::migrate!("./migrations").run(&pool).await?;
     println!("Migrations appliquees avec succes.");
 
-    if std::env::args().any(|a| a == "--reset") {
+    if reset_requested {
         println!("Nettoyage des impressions et reactions de test en base (--reset)...");
-        sqlx::query("TRUNCATE reactions, page_impressions CASCADE").execute(&pool).await?;
+        sqlx::query("TRUNCATE reactions, page_impressions CASCADE")
+            .execute(&pool)
+            .await?;
         println!("Tables nettoyees.");
     }
 
@@ -291,12 +339,18 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     for (i, lang, title, author, pages, min_c, max_c, avg_c) in &story_stats {
         let stats_str = format!("{}-{} (m:{})", min_c, max_c, avg_c);
         let short_title = if title.chars().count() > 28 {
-            format!("{}…", &title[..title.char_indices().nth(27).map(|(i, _)| i).unwrap_or(28)])
+            format!(
+                "{}…",
+                &title[..title.char_indices().nth(27).map(|(i, _)| i).unwrap_or(28)]
+            )
         } else {
             title.clone()
         };
         let short_author = if author.chars().count() > 22 {
-            format!("{}…", &author[..author.char_indices().nth(21).map(|(i, _)| i).unwrap_or(22)])
+            format!(
+                "{}…",
+                &author[..author.char_indices().nth(21).map(|(i, _)| i).unwrap_or(22)]
+            )
         } else {
             author.clone()
         };
@@ -308,8 +362,67 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("------------------------------------------------------------------------------------------------------------------");
     println!("✓ Ingestion terminée avec succès !");
     println!("✓ Nombre total d'œuvres : {}", manifest.stories.len());
-    println!("✓ Nombre total de pages éligibles insérées : {}", total_pages_inserted);
+    println!(
+        "✓ Nombre total de pages éligibles insérées : {}",
+        total_pages_inserted
+    );
     println!("===============================================================================");
 
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::{
+        is_local_database_url, resolve_database_url, validate_reset_target,
+        DATABASE_URL_REQUIRED_MESSAGE, REMOTE_RESET_REFUSED_MESSAGE,
+    };
+
+    #[test]
+    fn database_url_is_required_without_explicit_dev_fallback() {
+        assert_eq!(
+            resolve_database_url(None, false),
+            Err(DATABASE_URL_REQUIRED_MESSAGE)
+        );
+    }
+
+    #[test]
+    fn explicit_dev_fallback_is_local_only() {
+        let database_url =
+            resolve_database_url(None, true).expect("explicit fallback should resolve");
+        assert!(is_local_database_url(&database_url));
+    }
+
+    #[test]
+    fn local_database_urls_are_recognized() {
+        for database_url in [
+            "postgres://bookfin@localhost/bookfin",
+            "postgres://bookfin@127.0.0.1/bookfin",
+            "postgres://bookfin@[::1]/bookfin",
+        ] {
+            assert!(is_local_database_url(database_url), "{database_url}");
+        }
+    }
+
+    #[test]
+    fn railway_and_other_remote_database_urls_are_not_local() {
+        for database_url in [
+            "postgres://bookfin@railway.internal/bookfin",
+            "postgres://bookfin@bookfin-db.up.railway.app/bookfin",
+            "postgres://bookfin@db.example.com/bookfin",
+        ] {
+            assert!(!is_local_database_url(database_url), "{database_url}");
+        }
+    }
+
+    #[test]
+    fn reset_refuses_remote_databases_without_leaking_the_url() {
+        let secret_database_url = "postgres://bookfin:never-print-this@railway.internal/bookfin";
+        let error =
+            validate_reset_target(secret_database_url).expect_err("remote reset must be refused");
+
+        assert_eq!(error, REMOTE_RESET_REFUSED_MESSAGE);
+        assert!(!error.contains("never-print-this"));
+        assert!(!error.contains(secret_database_url));
+    }
 }
