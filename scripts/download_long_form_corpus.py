@@ -37,8 +37,6 @@ WORKS = [
     ("en_dickens_bleak_house", "Bleak House", "Charles Dickens", 1853, 1023, 67),
     ("en_hardy_tess", "Tess of the d'Urbervilles", "Thomas Hardy", 1891, 110, 59),
     ("en_hardy_jude", "Jude the Obscure", "Thomas Hardy", 1895, 153, 52),
-    ("en_gaskell_north_south", "North and South", "Elizabeth Gaskell", 1855, 4276, 52),
-    ("en_gaskell_wives_daughters", "Wives and Daughters", "Elizabeth Gaskell", 1866, 4274, 60),
     ("en_trollope_barchester_towers", "Barchester Towers", "Anthony Trollope", 1857, 619, 53),
     ("en_bronte_jane_eyre", "Jane Eyre", "Charlotte Brontë", 1847, 1260, 38),
     ("en_bronte_wuthering_heights", "Wuthering Heights", "Emily Brontë", 1847, 768, 34),

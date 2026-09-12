@@ -7,7 +7,7 @@
     "target_characters": 1600,
     "all_internal_pages_eligible": true
   },
-  "works_count": 29,
+  "works_count": 27,
   "works": [
     {
       "work_id": "59f77f2c-1a6f-5a23-9104-8784317439e5",
@@ -296,72 +296,6 @@
       "char_count": 799270,
       "chapter_heading_count": 119,
       "expected_chapters": 52,
-      "validation": {
-        "status": "accepted",
-        "checks": [
-          "no Gutenberg header/footer",
-          "no initial duplicated TOC",
-          "minimum structural heading count",
-          "full-text SHA-256 uniqueness"
-        ]
-      }
-    },
-    {
-      "work_id": "17f135ad-7c65-5358-9aad-e5a860ea3d7d",
-      "edition_id": "730569d3-b918-544c-ad63-8334a1001edc",
-      "slug": "en_gaskell_north_south",
-      "title": "North and South",
-      "author": "Elizabeth Gaskell",
-      "original_language_tag": "en",
-      "work_type": "novel",
-      "publication_year": 1855,
-      "edition_title": "Project Gutenberg ebook #4276, plain-text edition",
-      "language_tag": "en",
-      "source_name": "Project Gutenberg ebook #4276",
-      "source_url": "https://www.gutenberg.org/ebooks/4276",
-      "provenance": "Downloaded from the Project Gutenberg plain-text cache; START/END boilerplate removed; initial duplicated table of contents removed only when structurally detected.",
-      "rights_status": "public_domain_reviewed",
-      "rights_basis": "US: Project Gutenberg identifies ebook source as public domain; original publication 1855. EU/France: authorial life+70 review recorded separately by source; source transcription is used without Gutenberg boilerplate and remains subject to Project Gutenberg trademark/terms.",
-      "license": "Project Gutenberg source terms; public-domain underlying work",
-      "file_path": "corpus/long_form_01/texts/en_gaskell_north_south.txt",
-      "source_text_sha256": "825d702bd128f1b2e55f94afad09a7eccde07c9e74f3d5c1a8e32915d7aa71ab",
-      "source_identity_checked": true,
-      "char_count": 991026,
-      "chapter_heading_count": 63,
-      "expected_chapters": 52,
-      "validation": {
-        "status": "accepted",
-        "checks": [
-          "no Gutenberg header/footer",
-          "no initial duplicated TOC",
-          "minimum structural heading count",
-          "full-text SHA-256 uniqueness"
-        ]
-      }
-    },
-    {
-      "work_id": "346eea5b-b90b-56ba-99de-4d01e5c841d3",
-      "edition_id": "b7705292-8ee7-5340-bb4c-ac35fe7ab65c",
-      "slug": "en_gaskell_wives_daughters",
-      "title": "Wives and Daughters",
-      "author": "Elizabeth Gaskell",
-      "original_language_tag": "en",
-      "work_type": "novel",
-      "publication_year": 1866,
-      "edition_title": "Project Gutenberg ebook #4274, plain-text edition",
-      "language_tag": "en",
-      "source_name": "Project Gutenberg ebook #4274",
-      "source_url": "https://www.gutenberg.org/ebooks/4274",
-      "provenance": "Downloaded from the Project Gutenberg plain-text cache; START/END boilerplate removed; initial duplicated table of contents removed only when structurally detected.",
-      "rights_status": "public_domain_reviewed",
-      "rights_basis": "US: Project Gutenberg identifies ebook source as public domain; original publication 1866. EU/France: authorial life+70 review recorded separately by source; source transcription is used without Gutenberg boilerplate and remains subject to Project Gutenberg trademark/terms.",
-      "license": "Project Gutenberg source terms; public-domain underlying work",
-      "file_path": "corpus/long_form_01/texts/en_gaskell_wives_daughters.txt",
-      "source_text_sha256": "4176a411003a79baf2832dbbd6624a7c59cbd9c06692c7bb65bde760afe65c62",
-      "source_identity_checked": true,
-      "char_count": 1480547,
-      "chapter_heading_count": 137,
-      "expected_chapters": 60,
       "validation": {
         "status": "accepted",
         "checks": [
