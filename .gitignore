@@ -1,0 +1,51 @@
+# Rust
+target/
+
+# Node / Expo
+node_modules/
+mobile/node_modules/
+.expo/
+mobile/.expo/
+dist/
+mobile/dist/
+builds/dist
+web-build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+mobile/.env
+mobile/.env.*
+!mobile/.env.example
+
+# Credentials, keys, certificates
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*.keystore
+*.mobileprovision
+credentials.json
+google-services.json
+GoogleService-Info.plist
+serviceAccountKey.json
+service-account*.json
+eas-credentials.json
+.eas/
+
+# Native generated folders
+mobile/ios/
+mobile/android/
+
+# Logs
+*.log
+
+# Windows / editors
+Thumbs.db
+.DS_Store

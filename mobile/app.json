@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Bookfin",
+    "slug": "bookfin",
+    "version": "0.1.0-alpha",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bookfin.alpha"
+    },
+    "android": {
+      "package": "com.bookfin.alpha",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#F8F6F0",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}

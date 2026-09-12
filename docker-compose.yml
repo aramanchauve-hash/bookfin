@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: bookfin-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: bookfin
+      POSTGRES_PASSWORD: bookfin
+      POSTGRES_DB: bookfin
+    ports:
+      - "5432:5432"
+    volumes:
+      - bookfin_pg_data:/var/lib/postgresql/data
+
+volumes:
+  bookfin_pg_data:
+
