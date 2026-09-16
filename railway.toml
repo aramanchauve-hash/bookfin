@@ -9,10 +9,14 @@
 
 [build]
 builder = "NIXPACKS"
-# The two maintenance binaries are packaged but never started automatically.
+# The three maintenance binaries are packaged but never started automatically.
 # They are available only for an explicitly authorised, SSH-invoked Curated V1
 # audit/import operation; the deployed process remains `bookfin` below.
-buildCommand = "cargo build --release --bin bookfin --bin ingest_curated_v1 --bin audit_railway_readonly --bin verify_curated_v1_railway"
+# Nixpacks' Rust provider only copies the single binary it auto-detects from
+# Cargo.toml into the final runtime image, so the extra --bin targets must be
+# copied into /usr/local/bin explicitly or they never reach the deployed
+# container (confirmed by `railway ssh` inspection on 2026-09-16).
+buildCommand = "cargo build --release --bin bookfin --bin ingest_curated_v1 --bin audit_railway_readonly --bin verify_curated_v1_railway && cp target/release/ingest_curated_v1 target/release/audit_railway_readonly target/release/verify_curated_v1_railway /usr/local/bin/"
 
 [deploy]
 startCommand = "./target/release/bookfin"
