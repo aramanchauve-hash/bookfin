@@ -1,0 +1,55 @@
+{
+  "work_id": "fr-stendhal-chartreuse-de-parme",
+  "author": "Stendhal",
+  "title": "La Chartreuse de Parme",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "total_pages": 684,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 684,
+      "character_length": 1631,
+      "blocks_count": 9,
+      "preview": "LA CHARTREUSE DE PARMEpar StendhalLIVRE PREMIER: PREMIER, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII. LIVRE SECOND: XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, LIVRE PREMIERGia mi fur dolci inviti a empir le carte I luoghi ameni. Ariost, sat. IV. CHAPITRE PREMIER Milan en 1796Le 15 mai 1796, le général Bonaparte fit son entrée dans Milan à la tête...",
+      "content_hash": "c6c19f2394d9c4483932b7983e740c40fdd8a771fc283a6c79cc37ba8eee5573"
+    },
+    "25pct": {
+      "label": "25% (Page 171)",
+      "page_sequence_number": 171,
+      "total_pages": 684,
+      "character_length": 1618,
+      "blocks_count": 2,
+      "preview": "Cette découverte avait donné un jour heureux à Son Altesse. De temps à autre, la duchesse laissait tomber quelques mots du projet qu’elle aurait de se donner chaque année un congé de quelques mois qu’elle emploierait à voir l’Italie qu’elle ne connaissait point: elle irait visiter Naples, Florence, Rome. Or, rien au monde ne pouvait faire plus de peine au prince qu’une telle apparence de désertion...",
+      "content_hash": "9126f75cc88b98694c189693252aca7c23fc5c9ab27df0f2ebc9b9c7a9cd746b"
+    },
+    "50pct": {
+      "label": "50% (Page 342)",
+      "page_sequence_number": 342,
+      "total_pages": 684,
+      "character_length": 1534,
+      "blocks_count": 3,
+      "preview": "Dès que ce ministre fut sorti, une porte secrète introduisit chez le prince le fiscal général Rassi, qui s’avança plié en deux et saluant à chaque pas. La mine de ce coquin-là était à peindre; elle rendait justice à toute l’infamie de son rôle, et, tandis que les mouvements rapides et désordonnés de ses yeux trahissaient la connaissance qu’il avait de ses mérites, l’assurance arrogante et grimaçan...",
+      "content_hash": "97a8531f38b4eba6d985a5ba0809a903f8e7448cbf69fd7dfa26d09c31c07e4c"
+    },
+    "75pct": {
+      "label": "75% (Page 513)",
+      "page_sequence_number": 513,
+      "total_pages": 684,
+      "character_length": 1773,
+      "blocks_count": 6,
+      "preview": "le gouverneur doit être traité pour avoir pris, par erreur, une trop forte dose de laudanum; mais, j’ai l’honneur de le répéter à Mademoiselle, le laquais chargé du crime ne faisait point usage de poisons véritables, comme Barbone, lorsqu’il voulut empoisonner Mgr Fabrice. On n’a point prétendu se venger du péril qu’a couru Mgr Fabrice; on n’a confié à ce laquais maladroit qu’une fiole où il y ava...",
+      "content_hash": "e692159f2c05bcb9376a610f503e029f5f0816f3b4195b85897ffc35784e10d0"
+    },
+    "end": {
+      "label": "Fin (Page 684)",
+      "page_sequence_number": 684,
+      "total_pages": 684,
+      "character_length": 1634,
+      "blocks_count": 4,
+      "preview": "Peu de jours après la mort de Clélia, il signa plusieurs actes par lesquels il assurait une pension de mille francs à chacun de ses domestiques, et se réservait, pour lui-même, une pension égale; il donnait des terres, valant cent milles livres de rente à peu près, à la comtesse Mosca; pareille somme à la marquise del Dongo, sa mère, et ce qui pouvait rester de la fortune paternelle, à l’une de se...",
+      "content_hash": "0e4259c7ca118cd41223239315bf1fecba173021b0ede6b5671cdda1c9b45de3"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "en-james-daisy-miller",
+  "author": "Henry James",
+  "title": "Daisy Miller",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 79,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 79,
+      "character_length": 1594,
+      "blocks_count": 11,
+      "preview": "DAISY MILLER: A STUDY IN TWO PARTS By Henry James The text is that of the first American appearance in book form, 1879. Contents PART I PART II PART I At the little town of Vevey, in Switzerland, there is a particularly comfortable hotel. There are, indeed, many hotels, for the entertainment of tourists is the business of the place, which, as many travelers will remember, is seated upon the edge o...",
+      "content_hash": "b4cbf74c9e9985b97fc083d287944166ccea8733b6a1e753cca21f5e2f86d289"
+    },
+    "middle": {
+      "label": "Milieu (Page 40)",
+      "page_sequence_number": 40,
+      "total_pages": 79,
+      "character_length": 1637,
+      "blocks_count": 6,
+      "preview": "This announcement, instead of embarrassing Mrs. Miller, seemed to relieve her. “I suffer from the liver,” she said. “I think it’s this climate; it’s less bracing than Schenectady, especially in the winter season. I don’t know whether you know we reside at Schenectady. I was saying to Daisy that I certainly hadn’t found any one like Dr. Davis, and I didn’t believe I should. Oh, at Schenectady he st...",
+      "content_hash": "b007d4b305dfa1dfa570a7d7ff09f152c38ee5863c37a74a167be7fe7d34631f"
+    },
+    "end": {
+      "label": "Fin (Page 79)",
+      "page_sequence_number": 79,
+      "total_pages": 79,
+      "character_length": 1182,
+      "blocks_count": 6,
+      "preview": "Winterbourne almost immediately left Rome; but the following summer he again met his aunt, Mrs. Costello at Vevey. Mrs. Costello was fond of Vevey. In the interval Winterbourne had often thought of Daisy Miller and her mystifying manners. One day he spoke of her to his aunt—said it was on his conscience that he had done her injustice. “I am sure I don’t know,” said Mrs. Costello. “How did your inj...",
+      "content_hash": "135f0398d67b6b9bca9e2781cea8eee42c92aac645220af2263de5a7cc5b99a1"
+    }
+  }
+}

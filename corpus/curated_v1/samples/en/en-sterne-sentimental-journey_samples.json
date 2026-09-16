@@ -1,0 +1,50 @@
+{
+  "work_id": "en-sterne-sentimental-journey",
+  "author": "Laurence Sterne",
+  "title": "A Sentimental Journey Through France and Italy",
+  "language": "en",
+  "work_kind": "LONG_FORM",
+  "total_pages": 141,
+  "samples": {
+    "start": {
+      "page_sequence_number": 1,
+      "sample_label": "Début (Page 1)",
+      "char_count": 1617,
+      "content_hash": "85599ffd0445342e550d6e011cfa56b17373806a56272229c1c24684b89bf6b9",
+      "text_preview": "A\n\r\nSENTIMENTAL JOURNEY\nTHROUGH\n\r\nFRANCE AND ITALY; BY MR. YORICK. [THE REV. LAURENCE STERNE,\r\nM.A.] [First\r\npublished in 1768.] They order, said I, this matter better in\r\nFrance.—You have been in France? said my gentleman, turning\r\nquick upon me, with the most civil triumph in the\r\nworld.—Strange! quoth I, debating the matter with myself,\r\nThat on...",
+      "full_page_text": "A\n\r\nSENTIMENTAL JOURNEY\nTHROUGH\n\r\nFRANCE AND ITALY; BY MR. YORICK. [THE REV. LAURENCE STERNE,\r\nM.A.] [First\r\npublished in 1768.] They order, said I, this matter better in\r\nFrance.—You have been in France? said my gentleman, turning\r\nquick upon me, with the most civil triumph in the\r\nworld.—Strange! quoth I, debating the matter with myself,\r\nThat one and twenty miles sailing, for ’tis absolutely no\r\nfurther from Dover to Calais, should give a man these\r\nrights:—I’ll look into them: so, giving up the\r\nargument,—I went straight to my lodgings, put up half a\r\ndozen shirts and a black pair of silk breeches,—“the\r\ncoat I have on,” said I, looking at the sleeve, “will\r\ndo;”—took a place in the Dover stage; and the packet\r\nsailing at nine the next morning,—by three I had got sat\r\ndown to my dinner upon a fricaseed chicken, so incontestably in\r\nFrance, that had I died that night of an indigestion, the whole\r\nworld could not have suspended the effects of the droits\r\nd’aubaine; [557]—my shirts,\r\nand black pair of silk breeches,—portmanteau and all, must\r\nhave gone to the King of France;—even the little picture\r\nwhich I have so long worn, and so often have told thee, Eliza, I\r\nwould carry with me into my grave, would have been torn from my\r\nneck!—Ungenerous! to seize upon the wreck of an unwary\r\npassenger, whom your subjects had beckoned to their\r\ncoast!—By heaven! Sire, it is not well done; and much does\r\nit grieve me, ’tis the monarch of a people so civilized and\r\ncourteous, and so renowned for sentiment and fine feelings, that\r\nI have to reason with!— But I have scarce set a foot in your dominions.—"
+    },
+    "25pct": {
+      "page_sequence_number": 35,
+      "sample_label": "25% (Page 35)",
+      "char_count": 1081,
+      "content_hash": "728dcc564330619e4670c597db6ef5a9a377abee333beab91f5f42b48cbff636",
+      "text_preview": "—And so, quoth Wisdom, you have hired a drummer to\r\nattend you in this tour of yours through France and\r\nItaly!—Psha! said I, and do not one half of our gentry go\r\nwith a humdrum compagnon du voyage the same round, and\r\nhave the piper and the devil and all to pay besides? When\r\nman can extricate himself with an équivoque in such\r\nan unequal match,—...",
+      "full_page_text": "—And so, quoth Wisdom, you have hired a drummer to\r\nattend you in this tour of yours through France and\r\nItaly!—Psha! said I, and do not one half of our gentry go\r\nwith a humdrum compagnon du voyage the same round, and\r\nhave the piper and the devil and all to pay besides? When\r\nman can extricate himself with an équivoque in such\r\nan unequal match,—he is not ill off.—But you can do\r\nsomething else, La Fleur? said I.—O qu’oui! he\r\ncould make spatterdashes, and play a little upon the\r\nfiddle.—Bravo! said Wisdom.—Why, I play a bass\r\nmyself, said I;—we shall do very well. You can shave,\r\nand dress a wig a little, La Fleur?—He had all the\r\ndispositions in the world.—It is enough for heaven! said I,\r\ninterrupting him,—and ought to be enough for me.—So,\r\nsupper coming in, and having a frisky English spaniel on one side\r\nof my chair, and a French valet, with as much hilarity in his\r\ncountenance as ever Nature painted in one, on the other,—I\r\nwas satisfied to my heart’s content with my empire; and if\r\nmonarchs knew what they would be at, they might be as satisfied\r\nas I was."
+    },
+    "50pct": {
+      "page_sequence_number": 70,
+      "sample_label": "50% (Page 70)",
+      "char_count": 1430,
+      "content_hash": "05ad9dece976d853abec2620339b356a497cbf177b6edc80839fdcd5c64e504a",
+      "text_preview": " the prepossession which it holds\r\nagainst the other:—that the advantage of travel, as it\r\nregarded the sçavoir vivre, was by seeing a great\r\ndeal both of men and manners; it taught us mutual toleration; and\r\nmutual toleration, concluded he, making me a bow, taught us\r\nmutual love. The old French officer delivered this with an air of such\r\ncandour ...",
+      "full_page_text": " the prepossession which it holds\r\nagainst the other:—that the advantage of travel, as it\r\nregarded the sçavoir vivre, was by seeing a great\r\ndeal both of men and manners; it taught us mutual toleration; and\r\nmutual toleration, concluded he, making me a bow, taught us\r\nmutual love. The old French officer delivered this with an air of such\r\ncandour and good sense, as coincided with my first favourable\r\nimpressions of his character:—I thought I loved the man;\r\nbut I fear I mistook the object;—’twas my own way of\r\nthinking—the difference was, I could not have expressed it\r\nhalf so well. It is alike troublesome to both the rider and his\r\nbeast,—if the latter goes pricking up his ears, and\r\nstarting all the way at every object which he never saw\r\nbefore.—I have as little torment of this kind as any\r\ncreature alive; and yet I honestly confess, that many a thing\r\ngave me pain, and that I blush’d at many a word the first\r\nmonth,—which I found inconsequent and perfectly innocent\r\nthe second. Madame do Rambouliet, after an acquaintance of about six weeks\r\nwith her, had done me the honour to take me in her coach about\r\ntwo leagues out of town.—Of all women, Madame de Rambouliet\r\nis the most correct; and I never wish to see one of more virtues\r\nand purity of heart.—In our return back, Madame de\r\nRambouliet desired me to pull the cord.—I asked her if she\r\nwanted anything—Rien que pour pisser, said Madame de\r\nRambouliet."
+    },
+    "75pct": {
+      "page_sequence_number": 106,
+      "sample_label": "75% (Page 106)",
+      "char_count": 1720,
+      "content_hash": "d2eba8548d95b4cabd5adcecd4626d2b23d536ab987d23fb8c0d948bb0e7c9db",
+      "text_preview": "THE MYSTERY.\nPARIS. If a man knows the heart, he will know it was impossible to go\r\nback instantly to my chamber;—it was touching a cold key\r\nwith a flat third to it upon the close of a piece of music, which\r\nhad call’d forth my affections:—therefore, when I let\r\ngo the hand of the fille de chambre, I remained at the\r\ngate of the hotel for some tim...",
+      "full_page_text": "THE MYSTERY.\nPARIS. If a man knows the heart, he will know it was impossible to go\r\nback instantly to my chamber;—it was touching a cold key\r\nwith a flat third to it upon the close of a piece of music, which\r\nhad call’d forth my affections:—therefore, when I let\r\ngo the hand of the fille de chambre, I remained at the\r\ngate of the hotel for some time, looking at every one who\r\npass’d by,—and forming conjectures upon them, till my\r\nattention got fix’d upon a single object which confounded\r\nall kind of reasoning upon him. It was a tall figure of a philosophic, serious, adust look,\r\nwhich passed and repass’d sedately along the street, making\r\na turn of about sixty paces on each side of the gate of the\r\nhotel;—the man was about fifty-two—had a small cane\r\nunder his arm—was dress’d in a dark\r\ndrab-colour’d coat, waistcoat, and breeches, which\r\nseem’d to have seen some years service:—they were\r\nstill clean, and there was a little air of frugal\r\npropreté throughout him. By his pulling off\r\nhis hat, and his attitude of accosting a good many in his way, I\r\nsaw he was asking charity: so I got a sous or two out of my\r\npocket ready to give him, as he took me in his turn.—He\r\npass’d by me without asking anything—and yet did not\r\ngo five steps further before he ask’d charity of a little\r\nwoman.—I was much more likely to have given of the\r\ntwo.—He had scarce done with the woman, when he\r\npull’d off his hat to another who was coming the same\r\nway.—An ancient gentleman came slowly—and, after\r\nhim, a young smart one.—He let them both pass, and\r\nask’d nothing. I stood observing him half an hour, in\r\nwhich time he had made a dozen turns backwards and forwards, and\r\nfound that he invariably pursued the same plan."
+    },
+    "end": {
+      "page_sequence_number": 141,
+      "sample_label": "Fin (Page 141)",
+      "char_count": 489,
+      "content_hash": "9814292c5489d25b386c1737a3c7f9d8570b3bb19f5738c0121a2e5002e03208",
+      "text_preview": "FOOTNOTES. [557] All the effects of strangers\r\n(Swiss and Scotch excepted) dying in France, are seized by virtue\r\nof this law, though the heir be upon the spot—the profit of\r\nthese contingencies being farmed, there is no redress. [562] A chaise, so called, in France,\r\nfrom its holding but one person. [580] Vide S—’s Travels:\r\n[i.e. Dr. Smollett’s “...",
+      "full_page_text": "FOOTNOTES. [557] All the effects of strangers\r\n(Swiss and Scotch excepted) dying in France, are seized by virtue\r\nof this law, though the heir be upon the spot—the profit of\r\nthese contingencies being farmed, there is no redress. [562] A chaise, so called, in France,\r\nfrom its holding but one person. [580] Vide S—’s Travels:\r\n[i.e. Dr. Smollett’s “Travels through France\r\nand Italy.”—Ed.] [588] Post-horse. [648] Nosegay. [649] Hackney coach. [652] Plate, napkin, knife, fork and\r\nspoon."
+    }
+  }
+}

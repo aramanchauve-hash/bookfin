@@ -1,0 +1,55 @@
+{
+  "work_id": "fr-maupassant-pierre-et-jean",
+  "author": "Guy de Maupassant",
+  "title": "Pierre et Jean",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "total_pages": 174,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 174,
+      "character_length": 1759,
+      "blocks_count": 17,
+      "preview": "GUY DE MAUPASSANT PIERRE&JEANPARISPAUL OLLENDORFF, ÉDITEUR28 bis, rue de richelieu, 28 bis1888Tous droits réservés. « LE ROMAN »Je n’ai point l’intention de plaider ici pour le petit roman qui suit. Tout au contraire les idées que je vais essayer de faire comprendre entraîneraient plutôt la critique du genre d’étude psychologique que j’ai entrepris dans Pierre et Jean. Je veux m’occuper du Roman e...",
+      "content_hash": "7e1ecac109f1c59a1a80b056e2b7c749123cf5f4c9892a1545132e4583cec2d1"
+    },
+    "25pct": {
+      "label": "25% (Page 44)",
+      "page_sequence_number": 44,
+      "total_pages": 174,
+      "character_length": 1684,
+      "blocks_count": 2,
+      "preview": "Ayant fait encore quelques pas, il s’arrêta pour contempler la rade. Sur sa droite, au-dessus de Sainte-Adresse, les deux phares électriques du cap de la Hève, semblables à deux cyclopes monstrueux et jumeaux, jetaient sur la mer leurs longs et puissants regards. Partis des deux foyers voisins, les deux rayons parallèles, pareils aux queues géantes de deux comètes, descendaient, suivant une pente ...",
+      "content_hash": "c5b0206904694ee5752f13c4d3982485d42445b014ef14560eb942d17c75e336"
+    },
+    "50pct": {
+      "label": "50% (Page 87)",
+      "page_sequence_number": 87,
+      "total_pages": 174,
+      "character_length": 1587,
+      "blocks_count": 3,
+      "preview": "« Je suis fou, pensa-t-il, je soupçonne ma mère. » Et un flot d’amour et d’attendrissement, de repentir, de prière et de désolation noya son cœur. Sa mère ! La connaissant comme il la connaissait, comment avait-il pu la suspecter ? Est-ce que l’âme, est-ce que la vie de cette femme simple, chaste et loyale, n’étaient pas plus claires que l’eau ? Quand on l’avait vue et connue, comment ne pas la ju...",
+      "content_hash": "a42ccff11d4639db0cd7851c42cbea193ba987bb8774be73d20c8f07a80d8d6b"
+    },
+    "75pct": {
+      "label": "75% (Page 130)",
+      "page_sequence_number": 130,
+      "total_pages": 174,
+      "character_length": 1734,
+      "blocks_count": 12,
+      "preview": "de bois, de papier, d’ivoire, de nacre et de bronze, avait l’aspect prétentieux et maniéré que donnent les mains inhabiles et les yeux ignorants aux choses qui exigent le plus de tact, de goût et d’éducation artiste. Ce fut celle cependant qu’on admira le plus. Pierre seul fit des réserves avec une ironie un peu amère dont son frère se sentit blessé. Sur la table, les fruits se dressaient en pyram...",
+      "content_hash": "259cf3f7a8ef7d0ece714f55afa2cdb841fe8fee8f8d327e43459f2bdba70d05"
+    },
+    "end": {
+      "label": "Fin (Page 174)",
+      "page_sequence_number": 174,
+      "total_pages": 174,
+      "character_length": 685,
+      "blocks_count": 8,
+      "preview": "— Ah bah ! Comment ? Il va épouser Mme Rosémilly ? — Mais oui. Nous comptions te demander ton avis aujourd’hui même. — Tiens ! tiens ! Y a-t-il longtemps qu’il est question de cette affaire-là ? — Oh ! non. Depuis quelques jours seulement. Jean voulait être sûr d’être agréé par elle avant de te consulter. Roland se frottait les mains : — Très bien, très bien. C’est parfait. Moi je l’approuve absol...",
+      "content_hash": "bcd24fb7a68ffe8d21316cd5a1bd915212a7c7cf2c45d3e09f58244d85486955"
+    }
+  }
+}

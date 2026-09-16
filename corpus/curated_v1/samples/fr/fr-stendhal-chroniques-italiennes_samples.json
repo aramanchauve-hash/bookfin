@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-stendhal-chroniques-italiennes",
+  "author": "Stendhal",
+  "title": "Chroniques italiennes",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 279,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 279,
+      "character_length": 1657,
+      "blocks_count": 4,
+      "preview": "L’ABBESSEDE CASTRO ILe mélodrame nous a montré si souvent les brigands italiens du seizième siècle, et tant de gens en ont parlé sans les connaître, que nous en avons maintenant les idées les plus fausses. On peut dire en général que ces brigands furent l’opposition contre les gouvernements atroces qui, en Italie, succédèrent aux républiques du moyen âge. Le nouveau tyran fut d’ordinaire le citoye...",
+      "content_hash": "4e7f52c321bdd46d8c9a406dafc289c2f6363f3d60a3312bb89dfb563747dbd3"
+    },
+    "middle": {
+      "label": "Milieu (Page 140)",
+      "page_sequence_number": 140,
+      "total_pages": 279,
+      "character_length": 1460,
+      "blocks_count": 4,
+      "preview": "Vittoria recevait de ses nouveaux parents des joyaux du plus grand prix, des perles, et enfin ce qui paraissait le plus rare chez les orfèvres de Rome, en ce temps-là fort bien fournis. Pour l’amour de cette nièce aimable, le cardinal Montalto, si connu par sa sévérité, traita les frères de Vittoria comme s’ils eussent été ses propres neveux. Octave Accoramboni, à peine à l’âge de trente ans, fut,...",
+      "content_hash": "e7d2184ed29b1933a3ed279030e24fee3c85cea8fb6a8839521710ccd1674b6b"
+    },
+    "end": {
+      "label": "Fin (Page 279)",
+      "page_sequence_number": 279,
+      "total_pages": 279,
+      "character_length": 304,
+      "blocks_count": 2,
+      "preview": "— Tiens, monstre, je ne veux rien te devoir, dit Missirilli à Vanina, en lui jetant, autant que ses chaînes le lui permettaient, les limes et les diamants, et il s’éloigna rapidement. Vanina resta anéantie. Elle revint à Rome ; et le journal annonce qu’elle vient d’épouser le prince don Livio Savelli.",
+      "content_hash": "bc9e9a942026d625dd88f2d164f7d9bea99c421ae7c3896cec8625236e2896a1"
+    }
+  }
+}

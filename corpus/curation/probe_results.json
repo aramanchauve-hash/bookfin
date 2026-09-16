@@ -1,0 +1,533 @@
+{
+  "results": [
+    {
+      "id": "en-austen-pride-prejudice",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/42671/pg42671-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-austen-persuasion",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/105/pg105-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-johnson-rasselas",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/652/pg652-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-sterne-sentimental-journey",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/107/pg107-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-browne-religio-medici",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/586/pg586-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-browne-hydriotaphia",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "ok": false
+    },
+    {
+      "id": "en-hazlitt-table-talk",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/4335/pg4335-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-gissing-henry-ryecroft",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/2304/pg2304-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-james-portrait-of-a-lady",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/2833/pg2833-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-james-turn-of-the-screw",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/209/pg209-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-james-daisy-miller",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/208/pg208-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-james-beast-in-the-jungle",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/1093/pg1093-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-james-aspern-papers",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/211/pg211-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "fr-mirbeau-journal-femme-chambre",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Le_Journal_d%E2%80%99une_femme_de_chambre",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-bel-ami",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Bel-Ami",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-pierre-et-jean",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Pierre_et_Jean",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-la-parure",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-la-ficelle",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Miss_Harriet_(recueil)/La_Ficelle",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-deux-amis",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Mademoiselle_Fifi_(recueil,_Ollendorff_1898)/Deux_amis",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-le-horla",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Le_Horla_(recueil,_Ollendorff_1895)/Le_Horla",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-boule-de-suif",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Boule_de_Suif",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-maupassant-la-maison-tellier",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/La_Maison_Tellier_(recueil)/La_Maison_Tellier",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-schwob-vies-imaginaires",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Vies_imaginaires",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-schwob-livre-de-monelle",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "ok": false
+    },
+    {
+      "id": "fr-schwob-croisade-des-enfants",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/La_Croisade_des_enfants",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-lesage-diable-boiteux",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Le_Diable_boiteux",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-cervantes-quijote",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Don_Quijote_de_la_Mancha",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-cervantes-rinconete-y-cortadillo",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Rinconete_y_Cortadillo",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-cervantes-la-gitanilla",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/La_gitanilla",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-cervantes-el-licenciado-vidriera",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/El_licenciado_Vidriera",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-cervantes-el-celoso-extremeno",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/El_celoso_extreme%C3%B1o",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-cervantes-el-coloquio-de-los-perros",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/El_coloquio_de_los_perros",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-quiroga-a-la-deriva",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/A_la_deriva",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-quiroga-el-almohadon-de-plumas",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/El_almohad%C3%B3n_de_pluma",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-quiroga-la-insolacion",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/La_insolaci%C3%B3n",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-merimee-mateo-falcone",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Mateo_Falcone",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-merimee-carmen",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Carmen",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-daudet-chevre-seguin",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/La_ch%C3%A8vre_de_monsieur_Seguin",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-daudet-secret-cornille",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Le_secret_de_ma%C3%AEtre_Cornille",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-daudet-trois-messes-basses",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Les_trois_messes_basses",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-poe-tell-tale-heart",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/Mystery_Tales_of_Edgar_Allan_Poe/The_Tell-Tale_Heart",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-poe-cask-amontillado",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Cask_of_Amontillado",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-poe-oval-portrait",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Oval_Portrait",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-doyle-scandal-bohemia",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Adventures_of_Sherlock_Holmes/A_Scandal_in_Bohemia",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-doyle-red-headed-league",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Adventures_of_Sherlock_Holmes/The_Red-Headed_League",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-london-to-build-a-fire",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/Century_Magazine/Volume_76/Issue_4/To_Build_a_Fire",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-henry-gift-of-the-magi",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Gift_of_the_Magi",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-henry-last-leaf",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Last_Leaf_(Henry)",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-saki-open-window",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Open_Window_(Saki)",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-chopin-story-of-an-hour",
+      "status": 200,
+      "final_url": "https://en.wikisource.org/wiki/The_Story_of_an_Hour",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "en-lamb-essays-of-elia",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/10343/pg10343-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-wilde-dorian-gray",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/174/pg174-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "en-melville-bartleby",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/11231/pg11231-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "fr-diderot-jacques-le-fataliste",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-diderot-neveu-de-rameau",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Le_Neveu_de_Rameau",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-nerval-aurelia",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Aur%C3%A9lia",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-barbey-les-diaboliques",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Les_Diaboliques",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-huysmans-a-rebours",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/%C3%80_rebours",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-bloy-histoires-desobligeantes",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Histoires_d%C3%A9sobligeantes",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-stendhal-chartreuse-de-parme",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/La_Chartreuse_de_Parme",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "fr-stendhal-chroniques-italiennes",
+      "status": 200,
+      "final_url": "https://fr.wikisource.org/wiki/Chroniques_italiennes",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-quevedo-los-suenos",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Los_sue%C3%B1os",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-quevedo-el-buscon",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Historia_de_la_vida_del_Busc%C3%B3n",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-larra-el-doncel",
+      "status": 200,
+      "final_url": "https://www.gutenberg.org/cache/epub/51184/pg51184-images.html",
+      "content_type": "text/html; charset=utf-8",
+      "ok": true
+    },
+    {
+      "id": "es-clarin-adios-cordera",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/%C2%A1Adi%C3%B3s,_Cordera!",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-pardo-bazan-los-pazos-de-ulloa",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Los_pazos_de_Ulloa",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-galdos-misericordia",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Misericordia",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-galdos-dona-perfecta",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Do%C3%B1a_Perfecta",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-unamuno-niebla",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "ok": false
+    },
+    {
+      "id": "es-unamuno-san-manuel-bueno-martir",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/San_Manuel_Bueno,_m%C3%A1rtir",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-valle-inclan-sonata-otono",
+      "status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "ok": false
+    },
+    {
+      "id": "es-valle-inclan-sonata-primavera",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Sonata_de_primavera",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    },
+    {
+      "id": "es-valle-inclan-luces-de-bohemia",
+      "status": 200,
+      "final_url": "https://es.wikisource.org/wiki/Luces_de_bohemia",
+      "content_type": "text/html; charset=UTF-8",
+      "ok": true
+    }
+  ],
+  "errors": [
+    {
+      "id": "en-browne-hydriotaphia",
+      "url": "https://www.gutenberg.org/ebooks/32643.html.images",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "fr-schwob-livre-de-monelle",
+      "url": "https://fr.wikisource.org/wiki/Le_Livre_de_Monelle",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "es-unamuno-niebla",
+      "url": "https://es.wikisource.org/wiki/Niebla_(novela)",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "es-valle-inclan-sonata-otono",
+      "url": "https://es.wikisource.org/wiki/Sonata_de_oto%C3%B1o",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

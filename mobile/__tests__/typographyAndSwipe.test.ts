@@ -1,10 +1,9 @@
 ﻿import fs from 'fs';
 import path from 'path';
 import {
-  HORIZONTAL_TO_VERTICAL_RATIO,
+  isRecognizedLeftSwipe,
   SWIPE_ANIMATION_DURATION_MS,
-  SWIPE_HORIZONTAL_THRESHOLD,
-  SWIPE_VELOCITY_THRESHOLD,
+  SWIPE_DX_THRESHOLD,
 } from '../src/components/SwipeableReadingContainer';
 import { initialReadingState, readingReducer, ReadingState } from '../src/state/readingReducer';
 import { FeedPageDto, PageRevealDto } from '../src/types/api';
@@ -37,15 +36,15 @@ describe('Bookfin Polish Mobile - Typographie & Swipe Page Turn', () => {
   };
 
   describe('1. Typographie & Justification iOS', () => {
-    test('ReadingContent applique explicitement textAlign: justify et writingDirection: ltr', () => {
+    test('ReadingContent applique la justification aux langues à espaces sans imposer une direction LTR', () => {
       const readingContentSource = fs.readFileSync(
         path.resolve(__dirname, '../src/components/ReadingContent.tsx'),
         'utf-8'
       );
 
-      // Vérifie que le style bodyText contient les directives exactes
-      expect(readingContentSource).toMatch(/textAlign:\s*['"]justify['"]/);
-      expect(readingContentSource).toMatch(/writingDirection:\s*['"]ltr['"]/);
+      expect(readingContentSource).toContain('usesJustifiedReadingLayout(page.language_tag)');
+      expect(readingContentSource).toContain("? 'justify' : 'left'");
+      expect(readingContentSource).not.toMatch(/writingDirection:\s*['"]ltr['"]/);
     });
 
     test('Aucune modification intempestive des métriques typographiques (fontSize, lineHeight, marges, police)', () => {
@@ -68,82 +67,42 @@ describe('Bookfin Polish Mobile - Typographie & Swipe Page Turn', () => {
   });
 
   describe('2. Gestuelle Swipe Page Turn (SwipeableReadingContainer)', () => {
-    // Fonctions pures simulant la logique de décision gestuelle de PanResponder
-    const shouldSetResponder = (
-      enabled: boolean,
-      dx: number,
-      dy: number
-    ): boolean => {
-      if (!enabled) return false;
-      return dx < -20 && Math.abs(dx) > Math.abs(dy) * HORIZONTAL_TO_VERTICAL_RATIO;
-    };
+    // isRecognizedLeftSwipe est la fonction réellement utilisée par le
+    // PanResponder (claim ET relâchement) : un seul seuil, pas de suivi du
+    // doigt, pas de chemin alternatif basé sur la vélocité.
 
-    const isEligibleSwipeRelease = (
-      enabled: boolean,
-      dx: number,
-      vx: number
-    ): boolean => {
-      if (!enabled) return false;
-      return (
-        dx <= SWIPE_HORIZONTAL_THRESHOLD ||
-        (dx < -20 && vx <= SWIPE_VELOCITY_THRESHOLD)
-      );
-    };
-
-    test('État READING (avant réaction) : tout swipe horizontal est strictement ignoré', () => {
-      const enabled = false; // reading / reacting
-      // Même avec un grand geste horizontal gauche, le geste n'est pas capturé
-      expect(shouldSetResponder(enabled, -100, 0)).toBe(false);
-      expect(isEligibleSwipeRelease(enabled, -100, -0.5)).toBe(false);
-    });
-
-    test('État REACTING : tout swipe horizontal reste strictement ignoré', () => {
-      const enabled = false;
-      expect(shouldSetResponder(enabled, -80, 0)).toBe(false);
-    });
-
-    test('État REVEALED : un swipe gauche franc est capturé', () => {
-      const enabled = true;
-      expect(shouldSetResponder(enabled, -40, 2)).toBe(true);
-      expect(isEligibleSwipeRelease(enabled, -60, 0)).toBe(true);
-    });
-
-    test('État REVEALED : un flick / swipe rapide par vélocité est capturé', () => {
-      const enabled = true;
-      expect(shouldSetResponder(enabled, -30, 2)).toBe(true);
-      expect(isEligibleSwipeRelease(enabled, -25, -0.4)).toBe(true);
+    test('État REVEALED : un swipe gauche franc est reconnu', () => {
+      expect(isRecognizedLeftSwipe(-60, 0)).toBe(true);
+      expect(isRecognizedLeftSwipe(-51, 2)).toBe(true);
     });
 
     test('Sanctuaire du scroll vertical : un mouvement vertical ne déclenche JAMAIS le swipe horizontal', () => {
-      const enabled = true;
-
       // Scroll vertical pur vers le haut ou le bas
-      expect(shouldSetResponder(enabled, 0, 50)).toBe(false);
-      expect(shouldSetResponder(enabled, 0, -50)).toBe(false);
+      expect(isRecognizedLeftSwipe(0, 50)).toBe(false);
+      expect(isRecognizedLeftSwipe(0, -50)).toBe(false);
 
-      // Scroll vertical avec légère dérive horizontale
-      expect(shouldSetResponder(enabled, -10, 40)).toBe(false);
-      expect(shouldSetResponder(enabled, -25, 30)).toBe(false); // ratio 25/30 < 2.5
+      // Scroll vertical avec dérive horizontale insuffisamment dominante
+      expect(isRecognizedLeftSwipe(-60, 30)).toBe(false); // ratio 60/30 = 2 < 2.5
+      expect(isRecognizedLeftSwipe(-10, 40)).toBe(false);
     });
 
     test('Swipe vers la droite (page précédente) : ignoré', () => {
-      const enabled = true;
-      expect(shouldSetResponder(enabled, 60, 0)).toBe(false);
-      expect(isEligibleSwipeRelease(enabled, 60, 0.5)).toBe(false);
+      expect(isRecognizedLeftSwipe(60, 0)).toBe(false);
     });
 
-    test('Mouvement horizontal minime (inférieur au seuil) : ignoré et relâché sans navigation', () => {
-      const enabled = true;
-      // Moins de 20px
-      expect(shouldSetResponder(enabled, -15, 0)).toBe(false);
-      // Au-dessus de 20px mais inférieur à 50px sans vélocité suffisante
-      expect(isEligibleSwipeRelease(enabled, -30, -0.1)).toBe(false);
+    test('Mouvement horizontal sous le seuil (-50) : ignoré, même franchement horizontal', () => {
+      expect(isRecognizedLeftSwipe(-30, 0)).toBe(false);
+      expect(isRecognizedLeftSwipe(-49, 0)).toBe(false);
     });
 
     test('Durée de l animation configurée sobrement (160 ms)', () => {
       expect(SWIPE_ANIMATION_DURATION_MS).toBe(160);
       expect(SWIPE_ANIMATION_DURATION_MS).toBeGreaterThanOrEqual(140);
       expect(SWIPE_ANIMATION_DURATION_MS).toBeLessThanOrEqual(180);
+    });
+
+    test('Seuil de reconnaissance fixé à -50px', () => {
+      expect(SWIPE_DX_THRESHOLD).toBe(-50);
     });
   });
 
@@ -210,15 +169,17 @@ describe('Bookfin Polish Mobile - Typographie & Swipe Page Turn', () => {
       expect(state.lastNavigationAction).toBe('random_page');
     });
 
-    test('ReadingScreen connecte SwipeableReadingContainer avec enabled={state.status === "revealed"}', () => {
+    test('ReadingScreen autorise le swipe gauche au bas de la page et le branche sur l’action composée', () => {
       const readingScreenSource = fs.readFileSync(
         path.resolve(__dirname, '../src/screens/ReadingScreen.tsx'),
         'utf-8'
       );
 
       expect(readingScreenSource).toMatch(/SwipeableReadingContainer/);
-      expect(readingScreenSource).toMatch(/enabled=\{state\.status\s*===\s*['"]revealed['"]\}/);
-      expect(readingScreenSource).toMatch(/onSwipeLeft=\{handleContinueBook\}/);
+      expect(readingScreenSource).toMatch(/enabledForward=/);
+      expect(readingScreenSource).toContain('tracker.bottomReached');
+      expect(readingScreenSource).toMatch(/onSwipeLeft=\{handleSwipeLikeContinue\}/);
+      expect(readingScreenSource).toMatch(/onSwipeRight=\{handleSwipeBack\}/);
     });
   });
 });

@@ -1,0 +1,95 @@
+{
+  "work_id": "en-james-turn-of-the-screw",
+  "author": "Henry James",
+  "title": "The Turn of the Screw",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "5c4e034872cdf4a8d3523c533aaffd20cd891de7f69451f3ffdebe90cd604398",
+  "document_sha256": "9b84bd7e86c6a8ecc8d96133d9e4564d49aa535827ea93e922c4fb98ef62a6fc",
+  "pages_count": 1,
+  "source_page_sequence_number": 5,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-turn-of-the-screw",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "d47eb6904107d2f34ff7e4bb7159a3130ea4f027483ceea81e443c8ebd81390c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe sprang to his feet again. “Yes—tomorrow. Now I must go to bed.\r\nGood night.” And quickly catching up a candlestick, he left us slightly\r\nbewildered. From our end of the great brown hall we heard his step on the\r\nstair; whereupon Mrs. Griffin spoke. “Well, if I don’t know who she\r\nwas in love with, I know who "
+            },
+            {
+              "text": "he",
+              "italic": true
+            },
+            {
+              "text": " was.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“She was ten years older,” said her husband.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“"
+            },
+            {
+              "text": "Raison de plus",
+              "italic": true
+            },
+            {
+              "text": "—at that age! But it’s rather nice, his\r\nlong reticence.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Forty years!” Griffin put in.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“With this outbreak at last.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“The outbreak,” I returned, “will make a tremendous occasion\r\nof Thursday night;” and everyone so agreed with me that, in the light of\r\nit, we lost all attention for everything else. The last story, however\r\nincomplete and like the mere opening of a serial, had been told; we handshook\r\nand “candlestuck,” as somebody said, and went to bed.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI knew the next day that a letter containing the key had, by the first post,\r\ngone off to his London apartments; but in spite of—or perhaps just on\r\naccount of—the eventual diffusion of this knowledge we quite let him\r\nalone till after dinner, till such an hour of the evening, in fact, as might\r\nbest accord with the kind of emotion on which our hopes were fixed. Then he\r\nbecame as communicative as we could desire and indeed gave us his best reason\r\nfor being so. We had it from him again before the fire in the hall, as we had\r\nhad our mild wonders of the previous night. It appeared that the narrative he\r\nhad promised to read us really required for a proper intelligence a few words\r\nof prologue."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

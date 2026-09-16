@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-maupassant-la-parure",
+  "author": "Guy de Maupassant",
+  "title": "La Parure",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 10,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 10,
+      "character_length": 1717,
+      "blocks_count": 4,
+      "preview": "LA PARUREC’était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l’instruction publique. Elle fut simple ne pouvant être parée, mais malheureuse comme...",
+      "content_hash": "ce6226298a8eaf18c6418a6bffcdd499d9c796ead72f5e9c416be59ed45e3ca6"
+    },
+    "middle": {
+      "label": "Milieu (Page 5)",
+      "page_sequence_number": 5,
+      "total_pages": 10,
+      "character_length": 1687,
+      "blocks_count": 12,
+      "preview": "Tout à coup elle découvrit, dans une boîte de satin noir, une superbe rivière de diamants ; et son cœur se mit à battre d’un désir immodéré. Ses mains tremblaient en la prenant. Elle l’attacha autour de sa gorge, sur sa robe montante, et demeura en extase devant elle-même. Puis, elle demanda, hésitante, pleine d’angoisse : — Peux-tu me prêter cela, rien que cela ? — Mais oui, certainement. Elle sa...",
+      "content_hash": "1c382718764737c01226f9a4f55351daedb86969fcb693eb8f7b47ca51fdd8e2"
+    },
+    "end": {
+      "label": "Fin (Page 10)",
+      "page_sequence_number": 10,
+      "total_pages": 10,
+      "character_length": 906,
+      "blocks_count": 13,
+      "preview": "— Oui, j’ai eu des jours bien durs, depuis que je ne t’ai vue ; et bien des misères… et cela à cause de toi !… — De moi… Comment ça ? — Tu te rappelles bien cette rivière de diamants que tu m’as prêtée pour aller à la fête du Ministère. — Oui. Eh bien ? — Eh bien, je l’ai perdue. — Comment ! puisque tu me l’as rapportée. — Je t’en ai rapporté une autre toute pareille. Et voilà dix ans que nous la ...",
+      "content_hash": "b688fcfb77598f83aa798a1729becbec9cd750cbb42530c58b90664792c52f82"
+    }
+  }
+}

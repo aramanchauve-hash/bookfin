@@ -1,0 +1,172 @@
+{
+  "work_id": "es-unamuno-niebla",
+  "author": "Miguel de Unamuno",
+  "title": "Niebla",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "69f56e540b9ed6edc01bf20315e922752e38a0b9d77f03bc7b500dbaae6320be",
+  "document_sha256": "82f4c4cc5f6ad2fce08968e759a1643525e2a1ecf1bade7aef0e32e9671546fd",
+  "pages_count": 1,
+  "source_page_sequence_number": 1,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-unamuno-niebla",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "da04471a64802317d44b0de79737cccbdd943667e3f321e2075e2171bf773597",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Nota de transcripción"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Índice"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "spans": [
+            {
+              "text": "NIEBLA"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MIGUEL DE UNAMUNO"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": ": :",
+              "small_caps": true
+            },
+            {
+              "text": " NIEBLA "
+            },
+            {
+              "text": ": :",
+              "small_caps": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "(NIVOLA)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "PRÓLOGO DE"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "VÍCTOR GOTI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "RENACIMIENTOMADRIDBUENOS AIRES"
+            },
+            {
+              "text": "SAN MARCOS, 42LIBERTAD, 172",
+              "small_caps": true
+            },
+            {
+              "text": "1914"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "ES PROPIEDAD"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "IMPRENTA RENACIMIENTO.—SAN MARCOS, 42."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "PRÓLOGO"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Se empeña don Miguel de Unamuno en que ponga yo un prólogo a este\nsu libro en que se relata la tan lamentable historia de mi buen\namigo Augusto Pérez y su misteriosa muerte, y yo no puedo menos sino\nescribirlo, porque los deseos del señor Unamuno son para mí mandatos,\nen la más genuina acepción de este vocablo. Sin haber yo llegado al\nextremo de escepticismo hamletiano de mi pobre amigo Pérez, que llegó\nhasta a dudar de su propia existencia, estoy por lo menos firmemente\npersuadido de que carezco de eso que los psicólogos llaman libre\nalbedrío, aunque para mi consuelo creo también que tampoco goza don\nMiguel de él."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Parecerá acaso extraño a alguno de nuestros lectores que sea yo, un\nperfecto desconocido en la república de las letras españolas, quien\nprologue un libro de don Miguel que es ya ventajosamente conocido en\nella, cuando la costumbre es que sean los escritores más conocidos\nlos que hagan en los prólogos la presentación de aquellos otros que\nlo sean menos. Pero es que nos hemos puesto de acuerdo don Miguel y\nyo para alterar esta perniciosa costumbre, invirtiendo los términos,\ny que sea el desconocido el que al conocido presente. Porque en rigor\nlos libros más se compran por el cuerpo del texto que no por el\nprólogo, y es natural por lo tanto que cuando un joven principiante\ncomo yo, desee darse a conocer, en vez de pedir a un veterano de las\nletras que le escriba un prólogo de presentación, debe rogarle que le\npermita ponérselo a una de sus obras."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-daudet-chevre-seguin",
+  "author": "Alphonse Daudet",
+  "title": "La chèvre de monsieur Seguin",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 7,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 7,
+      "character_length": 1720,
+      "blocks_count": 12,
+      "preview": "LA CHÈVRE DE M. SEGUINÀ M. Pierre Gringoire, poète lyrique à Paris.Tu seras bien toujours le même, mon pauvre Gringoire ! Comment ! on t’offre une place de chroniqueur dans un bon journal de Paris, et tu as l’aplomb de refuser… Mais regarde-toi, malheureux garçon ! Regarde ce pourpoint troué, ces chausses en déroute, cette face maigre qui crie la faim. Voilà pourtant où t’a conduit la passion des ...",
+      "content_hash": "c6dcf58064d697bf40a0587facc856e140b67b2a199554f246a031c79ee80c61"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 7,
+      "character_length": 1375,
+      "blocks_count": 4,
+      "preview": "Quand la chèvre blanche arriva dans la montagne, ce fut un ravissement général. Jamais les vieux sapins n’avaient rien vu d’aussi joli. On la reçut comme une petite reine. Les châtaigniers se baissaient jusqu’à terre pour la caresser du bout de leurs branches. Les genêts d’or s’ouvraient sur son passage, et sentaient bon tant qu’ils pouvaient. Toute la montagne lui fit fête. Tu penses, Gringoire, ...",
+      "content_hash": "a67c0896f5f200649b86e3ad7e78e42177c11e3cf256396265a37cf3213a13a9"
+    },
+    "end": {
+      "label": "Fin (Page 7)",
+      "page_sequence_number": 7,
+      "total_pages": 7,
+      "character_length": 1340,
+      "blocks_count": 12,
+      "preview": "Ah ! la brave chevrette, comme elle y allait de bon cœur ! Plus de dix fois, je ne mens pas, Gringoire, elle força le loup à reculer pour reprendre haleine. Pendant ces trêves d’une minute, la gourmande cueillait en hâte encore un brin de sa chère herbe ; puis elle retournait au combat, la bouche pleine… Cela dura toute la nuit. De temps en temps la chèvre de M. Seguin regardait les étoiles danser...",
+      "content_hash": "ba6a2367dbd93ccb1510a175a9f82345602059a48eed7c22a768513ad3511e71"
+    }
+  }
+}

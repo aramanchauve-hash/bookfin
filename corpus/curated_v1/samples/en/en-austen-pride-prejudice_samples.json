@@ -1,0 +1,55 @@
+{
+  "work_id": "en-austen-pride-prejudice",
+  "author": "Jane Austen",
+  "title": "Pride and Prejudice",
+  "language": "en",
+  "work_kind": "LONG_FORM",
+  "total_pages": 443,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 443,
+      "character_length": 1779,
+      "blocks_count": 21,
+      "preview": "PRIDE & PREJUDICE.CHAPTER I.It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daugh...",
+      "content_hash": "ad792059ec30e4e7e92501466bbd79a4a2a5822506f36d80954c66eea7f69e94"
+    },
+    "25pct": {
+      "label": "25% (Page 111)",
+      "page_sequence_number": 111,
+      "total_pages": 443,
+      "character_length": 1713,
+      "blocks_count": 2,
+      "preview": "At length however Mrs. Bennet had no more to say; and Lady Lucas, who had been long yawning at the repetition of delights which she saw no likelihood of sharing, was left to the comforts of cold ham and chicken. Elizabeth now began to revive. But not long was the interval of tranquillity; for when supper was over, singing was talked of, and she had the mortification of seeing Mary, after very litt...",
+      "content_hash": "6df87e7df4ea8b367cfc50290a99da78b418f018ca23bddb70e1ea6a38749589"
+    },
+    "50pct": {
+      "label": "50% (Page 222)",
+      "page_sequence_number": 222,
+      "total_pages": 443,
+      "character_length": 1604,
+      "blocks_count": 1,
+      "preview": "I had the honour of dancing with you, I was first made acquainted, by Sir William Lucas's accidental information, that Bingley's attentions to your sister had given rise to a general expectation of their marriage. He spoke of it as a certain event, of which the time alone could be undecided. From that moment I observed my friend's behaviour attentively; and I could then perceive that his partialit...",
+      "content_hash": "404d3676a4bbd3ccdb133ad9944b3346ebe42bc941e001ffd7005fa111484a31"
+    },
+    "75pct": {
+      "label": "75% (Page 332)",
+      "page_sequence_number": 332,
+      "total_pages": 443,
+      "character_length": 1765,
+      "blocks_count": 6,
+      "preview": "\"You will laugh when you know where I am gone, and I cannot help laughing myself at your surprise to-morrow morning, as soon as I am missed. I am going to Gretna Green, and if you cannot guess with who, I shall think you a simpleton, for there is but one man in the world I love, and he is an angel. I should never be happy without him, so think it no harm to be off. You need not send them word at L...",
+      "content_hash": "ea829a795fef7b8dd8b13b749ad6f1620e7f9700c7231838f9319b992fbb03fe"
+    },
+    "end": {
+      "label": "Fin (Page 443)",
+      "page_sequence_number": 443,
+      "total_pages": 443,
+      "character_length": 455,
+      "blocks_count": 3,
+      "preview": "With the Gardiners, they were always on the most intimate terms. Darcy, as well as Elizabeth, really loved them; and they were both ever sensible of the warmest gratitude towards the persons who, by bringing her into Derbyshire, had been the means of uniting them.Transcriber's Note: Spelling and hyphen changes have been made so that there is consistency within the book. Any other inconsistencies w...",
+      "content_hash": "19adcd61db028169512d580bbfabc6d415d5544c9f52c5e121b0993164da6541"
+    }
+  }
+}

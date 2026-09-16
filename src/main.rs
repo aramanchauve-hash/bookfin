@@ -23,7 +23,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let database_url = std::env::var("DATABASE_URL")
         .unwrap_or_else(|_| "postgres://bookfin:bookfin@localhost:5432/bookfin".to_string());
 
-    log!("Connexion à PostgreSQL sur {}", database_url);
+    // DATABASE_URL may contain credentials. Never emit it to application logs.
+    log!("Connexion à PostgreSQL configurée.");
     let pool = init_db_pool(&database_url).await?;
 
     log!("Exécution des migrations SQLx...");

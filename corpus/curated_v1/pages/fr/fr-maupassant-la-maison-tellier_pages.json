@@ -1,0 +1,1949 @@
+{
+  "work_id": "fr-maupassant-la-maison-tellier",
+  "author": "Guy de Maupassant",
+  "title": "La Maison Tellier",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "wikisource",
+  "source_sha256": "bdffbd5857d4ed93d0218fdd85f3f2fdbc55dbeeb78aaab07df15753294fca4b",
+  "document_sha256": "bd3ad640c0fa861e9b696bc14fef64d866515ddf144fbb9d5da9a90406e36fe4",
+  "pages_count": 38,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "688009160466529e150ed8fd4f661751b76c300ebad9178a609f88a951defccc",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "spans": [
+            {
+              "text": " LA MAISON TELLIER"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "spans": [
+            {
+              "text": " I"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "On allait là, chaque soir, vers onze heures, comme au café, simplement.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ils s’y retrouvaient à six ou huit, toujours les mêmes, non pas des noceurs, mais des hommes honorables, des commerçants, des jeunes gens de la ville ; et l’on prenait sa chartreuse en lutinant quelque peu les filles, ou bien on causait sérieusement avec "
+            },
+            {
+              "text": "Madame",
+              "italic": true
+            },
+            {
+              "text": ", que tout le monde respectait.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Puis on rentrait se coucher avant minuit. Les jeunes gens quelquefois restaient.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La maison était familiale, toute petite, peinte en jaune, à l’encoignure d’une rue derrière l’église Saint-Étienne ; et, par les fenêtres, on apercevait le bassin plein de navires qu’on déchargeait, le grand marais salant appelé « la Retenue » et, derrière, la côte de la Vierge avec sa vieille chapelle toute grise.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Madame",
+              "italic": true
+            },
+            {
+              "text": ", issue d’une bonne famille de paysans du département de l’Eure, avait accepté cette profession absolument comme elle serait devenue modiste ou lingère. Le préjugé du déshonneur attaché à la prostitution, si violent et si vivace dans les villes, n’existe pas dans la campagne normande. Le paysan dit : — « C’est un bon métier » ; — et il envoie son enfant tenir un harem de filles comme il l’enverrait diriger un pensionnat de demoiselles.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cette maison, du reste, était venue par héritage d’un vieil oncle qui la possédait. "
+            },
+            {
+              "text": "Monsieur",
+              "italic": true
+            },
+            {
+              "text": " et "
+            },
+            {
+              "text": "Madame",
+              "italic": true
+            },
+            {
+              "text": ", autrefois aubergistes près d’Yvetot, avaient immédiatement liquidé, jugeant l’affaire de Fécamp plus avantageuse pour eux ; et ils étaient arrivés un beau matin prendre la direction de l’entreprise qui périclitait en l’absence des patrons.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "C’étaient de braves gens qui se firent aimer tout de suite de leur personnel et des voisins.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "69c30bad00843edca93dbad27909641193b7e9f6fd97e41867318735a63256b1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Monsieur mourut d’un coup de sang deux ans plus tard. Sa nouvelle profession l’entretenant dans la mollesse et l’immobilité, il était devenu très gros, et la santé l’avait étouffé.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Madame, depuis son veuvage, était vainement désirée par tous les habitués de l’établissement ; mais on la disait absolument sage, et ses pensionnaires elles-mêmes n’étaient parvenues à rien découvrir.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle était grande, charnue, avenante. Son teint, pâli dans l’obscurité de ce logis toujours clos, luisait comme sous un vernis gras. Une mince garniture de cheveux follets, faux et frisés, entourait son front, et lui donnait un aspect juvénile qui jurait avec la maturité de ses formes. Invariablement gaie et la figure ouverte, elle plaisantait volontiers, avec une nuance de retenue que ses occupations nouvelles n’avaient pas encore pu lui faire perdre. Les gros mots la choquaient toujours un peu ; et quand un garçon mal élevé appelait de son nom propre l’établissement qu’elle dirigeait, elle se fâchait, révoltée. Enfin elle avait l’âme délicate, et bien que traitant ses femmes en amies, elle répétait volontiers qu’elles « n’étaient point du même panier ».\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Parfois, durant la semaine, elle partait en voiture de louage avec une fraction de sa troupe ; et l’on allait folâtrer sur l’herbe au bord de la petite rivière qui coule dans les fonds de Valmont. C’étaient alors des parties de pensionnaires échappées, des courses folles, des jeux enfantins, toute une joie de recluses grisées par le grand air. On mangeait de la charcuterie sur le gazon en buvant du cidre, et l’on rentrait à la nuit tombante avec une fatigue délicieuse, un attendrissement doux ; et dans la voiture on embrassait Madame comme une mère très bonne, pleine de mansuétude et de complaisance.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "c1cb0eb3847ab60585f5f3ad5ba20e3eb5cd13e7cb993899f2717620a59a9127",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La maison avait deux entrées. À l’encoignure, une sorte de café borgne s’ouvrait, le soir, aux gens du peuple et aux matelots. Deux des personnes chargées du commerce spécial du lieu étaient particulièrement destinées aux besoins de cette partie de la clientèle. Elles servaient, avec l’aide du garçon, nommé Frédéric, un petit blond imberbe et fort comme un bœuf, les chopines de vin et les canettes sur les tables de marbre branlantes, et, les bras jetés au cou des buveurs, assises en travers de leurs jambes, elles poussaient à la consommation.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les trois autres dames (elles n’étaient que cinq) formaient une sorte d’aristocratie, et demeuraient réservées à la compagnie du premier, à moins pourtant qu’on n’eût besoin d’elles en bas et que le premier fût vide.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le salon de Jupiter, où se réunissaient les bourgeois de l’endroit, était tapissé de papier bleu et agrémenté d’un grand dessin représentant Léda étendue sous un cygne. On parvenait dans ce lieu au moyen d’un escalier tournant terminé par une porte étroite, humble d’apparence, donnant sur la rue, et au dessus de laquelle brillait toute la nuit, derrière un treillage, une petite lanterne comme celles qu’on allume encore en certaines villes aux pieds des madones encastrées dans les murs.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le bâtiment, humide et vieux, sentait légèrement le moisi. Par moments, un souffle d’eau de Cologne passait dans les couloirs, ou bien une porte entr’ouverte en bas faisait éclater dans toute la demeure, comme une explosion de tonnerre, les cris populaciers des hommes attablés au rez-de-chaussée, et mettait sur la figure des messieurs du premier une moue inquiète et dégoûtée.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "27421d2903c368c2e83b7136df241254e4d43ac42c70c8db7e17bcc3ba750b96",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Madame",
+              "italic": true
+            },
+            {
+              "text": ", familière avec les clients ses amis, ne quittait point le salon, et s’intéressait aux rumeurs de la ville qui lui parvenaient par eux. Sa conversation grave faisait diversion aux propos sans suite des trois femmes ; elle était comme un repos dans le badinage polisson des particuliers ventrus qui se livraient chaque soir à cette débauche honnête et médiocre de boire un verre de liqueur en compagnie de filles publiques.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les trois dames du premier s’appelaient Fernande, Raphaële et Rosa la Rosse.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le personnel étant restreint, on avait tâché que chacune d’elles fût comme un échantillon, un résumé de type féminin, afin que tout consommateur pût trouver là, à peu près du moins, la réalisation de son idéal.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Fernande représentait la "
+            },
+            {
+              "text": "belle blonde",
+              "italic": true
+            },
+            {
+              "text": ", très grande, presque obèse, molle, fille des champs dont les taches de rousseur se refusaient à disparaître, et dont la chevelure filasse, écourtée, claire et sans couleur, pareille à du chanvre peigné, lui couvrait insuffisamment le crâne.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Raphaële, une Marseillaise, roulure des ports de mer, jouait le rôle indispensable de la "
+            },
+            {
+              "text": "belle Juive",
+              "italic": true
+            },
+            {
+              "text": ", maigre, avec des pommettes saillantes plâtrées de rouge. Ses cheveux noirs, lustrés à la moelle de bœuf, formaient des crochets sur ses tempes. Ses yeux eussent paru beaux si le droit n’avait pas été marqué d’une taie. Son nez arqué tombait sur une mâchoire accentuée où deux dents neuves, en haut, faisaient tache à côté de celles du bas qui avaient pris en vieillissant une teinte foncée comme les bois anciens.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "42d26e3c0bdc478d427d78e0fc336c7a0e71be9ae07142cec8ae2d4bfed788a1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rosa la Rosse, une petite boule de chair tout en ventre avec des jambes minuscules, chantait du matin au soir, d’une voix éraillée, des couplets alternativement grivois ou sentimentaux, racontait des histoires interminables et insignifiantes, ne cessait de parler que pour manger et de manger que pour parler, remuait toujours, souple comme un écureuil malgré sa graisse et l’exiguïté de ses pattes ; et son rire, une cascade de cris aigus, éclatait sans cesse, de-ci, de-là, dans une chambre, au grenier, dans le café, partout, à propos de rien.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les deux femmes du rez-de-chaussée, Louise, surnommée Cocote, et Flora, dite Balançoire parce qu’elle boitait un peu, l’une toujours en "
+            },
+            {
+              "text": "Liberté",
+              "italic": true
+            },
+            {
+              "text": " avec une ceinture tricolore, l’autre en Espagnole de fantaisie avec des sequins de cuivre qui dansaient dans ses cheveux carotte à chacun de ses pas inégaux, avaient l’air de filles de cuisine habillées pour un carnaval. Pareilles à toutes les femmes du peuple, ni plus laides, ni plus belles, vraies servantes d’auberge, on les désignait dans le port sous le sobriquet des deux Pompes.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Une paix jalouse, mais rarement troublée, régnait entre ces cinq femmes, grâce à la sagesse conciliante de Madame et à son intarissable bonne humeur.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’établissement, unique dans la petite ville, était assidûment fréquenté. Madame avait su lui donner une tenue si comme il faut ; elle se montrait si aimable, si prévenante envers tout le monde ; son bon cœur était si connu, qu’une sorte de considération l’entourait. Les habitués faisaient des frais pour elle, triomphaient quand elle leur témoignait une amitié plus marquée ; et lorsqu’ils se rencontraient dans le jour pour leurs affaires, ils se disaient : « À ce soir, où vous savez », comme on se dit : « Au café, n’est-ce pas ? après dîner. »\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 6,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "e44845e8f547c7b6fe6c13f63e5fda4adb00fb850b523867bed13a18bdf8e999",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Enfin la maison Tellier était une ressource, et rarement quelqu’un manquait au rendez-vous quotidien.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Or, un soir, vers la fin du mois de mai, le premier arrivé, M. Poulin, marchand de bois et ancien maire, trouva la porte close. La petite lanterne, derrière son treillage, ne brillait point ; aucun bruit ne sortait du logis, qui semblait mort. Il frappa, doucement d’abord, avec plus de force ensuite ; personne ne répondit. Alors il remonta la rue à petits pas, et, comme il arrivait sur la place du Marché, il rencontra M. Duvert, l’armateur, qui se rendait au même endroit. Ils y retournèrent ensemble sans plus de succès. Mais un grand bruit éclata soudain tout près d’eux, et, ayant tourné la maison, ils aperçurent un rassemblement de matelots anglais et français qui heurtaient à coups de poings les volets fermés du café.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les deux bourgeois aussitôt s’enfuirent pour n’être pas compromis, mais un léger « pss’t » les arrêta : c’était M. Tournevau, le saleur de poisson, qui, les ayant reconnus, les hélait. Ils lui dirent la chose, dont il fut d’autant plus affecté que lui, marié, père de famille et fort surveillé, ne venait là que le samedi, « "
+            },
+            {
+              "text": "securitatis causa",
+              "italic": true
+            },
+            {
+              "text": " », disait-il, faisant allusion à une mesure de police sanitaire dont le docteur Borde, son ami, lui avait révélé les périodiques retours. C’était justement son soir et il allait se trouver ainsi privé pour toute la semaine.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 7,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "cc99cd914f02ed6f559c5a2100aaf2f9b11e5828d1148eb7b9c0619b5c76d8a1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les trois hommes firent un grand crochet jusqu’au quai, trouvèrent en route le jeune M. Philippe, fils du banquier, un habitué, et M. Pimpesse, le percepteur. Tous ensemble revinrent alors par la rue « aux Juifs » pour essayer une dernière tentative. Mais les matelots exaspérés faisaient le siège de la maison, jetaient des pierres, hurlaient ; et les cinq clients du premier étage, rebroussant chemin le plus vite possible, se mirent à errer par les rues.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ils rencontrèrent encore M. Dupuis, l’agent d’assurances, puis M. Vasse, le juge au tribunal de commerce ; et une longue promenade commença qui les conduisit à la jetée d’abord. Ils s’assirent en ligne sur le parapet de granit et regardèrent moutonner les flots. L’écume, sur la crête des vagues, faisait dans l’ombre des blancheurs lumineuses, éteintes presque aussitôt qu’apparues, et le bruit monotone de la mer brisant contre les rochers se prolongeait dans la nuit tout le long de la falaise. Lorsque les tristes promeneurs furent restés là quelque temps, M. Tournevau déclara : — « Ça n’est pas gai. » — « Non certes », reprit M. Pimpesse ; et ils repartirent à petits pas.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Après avoir longé la rue que domine la côte et qu’on appelle : « Sous-le-Bois », ils revinrent par le pont de planches sur la Retenue, passèrent près du chemin de fer et débouchèrent de nouveau place du Marché, où une querelle commença tout à coup entre le percepteur, M. Pimpesse, et le saleur, M. Tournevau, à propos d’un champignon comestible que l’un d’eux affirmait avoir trouvé dans les environs.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 8,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "3044f3c9a77d401b893e53e38ecb2f065a26498e79f197a449a70e7a423641df",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les esprits étant aigris par l’ennui, on en serait peut-être venu aux voies de fait si les autres ne s’étaient interposés. M. Pimpesse, furieux, se retira ; et aussitôt une nouvelle altercation s’éleva entre l’ancien maire, M. Poulin, et l’agent d’assurances, M. Dupuis, au sujet des appointements du percepteur et des bénéfices qu’il pouvait se créer. Les propos injurieux pleuvaient des deux côtés, quand une tempête de cris formidables se déchaîna, et la troupe des matelots, fatigués d’attendre en vain devant une maison fermée, déboucha sur la place. Ils se tenaient par le bras, deux par deux, formant une longue procession, et ils vociféraient furieusement. Le groupe des bourgeois se dissimula sous une porte, et la horde hurlante disparut dans la direction de l’abbaye. Longtemps encore on entendit la clameur diminuant comme un orage qui s’éloigne ; et le silence se rétablit.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "M. Poulin et M. Dupuis, enragés l’un contre l’autre, partirent, chacun de son côté, sans se saluer.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les quatre autres se remirent en marche, et redescendirent instinctivement vers l’établissement Tellier. Il était toujours clos, muet, impénétrable. Un ivrogne, tranquille et obstiné, tapait des petits coups dans la devanture du café, puis s’arrêtait pour appeler à mi-voix le garçon Frédéric. Voyant qu’on ne lui répondait point, il prit le parti de s’asseoir sur la marche de la porte, et d’attendre les événements.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 9,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "d40c09f133035ec464b4dd4dc5c583701faa7476f0e716682a291deaa78a31e3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les bourgeois allaient se retirer quand la bande tumultueuse des hommes du port parut au bout de la rue. Les matelots français braillaient la "
+            },
+            {
+              "text": "Marseillaise",
+              "italic": true
+            },
+            {
+              "text": ", les anglais le "
+            },
+            {
+              "text": "Rule Britania",
+              "italic": true
+            },
+            {
+              "text": ". Il y eut un ruement général contre les murs, puis le flot de brutes reprit son cours vers le quai, où une bataille éclata entre les marins des deux nations. Dans la rixe, un Anglais eut le bras cassé, et un Français le nez fendu.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’ivrogne, qui était resté devant la porte, pleurait maintenant comme pleurent les pochards ou les enfants contrariés.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les bourgeois, enfin, se dispersèrent.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Peu à peu le calme revint sur la cité troublée. De place en place, encore par instants, un bruit de voix s’élevait, puis s’éteignait dans le lointain. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Seul, un homme errait toujours, M. Tournevau, le saleur, désolé d’attendre au prochain samedi ; et il espérait on ne sait quel hasard, ne comprenant pas ; s’exaspérant que la police laissât fermer ainsi un établissement d’utilité publique qu’elle surveille et tient sous sa garde.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il y retourna, flairant les murs, cherchant la raison : et il s’aperçut que sur l’auvent une pancarte était collée. Il alluma bien vite une allumette-bougie, et lut ces mots tracés d’une grande écriture inégale : « "
+            },
+            {
+              "text": "Fermé pour cause de première communion",
+              "italic": true
+            },
+            {
+              "text": ". » \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Alors il s’éloigna, comprenant bien que c’était fini.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’ivrogne maintenant dormait, étendu tout de son long en travers de la porte inhospitalière.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et le lendemain, tous les habitués, l’un après l’autre, trouvèrent moyen de passer dans la rue avec des papiers sous le bras pour se donner une contenance ; et d’un coup d’œil furtif, chacun lisait l’avertissement mystérieux : « "
+            },
+            {
+              "text": "Fermé pour cause de première communion",
+              "italic": true
+            },
+            {
+              "text": ". » "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 10,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "da6725a39d950383fda1b2f9e11a5f8da47728d58286470e1cb816a0be7a4c62",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "spans": [
+            {
+              "text": " II"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "C’est que Madame avait un frère établi menuisier en leur pays natal, Virville, dans l’Eure. Du temps que Madame était encore aubergiste à Yvetot, elle avait tenu sur les fonts baptismaux la fille de ce frère qu’elle nomma Constance, Constance Rivet ; étant elle-même une Rivet par son père. Le menuisier, qui savait sa sœur en bonne position, ne la perdait pas de vue, bien qu’ils ne se rencontrassent pas souvent, retenus tous les deux par leurs occupations et habitant du reste loin l’un de l’autre. Mais comme la fillette allait avoir douze ans, et faisait, cette année-là, sa première communion, il saisit cette occasion d’un rapprochement, et il écrivit à sa sœur qu’il comptait sur elle pour la cérémonie. Les vieux parents étaient morts, elle ne pouvait refuser à sa filleule ; elle accepta. Son frère, qui s’appelait Joseph, espérait qu’à force de prévenances il arriverait peut être à obtenir qu’on fît un testament en faveur de la petite, Madame étant sans enfants.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La profession de sa sœur ne gênait nullement ses scrupules, et, du reste, personne dans le pays ne savait rien. On disait seulement en parlant d’elle : « Madame Tellier est une bourgeoise de Fécamp », ce qui laissait supposer qu’elle pouvait vivre de ses rentes. De Fécamp à Virville on comptait au moins vingt lieues ; et vingt lieues de terre pour des paysans sont plus difficiles à franchir que l’Océan pour un civilisé. Les gens de Virville n’avaient jamais dépassé Rouen ; rien n’attirait ceux de Fécamp dans un petit village de cinq cents feux, perdu au milieu des plaines et faisant partie d’un autre département. Enfin on ne savait rien. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 11,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "7f9085ae280b1e48450911ed9525dd02d37f7286eb124cb1a98e97507d68701b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mais, l’époque de la communion approchant, Madame éprouva un grand embarras. Elle n’avait point de sous-maîtresse, et ne se souciait nullement de laisser sa maison, même pendant un jour. Toutes les rivalités entre les dames d’en haut et celles d’en bas éclateraient infailliblement ; puis Frédéric se griserait sans doute, et quand il était gris, il assommait les gens pour un oui ou pour un non. Enfin elle se décida à emmener tout son monde, sauf le garçon à qui elle donna sa liberté jusqu’au surlendemain.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le frère consulté ne fit aucune opposition, et se chargea de loger la compagnie entière pour une nuit. Donc, le samedi matin, le train express de huit heures emportait Madame et ses compagnes dans un wagon de seconde classe.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Jusqu’à Beuzeville elles furent seules et jacassèrent comme des pies. Mais à cette gare un couple monta. L’homme, vieux paysan, vêtu d’une blouse bleue, avec un col plissé, des manches larges serrées aux poignets et ornées d’une petite broderie blanche, couvert d’un antique chapeau de forme haute dont le poil roussi semblait hérissé, tenait d’une main un immense parapluie vert, et de l’autre un vaste panier qui laissait passer les têtes effarées de trois canards. La femme, raide en sa toilette rustique, avait une physionomie de poule avec un nez pointu comme un bec. Elle s’assit en face de son homme et demeura sans bouger, saisie de se trouver au milieu d’une aussi belle société.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 12,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "3195fbe14ae3c261b0030723f3c324b992470b58c313bc155e9de45669bdbca1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et c’était, en effet, dans le wagon un \néblouissement de couleurs éclatantes. Madame, \ntout en bleu, en soie bleue des pieds \nà la tête, portait là-dessus un châle de faux \ncachemire français, rouge, aveuglant, fulgurant. \nFernande soufflait dans une robe écossaise \ndont le corsage, lacé à toute force par \nses compagnes, soulevait sa croulante poitrine \nen un double dôme toujours agité qui \nsemblait liquide sous l’étoffe.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Raphaële, avec une coiffure emplumée simulant \nun nid plein d’oiseaux, portait une \ntoilette lilas, pailletée d’or, quelque chose \nd’oriental qui seyait à sa physionomie de Juive. Rosa la Rosse, en jupe rose à larges volants, \navait l’air d’une enfant trop grasse, d’une \nnaine obèse ; et les deux Pompes semblaient \ns’être taillé des accoutrements étranges au \nmilieu de vieux rideaux de fenêtre, ces vieux \nrideaux à ramages datant de la Restauration.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Sitôt qu’elles ne furent plus seules dans \nle compartiment, ces dames prirent une contenance \ngrave, et se mirent à parler de \nchoses relevées pour donner une bonne opinion \nd’elles. Mais à Bolbec apparut un monsieur \nà favoris blonds, avec des bagues et une \nchaîne en or, qui mit dans le filet sur sa \ntête plusieurs paquets enveloppés de toile \ncirée. Il avait un air farceur et bon enfant. \nIl salua, sourit et demanda avec aisance : — \n« Ces dames changent de garnison ? » — Cette \nquestion jeta dans le groupe une confusion \nembarrassée. Madame enfin reprit contenance, \net elle répondit sèchement, pour venger \nl’honneur du corps : — « Vous pourriez \nbien être poli ! » — Il s’excusa : — « Pardon, \nje voulais dire de monastère. » — Madame ne trouvant rien à répliquer, ou jugeant \npeut-être la rectification suffisante, fit un \nsalut digne en pinçant les lèvres.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 13,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "906351105942243c54c9c7a204b8e70a3a1d013e47f14b22ff9d4c1e1aac0697",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Alors le monsieur, qui se trouvait assis \nentre Rosa la Rosse et le vieux paysan, se mit \nà cligner de l’œil aux trois canards dont les \ntêtes sortaient du grand panier ; puis, quand \nil sentit qu’il captivait déjà son public, il \ncommença à chatouiller ces animaux sous le \nbec, en leur tenant des discours drôles pour \ndérider la société : — « Nous avons quitté \nnotre petite ma-mare ! couen ! couen ! couen !\n— pour faire connaissance avec la petite broche, \n— couen ! couen ! couen ! » — Les malheureuses \nbêtes tournaient le cou afin d’éviter \nles caresses, faisaient des efforts affreux pour \nsortir de leur prison d’osier ; puis soudain \ntoutes trois ensemble poussèrent un lamentable \ncri de détresse : — Couen ! couen !\ncouen ! couen ! — Alors ce fut une explosion \nde rires parmi les femmes. Elles se penchaient, \nelles se poussaient pour voir : on s’intéressait \nfollement aux canards ; et le monsieur \nredoublait de grâce, d’esprit et d’agaceries. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rosa s’en mêla, et, se penchant par-dessus \nles jambes de son voisin, elle embrassa \nles trois bêtes sur le nez. Aussitôt chaque \nfemme voulut les baiser à son tour ; et le \nmonsieur asseyait ces dames sur ses genoux, \nles faisait sauter, les pinçait ; tout à coup il \nles tutoya.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les deux paysans, plus affolés encore que \nleurs volailles, roulaient des yeux de possédés \nsans oser faire un mouvement, et leurs \nvieilles figures plissées n’avaient pas un sourire, \npas un tressaillement.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Alors le monsieur, qui était commis voyageur, \noffrit par farce des bretelles à ces dames, \net, s’emparant d’un de ses paquets, il \nl’ouvrit. C’était une ruse, le paquet contenait \ndes jarretières.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 14,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "efcb9fb9e27f7d1794972f21f9bb3d623203d6331907e2bc1eeea8bb40ae2258",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il y en avait en soie bleue, en soie rose, \nen soie rouge, en soie violette, en soie \nmauve, en soie ponceau, avec des boucles \nde métal formées par deux amours enlacés et \ndorés. Les filles poussèrent des cris de joie, \npuis examinèrent les échantillons, reprises \npar la gravité naturelle à toute femme qui tripote un objet de toilette. Elles se consultaient \nde l’œil ou d’un mot chuchoté, se \nrépondaient de même, et Madame maniait \navec envie une paire de jarretières orangées, \nplus larges, plus imposantes que les autres :\nde vraies jarretières de patronne.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le monsieur attendait, nourrissant une \nidée : — « Allons, mes petites chattes, dit-il, \nil faut les essayer. » — Ce fut une tempête \nd’exclamations ; et elles serraient leurs jupes \nentre leurs jambes comme si elles eussent \ncraint des violences. Lui, tranquille, attendait \nson heure. Il déclara : — « Vous ne voulez \npas, je remballe. » Puis, finement : — \n« J’offrirai une paire, au choix, à celles qui \nferont l’essai. » — Mais elles ne voulaient \npas, très dignes, la taille redressée. Les deux \nPompes cependant semblaient si malheureuses \nqu’il leur renouvela la proposition. \nFlora Balançoire surtout, torturée de désir, \nhésitait visiblement. Il la pressa : — « Vas-y, \nma fille, un peu de courage ; tiens, la paire \nlilas, elle ira bien avec ta toilette. » Alors \nelle se décida, et, relevant sa robe, montra une forte jambe de vachère, mal serrée en \nun bas grossier. Le monsieur, se baissant, \naccrocha la jarretière sous le genou d’abord, \npuis au-dessus ; et il chatouillait doucement \nla fille pour lui faire pousser des petits cris \navec de brusques tressaillements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 15,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "0c7f896435b2cd88cb4183546ad5d07d60e36fadc335918d6a7f49448aa9b31b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Quand il \neut fini, il donna la paire lilas et demanda : \n— « À qui le tour ? » Toutes ensemble \ns’écrièrent : — « À moi ! à moi ! » Il commença \npar Rosa la Rosse, qui découvrit \nune chose informe, toute ronde, sans cheville, \nun vrai « boudin de jambe », comme \ndisait Raphaële. Fernande fut complimentée \npar le commis voyageur qu’enthousiasmèrent \nses puissantes colonnes. Les maigres \ntibias de la belle Juive eurent moins \nde succès. Louise Cocote, par plaisanterie, \ncoiffa le monsieur de sa jupe ; et Madame \nfut obligée d’intervenir pour arrêter cette \nfarce inconvenante. Enfin Madame elle-même \ntendit sa jambe, une belle jambe normande, \ngrasse et musclée ; et le voyageur, surpris et \nravi, ôta galamment son chapeau pour saluer \nce maître mollet en vrai chevalier français. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les deux paysans, figés dans l’ahurissement, \nregardaient de côté, d’un seul œil ; et \nils ressemblaient si absolument à des poulets \nque l’homme aux favoris blonds, en se \nrelevant, leur fit dans le nez « Co-co-ri-co ». \nCe qui déchaîna de nouveau un ouragan de gaîté.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les vieux descendirent à Motteville, avec \nleur panier, leurs canards et leur parapluie ;\net l’on entendit la femme dire à son homme \nen s’éloignant : — « C’est des traînées qui \ns’en vont encore à ce satané Paris. » \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le plaisant commis porte-balle descendit \nlui-même à Rouen, après s’être montré si \ngrossier que Madame se vit obligée de le remettre \nvertement à sa place. Elle ajouta, \ncomme morale : — « Ça nous apprendra à \ncauser au premier venu. » \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "À Oissel, elles changèrent de train, et \ntrouvèrent à une gare suivante M. Joseph \nRivet qui les attendait avec une grande charrette \npleine de chaises et attelée d’un cheval blanc.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 16,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "f27ce2633f65562b4899d40459d94d83b37d0b63ea6a8e8c78496722d90cef36",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le menuisier embrassa poliment toutes ces dames et les aida à monter dans sa carriole. \nTrois s’assirent sur trois chaises au \nfond ; Raphaële, Madame et son frère, sur \nles trois chaises de devant : et Rosa, n’ayant \npoint de siège, se plaça tant bien que mal \nsur les genoux de la grande Fernande ; puis \nl’équipage se mit en route. Mais, aussitôt, le \ntrot saccadé du bidet secoua si terriblement la \nvoiture que les chaises commencèrent à danser, \njetant les voyageuses en l’air, à droite, \nà gauche, avec des mouvements de pantins, \ndes grimaces effarées, des cris d’effroi, coupés \nsoudain par une secousse plus forte. Elles se \ncramponnaient aux côtés du véhicule ; les \nchapeaux tombaient dans le dos, sur le nez \nou vers l’épaule ; et le cheval blanc allait toujours, allongeant la tête, et la queue droite, \nune petite queue de rat sans poil dont il se battait \nles fesses de temps en temps. Joseph Rivet, \nun pied tendu sur le brancard, l’autre jambe \nrepliée sous lui, les coudes très élevés, tenait \nles rênes, et de sa gorge s’échappait à tout instant \nune sorte de gloussement qui, faisant dresser \nles oreilles au bidet, accélérait son allure. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 17,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "8bf634a10ebc3b5a12962bc47853a764116ad070c3462b57877238e3a36b3ac3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Des deux côtés de la route la campagne \nverte se déroulait. Les colzas en fleur mettaient \nde place en place une grande nappe \njaune ondulante d’où s’élevait une saine et \npuissante odeur, une odeur pénétrante et \ndouce, portée très loin par le vent. Dans les \nseigles déjà grands des bluets montraient \nleurs petites têtes azurées que les femmes \nvoulaient cueillir, mais M. Rivet refusa d’arrêter. \nPuis parfois, un champ tout entier \nsemblait arrosé de sang tant les coquelicots \nl’avaient envahi. Et au milieu de ces plaines \ncolorées ainsi par les fleurs de la terre, la \ncarriole, qui paraissait porter elle-même un \nbouquet de fleurs aux teintes plus ardentes, \npassait au trot du cheval blanc, disparaissait \nderrière les grands arbres d’une ferme, pour \nreparaître au bout du feuillage et promener \nde nouveau à travers les récoltes jaunes et \nvertes, piquées de rouge ou de bleu, cette \néclatante charretée de femmes qui fuyait sous le soleil.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Une heure sonnait quand on arriva devant \nla porte du menuisier. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elles étaient brisées de fatigue et pâles de \nfaim, n’ayant rien pris depuis le départ. \nMme Rivet se précipita, les fit descendre l’une \naprès l’autre, les embrassant aussitôt qu’elles \ntouchaient terre ; et elle ne se lassait point \nde bécoter sa belle-sœur, qu’elle désirait accaparer. \nOn mangea dans l’atelier débarrassé \ndes établis pour le dîner du lendemain.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 18,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "9c59afbd24876a2e872e00531ebc54290b7f80239fe395b4455da84d9d375822",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Une bonne omelette que suivit une andouille \ngrillée, arrosée de bon cidre piquant, \nrendit la gaieté à tout le monde. Rivet, pour \ntrinquer, avait pris un verre, et sa femme \nservait, faisait la cuisine, apportait les plats, \nles enlevait, murmurant à l’oreille de chacune : \n— « En avez-vous à votre désir ? » — \nDes tas de planches dressées contre les murs \net des empilements de copeaux balayés dans \nles coins répandaient un parfum de bois \nvarlopé, une odeur de menuiserie, ce souffle \nrésineux qui pénètre au fond des poumons.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "On réclama la petite, mais elle était à l’église, ne devant rentrer que le soir.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La compagnie alors sortit pour faire un tour dans le pays. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "C’était un tout petit village que traversait \nune grand’route. Une dizaine de maisons \nrangées le long de cette voie unique abritaient \nles commerçants de l’endroit, le boucher, \nl’épicier, le menuisier, le cafetier, le \nsavetier et le boulanger. L’église, au bout de \ncette sorte de rue, était entourée d’un étroit \ncimetière ; et quatre tilleuls démesurés, plantés \ndevant son portail, l’ombrageaient tout \nentière. Elle était bâtie en silex taillé, sans \nstyle aucun, et coiffée d’un clocher d’ardoises. \nAprès elle la campagne recommençait, coupée \nçà et là de bouquets d’arbres cachant les fermes.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rivet, par cérémonie, et bien qu’en vêtements \nd’ouvrier, avait pris le bras de sa sœur \nqu’il promenait avec majesté. Sa femme, \ntout émue par la robe à filets d’or de Raphaële, \ns’était placée entre elle et Fernande. \nLa boulotte Rosa trottait derrière avec Louise \nCocote et Flora Balançoire, qui boitillait, exténuée.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 19,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "207860d2e6c4fb37291445412f1529c81bdf10c914db78363ddb1a0141f48361",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les habitants venaient aux portes, les enfants \narrêtaient leurs jeux, un rideau soulevé laissait entrevoir une tête coiffée d’un bonnet \nd’indienne ; une vieille à béquille et presque \naveugle se signa comme devant une procession ; \net chacun suivait longtemps du regard \ntoutes les belles dames de la ville qui étaient \nvenues de si loin pour la première communion \nde la petite à Joseph Rivet. Une immense \nconsidération rejaillissait sur le menuisier.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "En passant devant l’église, elles entendirent \ndes chants d’enfants : un cantique crié \nvers le ciel par des petites voix aiguës ; mais \nMadame empêcha qu’on entrât, pour ne point \ntroubler ces chérubins.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Après un tour dans la campagne, et l’énumération \ndes principales propriétés, du rendement \nde la terre et de la production du \nbétail, Joseph Rivet ramena son troupeau de \nfemmes et l’installa dans son logis.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La place étant fort restreinte, on les avait \nréparties deux par deux dans les pièces.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rivet, pour cette fois, dormirait dans l’atelier, \nsur les copeaux ; sa femme partagerait \nson lit avec sa belle-sœur, et, dans la chambre à côté, Fernande et Raphaële reposeraient \nensemble. Louise et Flora se trouvaient installées \ndans la cuisine sur un matelas jeté \npar terre ; et Rosa occupait seule un petit \ncabinet noir au-dessus de l’escalier, contre \nl’entrée d’une soupente étroite où coucherait, \ncette nuit-là, la communiante.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 20,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "4f4496d1c95e6269183b82909203ff5e442c9cd5ec965c3a733395a9985a4a03",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Lorsque rentra la petite fille, ce fut sur elle \nune pluie de baisers ; toutes les femmes la \nvoulaient caresser, avec ce besoin d’expansion \ntendre, cette habitude professionnelle \nde chatteries, qui, dans le wagon, les avait \nfait toutes embrasser les canards. Chacune \nl’assit sur ses genoux, mania ses fins cheveux \nblonds, la serra dans ses bras en des \nélans d’affection véhémente et spontanée. \nL’enfant bien sage, toute pénétrée de piété, \ncomme fermée par l’absolution, se laissait \nfaire, patiente et recueillie.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La journée ayant été pénible pour tout le \nmonde, on se coucha bien vite après dîner. \nCe silence illimité des champs qui semble \npresque religieux enveloppait le petit village, \nun silence tranquille, pénétrant, et large jusqu’aux astres. Les filles, accoutumées aux \nsoirées tumultueuses du logis public, se sentaient \némues par ce muet repos de la campagne \nendormie. Elles avaient des frissons \nsur la peau, non de froid, mais des frissons \nde solitude venus du cœur inquiet et troublé.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Sitôt qu’elles furent en leur lit, deux par \ndeux, elles s’étreignirent comme pour se \ndéfendre contre cet envahissement du calme \net profond sommeil de la terre. Mais Rosa la \nRosse, seule en son cabinet noir, et peu \nhabituée à dormir les bras vides, se sentit \nsaisie par une émotion vague et pénible. Elle \nse retournait sur sa couche, ne pouvant obtenir \nle sommeil, quand elle entendit, derrière \nla cloison de bois contre sa tête, de faibles \nsanglots comme ceux d’un enfant qui pleure. \nEffrayée, elle appela faiblement, et une petite \nvoix entrecoupée lui répondit. C’était \nla fillette qui, couchant toujours dans la \nchambre de sa mère, avait peur en sa soupente étroite.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 21,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "14dd222804f27084f81d598ba9d26bacc71020c0d435e3e75cff5d2e53437a4e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rosa, ravie, se leva, et doucement, pour \nne réveiller personne, alla chercher l’enfant. Elle l’amena dans son lit bien chaud, la \npressa contre sa poitrine en l’embrassant, la \ndorlota, l’enveloppa de sa tendresse aux manifestations \nexagérées, puis, calmée elle-même, \ns’endormit. Et jusqu’au jour la communiante \nreposa son front sur le sein nu de la prostituée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Dès cinq heures, à l’"
+            },
+            {
+              "text": "Angelus",
+              "italic": true
+            },
+            {
+              "text": ", la petite \ncloche de l’église sonnant à toute volée \nréveilla ces dames qui dormaient ordinairement \nleur matinée entière, seul repos \ndes fatigues nocturnes. Les paysans dans \nle village étaient déjà debout. Les femmes \ndu pays allaient affairées de porte en porte, \ncausant vivement, apportant avec précaution \nde courtes robes de mousseline empesées \ncomme du carton, ou des cierges démesurés, \navec un nœud de soie frangée d’or \nau milieu, et des découpures de cire indiquant \nla place de la main. Le soleil déjà \nhaut rayonnait dans un ciel tout bleu qui \ngardait vers l’horizon une teinte un peu rosée, \ncomme une trace affaiblie de l’aurore. \nDes familles de poules se promenaient devant leurs maisons, et, de place en place, un \ncoq noir au cou luisant levait sa tête coiffée \nde pourpre, battait des ailes, et jetait au vent \nson chant de cuivre que répétaient les autres coqs.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Des carrioles arrivaient des communes \nvoisines, déchargeant au seuil des portes les \nhautes Normandes en robes sombres, au fichu \ncroisé sur la poitrine et retenu par un \nbijou d’argent séculaire. Les hommes avaient \npassé la blouse bleue sur la redingote neuve \nou sur le vieil habit de drap vert dont les \ndeux basques passaient.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 22,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "7d3d5fef1e42790f97a9dd76651d5848c5f095a56e555e61259f6e3e028236e5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quand les chevaux furent à l’écurie, il y \neut ainsi tout le long de la grande route une \ndouble ligne de guimbardes rustiques, charrettes, cabriolets, tilburys, chars à bancs, voitures \nde toute forme et de tout âge, penchées \nsur le nez ou bien cul par terre et les brancards au ciel.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La maison du menuisier était pleine d’une \nactivité de ruche. Ces dames, en caraco et \nen jupon, les cheveux répandus sur le dos, \ndes cheveux maigres et courts qu’on aurait dits ternis et rongés par l’usage, s’occupaient \nà habiller l’enfant.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La petite, debout sur une table, ne remuait \npas, tandis que Mme Tellier dirigeait \nles mouvements de son bataillon volant. On \nla débarbouilla, on la peigna, on la coiffa, on \nla vêtit, et, à l’aide d’une multitude d’épingles, \non disposa les plis de la robe, on \npinça la taille trop large, on organisa l’élégance \nde la toilette. Puis, quand ce fut terminé, \non fit asseoir la patiente en lui recommandant \nde ne plus bouger ; et la troupe \nagitée des femmes courut se parer à son tour.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La petite église recommençait à sonner. \nSon tintement frêle de cloche pauvre montait \nse perdre à travers le ciel, comme une \nvoix trop faible, vite noyée dans l’immensité bleue.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les communiants sortaient des portes, allaient \nvers le bâtiment communal qui contenait \nles deux écoles et la mairie, et situé tout \nau bout du pays, tandis que la « maison de \nDieu » occupait l’autre bout. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 23,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "b5ad9f261c96d66a8e9b3711c81757b133caeec17d054696fa54aadf5aa332e3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les parents, en tenue de fête, avec une \nphysionomie gauche et ces mouvements inhabiles \ndes corps toujours courbés sur le \ntravail, suivaient leurs mioches. Les petites \nfilles disparaissaient dans un nuage de tulle \nneigeux semblable à de la crème fouettée, \ntandis que les petits hommes, pareils à des \nembryons de garçons de café, la tête encollée \nde pommade, marchaient les jambes écartées, \npour ne point tacher leur culotte noire.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "C’était une gloire pour une famille quand \nun grand nombre de parents, venus de loin, \nentouraient l’enfant : aussi le triomphe du \nmenuisier fut-il complet. Le régiment Tellier, \npatronne en tête, suivait Constance ; et le \npère donnant le bras à sa sœur, la mère marchant \nà côté de Raphaële, Fernande avec \nRosa, et les deux Pompes ensemble, la \ntroupe se déployait majestueusement comme \nun état-major en grand uniforme.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’effet dans le village fut foudroyant.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "À l’école, les filles se rangèrent sous la \ncornette de la bonne sœur, les garçons sous \nle chapeau de l’instituteur, un bel homme qui représentait ; et l’on partit en attaquant un cantique.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les enfants mâles en tête allongeaient \nleurs deux files entre les deux rangs de voitures \ndételées, les filles suivaient dans le \nmême ordre ; et tous les habitants ayant cédé \nle pas aux dames de la ville par considération, \nelles arrivaient immédiatement après \nles petites, prolongeant encore la double \nligne de la procession, trois à gauche et trois \nà droite, avec leurs toilettes éclatantes comme \nun bouquet de feu d’artifice.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 24,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "9974532c88919c0bd19e01baa9cd3954e5d5260147d0b92afd0cdf284e14dab7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Leur entrée dans l’église affola la population. \nOn se pressait, on se retournait, on se \npoussait pour les voir. Et les dévotes parlaient \npresque haut, stupéfaites par le spectacle \nde ces dames plus chamarrées que les \nchasubles des chantres. Le maire offrit son \nbanc, le premier banc à droite auprès du \nchœur, et Mme Tellier y prit place avec sa \nbelle-sœur, Fernande et Raphaële. Rosa la \nRosse et les deux Pompes occupèrent le second \nbanc en compagnie du menuisier.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le chœur de l’église était plein d’enfants à genoux, filles d’un côté, garçons de l’autre, \net les longs cierges qu’ils tenaient en main \nsemblaient des lances inclinées en tous sens.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Devant le lutrin, trois hommes debout \nchantaient d’une voix pleine. Ils prolongeaient \nindéfiniment les syllabes du latin sonore, \néternisant les "
+            },
+            {
+              "text": "Amen",
+              "italic": true
+            },
+            {
+              "text": " avec des "
+            },
+            {
+              "text": "a-a",
+              "italic": true
+            },
+            {
+              "text": " indéfinis \nque le serpent soutenait de sa note monotone \npoussée sans fin, mugie par l’instrument de \ncuivre à large gueule. La voix pointue d’un \nenfant donnait la réplique, et, de temps en \ntemps, un prêtre assis dans une stalle et \ncoiffé d’une barrette carrée se levait, bredouillant \nquelque chose et s’asseyait de nouveau, \ntandis que les trois chantres repartaient, \nl’œil fixé sur le gros livre de plain-chant \nouvert devant eux et porté par les ailes déployées \nd’un aigle de bois monté sur pivot.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Puis un silence se fit. Toute l’assistance, \nd’un seul mouvement, se mit à genoux, et \nl’officiant parut, vieux, vénérable, avec des \ncheveux blancs, incliné sur le calice qu’il \nportait de sa main gauche. Devant lui marchaient \nles deux servants en robe rouge, et, derrière, apparut une foule de chantres à \ngros souliers qui s’alignèrent des deux côtés du chœur.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 25,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "862adadfae7d6f42d287ce4b4167e93650ecf572a7bf37a5a91e7f880765b6f6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Une petite clochette tinta au milieu du \ngrand silence. L’office divin commençait. Le \nprêtre circulait lentement devant le tabernacle \nd’or, faisait des génuflexions, psalmodiait de \nsa voix cassée, chevrotante de vieillesse, les \nprières préparatoires. Aussitôt qu’il s’était tu, \ntous les chantres et le serpent éclataient d’un \nseul coup, et des hommes aussi chantaient \ndans l’église, d’une voix moins forte, plus \nhumble, comme doivent chanter les assistants.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Soudain le "
+            },
+            {
+              "text": "Kyrie Eleison",
+              "italic": true
+            },
+            {
+              "text": " jaillit vers le ciel, \npoussé par toutes les poitrines et tous les \ncœurs. Des grains de poussière et des fragments \nde bois vermoulu tombèrent même de \nla voûte ancienne secouée par cette explosion \nde cris. Le soleil qui frappait sur les ardoises \ndu toit faisait une fournaise de la petite \néglise ; et une grande émotion, une attente \nanxieuse, les approches de l’ineffable mystère, \nétreignaient le cœur des enfants, serraient \nla gorge de leurs mères. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le prêtre, qui s’était assis quelque temps, \nremonta vers l’autel, et, tête nue, couvert de \nses cheveux d’argent, avec des gestes tremblants, \nil approchait de l’acte surnaturel.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il se tourna vers les fidèles, et, les mains \ntendues vers eux, prononça : « "
+            },
+            {
+              "text": "Orate, fratres",
+              "italic": true
+            },
+            {
+              "text": " », « priez, mes frères. » Ils priaient \ntous. Le vieux curé balbutiait maintenant \ntout bas les paroles mystérieuses et suprêmes ; \nla clochette tintait coup sur coup ; \nla foule prosternée appelait Dieu ; les enfants \ndéfaillaient d’une anxiété démesurée.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 26,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "499cb672e692022149244952d866ea2d59d7d40c764024a2554b65bd7e747355",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "C’est alors que Rosa, le front dans ses \nmains, se rappela tout à coup sa mère, l’église \nde son village, sa première communion. Elle \nse crut revenue à ce jour-là, quand elle était \nsi petite, toute noyée en sa robe blanche, et \nelle se mit à pleurer. Elle pleura doucement \nd’abord : les larmes lentes sortaient de ses \npaupières, puis, avec ses souvenirs, son émotion \ngrandit, et, le cou gonflé, la poitrine \nbattante, elle sanglota. Elle avait tiré son \nmouchoir, s’essuyait les yeux, se tamponnait \nle nez et la bouche pour ne point crier : ce fut en vain ; une espèce de râle sortit de sa \ngorge, et deux autres soupirs profonds, déchirants, \nlui répondirent ; car ses deux voisines, \nabattues près d’elle, Louise et Flora, \nétreintes des mêmes souvenances lointaines, \ngémissaient aussi avec des torrents de larmes.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mais comme les larmes sont contagieuses, \nMadame, à son tour, sentit bientôt ses paupières \nhumides, et, se tournant vers sa belle-sœur, \nelle vit que tout son banc pleurait aussi.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le prêtre engendrait le corps de Dieu. \nLes enfants n’avaient plus de pensée, jetés \nsur les dalles par une espèce de peur dévote ; \net, dans l’église, de place en place, une femme, \nune mère, une sœur, saisie par l’étrange \nsympathie des émotions poignantes, bouleversée \naussi par ces belles dames à genoux \nque secouaient des frissons et des hoquets, \ntrempait son mouchoir d’indienne à carreaux \net, de la main gauche, pressait violemment \nson cœur bondissant.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 27,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "782fca3ba5cc8d1cdec878a3dcf85f990c9501a7295d089bcde341edbc5302e6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Comme la flammèche qui jette le feu à un champ mûr, les larmes de Rosa et \nde ses compagnes gagnèrent en un instant \ntoute la foule. Hommes, femmes, vieillards, \njeunes gars en blouse neuve, tous bientôt \nsanglotèrent, et sur leur tête semblait planer \nquelque chose de surhumain, une âme \népandue, le souffle prodigieux d’un être invisible \net tout-puissant.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Alors, dans le chœur de l’église, un petit \ncoup sec retentit : la bonne sœur, en frappant \nsur son livre, donnait le signal de la \ncommunion ; et les enfants, grelottant d’une \nfièvre divine, s’approchèrent de la table sainte.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Toute une file s’agenouillait. Le vieux \ncuré, tenant en main le ciboire d’argent \ndoré, passait devant eux, leur offrant, entre \ndeux doigts, l’hostie sacrée, le corps du \nChrist, la rédemption du monde. Ils ouvraient \nla bouche avec des spasmes, des grimaces \nnerveuses, les yeux fermés, la face \ntoute pâle ; et la longue nappe étendue sous \nleurs mentons frémissait comme de l’eau qui coule. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Soudain dans l’église une sorte de folie \ncourut, une rumeur de foule en délire, une \ntempête de sanglots avec des cris étouffés. \nCela passa comme ces coups de vent qui \ncourbent les forêts ; et le prêtre restait debout, \nimmobile, une hostie à la main, paralysé \npar l’émotion, se disant : « C’est Dieu, \nc’est Dieu qui est parmi nous, qui manifeste \nsa présence, qui descend à ma voix sur son \npeuple agenouillé. » Et il balbutiait des prières \naffolées, sans trouver les mots, des prières de \nl’âme, dans un élan furieux vers le ciel.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il acheva de donner la communion avec \nune telle surexcitation de foi que ses jambes \ndéfaillaient sous lui, et quand lui-même eut \nbu le sang de son Seigneur, il s’abîma dans \nun acte de remerciement éperdu.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 28,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "fba07c950fe8e31f69a89273eba90957b3246dae130c02f5ea278a76942dced4",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Derrière lui le peuple peu à peu se calmait. \nLes chantres, relevés dans la dignité du \nsurplis blanc, repartaient d’une voix moins \nsûre, encore mouillée ; et le serpent aussi \nsemblait enroué comme si l’instrument lui-même eût pleuré.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Alors, le prêtre, levant les mains, leur fit signe de se taire, et passant entre les deux \nhaies de communiants perdus en des extases \nde bonheur, il s’approcha jusqu’à la grille du chœur.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’assemblée s’était assise au milieu d’un \nbruit de chaises, et tout le monde à présent \nse mouchait avec force. Dès qu’on aperçut \nle curé, on fit silence, et il commença à parler \nd’un ton très bas, hésitant, voilé. — « Mes \nchers frères, mes chères sœurs, mes enfants, \nje vous remercie du fond du cœur ; vous venez \nde me donner la plus grande joie de ma vie. \nJ’ai senti Dieu qui descendait sur nous à mon \nappel. Il est venu, il était là, présent, qui emplissait \nvos âmes, faisait déborder vos yeux. \nJe suis le plus vieux prêtre du diocèse, j’en \nsuis aussi, aujourd’hui, le plus heureux. Un \nmiracle s’est fait parmi nous, un vrai, un \ngrand, un sublime miracle. Pendant que Jésus-Christ \npénétrait pour la première fois dans le \ncorps de ces petits, le Saint-Esprit, l’oiseau \ncéleste, le souffle de Dieu, s’est abattu sur \nvous, s’est emparé de vous, vous a saisis, \ncourbés comme des roseaux sous la brise. » "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 29,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "c6b886d0f30528ed86b0bcc4956493e267a70b636c5854ed40ad2bd1298c2896",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Puis, d’une voix plus claire, se tournant \nvers les deux bancs où se trouvaient les invitées \ndu menuisier : — « Merci surtout à \nvous, mes chères sœurs, qui êtes venues de \nsi loin, et dont la présence parmi nous, dont \nla foi visible, dont la piété si vive ont été \npour tous un salutaire exemple. Vous êtes \nl’édification de ma paroisse ; votre émotion a \néchauffé les cœurs ; sans vous, peut-être, ce \ngrand jour n’aurait pas eu ce caractère vraiment \ndivin. Il suffit parfois d’une seule brebis \nd’élite pour décider le Seigneur à descendre \nsur le troupeau. » \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La voix lui manquait. Il ajouta : « C’est \nla grâce que je vous souhaite. Ainsi soit-il. » \nEt il remonta vers l’autel pour terminer l’office.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Maintenant on avait hâte de partir. Les \nenfants eux-mêmes s’agitaient, las d’une si \nlongue tension d’esprit. Ils avaient faim d’ailleurs, \net les parents peu à peu s’en allaient, \nsans attendre le dernier évangile, pour terminer \nles apprêts du repas.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ce fut une cohue à la sortie, une cohue bruyante, un charivari de voix criardes où \nchantait l’accent normand. La population \nformait deux haies, et lorsque parurent les \nenfants, chaque famille se précipita sur le sien.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Constance se trouva saisie, entourée, embrassée \npar toute la maisonnée de femmes. \nRosa surtout ne se lassait pas de l’étreindre. \nEnfin elle lui prit une main, Mme Tellier s’empara \nde l’autre ; Raphaële et Fernande relevèrent \nsa longue jupe de mousseline pour \nqu’elle ne traînât point dans la poussière ; \nLouise et Flora fermaient la marche avec \nMme Rivet ; et l’enfant, recueillie, toute pénétrée \npar le Dieu qu’elle portait en elle, se mit \nen route au milieu de cette escorte d’honneur.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le festin était servi dans l’atelier sur de \nlongues planches portées par des traverses.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 30,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "dc28564ecaabf3a6c07a08d88ced6d164404d998988ba50e5d69c2d784e5ee31",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La porte ouverte, donnant sur la rue, laissait \nentrer toute la joie du village. On se régalait \npartout. Par chaque fenêtre on apercevait \ndes tablées de monde endimanché, et \ndes cris sortaient des maisons en goguette. Les paysans, en bras de chemise, buvaient \ndu cidre pur à plein verre, et au milieu de \nchaque compagnie on apercevait deux enfants, \nici deux filles, là deux garçons, dînant \ndans l’une des deux familles.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quelquefois, sous la lourde chaleur de \nmidi, un char à bancs traversait le pays au \ntrot sautillant d’un vieux bidet, et l’homme \nen blouse qui conduisait jetait un regard \nd’envie sur toute cette ripaille étalée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Dans la demeure du menuisier, la gaieté \ngardait un certain air de réserve, un reste de \nl’émotion du matin. Rivet seul était en train \net buvait outre mesure. Mme Tellier regardait \nl’heure à tout moment, car pour ne point \nchômer deux jours de suite on devait reprendre \nle train de 3 h. 55 qui les mettrait \nà Fécamp vers le soir.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le menuisier faisait tous ses efforts pour \ndétourner l’attention et garder son monde \njusqu’au lendemain ; mais Madame ne se \nlaissait point distraire ; et elle ne plaisantait \njamais quand il s’agissait des affaires.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Aussitôt que le café fut pris, elle ordonna à ses pensionnaires de se préparer bien \nvite ; puis, se tournant vers son frère : — \n« Toi, tu vas atteler tout de suite » ; et elle-même \nalla terminer ses derniers préparatifs.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quand elle redescendit, sa belle-sœur l’attendait \npour lui parler de la petite ; et une \nlongue conversation eut lieu où rien ne fut \nrésolu. La paysanne finassait, faussement \nattendrie, et Mme Tellier, qui tenait l’enfant \nsur ses genoux, ne s’engageait à rien, promettait \nvaguement : on s’occuperait d’elle, on \navait du temps, on se reverrait d’ailleurs.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 31,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "b497f401aaa3606470d812f12f86795b86d79a1fa8265cae51317099c64d27e3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cependant la voiture n’arrivait point, et \nles femmes ne descendaient pas. On entendait \nmême en haut de grands rires, des bousculades, \ndes poussées de cris, des battements \nde mains. Alors, tandis que l’épouse du menuisier \nse rendait à l’écurie pour voir si l’équipage \nétait prêt, Madame, à la fin, monta.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rivet, très pochard et à moitié dévêtu, \nessayait, mais en vain, de violenter Rosa qui \ndéfaillait de rire. Les deux Pompes le retenaient \npar les bras, et tentaient de le calmer, \nchoquées de cette scène après la cérémonie du matin ; mais Raphaële et Fernande l’excitaient, \ntordues de gaieté, se tenant les côtes ;\net elles jetaient des cris aigus à chacun des \nefforts inutiles de l’ivrogne. L’homme furieux, \nla face rouge, tout débraillé, secouant \nen des efforts violents les deux femmes cramponnées \nà lui, tirait de toutes ses forces sur \nla jupe de Rosa en bredouillant : — « Salope, \ntu ne veux pas ? » — Mais Madame, indignée, \ns’élança, saisit son frère par les épaules, et \nle jeta dehors si violemment qu’il alla frapper \ncontre le mur.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Une minute plus tard, on l’entendait dans \nla cour qui se pompait de l’eau sur la tête ; \net quand il repartit dans sa carriole, il était \ndéjà tout apaisé.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "On se remit en route comme la veille, et \nle petit cheval blanc repartit de son allure \nvive et dansante.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Sous le soleil ardent, la joie assoupie pendant \nle repas se dégageait. Les filles s’amusaient \nmaintenant des cahots de la guimbarde, \npoussaient même les chaises des voisines, \néclataient de rire à tout instant, mises en train d’ailleurs par les vaines tentatives de Rivet.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 32,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "4e982b695681e1713533ee1676b2842299f9c356f2ba7e8f40266b7b342e5cdf",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Une lumière folle emplissait les champs, \nune lumière miroitant aux yeux ; et les roues \nsoulevaient deux sillons de poussière qui \nvoltigeaient longtemps derrière la voiture sur \nla grand’route.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Tout à coup Fernande, qui aimait la musique, \nsupplia Rosa de chanter ; et celle-ci \nentama gaillardement le "
+            },
+            {
+              "text": "Gros Curé de Meudon",
+              "italic": true
+            },
+            {
+              "text": ". \nMais Madame tout de suite la fit taire, \ntrouvant cette chanson peu convenable en ce \njour. Elle ajouta : — « Chante-nous plutôt \nquelque chose de Béranger. » — Alors Rosa, \naprès avoir hésité quelques secondes, fixa \nson choix, et de sa voix usée commença la "
+            },
+            {
+              "text": "Grand’mère :",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ma grand-mère, un soir à sa fête, \n\nDe vin pur ayant bu deux doigts, \n\nNous disait, en branlant la tête :\n\nQue d’amoureux j’eus autrefois !\nCombien je regrette\nMon bras si dodu, \nMa jambe bien faite, \nEt le temps perdu !"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et le chœur des filles, que Madame elle-même \nconduisait, reprit :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Combien je regrette\nMon bras si dodu, \nMa jambe bien faite, \nEt le temps perdu !"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Ça, c’est tapé ! déclara Rivet, allumé \npar la cadence ; et Rosa aussitôt continua :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quoi, maman, vous n’étiez pas sage ?\n\n— Non, vraiment ! et de mes appas, \n\nSeule, à quinze ans, j’appris l’usage, \n\nCar, la nuit, je ne dormais pas.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Tous ensemble hurlèrent le refrain ; et \nRivet tapait du pied sur son brancard, battait \nla mesure avec les rênes sur le dos du \nbidet blanc qui, comme s’il eût été lui-même \nenlevé par l’entrain du rythme, prit le galop, \nun galop de tempête, précipitant ces dames \nen tas les unes sur les autres dans le fond de la voiture.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 33,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "2961e5be0f77522f9a097e804501b216798f96310398ac31e9bf1cbe3e060e2b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elles se relevèrent en riant comme des \nfolles. Et la chanson continua, braillée à tue-tête à travers la campagne, sous le ciel brûlant, \nau milieu des récoltes mûrissantes, au \ntrain enragé du petit cheval qui s’emballait \nmaintenant à tous les retours du refrain, et \npiquait chaque fois ses cent mètres de galop, \nà la grande joie des voyageurs.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De place en place, quelque casseur de \ncailloux se redressait, et regardait à travers \nson loup de fil de fer cette carriole enragée \net hurlante emportée dans la poussière.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quand on descendit devant la gare, le menuisier \ns’attendrit : — « C’est dommage que \nvous partiez, on aurait bien rigolé. » \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Madame lui répondit censément : — \n« Toute chose a son temps, on ne peut pas \ns’amuser toujours. » — Alors une idée illumina \nl’esprit de Rivet : — « Tiens, dit-il, \nj’irai vous voir à Fécamp le mois prochain. » \n— Et il regarda Rosa d’un air rusé, avec un \nœil brillant et polisson. — « Allons, conclut \nMadame, il faut être sage ; tu viendras \nsi tu veux, mais tu ne feras point de bêtises. » "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il ne répondit pas, et comme on entendait \nsiffler le train, il se mit immédiatement \nà embrasser tout le monde. Quand \nce fut au tour de Rosa, il s’acharna à trouver \nsa bouche que celle-ci, riant derrière ses lèvres \nfermées, lui dérobait chaque fois par \nun rapide mouvement de côté. Il la tenait \nen ses bras ; mais il n’en pouvait venir à \nbout, gêné par son grand fouet qu’il avait \ngardé à sa main et que, dans ses efforts, il \nagitait désespérément derrière le dos de la fille.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Les voyageurs pour Rouen, en voiture !\ncria l’employé. Elles montèrent.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 34,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "658ebb5f4b7e6b7dc08c98084acbb032e89ae0f7bdc7312ed96c6a0a4247d0c9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Un mince coup de sifflet partit, répété tout \nde suite par le sifflement puissant de la machine \nqui cracha bruyamment son premier \njet de vapeur pendant que les roues commençaient \nà tourner un peu avec un effort visible.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rivet, quittant l’intérieur de la gare, courut \nà la barrière pour voir encore une fois \nRosa ; et comme le wagon plein de cette \nmarchandise humaine passait devant lui, il se mit à faire claquer son fouet en sautant et chantant de toutes ses forces :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Combien je regrette\nMon bras si dodu, \nMa jambe bien faite, \nEt le temps perdu !"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Puis il regarda s’éloigner un mouchoir blanc qu’on agitait. "
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "spans": [
+            {
+              "text": " III"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elles dormirent jusqu’à l’arrivée, du sommeil \npaisible des consciences satisfaites ; et \nquand elles rentrèrent au logis, rafraîchies, \nreposées pour la besogne de chaque soir, \nMadame ne put s’empêcher de dire : — \n« C’est égal, il m’ennuyait déjà de la maison. » \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "On soupa vite, puis, quand on eut repris \nle costume de combat, on attendit les clients \nhabituels ; et la petite lanterne allumée, la \npetite lanterne de madone, indiquait aux \npassants que dans la bergerie le troupeau \nétait revenu.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "En un clin d’œil la nouvelle se répandit, on ne sait comment, on ne sait par qui. \nM. Philippe, le fils du banquier, poussa \nmême la complaisance jusqu’à prévenir par \nun exprès M. Tournevau, emprisonné dans sa famille.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le saleur avait justement chaque dimanche \nplusieurs cousins à dîner, et l’on prenait le \ncafé quand un homme se présenta avec une \nlettre à la main. M. Tournevau, très ému, \nrompit l’enveloppe et devint pâle : il n’y \navait que ces mots tracés au crayon : « "
+            },
+            {
+              "text": "Chargement de morues retrouvé ; navire entré au port ; bonne affaire pour vous. Venez vite.",
+              "italic": true
+            },
+            {
+              "text": " » \n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 35,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "cd56603ad2bd988538f5396fc12b484c455f69469db382052b107ef45a3c9113",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il fouilla dans ses poches, donna vingt \ncentimes au porteur, et rougissant soudain \njusqu’aux oreilles : « Il faut, dit-il, que je \nsorte. » Et il tendit à sa femme le billet laconique \net mystérieux. Il sonna, puis, lorsque \nparut la bonne : — « Mon pardessus vite, \nvite, et mon chapeau. » — À peine dans la \nrue, il se mit à courir en sifflant un air, et le \nchemin lui parut deux fois plus long tant son \nimpatience était vive.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’établissement Tellier avait un air de fête. Au rez-de-chaussée les voix tapageuses des \nhommes du port faisaient un assourdissant \nvacarme. Louise et Flora ne savaient à qui répondre, \nbuvaient avec l’un, buvaient avec \nl’autre, méritaient mieux que jamais leur sobriquet \ndes « deux Pompes ». On les appelait \npartout à la fois ; elles ne pouvaient déjà suffire \nà la besogne, et la nuit pour elles s’annonçait laborieuse.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le cénacle du premier fut au complet dès \nneuf heures. M. Vasse, le juge au tribunal de \ncommerce, le soupirant attitré mais platonique \nde Madame, causait tout bas avec elle dans un \ncoin ; et ils souriaient tous les deux comme \nsi une entente était près de se faire. M. Poulin, \nl’ancien maire, tenait Rosa à cheval sur \nses jambes ; et elle, nez à nez avec lui, promenait \nses mains courtes dans les favoris blancs \ndu bonhomme. Un bout de cuisse nue passait \nsous la jupe de soie jaune relevée, coupant \nle drap noir du pantalon, et les bas \nrouges étaient serrés par une jarretière \nbleue, cadeau du commis voyageur.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La grande Fernande, étendue sur le sopha, avait les deux pieds sur le ventre de M. Pimpesse, \nle percepteur, et le torse sur le gilet du \njeune M. Philippe dont elle accrochait le cou \nde sa main droite, tandis que de la gauche elle \ntenait une cigarette.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 36,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "13da0bceae47fb8b53c0f6693f3d512a6cd2cbce399c4ebe801401b4e8db69c6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Raphaële semblait en pourparlers avec \nM. Dupuis, l’agent d’assurances, et elle termina \nl’entretien par ces mots : — « Oui, mon \nchéri, ce soir, je veux bien. » — Puis, faisant \nseule un tour de valse rapide à travers le salon : \n— « Ce soir, tout ce qu’on voudra », cria-t-elle.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La porte s’ouvrit brusquement et M. Tournevau \nparut. Des cris d’enthousiasme éclatèrent : \n— « Vive Tournevau ! » — Et Raphaële, qui \npivotait toujours, alla tomber sur son cœur. \nIl la saisit d’un enlacement formidable, et \nsans dire un mot, l’enlevant de terre comme \nune plume, il traversa le salon, gagna la \nporte du fond, et disparut dans l’escalier des \nchambres avec son fardeau vivant, au milieu \ndes applaudissements.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rosa, qui allumait l’ancien maire, l’embrassant \ncoup sur coup et tirant sur ses deux favoris en même temps pour maintenir droite \nsa tête, profita de l’exemple : — « Allons, \nfais comme lui, » — dit-elle. Alors le bonhomme \nse leva, et rajustant son gilet, suivit \nla fille en fouillant dans la poche où dormait son argent.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Fernande et Madame restèrent seules avec \nles quatre hommes, et M. Philippe s’écria : \n— « Je paie du champagne : Mme Tellier, envoyez \nchercher trois bouteilles. » — Alors \nFernande l’étreignant lui demanda dans \nl’oreille : — « Fais-nous danser, dis, tu veux ? » \n— Il se leva, et, s’asseyant devant l’épinette \nséculaire, endormie en un coin, fit sortir une \nvalse, une valse enrouée, larmoyante, du \nventre geignant de la machine. La grande \nfille enlaça le percepteur, Madame s’abandonna \naux bras de M. Vasse ; et les deux \ncouples tournèrent en échangeant des baisers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 37,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "8249a2780d50aedb932773441dd15d77f8e1f7510ed64a7253f2bd97973db665",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " \nM. Vasse, qui avait jadis dansé dans le monde, \nfaisait des grâces, et Madame le regardait \nd’un œil captivé, de cet œil qui répond « oui », \nun « oui » plus discret et plus délicieux qu’une parole ! "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Frédéric apporta le champagne. Le premier \nbouchon partit, et M. Philippe exécuta \nl’invitation d’un quadrille.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les quatre danseurs le marchèrent à la \nfaçon mondaine, convenablement, dignement, \navec des manières, des inclinations et des saluts.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Après quoi l’on se mit à boire. Alors \nM. Tournevau reparut, satisfait, soulagé, radieux. \nIl s’écria : — « Je ne sais pas ce qu’a \nRaphaële, mais elle est parfaite ce soir. » — \nPuis, comme on lui tendait un verre, il le vida \nd’un trait en murmurant : — « Bigre, rien \nque ça de luxe ! » \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Sur-le-champ, M. Philippe entama une \npolka vive, et M. Tournevau s’élança avec la \nbelle Juive qu’il tenait en l’air, sans laisser \nses pieds toucher terre. M. Pimpesse et \nM. Vasse étaient repartis d’un nouvel élan. \nDe temps en temps un des couples s’arrêtait \nprès de la cheminée pour lamper une flûte de \nvin mousseux ; et cette danse menaçait de \ns’éterniser, quand Rosa entr’ouvrit la porte \navec un bougeoir à la main. Elle était en cheveux, en savates, en chemise, tout animée, \ntoute rouge : — « Je veux danser », cria-t-elle. \nRaphaële demanda : — « Et ton vieux ? » — Rosa \ns’esclaffa : « Lui ? il dort déjà, il dort tout de \nsuite. » — Elle saisit M. Dupuis, resté sans \nemploi sur le divan, et la polka recommença.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mais les bouteilles étaient vides : — « J’en \npaie une », déclara M. Tournevau. — \n« Moi aussi », annonça M. Vasse. — « Moi \nde même, » conclut M. Dupuis. Alors tout \nle monde applaudit.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-maison-tellier",
+      "edition_id": "wikisource",
+      "page_sequence_number": 38,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "32bdeaccfbac46911402aa858a91e201f822b4c04e1bb1f077a612455e384111",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cela s’organisait, devenait un vrai bal. De \ntemps en temps même, Louise et Flora montaient \nbien vite, faisaient rapidement un tour \nde valse, pendant que leurs clients, en bas, \ns’impatientaient ; puis elles retournaient en \ncourant à leur café, avec le cœur gonflé de regrets.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "À minuit, on dansait encore. Parfois une \ndes filles disparaissait, et quand on la cherchait \npour faire un vis-à-vis, on s’apercevait \ntout à coup qu’un des hommes aussi manquait.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— « D’où venez-vous donc ? » demanda plaisamment M. Philippe, juste au moment \noù M. Pimpesse rentrait avec Fernande. — \n« De voir dormir M. Poulin, » répondit le \npercepteur. Le mot eut un succès énorme ; et \ntous, à tour de rôle, montaient voir dormir \nM. Poulin avec l’une ou l’autre des demoiselles, \nqui se montrèrent, cette nuit-là, d’une \ncomplaisance inconcevable. Madame fermait \nles yeux ; et elle avait dans les coins de \nlongs apartés avec M. Vasse comme pour régler \nles derniers détails d’une affaire entendue déjà.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Enfin, à une heure, les deux hommes mariés, \nM. Tournevau et M. Pimpesse, déclarèrent \nqu’ils se retiraient, et voulurent régler \nleur compte. On ne compta que le champagne, \net, encore, à six francs la bouteille au \nlieu de dix francs, prix ordinaire. Et comme \nils s’étonnaient de cette générosité, Madame, \nradieuse, leur répondit :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Ça n’est pas tous les jours fête. \n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

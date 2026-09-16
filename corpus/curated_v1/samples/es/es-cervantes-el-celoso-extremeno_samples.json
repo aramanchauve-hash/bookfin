@@ -1,0 +1,37 @@
+{
+  "work_id": "es-cervantes-el-celoso-extremeno",
+  "author": "Miguel de Cervantes",
+  "title": "El celoso extremeño",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 47,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 47,
+      "character_length": 1779,
+      "blocks_count": 5,
+      "preview": "EL CELOSO ESTREMEÑO.No ha muchos años que de un lugar de Estremadura salió un hidalgo, nacido de padres nobles, el cual como un otro pródigo, por diversas partes de España, Italia y Flándes anduvo gastando así los años como la hacienda; y al fin de muchas peregrinaciones (muertos ya sus padres y gastado su patrimonio) vino á parar á la gran ciudad de Sevilla, donde halló ocasion muy bastante para ...",
+      "content_hash": "c864695a027af6171bae31a0bd956a87017ee15a791bbda882cc58a615f491e8"
+    },
+    "middle": {
+      "label": "Milieu (Page 24)",
+      "page_sequence_number": 24,
+      "total_pages": 47,
+      "character_length": 1363,
+      "blocks_count": 3,
+      "preview": "Era mozo y de gentil disposicion y buen parecer, y como habia tanto tiempo que todas tenian hecha la vista á mirar al viejo de su amo, parecióles que miraban á un ángel. Poníase una al agujero para verle, y luego otra; y porque le pudiesen ver mejor, andaba el negro paseándole el cuerpo de arriba abajo con el torzal de cera encendido: y despues que todas le hubieron visto, hasta las negras bozales...",
+      "content_hash": "9bcca481f291cc4419f3d2db0d549ea4eff5ed63f954281455b6c6a482515dee"
+    },
+    "end": {
+      "label": "Fin (Page 47)",
+      "page_sequence_number": 47,
+      "total_pages": 47,
+      "character_length": 592,
+      "blocks_count": 2,
+      "preview": "Y yo quedé con el deseo de llegar al fin deste suceso, ejemplo y espejo de lo poco que hay que fiar de llaves, tornos y paredes, cuando queda la voluntad libre; y de lo ménos que hay que confiar de verdes y pocos años, si les andan al oido eshortaciones destas dueñas de monjil negro y tendido, y tocas blancas y luengas. Solo no sé qué fué la causa que Leonora no puso mas ahinco en disculparse y da...",
+      "content_hash": "e094ca347a35e1f027a3c0655d2b45eec815f2c677ebc070dfb2702f30c6c19b"
+    }
+  }
+}

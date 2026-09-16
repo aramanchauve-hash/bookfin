@@ -1,0 +1,744 @@
+{
+  "work_id": "fr-maupassant-deux-amis",
+  "author": "Guy de Maupassant",
+  "title": "Deux amis",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "wikisource",
+  "document_sha256": "1d257e7926b69abc1da4216c44f6585763d5276ed14985959be282559fbdfe12",
+  "source_sha256": "14e147bd743ba39271b6fbcabdcc5b6abcc6e7ae62f0812c2bf80fbc00894b69",
+  "document": {
+    "format": "bookfin.document.v1",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": " DEUX AMIS"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Paris était bloqué, affamé et râlant. Les moineaux se faisaient bien rares sur les toits, et les égouts se dépeuplaient. On mangeait n’importe quoi.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Comme il se promenait tristement par un clair matin de janvier le long du boulevard extérieur, les mains dans les poches de sa culotte d’uniforme et le ventre vide, M. Morissot, horloger de son état et pantouflard par occasion, s’arrêta net devant un confrère qu’il reconnut pour un ami. C’était M. Sauvage, une connaissance du bord de l’eau. \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Chaque dimanche, avant la guerre, Morissot partait dès l’aurore, une canne en\nbambou d’une main, une boîte en fer-blanc sur le dos. Il prenait le chemin de fer\nd’Argenteuil, descendait à Colombes, puis gagnait à pied l’île Marante. À peine arrivé en ce lieu de ses rêves, il se mettait à pêcher ; il pêchait jusqu’à la nuit.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Chaque dimanche, il rencontrait là un petit homme replet et jovial, M. Sauvage, mercier, rue Notre-Dame-de-Lorette, autre\npêcheur fanatique. Ils passaient souvent une demi-journée côte à côte, la ligne à la main et les pieds ballants au-dessus du\ncourant ; et ils s’étaient pris d’amitié l’un pour l’autre.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En certains jours, ils ne parlaient pas. Quelquefois ils causaient ; mais ils s’entendaient admirablement sans rien dire, ayant des goûts semblables et des sensations identiques.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Au printemps, le matin, vers dix heures, quand le soleil rajeuni faisait flotter sur le\nfleuve tranquille cette petite buée qui coule avec l’eau, et versait dans le dos des deux enragés pêcheurs une bonne chaleur de\nsaison nouvelle, Morissot parfois disait à son voisin : « Hein ! quelle douceur ! » et M. Sauvage répondait : « Je ne connais rien de meilleur. » Et cela leur suffisait pour se comprendre et s’estimer.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "À l’automne, vers la fin du jour, quand le ciel, ensanglanté par le soleil couchant, jetait dans l’eau des figures de nuages\nécarlates, empourprait le fleuve entier, enflammait l’horizon, faisait rouges comme du feu les deux amis, et dorait les arbres roussis déjà, frémissants d’un frisson d’hiver, M. Sauvage regardait en souriant\nMorissot et prononçait : « Quel spectacle ! » Et Morissot émerveillé répondait, sans quitter des yeux son flotteur : « Cela vaut mieux que le boulevard, \nhein ? » "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Dès qu’ils se furent reconnus, ils se serrèrent les mains énergiquement, tout émus de se retrouver en des circonstances si\ndifférentes. M. Sauvage, poussant un soupir, murmura : « En voilà des événements ! » Morissot, très morne, gémit : « Et quel temps ! C’est aujourd’hui le premier beau jour de l’année. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le ciel était, en effet, tout bleu et plein de lumière.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils se mirent à marcher côte à côte, rêveurs et tristes. Morissot reprit : « Et la\npêche ? hein ! quel bon souvenir ! » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage demanda : « Quand y retournerons-nous ? » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils entrèrent dans un petit café et burent ensemble une absinthe ; puis ils se\nremirent à se promener sur les trottoirs.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot s’arrêta soudain : « Une seconde verte, hein ? » M. Sauvage y consentit : « À votre disposition. » Et ils pénétrèrent chez un autre marchand de vins. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils étaient fort étourdis en sortant, troublés comme des gens à jeun dont le ventre\nest plein d’alcool. Il faisait doux. Une brise caressante leur chatouillait le visage.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage, que l’air tiède achevait de griser, s’arrêta : « Si on y allait ? » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Où ça ?\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— À la pêche, donc.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Mais où ?\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Mais à notre île. Les avant-postes français sont auprès de Colombes. Je connais le colonel Dumoulin ; on nous laissera passer facilement. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot frémit de désir : « C’est dit. J’en suis. » Et ils se séparèrent pour prendre leurs instruments.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Une heure après, ils marchaient côte à côte sur la grand’route. Puis ils gagnèrent la villa qu’occupait le colonel. Il sourit de leur demande et consentit à leur fantaisie.\nIls se remirent en marche, munis d’un laisser-passer. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Bientôt ils franchirent les avant-postes, traversèrent Colombes abandonné, et se\ntrouvèrent au bord des petits champs de vigne qui descendent vers la Seine. Il était environ onze heures.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En face, le village d’Argenteuil semblait\nmort. Les hauteurs d’Orgemont et de Sannois dominaient tout le pays. La grande plaine qui va jusqu’à Nanterre était vide, toute vide, avec ses cerisiers nus et ses terres grises.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage, montrant du doigt les sommets, murmura : « Les Prussiens sont là-haut ! » Et une inquiétude paralysait les deux amis devant ce pays désert.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "« Les Prussiens ! » Ils n’en avaient jamais aperçu, mais ils les sentaient là depuis\ndes mois, autour de Paris, ruinant la France, pillant, massacrant, affamant, invisibles et tout-puissants. Et une sorte de terreur superstitieuse s’ajoutait à la haine qu’ils\navaient pour ce peuple inconnu et victorieux. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot balbutia : « Hein ! si nous allions en rencontrer ? » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage répondit, avec cette gouaillerie parisienne reparaissant malgré tout :\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "« Nous leur offririons une friture. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais ils hésitaient à s’aventurer dans la \ncampagne, intimidés par le silence de tout l’horizon.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "À la fin, M. Sauvage se décida : « Allons, en route ! mais avec précaution. » Et ils descendirent dans un champ de vigne, courbés en deux, rampant, profitant des\nbuissons pour se couvrir, l’œil inquiet, l’oreille tendue.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Une bande de terre nue restait à traverser pour gagner le bord du fleuve. Ils\nse mirent à courir ; et dès qu’ils eurent atteint la berge, ils se blottirent dans les roseaux secs. \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot colla sa joue par terre pour écouter si on ne marchait pas dans les environs. Il n’entendit rien. Ils étaient bien seuls, tout seuls.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils se rassurèrent et se mirent à pêcher.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En face d’eux l’île Marante abandonnée les cachait à l’autre berge. La petite maison du restaurant était close, semblait délaissée depuis des années.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage prit le premier goujon, Morissot attrapa le second, et d’instant en\ninstant ils levaient leurs lignes avec une petite bête argentée frétillant au bout du fil : Une vraie pêche miraculeuse.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils introduisaient délicatement les poissons dans une poche de filet à mailles très serrées, qui trempait à leurs pieds. Et\nune joie délicieuse les pénétrait, cette joie qui vous saisit quand on retrouve un plaisir aimé dont on est privé depuis longtemps.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le bon soleil leur coulait sa chaleur entre les épaules ; ils n’écoutaient plus rien ; ils ne pensaient plus à rien ; ils ignoraient le reste du monde ; ils pêchaient.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais soudain un bruit sourd qui semblait venir de sous terre fit trembler le sol.\nLe canon se remettait à tonner.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot tourna la tête, et par-dessus la berge il aperçut, là-bas, sur la gauche, la grande silhouette du Mont-Valérien, qui portait au front une aigrette blanche, une\nbuée de poudre qu’il venait de cracher.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et aussitôt un second jet de fumée partit du sommet de la forteresse ; et quelques\ninstants après une nouvelle détonation gronda.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Puis d’autres suivirent, et de moment en moment, la montagne jetait son haleine\nde mort, soufflait ses vapeurs laiteuses qui\ns’élevaient lentement dans le ciel calme, faisaient un nuage au-dessus d’elle.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage haussa les épaules : « Voilà qu’ils recommencent, » dit-il.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot, qui regardait anxieusement plonger coup sur coup la plume de son flotteur, fut pris soudain d’une colère\nd’homme paisible contre ces enragés qui se battaient ainsi, et il grommela : « Faut-il être stupide pour se tuer comme ça. »\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage reprit : « C’est pis que des bêtes. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et Morissot, qui venait de saisir une ablette, déclara : « Et dire que ce sera\ntoujours ainsi tant qu’il y aura des gouvernements. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage l’arrêta : « La République n’aurait pas déclaré la guerre… » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot l’interrompit : « Avec les rois on a la guerre au dehors ; avec la République on a la guerre au dedans. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et tranquillement ils se mirent à discuter, débrouillant les grands problèmes politiques avec une raison saine d’hommes\ndoux et bornés, tombant d’accord sur ce point, qu’on ne serait jamais libres. Et le Mont-Valérien tonnait sans repos, démolissant à coups de boulet des maisons\nfrançaises, broyant des vies, écrasant des êtres, mettant fin à bien des rêves, à bien des joies attendues, à bien des bonheurs espérés, ouvrant en des cœurs de femmes, en des cœurs de filles, en des cœurs de mères, là-bas, en d’autres pays, des souffrances qui ne finiraient plus.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "« C’est la vie, » déclara M. Sauvage.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "« Dites plutôt que c’est la mort, » reprit en riant Morissot.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais ils tressaillirent effarés, sentant bien qu’on venait de marcher derrière\neux ; et ayant tourné les yeux, ils aperçurent, debout contre leurs épaules, quatre\nhommes, quatre grands hommes armés et barbus, vêtus comme des domestiques en livrée et coiffés de casquettes plates, les tenant en joue au bout de leurs fusils.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les deux lignes s’échappèrent de leurs\nmains et se mirent à descendre la rivière.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En quelques secondes, ils furent saisis, attachés, emportés, jetés dans une barque et passés dans l’île.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et derrière la maison qu’ils avaient crue abandonnée, ils aperçurent une vingtaine\nde soldats allemands.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Une sorte de géant velu, qui fumait, à cheval sur une chaise, une grande pipe de\nporcelaine, leur demanda, en excellent français : « Eh bien, messieurs, avez-vous\nfait bonne pêche ? » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors un soldat déposa aux pieds de l’officier le filet plein de poissons, qu’il\navait eu soin d’emporter. Le Prussien sourit : « Eh ! eh ! je vois que ça n’allait pas\nmal. Mais il s’agit d’autre chose. Écoutez-moi et ne vous troublez pas.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "« Pour moi, vous êtes deux espions envoyés pour me guetter. Je vous prends\net je vous fusille. Vous faisiez semblant de pêcher, afin de mieux dissimuler vos projets. Vous êtes tombés entre mes mains, tant pis pour vous ; c’est la guerre. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "« Mais comme vous êtes sortis par les avant-postes, vous avez assurément un mot d’ordre pour rentrer. Donnez-moi ce mot d’ordre et je vous fais grâce. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les deux amis, livides, côte à côte, les mains agitées d’un léger tremblement nerveux, se taisaient.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L’officier reprit : « Personne ne le saura jamais, vous rentrerez paisiblement.\nLe secret disparaîtra avec vous. Si vous refusez, c’est la mort, et tout de suite.\nChoisissez. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils demeuraient immobiles sans ouvrir la bouche.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le Prussien, toujours calme, reprit en étendant la main vers la rivière : « Songez que dans cinq minutes vous serez au fond de cette eau. Dans cinq minutes ! Vous\ndevez avoir des parents ? » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le Mont-Valérien tonnait toujours.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les deux pêcheurs restaient debout et silencieux. L’Allemand donna des ordres dans sa langue. Puis il changea sa chaise de place pour ne pas se trouver trop près des prisonniers ; et douze hommes vinrent se placer à vingt pas, le fusil au pied.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L’officier reprit : « Je vous donne une minute, pas deux secondes de plus. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Puis il se leva brusquement, s’approcha des deux Français, prit Morissot sous le bras, l’entraîna plus loin, lui dit à voix basse : « Vite, ce mot d’ordre ? Votre camarade ne saura rien, j’aurai l’air de m’attendrir. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Morissot ne répondit rien.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le Prussien entraîna alors M. Sauvage et lui posa la même question.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage ne répondit pas.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils se retrouvèrent côte à côte.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et l’officier se mit à commander. Les soldats élevèrent leurs armes.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors le regard de Morissot tomba par hasard sur le filet plein de goujons, resté\ndans l’herbe, à quelques pas de lui. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Un rayon de soleil faisait briller le tas de poissons qui s’agitaient encore. Et une défaillance l’envahit. Malgré ses efforts, ses yeux s’emplirent de larmes.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il balbutia : « Adieu, monsieur Sauvage. »\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage répondit : « Adieu, monsieur Morissot. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils se serrèrent la main, secoués des pieds à la tête par d’invincibles tremblements.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L’officier cria : Feu !\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les douze coups n’en firent qu’un.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Sauvage tomba d’un bloc sur le nez. Morissot, plus grand, oscilla, pivota et\ns’abattit en travers sur son camarade, le visage au ciel, tandis que des bouillons de\nsang s’échappaient de sa tunique crevée à la poitrine.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L’Allemand donna de nouveaux ordres.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ses hommes se dispersèrent, puis revinrent avec des cordes et des pierres qu’ils attachèrent aux pieds des deux morts ; puis ils les portèrent sur la berge.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le Mont-Valérien ne cessait pas de gronder, coiffé maintenant d’une montagne de\nfumée.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Deux soldats prirent Morissot par la tête\net par les jambes ; deux autres saisirent M. Sauvage de la même façon. Les corps, \nun instant balancés avec force, furent lancés au loin, décrivirent une courbe, puis plongèrent, debout, dans le fleuve, les\npierres entraînant les pieds d’abord.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L’eau rejaillit, bouillonna, frissonna, puis se calma, tandis que de toutes petites\nvagues s’en venaient jusqu’aux rives.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Un peu de sang flottait. \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L’officier, toujours serein, dit à mi-voix : « C’est le tour des poissons maintenant. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Puis il revint vers la maison.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et soudain il aperçut le filet aux goujons dans l’herbe. Il le ramassa, l’examina, sourit, cria : « Wilhem ! » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Un soldat accourut, en tablier blanc. Et le Prussien, lui jetant la pêche des deux\nfusillés, commanda : « Fais-moi frire tout de suite ces petits animaux-là pendant \nqu’ils sont encore vivants. Ce sera délicieux. » \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Puis il se remit à fumer sa pipe. \n"
+          }
+        ]
+      }
+    ]
+  }
+}

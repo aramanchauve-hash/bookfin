@@ -1,0 +1,1352 @@
+[
+  {
+    "work_id": "en-austen-pride-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "language": "en",
+    "page_count": 443,
+    "status": "BLOCK",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GUTENBERG_BOILERPLATE (1)"
+    ],
+    "hits": [
+      {
+        "category": "BOILERPLATE / PARATEXTE",
+        "signature": "GUTENBERG_BOILERPLATE",
+        "page_num": 443,
+        "context": "Transcriber's Note:\n\n\r\nSpelling and hyphen chang",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-austen-persuasion",
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "language": "en",
+    "page_count": 305,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-johnson-rasselas",
+    "title": "The History of Rasselas, Prince of Abissinia",
+    "author": "Samuel Johnson",
+    "language": "en",
+    "page_count": 148,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-sterne-sentimental-journey",
+    "title": "A Sentimental Journey Through France and Italy",
+    "author": "Laurence Sterne",
+    "language": "en",
+    "page_count": 141,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 69,
+        "context": "Tokens: ['LePOURet', 'leCONTREse'] in: The French officer told me, it was an illiberal sarcasm at t",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-browne-religio-medici",
+    "title": "Religio Medici",
+    "author": "Sir Thomas Browne",
+    "language": "en",
+    "page_count": 116,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (7)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 18,
+        "context": "Tokens: ['lineWhich', 'noneBut', 'meteorsBuild'] in: Search while thou wilt; and let thy reason go,To ransom trut",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 46,
+        "context": "Tokens: ['trackUp', 'poleThaws', 'impartAgain'] in: “As when the labouring sun hath wrought his trackUp to the t",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 62,
+        "context": "Tokens: ['waysTo'] in: “Victurosque Dei celant ut vivere durent,Felix esse mori.”[X",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 65,
+        "context": "Tokens: ['astraMisturus'] in: “Communis mundo superest rogus, ossibus astraMisturus——”[XIV",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 92,
+        "context": "Tokens: ['EscossoisLe'] in: Le mutin Anglois, et le bravache EscossoisLe bougre Italien,",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 111,
+        "context": "Tokens: ['meThe'] in: The night is come, like to the day;Depart not thou, great Go",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 112,
+        "context": "Tokens: ['runMy', 'headOn', 'meAwake'] in:  wrought,Awake into some holy thought,And with as active vig",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-browne-hydriotaphia",
+    "title": "Hydriotaphia, Urn Burial",
+    "author": "Sir Thomas Browne",
+    "language": "en",
+    "page_count": 58,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-hazlitt-table-talk",
+    "title": "Table-Talk",
+    "author": "William Hazlitt",
+    "language": "en",
+    "page_count": 591,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "FACSIMILE_TOKEN (2)",
+      "PAGINA_NUM (1)"
+    ],
+    "hits": [
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "FACSIMILE_TOKEN",
+        "page_num": 8,
+        "context": "exact and wonderful facsimile of nature, and I\r\n ",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "FACSIMILE_TOKEN",
+        "page_num": 8,
+        "context": "s I could) an exact facsimile of nature.\r\n I did ",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PAGINA_NUM",
+        "page_num": 238,
+        "context": "\r\n At page 53 we find the followi",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-gissing-henry-ryecroft",
+    "title": "The Private Papers of Henry Ryecroft",
+    "author": "George Gissing",
+    "language": "en",
+    "page_count": 230,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-james-portrait-of-a-lady",
+    "title": "The Portrait of a Lady",
+    "author": "Henry James",
+    "language": "en",
+    "page_count": 833,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-james-turn-of-the-screw",
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "language": "en",
+    "page_count": 147,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-james-daisy-miller",
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "language": "en",
+    "page_count": 79,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-james-beast-in-the-jungle",
+    "title": "The Beast in the Jungle",
+    "author": "Henry James",
+    "language": "en",
+    "page_count": 65,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-james-aspern-papers",
+    "title": "The Aspern Papers",
+    "author": "Henry James",
+    "language": "en",
+    "page_count": 136,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-mirbeau-journal-femme-chambre",
+    "title": "Le Journal d'une femme de chambre",
+    "author": "Octave Mirbeau",
+    "language": "fr",
+    "page_count": 420,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-maupassant-bel-ami",
+    "title": "Bel-Ami",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 381,
+    "status": "BLOCK",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (4)",
+      "SOFT_HYPHEN_U00AD (1)"
+    ],
+    "hits": [
+      {
+        "category": "CANONICAL CONTENT",
+        "signature": "SOFT_HYPHEN_U00AD",
+        "page_num": 3,
+        "context": "Comment se présen­terait-elle ? Il n’en savait rien, mais il l’attendait depuis ",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 143,
+        "context": "Tokens: ['problèmeDans'] in: Et je cherche le mot de cet obscur problèmeDans le ciel noir",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 259,
+        "context": "Tokens: ['VieFrançaise'] in: Depuis quelque temps, elle se faisait des relations, usant d",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 281,
+        "context": "Tokens: ['VieFrançaise'] in: L’automne était venu. Les Du Roy avaient passé à Paris tout ",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 308,
+        "context": "Tokens: ['MmeClaire'] in: Le notaire ajouta : — C’est tout. Cette pièce est datée du m",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-maupassant-pierre-et-jean",
+    "title": "Pierre et Jean",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 174,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-maupassant-la-parure",
+    "title": "La Parure",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 10,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-maupassant-la-ficelle",
+    "title": "La Ficelle",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 8,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-maupassant-deux-amis",
+    "title": "Deux amis",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 8,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-maupassant-le-horla",
+    "title": "Le Horla",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 34,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-maupassant-boule-de-suif",
+    "title": "Boule de Suif",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 55,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-maupassant-la-maison-tellier",
+    "title": "La Maison Tellier",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "page_count": 38,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-schwob-vies-imaginaires",
+    "title": "Vies imaginaires",
+    "author": "Marcel Schwob",
+    "language": "fr",
+    "page_count": 113,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 7,
+        "context": "Tokens: ['MeurRenatus'] in: MeurRenatus Des Cartes.",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-schwob-livre-de-monelle",
+    "title": "Le Livre de Monelle",
+    "author": "Marcel Schwob",
+    "language": "fr",
+    "page_count": 75,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-schwob-croisade-des-enfants",
+    "title": "La Croisade des enfants",
+    "author": "Marcel Schwob",
+    "language": "fr",
+    "page_count": 23,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-lesage-diable-boiteux",
+    "title": "Le Diable boiteux",
+    "author": "Alain-René Lesage",
+    "language": "fr",
+    "page_count": 384,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "PAGINA_NUM (1)",
+      "HTML_NAVIGATION (1)"
+    ],
+    "hits": [
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PAGINA_NUM",
+        "page_num": 5,
+        "context": "[2] Voy. Tome II, page 198.",
+        "is_false_positive": false
+      },
+      {
+        "category": "BOILERPLATE / PARATEXTE",
+        "signature": "HTML_NAVIGATION",
+        "page_num": 327,
+        "context": "it contenu\r\ndans le chapitre suivant.",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-cervantes-quijote",
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "page_count": 1343,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-cervantes-rinconete-y-cortadillo",
+    "title": "Rinconete y Cortadillo",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "page_count": 47,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-cervantes-la-gitanilla",
+    "title": "La gitanilla",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "page_count": 81,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-cervantes-el-licenciado-vidriera",
+    "title": "El licenciado Vidriera",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "page_count": 34,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-cervantes-el-celoso-extremeno",
+    "title": "El celoso extremeño",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "page_count": 47,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-cervantes-el-coloquio-de-los-perros",
+    "title": "El coloquio de los perros",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "page_count": 82,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-quiroga-a-la-deriva",
+    "title": "A la deriva",
+    "author": "Horacio Quiroga",
+    "language": "es",
+    "page_count": 4,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-quiroga-el-almohadon-de-plumas",
+    "title": "El almohadón de plumas",
+    "author": "Horacio Quiroga",
+    "language": "es",
+    "page_count": 5,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-quiroga-la-insolacion",
+    "title": "La insolación",
+    "author": "Horacio Quiroga",
+    "language": "es",
+    "page_count": 9,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-merimee-mateo-falcone",
+    "title": "Mateo Falcone",
+    "author": "Prosper Mérimée",
+    "language": "fr",
+    "page_count": 16,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-merimee-carmen",
+    "title": "Carmen",
+    "author": "Prosper Mérimée",
+    "language": "fr",
+    "page_count": 81,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-daudet-chevre-seguin",
+    "title": "La chèvre de monsieur Seguin",
+    "author": "Alphonse Daudet",
+    "language": "fr",
+    "page_count": 7,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-daudet-secret-cornille",
+    "title": "Le secret de maître Cornille",
+    "author": "Alphonse Daudet",
+    "language": "fr",
+    "page_count": 8,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-daudet-trois-messes-basses",
+    "title": "Les trois messes basses",
+    "author": "Alphonse Daudet",
+    "language": "fr",
+    "page_count": 11,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-poe-tell-tale-heart",
+    "title": "The Tell-Tale Heart",
+    "author": "Edgar Allan Poe",
+    "language": "en",
+    "page_count": 7,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-poe-cask-amontillado",
+    "title": "The Cask of Amontillado",
+    "author": "Edgar Allan Poe",
+    "language": "en",
+    "page_count": 8,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 8,
+        "context": "Tokens: ['domainPublic'] in: Public domainPublic domainfalsefalse",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-poe-oval-portrait",
+    "title": "The Oval Portrait",
+    "author": "Edgar Allan Poe",
+    "language": "en",
+    "page_count": 5,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 5,
+        "context": "Tokens: ['domainPublic'] in: Public domainPublic domainfalsefalse",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-doyle-scandal-bohemia",
+    "title": "A Scandal in Bohemia",
+    "author": "Arthur Conan Doyle",
+    "language": "en",
+    "page_count": 31,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-doyle-red-headed-league",
+    "title": "The Red-Headed League",
+    "author": "Arthur Conan Doyle",
+    "language": "en",
+    "page_count": 33,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-london-to-build-a-fire",
+    "title": "To Build a Fire",
+    "author": "Jack London",
+    "language": "en",
+    "page_count": 26,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 26,
+        "context": "Tokens: ['domainPublic'] in: Public domainPublic domainfalsefalse",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-henry-gift-of-the-magi",
+    "title": "The Gift of the Magi",
+    "author": "O. Henry",
+    "language": "en",
+    "page_count": 7,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-henry-last-leaf",
+    "title": "The Last Leaf",
+    "author": "O. Henry",
+    "language": "en",
+    "page_count": 8,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-saki-open-window",
+    "title": "The Open Window",
+    "author": "Saki (H. H. Munro)",
+    "language": "en",
+    "page_count": 4,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-chopin-story-of-an-hour",
+    "title": "The Story of an Hour",
+    "author": "Kate Chopin",
+    "language": "en",
+    "page_count": 4,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 4,
+        "context": "Tokens: ['domainPublic'] in: Public domainPublic domainfalsefalse",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "en-lamb-essays-of-elia",
+    "title": "Essays of Elia",
+    "author": "Charles Lamb",
+    "language": "en",
+    "page_count": 262,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-wilde-dorian-gray",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "language": "en",
+    "page_count": 278,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "en-melville-bartleby",
+    "title": "Bartleby, the Scrivener",
+    "author": "Herman Melville",
+    "language": "en",
+    "page_count": 53,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "fr-diderot-jacques-le-fataliste",
+    "title": "Jacques le fataliste et son maître",
+    "author": "Denis Diderot",
+    "language": "fr",
+    "page_count": 329,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 327,
+        "context": "Tokens: ['deSaint'] in:  On lui fit plusieurs fois la ponction, et il rendit 92 pint",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-diderot-neveu-de-rameau",
+    "title": "Le Neveu de Rameau",
+    "author": "Denis Diderot",
+    "language": "fr",
+    "page_count": 112,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 1,
+        "context": "Tokens: ['eReader'] in: is available at http://www.ebooksgratuits.com in Word format",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-nerval-aurelia",
+    "title": "Aurélia ou le Rêve et la Vie",
+    "author": "Gérard de Nerval",
+    "language": "fr",
+    "page_count": 86,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)",
+      "FACSIMILE_TOKEN (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 1,
+        "context": "Tokens: ['auréliaLachenal'] in: auréliaLachenal& Ritter23 ET 25 QUAI VOLTAIRE, PARIS 7",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "FACSIMILE_TOKEN",
+        "page_num": 3,
+        "context": " ont été publiés en fac-similé par Jean Richer, Le",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-barbey-les-diaboliques",
+    "title": "Les Diaboliques",
+    "author": "Jules Barbey d'Aurevilly",
+    "language": "fr",
+    "page_count": 371,
+    "status": "BLOCK",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GUTENBERG_BOILERPLATE (1)"
+    ],
+    "hits": [
+      {
+        "category": "BOILERPLATE / PARATEXTE",
+        "signature": "GUTENBERG_BOILERPLATE",
+        "page_num": 371,
+        "context": "End of Project Gutenberg's Les diaboliques, by Jules A",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-huysmans-a-rebours",
+    "title": "À rebours",
+    "author": "Joris-Karl Huysmans",
+    "language": "fr",
+    "page_count": 284,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)",
+      "DUPLICATED_ADJACENT_BLOCK (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 118,
+        "context": "Tokens: ['deNotre'] in: Ici, des Esseintes reprenait pied. Certes, il était satisfai",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "DUPLICATED_ADJACENT_BLOCK",
+        "page_num": 163,
+        "context": ". . . . . . . . . . . . . . . . . . . . . . . . . ",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-bloy-histoires-desobligeantes",
+    "title": "Histoires désobligeantes",
+    "author": "Léon Bloy",
+    "language": "fr",
+    "page_count": 194,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (3)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 18,
+        "context": "Tokens: ['lePaindans'] in: Son idée fixe était de jeter lePaindans les latrines !\n",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 112,
+        "context": "Tokens: ['monsieurRenard'] in: — C’est vrai, fit-il, je m’entends à la plaisanterie.\nJ’ai f",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 171,
+        "context": "Tokens: ['tutumJuvénal'] in: Sanctum nihil est et ab inguine tutumJuvénal, Sat. III.",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-stendhal-chartreuse-de-parme",
+    "title": "La Chartreuse de Parme",
+    "author": "Stendhal",
+    "language": "fr",
+    "page_count": 684,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 271,
+        "context": "Tokens: ['CroyezA'] in: Les lettres finies, Fabrice écrivit un A et un B à la derniè",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "fr-stendhal-chroniques-italiennes",
+    "title": "Chroniques italiennes",
+    "author": "Stendhal",
+    "language": "fr",
+    "page_count": 279,
+    "status": "BLOCK",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "RESIDUAL_HTML_TAG (2)",
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 42,
+        "context": "Tokens: ['deValmontone'] in: Il faut savoir que les Orsini, éternels rivaux des Colonna, ",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "RESIDUAL_HTML_TAG",
+        "page_num": 158,
+        "context": "Tags found: ['<Maintenant il faut mourir.>'] in: Ils cherchèrent d’abord la personne de la duchesse, et, l’ay",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "RESIDUAL_HTML_TAG",
+        "page_num": 166,
+        "context": "Tags found: ['<Vingt ou trente personnes.>'] in: On lui demanda quel nombre de gens avait avec lui le prince ",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-quevedo-los-suenos",
+    "title": "Los sueños",
+    "author": "Francisco de Quevedo",
+    "language": "es",
+    "page_count": 262,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "PG_NUM (12)",
+      "GLUED_CASE (3)"
+    ],
+    "hits": [
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 6,
+        "context": "sta justa venganza, pág. 37).",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 12,
+        "context": "a Nacional (T. 153, pág. 236) hay tres\npliegos c",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 12,
+        "context": "ms. de la Nacional (pág. 240),\ndebe leerse: Nifr",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 41,
+        "context": "[21]Satyricon, pág. 368, edic. Michaele Had",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 67,
+        "context": " la justa venganza, pág. 125, llama la atención\n",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 69,
+        "context": "s, edición de 1840, pág. 387).",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 133,
+        "context": "Tokens: ['deCerv'] in: [203]Talle deCerv., Cuev. de Salam.: “Así tiene el talle\nde ",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 143,
+        "context": "astellanos, tomo I,\npág. 399).",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 150,
+        "context": " las Cortes, L. 31, pág. 95.",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 151,
+        "context": " las Cortes, L. 31, pág 95. Acaso deba leerse ",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 151,
+        "context": "Tokens: ['SiccardoEugubino'] in: [266]Un triste autor. Llámale Quevedo Cicardo Eubino\nen toda",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 164,
+        "context": "e las Cortes, F. 3, pág. 109; L. 31, pág. 98).",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 164,
+        "context": "3, pág. 109; L. 31, pág. 98).",
+        "is_false_positive": false
+      },
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 166,
+        "context": "astellanos (tomo 1, pág. 428, impresión de 1840)",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 169,
+        "context": "Tokens: ['sigloXVI'] in: [342]Sietedurmiente, muy dormilón, aludiendo a los sietedurm",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-quevedo-el-buscon",
+    "title": "Historia de la vida del Buscón",
+    "author": "Francisco de Quevedo",
+    "language": "es",
+    "page_count": 152,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-larra-el-doncel",
+    "title": "El doncel de don Enrique el Doliente",
+    "author": "Mariano José de Larra",
+    "language": "es",
+    "page_count": 409,
+    "status": "BLOCK",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "GUTENBERG_BOILERPLATE (4)",
+      "DUPLICATED_ADJACENT_BLOCK (2)"
+    ],
+    "hits": [
+      {
+        "category": "BOILERPLATE / PARATEXTE",
+        "signature": "GUTENBERG_BOILERPLATE",
+        "page_num": 1,
+        "context": "ils/eldonceldedonenr01larr\n\n\n Project Gutenberg has the other three volumes o",
+        "is_false_positive": false
+      },
+      {
+        "category": "BOILERPLATE / PARATEXTE",
+        "signature": "GUTENBERG_BOILERPLATE",
+        "page_num": 98,
+        "context": "ils/eldonceldedonenr02larr\n\n\n Project Gutenberg has the other three volumes o",
+        "is_false_positive": false
+      },
+      {
+        "category": "BOILERPLATE / PARATEXTE",
+        "signature": "GUTENBERG_BOILERPLATE",
+        "page_num": 206,
+        "context": "ils/eldonceldedonenr03larr\n\n\n Project Gutenberg has the other three volumes o",
+        "is_false_positive": false
+      },
+      {
+        "category": "BOILERPLATE / PARATEXTE",
+        "signature": "GUTENBERG_BOILERPLATE",
+        "page_num": 303,
+        "context": "ils/eldonceldedonenr04larr\n\n\n Project Gutenberg has the other three volumes o",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "DUPLICATED_ADJACENT_BLOCK",
+        "page_num": 378,
+        "context": "—Amen.",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "DUPLICATED_ADJACENT_BLOCK",
+        "page_num": 378,
+        "context": "—Amen.",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-clarin-adios-cordera",
+    "title": "¡Adiós, Cordera! y otros cuentos",
+    "author": "Leopoldo Alas (Clarín)",
+    "language": "es",
+    "page_count": 14,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "DUPLICATED_ADJACENT_BLOCK (2)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "DUPLICATED_ADJACENT_BLOCK",
+        "page_num": 12,
+        "context": "—¡Adiós, Cordera!\n",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "DUPLICATED_ADJACENT_BLOCK",
+        "page_num": 12,
+        "context": "—¡Adiós, Cordera!...\n",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-pardo-bazan-los-pazos-de-ulloa",
+    "title": "Los pazos de Ulloa",
+    "author": "Emilia Pardo Bazán",
+    "language": "es",
+    "page_count": 320,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-galdos-misericordia",
+    "title": "Misericordia",
+    "author": "Benito Pérez Galdós",
+    "language": "es",
+    "page_count": 304,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-galdos-dona-perfecta",
+    "title": "Doña Perfecta",
+    "author": "Benito Pérez Galdós",
+    "language": "es",
+    "page_count": 248,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-unamuno-niebla",
+    "title": "Niebla",
+    "author": "Miguel de Unamuno",
+    "language": "es",
+    "page_count": 199,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "PG_NUM (1)"
+    ],
+    "hits": [
+      {
+        "category": "MARQUEURS DOCUMENTAIRES",
+        "signature": "PG_NUM",
+        "page_num": 2,
+        "context": "ela o nivola\n(véase pág. 158)—y conste que esto ",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-unamuno-san-manuel-bueno-martir",
+    "title": "San Manuel Bueno, mártir",
+    "author": "Miguel de Unamuno",
+    "language": "es",
+    "page_count": 48,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  },
+  {
+    "work_id": "es-valle-inclan-sonata-otono",
+    "title": "Sonata de otoño (Memorias del Marqués de Bradomín)",
+    "author": "Ramón del Valle-Inclán",
+    "language": "es",
+    "page_count": 76,
+    "status": "BLOCK",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "DUPLICATED_ADJACENT_BLOCK (1)",
+      "RESIDUAL_HTML_TAG (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "DUPLICATED_ADJACENT_BLOCK",
+        "page_num": 18,
+        "context": "—¡Mi vida!",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "RESIDUAL_HTML_TAG",
+        "page_num": 76,
+        "context": "Tags found: ['<img alt=\"OPERA OMNIA </body>'] in: <img alt=\"OPERA OMNIA </body>",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-valle-inclan-sonata-primavera",
+    "title": "Sonata de primavera",
+    "author": "Ramón del Valle-Inclán",
+    "language": "es",
+    "page_count": 70,
+    "status": "REVIEW",
+    "layer": "SOURCE / NORMALIZER",
+    "anomalies": [
+      "DUPLICATED_ADJACENT_BLOCK (1)",
+      "GLUED_CASE (1)"
+    ],
+    "hits": [
+      {
+        "category": "STRUCTURE",
+        "signature": "DUPLICATED_ADJACENT_BLOCK",
+        "page_num": 39,
+        "context": "-¡Edificante!\n",
+        "is_false_positive": false
+      },
+      {
+        "category": "STRUCTURE",
+        "signature": "GLUED_CASE",
+        "page_num": 63,
+        "context": "Tokens: ['contemPlando'] in: -¡Hasta las rosas se mueren por besar vuestras manos!\nElla, ",
+        "is_false_positive": false
+      }
+    ]
+  },
+  {
+    "work_id": "es-valle-inclan-luces-de-bohemia",
+    "title": "Luces de bohemia (esperpento)",
+    "author": "Ramón del Valle-Inclán",
+    "language": "es",
+    "page_count": 68,
+    "status": "PASS",
+    "layer": "NONE",
+    "anomalies": [],
+    "hits": []
+  }
+]

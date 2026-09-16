@@ -1,0 +1,1263 @@
+{
+  "work_id": "en-browne-hydriotaphia",
+  "author": "Sir Thomas Browne",
+  "title": "Hydriotaphia, Urn Burial",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "document_sha256": "156c569f2b5b0a02ae69ab65a91c37eaa86ea83f792024175ef7d92787a590a6",
+  "source_sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd",
+  "document": {
+    "format": "bookfin.document.v1",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "HYDRIOTAPHIA."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "URN BURIAL; OR, A DISCOURSE OF THE SEPULCHRAL URNS\r\nLATELY FOUND IN NORFOLK."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "TO MY WORTHY AND HONOURED FRIEND,\nTHOMAS LE GROS,\n\r\n\r\nOF CROSTWICK, ESQUIRE."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "WHEN the general pyre was out, and the last\r\nvalediction over, men took a lasting adieu of\r\ntheir interred friends, little expecting the\r\ncuriosity of future ages should comment upon their\r\nashes; and, having no old experience of the duration\r\nof their relicks, held no opinion of such after-considerations."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But who knows the fate of his bones, or how often he\r\nis to be buried? Who hath the oracle of his ashes, or\r\nwhither they are to be scattered? The relicks of many\r\nlie like the ruins of Pompey’s,[XXI.] in all parts of the earth;\r\nand when they arrive at your hands these may seem to\r\nhave wandered far, who, in a direct and meridian travel,[XXII.]\r\nhave but few miles of known earth between yourself\r\nand the pole."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That the bones of Theseus should be seen again in\r\nAthens[XXIII.] was not beyond conjecture and hopeful expectation:\r\nbut that these should arise so opportunely to serve\r\nyourself was an hit of fate, and honour beyond prediction."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "We cannot but wish these urns might have the effect\r\nof theatrical vessels and great Hippodrome urns[XXIV.] in\r\nRome, to resound the acclamations and honour due unto\r\nyou. But these are sad and sepulchral pitchers, which\r\nhave no joyful voices; silently expressing old mortality,\r\nthe ruins of forgotten times, and can only speak with\r\nlife, how long in this corruptible frame some parts may\r\nbe uncorrupted; yet able to outlast bones long unborn,\r\nand noblest pile among us."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "We present not these as any strange sight or spectacle\r\nunknown to your eyes, who have beheld the best of\r\nurns and noblest variety of ashes; who are yourself no\r\nslender master of antiquities, and can daily command\r\nthe view of so many imperial faces; which raiseth your\r\nthoughts unto old things and consideration of times\r\nbefore you, when even living men were antiquities;\r\nwhen the living might exceed the dead, and to depart\r\nthis world could not be properly said to go unto the\r\ngreater number.[XXV.] And so run up your thoughts upon\r\nthe ancient of days, the antiquary’s truest object, unto\r\nwhom the eldest parcels are young, and earth itself an\r\ninfant, and without Egyptian[XXVI.] account makes but small\r\nnoise in thousands."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "We were hinted by the occasion, not catched the\r\nopportunity to write of old things, or intrude upon the\r\nantiquary. We are coldly drawn unto discourses of\r\nantiquities, who have scarce time before us to comprehend\r\nnew things, or make out learned novelties. But\r\nseeing they arose, as they lay almost in silence among\r\nus, at least in short account suddenly passed over, we\r\nwere very unwilling they should die again, and be\r\nburied twice among us."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Beside, to preserve the living, and make the dead to\r\nlive, to keep men out of their urns, and discourse of\r\nhuman fragments in them, is not impertinent unto our\r\nprofession; whose study is life and death, who daily\r\nbehold examples of mortality, and of all men least need\r\nartificial "
+          },
+          {
+            "text": "mementos",
+            "italic": true
+          },
+          {
+            "text": ", or coffins by our bedside, to mind us\r\nof our graves."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "’Tis time to observe occurrences, and let nothing\r\nremarkable escape us: the supinity of elder days hath\r\nleft so much in silence, or time hath so martyred the\r\nrecords, that the most industrious heads do find no easy\r\nwork to erect a new Britannia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "’Tis opportune to look back upon old times, and contemplate\r\nour forefathers. Great examples grow thin,\r\nand to be fetched from the passed world. Simplicity\r\nflies away, and iniquity comes at long strides upon us.\r\nWe have enough to do to make up ourselves from\r\npresent and passed times, and the whole stage of things\r\nscarce serveth for our instruction. A complete piece of\r\nvirtue must be made from the Centos of all ages, as all\r\nthe beauties of Greece could make but one handsome\r\nVenus."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "When the bones of King Arthur were digged up,[XXVII.] the\r\nold race might think they beheld therein some originals\r\nof themselves; unto these of our urns none here can\r\npretend relation, and can only behold the relicks of\r\nthose persons who, in their life giving the laws unto\r\ntheir predecessors, after long obscurity, now lie at their\r\nmercies. But, remembering the early civility they\r\nbrought upon these countries, and forgetting long-passed\r\nmischiefs, we mercifully preserve their bones, and piss\r\nnot upon their ashes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "In the offer of these antiquities we drive not at\r\nancient families, so long outlasted by them. We are\r\nfar from erecting your worth upon the pillars of your\r\nforefathers, whose merits you illustrate. We honour\r\nyour old virtues, conformable unto times before you,\r\nwhich are the noblest armoury. And, having long\r\nexperience of your friendly conversation, void of empty\r\nformality, full of freedom, constant and generous\r\nhonesty, I look upon you as a gem of the old rock,[XXVIII.]\r\nand must profess myself even to urn and ashes.—Your\r\never faithful Friend and Servant,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Thomas Browne.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Norwich, "
+          },
+          {
+            "text": "May 1st",
+            "italic": true
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "HYDRIOTAPHIA."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "spans": [
+          {
+            "text": "CHAPTER I."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "IN the deep discovery of the subterranean world\r\na shallow part would satisfy some inquirers;\r\nwho, if two or three yards were open about\r\nthe surface, would not care to rake the bowels of Potosi,[XXIX.]\r\nand regions toward the centre. Nature hath furnished\r\none part of the earth, and man another. The treasures\r\nof time lie high, in urns, coins, and monuments, scarce\r\nbelow the roots of some vegetables. Time hath endless\r\nrarities, and shows of all varieties; which reveals old\r\nthings in heaven, makes new discoveries in earth, and\r\neven earth itself a discovery. That great antiquity\r\nAmerica lay buried for thousands of years, and a large\r\npart of the earth is still in the urn unto us."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Though if Adam were made out of an extract of the\r\nearth, all parts might challenge a restitution, yet few\r\nhave returned their bones far lower than they might\r\nreceive them; not affecting the graves of giants, under\r\nhilly and heavy coverings, but content with less than\r\ntheir own depth, have wished their bones might lie\r\nsoft, and the earth be light upon them. Even such as\r\nhope to rise again, would not be content with central\r\ninterment, or so desperately to place their relicks as to\r\nlie beyond discovery; and in no way to be seen again;\r\nwhich happy contrivance hath made communication\r\nwith our forefathers, and left unto our view some parts,\r\nwhich they never beheld themselves."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Though earth hath engrossed the name, yet water\r\nhath proved the smartest grave; which in forty days\r\nswallowed almost mankind, and the living creation;\r\nfishes not wholly escaping, except the salt ocean were\r\nhandsomely contempered by a mixture of the fresh\r\nelement."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Many have taken voluminous pains to determine the\r\nstate of the soul upon disunion; but men have been\r\nmost phantastical in the singular contrivances of their\r\ncorporal dissolution: whilst the soberest nations have\r\nrested in two ways, of simple inhumation and burning."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That carnal interment or burying was of the elder\r\ndate, the old examples of Abraham and the patriarchs\r\nare sufficient to illustrate; and were without competition,\r\nif it could be made out that Adam was buried\r\nnear Damascus, or Mount Calvary, according to some\r\ntradition. God himself, that buried but one, was pleased\r\nto make choice of this way, collectible from Scripture\r\nexpression, and the hot contest between Satan and the\r\narchangel about discovering the body of Moses. But\r\nthe practice of burning was also of great antiquity, and\r\nof no slender extent. For (not to derive the same from\r\nHercules) noble descriptions there are hereof in the\r\nGrecian funerals of Homer, in the formal obsequies of\r\nPatroclus and Achilles; and somewhat elder in the\r\nTheban war, and solemn combustion of Meneceus, and\r\nArchemorus, contemporary unto Jair the eighth judge\r\nof Israel. Confirmable also among the Trojans, from\r\nthe funeral pyre of Hector, burnt before the gates of\r\nTroy: and the burning of Penthesilea the Amazonian\r\nqueen: and long continuance of that practice, in the\r\ninward countries of Asia; while as low as the reign of\r\nJulian, we find that the king of Chionia[XXX.] burnt the\r\nbody of his son, and interred the ashes in a silver urn."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The same practice extended also far west; and\r\nbesides Herulians, Getes, and Thracians, was in use\r\nwith most of the Celtæ, Sarmatians, Germans, Gauls,\r\nDanes, Swedes, Norwegians; not to omit some use\r\nthereof among Carthaginians and Americans. Of\r\ngreater antiquity among the Romans than most opinion,\r\nor Pliny seems to allow: for (besides the old table laws[XXXI.]\r\nof burning or burying within the city, of making the\r\nfuneral fire with planed wood, or quenching the fire\r\nwith wine), Manlius the consul burnt the body of his\r\nson: Numa, by special clause of his will, was not burnt\r\nbut buried; and Remus was solemnly burned, according\r\nto the description of Ovid.[XXXII.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cornelius Sylla was not the first whose body was\r\nburned in Rome, but the first of the Cornelian family;\r\nwhich being indifferently, not frequently used before;\r\nfrom that time spread, and became the prevalent\r\npractice. Not totally pursued in the highest run of\r\ncremation; for when even crows were funerally burnt,\r\nPoppæa the wife of Nero found a peculiar grave interment.\r\nNow as all customs were founded upon some\r\nbottom of reason, so there wanted not grounds for this;\r\naccording to several apprehensions of the most rational\r\ndissolution. Some being of the opinion of Thales, that\r\nwater was the original of all things, thought it most\r\nequal[103] to submit unto the principle of putrefaction, and\r\nconclude in a moist relentment.[104] Others conceived it\r\nmost natural to end in fire, as due unto the master\r\nprinciple in the composition, according to the doctrine\r\nof Heraclitus; and therefore heaped up large piles,\r\nmore actively to waft them toward that element,\r\nwhereby they also declined a visible degeneration into\r\nworms, and left a lasting parcel of their composition."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Some apprehended a purifying virtue in fire, refining\r\nthe grosser commixture, and firing out the æthereal\r\nparticles so deeply immersed in it. And such as by\r\ntradition or rational conjecture held any hint of the\r\nfinal pyre of all things; or that this element at last\r\nmust be too hard for all the rest; might conceive most\r\nnaturally of the fiery dissolution. Others pretending\r\nno natural grounds, politickly declined the malice of\r\nenemies upon their buried bodies. Which consideration\r\nled Sylla unto this practice; who having thus served\r\nthe body of Marius, could not but fear a retaliation\r\nupon his own; entertained after in the civil wars, and\r\nrevengeful contentions of Rome."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But as many nations embraced, and many left it indifferent,\r\nso others too much affected, or strictly declined\r\nthis practice. The Indian Brachmans seemed\r\ntoo great friends unto fire, who burnt themselves alive\r\nand thought it the noblest way to end their days in\r\nfire; according to the expression of the Indian, burning\r\nhimself at Athens, in his last words upon the pyre\r\nunto the amazed spectators, “thus I make myself immortal.”[XXXIII.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But the Chaldeans, the great idolaters of fire, abhorred\r\nthe burning of their carcases, as a pollution of\r\nthat deity. The Persian magi declined it upon the\r\nlike scruples, and being only solicitous about their bones,\r\nexposed their flesh to the prey of birds and dogs. And\r\nthe Persees now in India, which expose their bodies\r\nunto vultures, and endure not so much as "
+          },
+          {
+            "text": "feretra",
+            "italic": true
+          },
+          {
+            "text": " or\r\nbiers of wood, the proper fuel of fire, are led on with such\r\nniceties. But whether the ancient Germans, who burned\r\ntheir dead, held any such fear to pollute their deity of\r\nHerthus, or the earth, we have no authentic conjecture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The Egyptians were afraid of fire, not as a deity, but\r\na devouring element, mercilessly consuming their\r\nbodies, and leaving too little of them; and therefore\r\nby precious embalmments, depositure in dry earths, or\r\nhandsome inclosure in glasses, contrived the notablest\r\nways of integral conservation. And from such Egyptian\r\nscruples, imbibed by Pythagoras, it may be conjectured\r\nthat Numa and the Pythagorical sect first\r\nwaived the fiery solution."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The Scythians, who swore by wind and sword, that\r\nis, by life and death, were so far from burning their\r\nbodies, that they declined all interment, and made their\r\ngraves in the air: and the Ichthyophagi, or fish-eating\r\nnations about Egypt, affected the sea for their grave;\r\nthereby declining visible corruption, and restoring the\r\ndebt of their bodies. Whereas the old heroes, in\r\nHomer, dreaded nothing more than water or drowning;\r\nprobably upon the old opinion of the fiery substance of\r\nthe soul, only extinguishable by that element; and\r\ntherefore the poet emphatically implieth[XXXIV.] the total\r\ndestruction in this kind of death, which happened to\r\nAjax Oileus."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The old Balearians had a peculiar mode, for they\r\nused great urns and much wood, but no fire in their\r\nburials, while they bruised the flesh and bones of the\r\ndead, crowded them into urns, and laid heaps of wood\r\nupon them. And the Chinese without cremation or\r\nurnal interment of their bodies, make use of trees and\r\nmuch burning, while they plant a pine-tree by their\r\ngrave, and burn great numbers of printed draughts of\r\nslaves and horses over it, civilly content with their\r\ncompanies in "
+          },
+          {
+            "text": "effigy",
+            "italic": true
+          },
+          {
+            "text": ", which barbarous nations exact unto\r\nreality."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Christians abhorred this way of obsequies, and though\r\nthey sticked not to give their bodies to be burnt in their\r\nlives, detested that mode after death: affecting rather a\r\ndepositure than absumption, and properly submitting\r\nunto the sentence of God, to return not unto ashes but\r\nunto dust again, and conformable unto the practice of\r\nthe patriarchs, the interment of our Saviour, of Peter,\r\nPaul, and the ancient martyrs. And so far at last declining\r\npromiscuous interment with Pagans, that some\r\nhave suffered ecclesiastical censures,[XXXV.] for making no\r\nscruple thereof."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The Mussulman believers will never admit this fiery\r\nresolution. For they hold a present trial from their\r\nblack and white angels in the grave; which they must\r\nhave made so hollow, that they may rise upon their\r\nknees."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The Jewish nation, though they entertained the old\r\nway of inhumation, yet sometimes admitted this\r\npractice. For the men of Jabesh burnt the body of\r\nSaul; and by no prohibited practice, to avoid contagion\r\nor pollution, in time of pestilence, burnt the bodies of\r\ntheir friends.[XXXVI.] And when they burnt not their dead\r\nbodies, yet sometimes used great burnings near and\r\nabout them, deducible from the expressions concerning\r\nJehoram, Zedechias, and the sumptuous pyre of Asa.\r\nAnd were so little averse from Pagan burning, that the\r\nJews lamenting the death of Cæsar their friend, and\r\nrevenger on Pompey, frequented the place where his\r\nbody was burnt for many nights together. And as\r\nthey raised noble monuments and mausoleums for their\r\nown nation,[XXXVII.] so they were not scrupulous in erecting\r\nsome for others, according to the practice of Daniel, who\r\nleft that lasting sepulchral pile in Ecbatana, for the\r\nMedian and Persian kings.[XXXVIII.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But even in times of subjection and hottest use, they\r\nconformed not unto the Roman practice of burning;\r\nwhereby the prophecy was secured concerning the body\r\nof Christ, that it should not see corruption, or a bone\r\nshould not be broken; which we believe was also providentially\r\nprevented, from the soldier’s spear and nails\r\nthat passed by the little bones both in his hands and\r\nfeet; not of ordinary contrivance, that it should not\r\ncorrupt on the cross, according to the laws of Roman\r\ncrucifixion, or an hair of his head perish, though observable\r\nin Jewish customs, to cut the hair of malefactors."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Nor in their long cohabitation with Egyptians, crept\r\ninto a custom of their exact embalming, wherein deeply\r\nslashing the muscles, and taking out the brains and entrails,\r\nthey had broken the subject of so entire a resurrection,\r\nnor fully answered the types of Enoch, Elijah,\r\nor Jonah, which yet to prevent or restore, was of equal\r\nfacility unto that rising power able to break the fasciations\r\nand bands of death, to get clear out of the cerecloth,\r\nand an hundred pounds of ointment, and out of the\r\nsepulchre before the stone was rolled from it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But though they embraced not this practice of burning,\r\nyet entertained they many ceremonies agreeable\r\nunto Greek and Roman obsequies. And he that observeth\r\ntheir funeral feasts, their lamentations at the\r\ngrave, their music, and weeping mourners; how they\r\nclosed the eyes of their friends, how they washed,\r\nanointed, and kissed the dead; may easily conclude\r\nthese were not mere Pagan civilities. But whether\r\nthat mournful burthen, and treble calling out after\r\nAbsalom, had any reference unto the last conclamation,\r\nand triple valediction, used by other nations, we hold\r\nbut a wavering conjecture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Civilians make sepulture but of the law of nations,\r\nothers do naturally found it and discover it also in\r\nanimals. They that are so thick-skinned as still to\r\ncredit the story of the Phœnix, may say something for\r\nanimal burning. More serious conjectures find some\r\nexamples of sepulture in elephants, cranes, the sepulchral\r\ncells of pismires, and practice of bees,—which\r\ncivil society carrieth out their dead, and hath exequies,\r\nif not interments."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "spans": [
+          {
+            "text": "CHAPTER II."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The solemnities, ceremonies, rites of their cremation\r\nor interment, so solemnly delivered by authors, we\r\nshall not disparage our reader to repeat. Only the last\r\nand lasting part in their urns, collected bones and ashes,\r\nwe cannot wholly omit or decline that subject, which\r\noccasion lately presented, in some discovered among us."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "In a field of Old Walsingham, not many months past,\r\nwere digged up between forty and fifty urns, deposited\r\nin a dry and sandy soil, not a yard deep, nor far from\r\none another.—Not all strictly of one figure, but most\r\nanswering these described; some containing two pounds\r\nof bones, and teeth, with fresh impressions of their combustion;\r\nbesides the extraneous substances, like pieces\r\nof small boxes, or combs handsomely wrought, handles\r\nof small brass instruments, brazen nippers, and in one\r\nsome kind of opal."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Near the same plot of ground, for about six yards\r\ncompass, were digged up coals and incinerated substances,\r\nwhich begat conjecture that this was the "
+          },
+          {
+            "text": "ustrina",
+            "italic": true
+          },
+          {
+            "text": "\r\nor place of burning their bodies, or some sacrificing\r\nplace unto the "
+          },
+          {
+            "text": "Manes",
+            "italic": true
+          },
+          {
+            "text": ", which was properly below the\r\nsurface of the ground, as the "
+          },
+          {
+            "text": "aræ",
+            "italic": true
+          },
+          {
+            "text": " and altars unto the\r\ngods and heroes above it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That these were the urns of Romans from the common\r\ncustom and place where they were found, is no obscure\r\nconjecture, not far from a Roman garrison, and but five\r\nmiles from Brancaster, set down by ancient record under\r\nthe name of Branodunum. And where the adjoining\r\ntown, containing seven parishes, in no very different\r\nsound, but Saxon termination, still retains the name of\r\nBurnham, which being an early station, it is not improbable\r\nthe neighbour parts were filled with habitations,\r\neither of Romans themselves, or Britons Romanized,\r\nwhich observed the Roman customs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Nor is it improbable, that the Romans early possessed\r\nthis country. For though we meet not with such strict\r\nparticulars of these parts before the new institution of\r\nConstantine and military charge of the count of the\r\nSaxon shore, and that about the Saxon invasions, the\r\nDalmatian horsemen were in the garrison of Brancaster;\r\nyet in the time of Claudius, Vespasian, and Severus, we\r\nfind no less than three legions dispersed through the\r\nprovince of Britain. And as high as the reign of\r\nClaudius a great overthrow was given unto the Iceni,\r\nby the Roman lieutenant Ostorius. Not long after, the\r\ncountry was so molested, that, in hope of a better state,\r\nPrastaagus bequeathed his kingdom unto Nero and his\r\ndaughters; and Boadicea, his queen, fought the last\r\ndecisive battle with Paulinus. After which time, and\r\nconquest of Agricola, the lieutenant of Vespasian, probable\r\nit is, they wholly possessed this country; ordering\r\nit into garrisons or habitations best suitable with their\r\nsecurities. And so some Roman habitations not improbable\r\nin these parts, as high as the time of Vespasian,\r\nwhere the Saxons after seated, in whose thin-filled maps\r\nwe yet find the name of Walsingham. Now if the Iceni\r\nwere but Gammadims, Anconians, or men that lived in\r\nan angle, wedge, or elbow of Britain, according to the\r\noriginal etymology, this country will challenge the\r\nemphatical appellation, as most properly making the\r\nelbow or "
+          },
+          {
+            "text": "iken",
+            "italic": true
+          },
+          {
+            "text": " of Icenia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That Britain was notably populous is undeniable, from\r\nthat expression of Cæsar.[XXXIX.] That the Romans themselves\r\nwere early in no small numbers—seventy thousand,\r\nwith their associates, slain, by Boadicea, affords a sure\r\naccount. And though not many Roman habitations\r\nare now known, yet some, by old works, rampiers,\r\ncoins, and urns, do testify their possessions. Some urns\r\nhave been found at Castor, some also about Southcreak,\r\nand, not many years past, no less than ten in a field at\r\nBuxton, not near any recorded garrison. Nor is it\r\nstrange to find Roman coins of copper and silver among\r\nus; of Vespasian, Trajan, Adrian, Commodus, Antoninus,\r\nSeverus, &c.; but the greater number of Dioclesian,\r\nConstantine, Constans, Valens, with many of\r\nVictorinus Posthumius, Tetricus, and the thirty tyrants\r\nin the reign of Gallienus; and some as high as Adrianus\r\nhave been found about Thetford, or Sitomagus, mentioned\r\nin the "
+          },
+          {
+            "text": "Itinerary",
+            "italic": true
+          },
+          {
+            "text": " of Antoninus, as the way from Venta or\r\nCastor unto London. But the most frequent discovery\r\nis made at the two Castors by Norwich and Yarmouth\r\nat Burghcastle, and Brancaster."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Besides the Norman, Saxon, and Danish pieces of\r\nCuthred, Canutus, William, Matilda, and others, some\r\nBritish coins of gold have been dispersedly found, and\r\nno small number of silver pieces near Norwich, with a\r\nrude head upon the obverse, and an ill-formed horse\r\non the reverse, with inscriptions "
+          },
+          {
+            "text": "Ic. Duro. T.;",
+            "italic": true
+          },
+          {
+            "text": " whether\r\nimplying Iceni, Durotriges, Tascia, or Trinobantes, we\r\nleave to higher conjecture. Vulgar chronology will\r\nhave Norwich Castle as old as Julius Cæsar; but his\r\ndistance from these parts, and its Gothick form of\r\nstructure, abridgeth such antiquity. The British coins\r\nafford conjecture of early habitation in these parts,\r\nthough the city of Norwich arose from the ruins of\r\nVenta; and though, perhaps, not without some habitation\r\nbefore, was enlarged, builded, and nominated by\r\nthe Saxons. In what bulk or populosity it stood in the\r\nold East-Angle monarchy tradition and history are\r\nsilent. Considerable it was in the Danish eruptions,\r\nwhen Sueno burnt Thetford and Norwich, and Ulfketel,\r\nthe governor thereof, was able to make some resistance,\r\nand after endeavoured to burn the Danish navy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "How the Romans left so many coins in countries of\r\ntheir conquests seems of hard resolution; except we\r\nconsider how they buried them under ground when,\r\nupon barbarous invasions, they were fain to desert their\r\nhabitations in most part of their empire, and the strictness\r\nof their laws forbidding to transfer them to any\r\nother uses: wherein the Spartans were singular, who,\r\nto make their copper money useless, contempered it with\r\nvinegar. That the Britons left any, some wonder, since\r\ntheir money was iron and iron rings before Cæsar; and\r\nthose of after-stamp by permission, and but small in\r\nbulk and bigness. That so few of the Saxons remain,\r\nbecause, overcome by succeeding conquerors upon the\r\nplace, their coins, by degrees, passed into other stamps\r\nand the marks of after-ages."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Than the time of these urns deposited, or precise\r\nantiquity of these relicks, nothing of more uncertainty;\r\nfor since the lieutenant of Claudius seems to have made\r\nthe first progress into these parts, since Boadicea was\r\noverthrown by the forces of Nero, and Agricola put a\r\nfull end to these conquests, it is not probable the country\r\nwas fully garrisoned or planted before; and, therefore,\r\nhowever these urns might be of later date, not likely of\r\nhigher antiquity."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "And the succeeding emperors desisted not from their\r\nconquests in these and other parts, as testified by history\r\nand medal-inscription yet extant: the province of\r\nBritain, in so divided a distance from Rome, beholding\r\nthe faces of many imperial persons, and in large account;\r\nno fewer than Cæsar, Claudius, Britannicus, Vespasian,\r\nTitus, Adrian, Severus, Commodus, Geta, and Caracalla."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "A great obscurity herein, because no medal or emperor’s\r\ncoin enclosed, which might denote the date of\r\ntheir interments; observable in many urns, and found\r\nin those of Spitalfields, by London, which contained the\r\ncoins of Claudius, Vespasian, Commodus, Antoninus,\r\nattended with lacrymatories, lamps, bottles of liquor,\r\nand other appurtenances of affectionate superstition,\r\nwhich in these rural interments were wanting."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Some uncertainty there is from the period or term of\r\nburning, or the cessation of that practice. Macrobius\r\naffirmeth it was disused in his days; but most agree,\r\nthough without authentic record, that it ceased with the\r\nAntonini,—most safely to be understood after the reign\r\nof those emperors which assumed the name of Antoninus,\r\nextending unto Heliogabalus. Not strictly after Marcus;\r\nfor about fifty years later, we find the magnificent burning\r\nand consecration of Servus; and, if we so fix this\r\nperiod or cessation, these urns will challenge above\r\nthirteen hundred years."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But whether this practice was only then left by emperors\r\nand great persons, or generally about Rome, and\r\nnot in other provinces, we hold no authentic account;\r\nfor after Tertullian, in the days of Minucius, it was\r\nobviously objected upon Christians, that they condemned\r\nthe practice of burning.[XL.] And we find a passage\r\nin Sidonius, which asserteth that practice in France\r\nunto a lower account. And, perhaps, not fully disused\r\ntill Christianity fully established, which gave the final\r\nextinction to these sepulchral bonfires."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Whether they were the bones of men, or women, or\r\nchildren, no authentic decision from ancient custom in\r\ndistinct places of burial. Although not improbably\r\nconjectured, that the double sepulture, or burying-place\r\nof Abraham, had in it such intention. But from exility\r\nof bones, thinness of skulls, smallness of teeth, ribs, and\r\nthigh-bones, not improbable that many thereof were\r\npersons of minor age, or woman. Confirmable also from\r\nthings contained in them. In most were found substances\r\nresembling combs, plates like boxes, fastened\r\nwith iron pins, and handsomely overwrought like the\r\nnecks or bridges of musical instruments; long brass\r\nplates overwrought like the handles of neat implements;\r\nbrazen nippers, to pull away hair; and in one a kind\r\nof opal, yet maintaining a bluish colour."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Now that they accustomed to burn or bury with them,\r\nthings wherein they excelled, delighted, or which were\r\ndear unto them, either as farewells unto all pleasure, or\r\nvain apprehension that they might use them in the\r\nother world, is testified by all antiquity, observable\r\nfrom the gem or beryl ring upon the finger of Cynthia,\r\nthe mistress of Propertius, when after her funeral pyre\r\nher ghost appeared unto him; and notably illustrated\r\nfrom the contents of that Roman urn preserved by\r\nCardinal Farnese, wherein besides great number of\r\ngems with heads of gods and goddesses, were found an\r\nape of agath, a grasshopper, an elephant of amber, a\r\ncrystal ball, three glasses, two spoons, and six nuts of\r\ncrystal; and beyond the content of urns, in the monument\r\nof Childerick the first, and fourth king from\r\nPharamond, casually discovered three years past at\r\nTournay, restoring unto the world much gold richly\r\nadorning his sword, two hundred rubies, many hundred\r\nimperial coins, three hundred golden bees, the bones\r\nand horse-shoes of his horse interred with him, according\r\nto the barbarous magnificence of those days in\r\ntheir sepulchral obsequies. Although, if we steer by\r\nthe conjecture of many a Septuagint expression, some\r\ntrace thereof may be found even with the ancient\r\nHebrews, not only from the sepulchral treasure of David,\r\nbut the circumcision knives which Joshua also buried."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Some men, considering the contents of these urns,\r\nlasting pieces and toys included in them, and the custom\r\nof burning with many other nations, might somewhat\r\ndoubt whether all urns found among us, were properly\r\nRoman relicks, or some not belonging unto our British,\r\nSaxon, or Danish forefathers."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "In the form of burial among the ancient Britons, the\r\nlarge discourses of Cæsar, Tacitus, and Strabo are silent.\r\nFor the discovery whereof, with other particulars, we\r\nmuch deplore the loss of that letter which Cicero expected\r\nor received from his brother Quintus, as a resolution\r\nof British customs; or the account which might\r\nhave been made by Scribonius Largus, the physician,\r\naccompanying the Emperor Claudius, who might have\r\nalso discovered that frugal bit of the old Britons, which\r\nin the bigness of a bean could satisfy their thirst and\r\nhunger."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But that the Druids and ruling priests used to burn\r\nand bury, is expressed by Pomponius; that Bellinus,\r\nthe brother of Brennus, and King of the Britons, was\r\nburnt, is acknowledged by Polydorus, as also by Amandus\r\nZierexensis in "
+          },
+          {
+            "text": "Historia",
+            "italic": true
+          },
+          {
+            "text": " and Pineda in his "
+          },
+          {
+            "text": "Universa\r\nHistoria",
+            "italic": true
+          },
+          {
+            "text": " (Spanish). That they held that practice in\r\nGallia, Cæsar expressly delivereth. Whether the Britons\r\n(probably descended from them, of like religion, language,\r\nand manners) did not sometimes make use of\r\nburning, or whether at least such as were after civilized\r\nunto the Roman life and manners, conformed not unto\r\nthis practice, we have no historical assertion or denial.\r\nBut since, from the account of Tacitus, the Romans\r\nearly wrought so much civility upon the British stock,\r\nthat they brought them to build temples, to wear the\r\ngown, and study the Roman laws and language, that\r\nthey conformed also unto their religious rites and customs\r\nin burials, seems no improbable conjecture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That burning the dead was used in Sarmatia is affirmed\r\nby Gaguinus; that the Sueons and Gathlanders used to\r\nburn their princes and great persons, is delivered by\r\nSaxo and Olaus; that this was the old German practice,\r\nis also asserted by Tacitus. And though we are bare in\r\nhistorical particulars of such obsequies in this island, or\r\nthat the Saxons, Jutes, and Angles burnt their dead,\r\nyet came they from parts where ’twas of ancient practice;\r\nthe Germans using it, from whom they were descended.\r\nAnd even in Jutland and Sleswick in Anglia Cymbrica,\r\nurns with bones were found not many years before us."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But the Danish and northern nations have raised an\r\nera or point of compute from their custom of burning\r\ntheir dead: some deriving it from Unguinus, some from\r\nFrotho the great, who ordained by law, that princes and\r\nchief commanders should be committed unto the fire,\r\nthough the common sort had the common grave interment.\r\nSo Starkatterus, that old hero, was burnt, and\r\nRingo royally burnt the body of Harold the king slain\r\nby him."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "What time this custom generally expired in that nation,\r\nwe discern no assured period; whether it ceased\r\nbefore Christianity, or upon their conversion, by Ausgurius\r\nthe Gaul, in the time of Ludovicus Pius, the son\r\nof Charles the Great, according to good computes; or\r\nwhether it might not be used by some persons, while\r\nfor an hundred and eighty years Paganism and Christianity\r\nwere promiscuously embraced among them, there\r\nis no assured conclusion. About which times the Danes\r\nwere busy in England, and particularly infested this\r\ncountry; where many castles and strongholds were\r\nbuilt by them, or against them, and great number of\r\nnames and families still derived from them. But since\r\nthis custom was probably disused before their invasion\r\nor conquest, and the Romans confessedly practised the\r\nsame since their possession of this island, the most\r\nassured account will fall upon the Romans, or Britons\r\nRomanized."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "However, certain it is, that urns conceived of no\r\nRoman original, are often digged up both in Norway\r\nand Denmark, handsomely described, and graphically\r\nrepresented by the learned physician Wormius. And\r\nin some parts of Denmark in no ordinary number, as\r\nstands delivered by authors exactly describing those\r\ncountries. And they contained not only bones, but\r\nmany other substances in them, as knives, pieces of\r\niron, brass, and wood, and one of Norway a brass gilded\r\njew’s-harp."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Nor were they confused or careless in disposing the\r\nnoblest sort, while they placed large stones in circle\r\nabout the urns or bodies which they interred: somewhat\r\nanswerable unto the monument of Rollrich stones in\r\nEngland, or sepulchral monument probably erected by\r\nRollo, who after conquered Normandy; where ’tis not\r\nimprobable somewhat might be discovered. Meanwhile\r\nto what nation or person belonged that large urn found\r\nat Ashbury,[XLI.] containing mighty bones, and a buckler;\r\nwhat those large urns found at Little Massingham;[XLII.]\r\nor why the Anglesea urns are placed with their mouths\r\ndownward, remains yet undiscovered."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "spans": [
+          {
+            "text": "CHAPTER III."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Plaistered and whited sepulchres were anciently\r\naffected in cadaverous and corrupted burials; and the\r\nrigid Jews were wont to garnish the sepulchres of the\r\nrighteous.[XLIII.] Ulysses, in Hecuba, cared not how meanly\r\nhe lived, so he might find a noble tomb after death.[XLIV.]\r\nGreat princes affected great monuments; and the fair\r\nand larger urns contained no vulgar ashes, which makes\r\nthat disparity in those which time discovereth among\r\nus. The present urns were not of one capacity, the\r\nlargest containing above a gallon, some not much above\r\nhalf that measure; nor all of one figure, wherein there\r\nis no strict conformity in the same or different countries;\r\nobservable from those represented by Casalius, Bosio,\r\nand others, though all found in Italy; while many\r\nhave handles, ears, and long necks, but most imitate a\r\ncircular figure, in a spherical and round composure;\r\nwhether from any mystery, best duration or capacity,\r\nwere but a conjecture. But the common form with\r\nnecks was a proper figure, making our last bed like our\r\nfirst; nor much unlike the urns of our nativity while\r\nwe lay in the nether part of the earth,[XLV.] and inward\r\nvault of our microcosm. Many urns are red, these but\r\nof a black colour somewhat smooth, and dully sounding,\r\nwhich begat some doubt, whether they were burnt, or\r\nonly baked in oven or sun, according to the ancient way,\r\nin many bricks, tiles, pots, and testaceous works; and,\r\nas the word "
+          },
+          {
+            "text": "testa",
+            "italic": true
+          },
+          {
+            "text": " is properly to be taken, when occurring\r\nwithout addition and chiefly intended by Pliny,\r\nwhen he commendeth bricks and tiles of two years old,\r\nand to make them in the spring. Nor only these concealed\r\npieces, but the open magnificence of antiquity,\r\nran much in the artifice of clay. Hereof the house of\r\nMausolus was built, thus old Jupiter stood in the Capitol,\r\nand the statua of Hercules, made in the reign of Tarquinius\r\nPriscus, was extant in Pliny’s days. And such\r\nas declined burning or funeral urns, affected coffins of\r\nclay, according to the mode of Pythagoras, a way preferred\r\nby Varro. But the spirit of great ones was above\r\nthese circumscriptions, affecting copper, silver, gold, and\r\nporphyry urns, wherein Severus lay, after a serious\r\nview and sentence on that which should contain him.[XLVI.]\r\nSome of these urns were thought to have been silvered\r\nover, from sparklings in several pots, with small tinsel\r\nparcels; uncertain whether from the earth, or the first\r\nmixture in them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Among these urns we could obtain no good account\r\nof their coverings; only one seemed arched over with\r\nsome kind of brickwork. Of those found at Buxton,\r\nsome were covered with flints, some, in other parts, with\r\ntiles; those at Yarmouth Caster were closed with Roman\r\nbricks, and some have proper earthen covers adapted\r\nand fitted to them. But in the Homerical urn of\r\nPatroclus, whatever was the solid tegument, we find the\r\nimmediate covering to be a purple piece of silk: and\r\nsuch as had no covers might have the earth closely\r\npressed into them, after which disposure were probably\r\nsome of these, wherein we found the bones and ashes\r\nhalf mortared unto the sand and sides of the urn, and\r\nsome long roots of quich, or dog’s-grass, wreathed about\r\nthe bones."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "No Lamps, included liquors, lacrymatories, or tear\r\nbottles, attended these rural urns, either as sacred unto\r\nthe "
+          },
+          {
+            "text": "manes",
+            "italic": true
+          },
+          {
+            "text": ", or passionate expressions of their surviving\r\nfriends. While with rich flames, and hired tears, they\r\nsolemnized their obsequies, and in the most lamented\r\nmonuments made one part of their inscriptions.[XLVII.] Some\r\nfind sepulchral vessels containing liquors, which time\r\nhath incrassated into jellies. For, besides these lacrymatories,\r\nnotable lamps, with vessels of oils, and aromatical\r\nliquors, attended noble ossuaries; and some\r\nyet retaining a vinosity and spirit in them, which, if\r\nany have tasted, they have far exceeded the palates of\r\nantiquity. Liquors not to be computed by years of\r\nannual magistrates, but by great conjunctions and the\r\nfatal periods of kingdoms.[XLVIII.] The draughts of consulary\r\ndate were but crude unto these, and Opimian wine but\r\nin the must unto them.[XLIX.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "In sundry graves and sepulchres we meet with rings,\r\ncoins, and chalices. Ancient frugality was so severe,\r\nthat they allowed no gold to attend the corpse, but only\r\nthat which served to fasten their teeth. Whether the\r\nOpaline stone in this were burnt upon the finger of the\r\ndead, or cast into the fire by some affectionate friend,\r\nit will consist with either custom. But other incinerable\r\nsubstances were found so fresh, that they could\r\nfeel no singe from fire. These, upon view, were judged\r\nto be wood; but, sinking in water, and tried by the\r\nfire, we found them to be bone or ivory. In their\r\nhardness and yellow colour they most resembled box,\r\nwhich, in old expressions, found the epithet of eternal,\r\nand perhaps in such conservatories might have passed\r\nuncorrupted."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That bay leaves were found green in the tomb of S.\r\nHumbert, after an hundred and fifty years, was looked\r\nupon as miraculous. Remarkable it was unto old\r\nspectators, that the cypress of the temple of Diana lasted\r\nso many hundred years. The wood of the ark, and\r\nolive-rod of Aaron, were older at the captivity; but\r\nthe cypress of the ark of Noah was the greatest vegetable\r\nof antiquity, if Josephus were not deceived by some\r\nfragments of it in his days: to omit the moor logs\r\nand fir trees found underground in many parts of\r\nEngland; the undated ruins of winds, floods, or earthquakes,\r\nand which in Flanders still show from what\r\nquarter they fell, as generally lying in a north-east\r\nposition."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But though we found not these pieces to be wood, according\r\nto first apprehensions, yet we missed not altogether\r\nof some woody substance; for the bones were\r\nnot so clearly picked but some coals were found amongst\r\nthem; a way to make wood perpetual, and a fit associate\r\nfor metal, whereon was laid the foundation of the great\r\nEphesian temple, and which were made the lasting tests\r\nof old boundaries and landmarks. Whilst we look on\r\nthese, we admire not observations of coals found fresh\r\nafter four hundred years. In a long-deserted habitation\r\neven egg-shells have been found fresh, not tending to\r\ncorruption."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "In the monument of King Childerick the iron relicks\r\nwere found all rusty and crumbling into pieces; but\r\nour little iron pins, which fastened the ivory works,\r\nheld well together, and lost not their magnetical quality,\r\nthough wanting a tenacious moisture for the firmer\r\nunion of parts; although it be hardly drawn into fusion,\r\nyet that metal soon submitteth unto rust and dissolution.\r\nIn the brazen pieces we admired not the duration,\r\nbut the freedom from rust, and ill savour, upon the\r\nhardest attrition; but now exposed unto the piercing\r\natoms of air, in the space of a few months, they begin\r\nto spot and betray their green entrails. We conceive\r\nnot these urns to have descended thus naked as they\r\nappear, or to have entered their graves without the old\r\nhabit of flowers. The urn of Philopœmen was so laden\r\nwith flowers and ribbons, that it afforded no sight of\r\nitself. The rigid Lycurgus allowed olive and myrtle.\r\nThe Athenians might fairly except against the practice\r\nof Democritus, to be buried up in honey, as fearing to\r\nembezzle a great commodity of their country, and the\r\nbest of that kind in Europe. But Plato seemed too\r\nfrugally politick, who allowed no larger monument\r\nthan would contain four heroick verses, and designed\r\nthe most barren ground for sepulture: though we cannot\r\ncommend the goodness of that sepulchral ground\r\nwhich was set at no higher rate than the mean salary\r\nof Judas. Though the earth had confounded the ashes\r\nof these ossuaries, yet the bones were so smartly burnt,\r\nthat some thin plates of brass were found half melted\r\namong them. Whereby we apprehend they were not\r\nof the meanest caresses, perfunctorily fired, as sometimes\r\nin military, and commonly in pestilence, burnings;\r\nor after the manner of abject corpses, huddled\r\nforth and carelessly burnt, without the Esquiline Port\r\nat Rome; which was an affront continued upon Tiberius,\r\nwhile they but half burnt his body, and in the amphitheatre,\r\naccording to the custom in notable malefactors;[L.]\r\nwhereas Nero seemed not so much to fear his\r\ndeath as that his head should be cut off and his body\r\nnot burnt entire."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Some, finding many fragments of skulls in these urns,\r\nsuspected a mixture of bones; in none we searched was\r\nthere cause of such conjecture, though sometimes they\r\ndeclined not that practice.—The ashes of Domitian\r\nwere mingled with those of Julia; of Achilles with\r\nthose of Patroclus. All urns contained not single ashes;\r\nwithout confused burnings they affectionately compounded\r\ntheir bones; passionately endeavouring to\r\ncontinue their living unions. And when distance of\r\ndeath denied such conjunctions, unsatisfied affections\r\nconceived some satisfaction to be neighbours in the\r\ngrave, to lie urn by urn, and touch but in their manes.\r\nAnd many were so curious to continue their living relations,\r\nthat they contrived large and family urns, wherein\r\nthe ashes of their nearest friends and kindred might\r\nsuccessively be received, at least some parcels thereof,\r\nwhile their collateral memorials lay in minor vessels\r\nabout them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Antiquity held too light thoughts from objects of\r\nmortality, while some drew provocatives of mirth from\r\nanatomies,[LI.] and jugglers showed tricks with skeletons.\r\nWhen fiddlers made not so pleasant mirth as fencers,\r\nand men could sit with quiet stomachs, while hanging\r\nwas played before them.[LII.] Old considerations made few\r\nmementos by skulls and bones upon their monuments.\r\nIn the Egyptian obelisks and hieroglyphical figures it\r\nis not easy to meet with bones. The sepulchral lamps\r\nspeak nothing less than sepulture, and in their literal\r\ndraughts prove often obscene and antick pieces. Where\r\nwe find "
+          },
+          {
+            "text": "D. M.",
+            "italic": true
+          },
+          {
+            "text": "[LIII.] it is obvious to meet with sacrificing\r\n"
+          },
+          {
+            "text": "pateras",
+            "italic": true
+          },
+          {
+            "text": " and vessels of libation upon old sepulchral\r\nmonuments. In the Jewish hypogæum and subterranean\r\ncell at Rome, was little observable beside the\r\nvariety of lamps and frequent draughts of Anthony and\r\nJerome we meet with thigh-bones and death’s-heads;\r\nbut the cemeterial cells of ancient Christians and\r\nmartyrs were filled with draughts of Scripture stories;\r\nnot declining the flourishes of cypress, palms, and olive,\r\nand the mystical figures of peacocks, doves, and cocks;\r\nbut iterately affecting the portraits of Enoch, Lazarus,\r\nJonas, and the vision of Ezekiel, as hopeful draughts,\r\nand hinting imagery of the resurrection, which is the\r\nlife of the grave, and sweetens our habitations in the\r\nland of moles and pismires."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Gentle inscriptions precisely delivered the extent of\r\nmen’s lives, seldom the manner of their deaths, which\r\nhistory itself so often leaves obscure in the records of\r\nmemorable persons. There is scarce any philosopher but\r\ndies twice or thrice in Laertius; nor almost any life\r\nwithout two or three deaths in Plutarch; which makes\r\nthe tragical ends of noble persons more favourably resented\r\nby compassionate readers who find some relief\r\nin the election of such differences."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The certainty of death is attended with uncertainties,\r\nin time, manner, places. The variety of monuments\r\nhath often obscured true graves; and cenotaphs confounded\r\nsepulchres. For beside their real tombs, many\r\nhave found honorary and empty sepulchres. The\r\nvariety of Homer’s monuments made him of various\r\ncountries. Euripides had his tomb in Africa, but his\r\nsepulture in Macedonia. And Severus found his real\r\nsepulchre in Rome, but his empty grave in Gallia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "He that lay in a golden urn eminently above the earth,\r\nwas not like to find the quiet of his bones. Many of\r\nthese urns were broke by a vulgar discoverer in hope of\r\nenclosed treasure. The ashes of Marcellus were lost\r\nabove ground, upon the like account. Where profit\r\nhath prompted, no age hath wanted such miners. For\r\nwhich the most barbarous expilators found the most\r\ncivil rhetorick. Gold once out of the earth is no more\r\ndue unto it; what was unreasonably committed to the\r\nground, is reasonably resumed from it; let monuments\r\nand rich fabricks, not riches, adorn men’s ashes. The\r\ncommerce of the living is not to be transferred unto the\r\ndead; it is not injustice to take that which none complains\r\nto lose, and no man is wronged where no man is\r\npossessor."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "What virtue yet sleeps in this "
+          },
+          {
+            "text": "terra damnata",
+            "italic": true
+          },
+          {
+            "text": " and aged\r\ncinders, were petty magic to experiment. These crumbling\r\nrelicks and long fired particles superannuate such\r\nexpectations; bones, hairs, nails, and teeth of the dead,\r\nwere the treasures of old sorcerers. In vain we revive\r\nsuch practices; present superstition too visibly perpetuates\r\nthe folly of our forefathers, wherein unto old\r\nobservation this island was so complete, that it might\r\nhave instructed Persia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Plato’s historian of the other world lies twelve days\r\nincorrupted, while his soul was viewing the large stations\r\nof the dead. How to keep the corpse seven days from\r\ncorruption by anointing and washing, without extenteration,\r\nwere an hazardable piece of art, in our choicest\r\npractice. How they made distinct separation of bones\r\nand ashes from fiery admixture, hath found no historical\r\nsolution; though they seemed to make a distinct collection\r\nand overlooked not Pyrrhus his toe. Some provision\r\nthey might make by fictile vessels, coverings,\r\ntiles, or flat stones, upon and about the body (and in\r\nthe same field, not far from these urns, many stones were\r\nfound underground), as also by careful separation of\r\nextraneous matter composing and raking up the burnt\r\nbones with forks, observable in that notable lamp of\r\nGalvanus Martianus, who had the sight of the "
+          },
+          {
+            "text": "vas\r\nustrinum",
+            "italic": true
+          },
+          {
+            "text": " or vessel wherein they burnt the dead, found\r\nin the Esquiline field at Rome, might have afforded\r\nclearer solution. But their insatisfaction herein begat\r\nthat remarkable invention in the funeral pyres of some\r\nprinces, by incombustible sheets made with a texture of\r\nasbestos, incremable flax, or salamander’s wool, which\r\npreserved their bones and ashes incommixed."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "How the bulk of a man should sink into so few pounds\r\nof bones and ashes, may seem strange unto any who\r\nconsiders not its constitution, and how slender a mass\r\nwill remain upon an open and urging fire of the carnal\r\ncomposition. Even bones themselves, reduced into\r\nashes, do abate a notable proportion. And consisting\r\nmuch of a volatile salt, when that is fired out, make a\r\nlight kind of cinders. Although their bulk be disproportionable\r\nto their weight, when the heavy principle\r\nof salt is fired out, and the earth almost only remaineth;\r\nobservable in sallow, which makes more ashes than oak,\r\nand discovers the common fraud of selling ashes by\r\nmeasure, and not by ponderation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Some bones make best skeletons, some bodies quick\r\nand speediest ashes. Who would expect a quick flame\r\nfrom hydropical Heraclitus? The poisoned soldier\r\nwhen his belly brake, put out two pyres in Plutarch.\r\nBut in the plague of Athens, one private pyre served\r\ntwo or three intruders; and the Saracens burnt in large\r\nheaps, by the king of Castile, showed how little fuel\r\nsufficeth. Though the funeral pyre of Patroclus took\r\nup an hundred foot,[LIV.] a piece of an old boat burnt Pompey;\r\nand if the burthen of Isaac were sufficient for an holocaust,\r\na man may carry his own pyre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "From animals are drawn good burning lights, and\r\ngood medicines against burning. Though the seminal\r\nhumour seems of a contrary nature to fire, yet the body\r\ncompleted proves a combustible lump, wherein fire\r\nfinds flame even from bones, and some fuel almost from\r\nall parts; though the metropolis of humidity[LV.] seems\r\nleast disposed unto it, which might render the skulls of\r\nthese urns less burned than other bones. But all flies\r\nor sinks before fire almost in all bodies: when the common\r\nligament is dissolved, the attenuable parts ascend,\r\nthe rest subside in coal, calx, or ashes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "To burn the bones of the king of Edom for lime,[LVI.]\r\nseems no irrational ferity; but to drink of the ashes\r\nof dead relations,[LVII.] a passionate prodigality. He that\r\nhath the ashes of his friend, hath an everlasting\r\ntreasure; where fire taketh leave, corruption slowly\r\nenters. In bones well burnt, fire makes a wall against\r\nitself; experimented in Copels,[105] and tests of metals,\r\nwhich consist of such ingredients. What the sun compoundeth,\r\nfire analyzeth, not transmuteth. That devouring\r\nagent leaves almost always a morsel for the\r\nearth, whereof all things are but a colony; and which,\r\nif time permits, the mother element will have in their\r\nprimitive mass again."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "He that looks for urns and old sepulchral relicks, must\r\nnot seek them in the ruins of temples, where no religion\r\nanciently placed them. These were found in a field,\r\naccording to ancient custom, in noble or private burial;\r\nthe old practice of the Canaanites, the family of Abraham,\r\nand the burying-place of Joshua, in the borders\r\nof his possessions; and also agreeable unto Roman\r\npractice to bury by highways, whereby their monuments\r\nwere under eye:—memorials of themselves, and\r\nmementoes of mortality unto living passengers; whom\r\nthe epitaphs of great ones were fain to beg to stay and\r\nlook upon them,—a language though sometimes used,\r\nnot so proper in church inscriptions.[LVIII.] The sensible\r\nrhetorick of the dead, to exemplarity of good life, first\r\nadmitted to the bones of pious men and martyrs within\r\nchurch walls, which in succeeding ages crept into promiscuous\r\npractice: while Constantine was peculiarly\r\nfavoured to be admitted into the church porch, and the\r\nfirst thus buried in England, was in the days of Cuthred."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Christians dispute how their bodies should lie in the\r\ngrave. In urnal interment they clearly escaped this\r\ncontroversy. Though we decline the religious consideration,\r\nyet in cemeterial and narrower burying-places, to\r\navoid confusion and cross-position, a certain posture\r\nwere to be admitted: which even Pagan civility observed.\r\nThe Persians lay north and south; the Megarians and\r\nPhœnicians placed their heads to the east; the Athenians,\r\nsome think, towards the west, which Christians\r\nstill retain. And Beda will have it to be the posture\r\nof our Saviour. That he was crucified with his face\r\ntoward the west, we will not contend with tradition and\r\nprobable account; but we applaud not the hand of the\r\npainter, in exalting his cross so high above those on\r\neither side: since hereof we find no authentic account\r\nin history, and even the crosses found by Helena, pretend\r\nno such distinction from longitude or dimension."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "To be knav’d out of our graves, to have our skulls\r\nmade drinking-bowls, and our bones turned into pipes,\r\nto delight and sport our enemies, are tragical abominations\r\nescaped in burning burials."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Urnal interments and burnt relicks lie not in fear of\r\nworms, or to be an heritage for serpents. In carnal\r\nsepulture, corruptions seem peculiar unto parts; and\r\nsome speak of snakes out of the spinal marrow. But\r\nwhile we suppose common worms in graves, ’tis not\r\neasy to find any there; few in churchyards above a foot\r\ndeep, fewer or none in churches though in fresh-decayed\r\nbodies. Teeth, bones, and hair, give the most lasting\r\ndefiance to corruption. In an hydropical body, ten\r\nyears buried in the churchyard, we met with a fat concretion,\r\nwhere the nitre of the earth, and the salt and\r\nlixivious liquor of the body, had coagulated large lumps\r\nof fat into the consistence of the hardest Castile soap,\r\nwhereof part remaineth with us.[106] After a battle with\r\nthe Persians, the Roman corpses decayed in few days,\r\nwhile the Persian bodies remained dry and uncorrupted.\r\nBodies in the same ground do not uniformly dissolve, nor\r\nbones equally moulder; whereof in the opprobrious\r\ndisease, we expect no long duration. The body of the\r\nMarquis of Dorset[LIX.] seemed sound and handsomely cereclothed,\r\nthat after seventy-eight years was found uncorrupted.\r\nCommon tombs preserve not beyond powder:\r\na firmer consistence and compage of parts might be expected\r\nfrom arefaction, deep burial, or charcoal. The\r\ngreatest antiquities of mortal bodies may remain in\r\nputrefied bones, whereof, though we take not in the\r\npillar of Lot’s wife, or metamorphosis of Ortelius, some\r\nmay be older than pyramids, in the putrefied relicks of\r\nthe general inundation. When Alexander opened the\r\ntomb of Cyrus, the remaining bones discovered his proportion,\r\nwhereof urnal fragments afford but a bad\r\nconjecture, and have this disadvantage of grave interments,\r\nthat they leave us ignorant of most personal discoveries.\r\nFor since bones afford not only rectitude and\r\nstability but figure unto the body, it is no impossible\r\nphysiognomy to conjecture at fleshy appendencies,\r\nand after what shape the muscles and carnous parts\r\nmight hang in their full consistencies. A full-spread\r\n"
+          },
+          {
+            "text": "cariola",
+            "italic": true
+          },
+          {
+            "text": " shows a well-shaped horse behind; handsome\r\nformed skulls give some analogy of fleshy resemblance.\r\nA critical view of bones makes a good distinction of\r\nsexes. Even colour is not beyond conjecture, since it\r\nis hard to be deceived in the distinction of the Negroes’\r\nskulls.[107] Dante’s[LX.] characters are to be found in skulls as\r\nwell as faces. Hercules is not only known by his foot.\r\nOther parts make out their comproportions and inferences\r\nupon whole or parts. And since the dimensions\r\nof the head measure the whole body, and the figure\r\nthereof gives conjecture of the principal faculties:\r\nphysiognomy outlives ourselves, and ends not in our\r\ngraves."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Severe contemplators, observing these lasting relicks,\r\nmay think them good monuments of persons past, little\r\nadvantage to future beings; and, considering that power\r\nwhich subdueth all things unto itself, that can resume\r\nthe scattered atoms, or identify out of anything, conceive\r\nit superfluous to expect a resurrection out of relicks:\r\nbut the soul subsisting, other matter, clothed with due\r\naccidents, may salve the individuality. Yet the saints,\r\nwe observe, arose from graves and monuments about\r\nthe holy city. Some think the ancient patriarchs so\r\nearnestly desired to lay their bones in Canaan, as hoping\r\nto make a part of that resurrection; and, though thirty\r\nmiles from Mount Calvary, at least to lie in that region\r\nwhich should produce the first-fruits of the dead. And\r\nif, according to learned conjecture, the bodies of men\r\nshall rise where their greatest relicks remain, many are\r\nnot like to err in the topography of their resurrection,\r\nthough their bones or bodies be after translated by\r\nangels into the field of Ezekiel’s vision, or as some will\r\norder it, into the valley of judgment, or Jehosaphat."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "spans": [
+          {
+            "text": "CHAPTER IV."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Christians have handsomely glossed the deformity\r\nof death by careful consideration of the body, and civil\r\nrites which take off brutal terminations: and though\r\nthey conceived all reparable by a resurrection, cast not\r\noff all care of interment. And since the ashes of sacrifices\r\nburnt upon the altar of God were carefully carried out\r\nby the priests, and deposed in a clean field; since they\r\nacknowledged their bodies to be the lodging of Christ,\r\nand temples of the Holy Ghost, they devolved not all\r\nupon the sufficiency of soul-existence; and therefore\r\nwith long services and full solemnities, concluded their\r\nlast exequies, wherein to all distinctions the Greek\r\ndevotion seems most pathetically ceremonious."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Christian invention hath chiefly driven at rites, which\r\nspeak hopes of another life, and hints of a resurrection.\r\nAnd if the ancient Gentiles held not the immortality of\r\ntheir better part, and some subsistence after death, in\r\nseveral rites, customs, actions, and expressions, they\r\ncontradicted their own opinions: wherein Democritus\r\nwent high, even to the thought of a resurrection, as\r\nscoffingly recorded by Pliny.[LXI.] What can be more\r\nexpress than the expression of Phocylides?[LXII.] Or who\r\nwould expect from Lucretius[LXIII.] a sentence of Ecclesiastes?\r\nBefore Plato could speak, the soul had wings in Homer,\r\nwhich fell not, but flew out of the body into the mansions\r\nof the dead; who also observed that handsome\r\ndistinction of Demas and Soma, for the body conjoined\r\nto the soul, and body separated from it. Lucian spoke\r\nmuch truth in jest, when he said that part of Hercules\r\nwhich proceeded from Alcmena perished, that from\r\nJupiter remained immortal. Thus Socrates was content\r\nthat his friends should bury his body, so they\r\nwould not think they buried Socrates; and, regarding\r\nonly his immortal part, was indifferent to be burnt or\r\nburied. From such considerations, Diogenes might\r\ncontemn sepulture, and, being satisfied that the soul\r\ncould not perish, grow careless of corporal interment.\r\nThe Stoicks, who thought the souls of wise men had\r\ntheir habitation about the moon, might make slight\r\naccount of subterraneous deposition; whereas the\r\nPythagoreans and transcorporating philosophers, who\r\nwere to be often buried, held great care of their interment.\r\nAnd the Platonicks rejected not a due care of\r\nthe grave, though they put their ashes to unreasonable\r\nexpectations, in their tedious term of return and long\r\nset revolution."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Men have lost their reason in nothing so much as\r\ntheir religion, wherein stones and clouts make martyrs;\r\nand, since the religion of one seems madness unto\r\nanother, to afford an account or rational of old rites\r\nrequires no rigid reader. That they kindled the pyre\r\naversely, or turning their face from it, was an handsome\r\nsymbol of unwilling ministration. That they washed\r\ntheir bones with wine and milk; that the mother\r\nwrapped them in linen, and dried them in her bosom,\r\nthe first fostering part and place of their nourishment;\r\nthat they opened their eyes toward heaven before they\r\nkindled the fire, as the place of their hopes or original,\r\nwere no improper ceremonies. Their last valediction,[LXIV.]\r\nthrice uttered by the attendants, was also very solemn,\r\nand somewhat answered by Christians, who thought it\r\ntoo little, if they threw not the earth thrice upon the\r\ninterred body. That, in strewing their tombs, the\r\nRomans affected the rose; the Greeks amaranthus and\r\nmyrtle: that the funeral pyre consisted of sweet fuel,\r\ncypress, fir, larix, yew, and trees perpetually verdant,\r\nlay silent expressions of their surviving hopes. Wherein\r\nChristians, who deck their coffins with bays, have found\r\na more elegant emblem; for that it, seeming dead, will\r\nrestore itself from the root, and its dry and exsuccous\r\nleaves resume their verdure again; which, if we mistake\r\nnot, we have also observed in furze. Whether the\r\nplanting of yew in churchyards hold not its original\r\nfrom ancient funeral rites, or as an emblem of resurrection,\r\nfrom its perpetual verdure, may also admit\r\nconjecture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "They made use of musick to excite or quiet the\r\naffections of their friends, according to different harmonies.\r\nBut the secret and symbolical hint was the\r\nharmonical nature of the soul; which, delivered from\r\nthe body, went again to enjoy the primitive harmony\r\nof heaven, from whence it first descended; which,\r\naccording to its progress traced by antiquity, came\r\ndown by Cancer, and ascended by Capricornus."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "They burnt not children before their teeth appeared,\r\nas apprehending their bodies too tender a morsel for\r\nfire, and that their gristly bones would scarce leave\r\nseparable relicks after the pyral combustion. That they\r\nkindled not fire in their houses for some days after was\r\na strict memorial of the late afflicting fire. And mourning\r\nwithout hope, they had an happy fraud against\r\nexcessive lamentation, by a common opinion that deep\r\nsorrows disturb their ghosts.[LXV.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That they buried their dead on their backs, or in a\r\nsupine position, seems agreeable unto profound sleep,\r\nand common posture of dying; contrary to the most\r\nnatural way of birth; nor unlike our pendulous\r\nposture, in the doubtful state of the womb. Diogenes\r\nwas singular, who preferred a prone situation in\r\nthe grave; and some Christians[LXVI.] like neither, who\r\ndecline the figure of rest, and make choice of an\r\nerect posture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That they carried them out of the world with their\r\nfeet forward, not inconsonant unto reason, as contrary\r\nunto the native posture of man, and his production first\r\ninto it; and also agreeable unto their opinions, while\r\nthey bid adieu unto the world, not to look again upon\r\nit; whereas Mahometans who think to return to a\r\ndelightful life again, are carried forth with their heads\r\nforward, and looking toward their houses."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "They closed their eyes, as parts which first die, or\r\nfirst discover the sad effects of death. But their iterated\r\nclamations to excitate their dying or dead friends, or\r\nrevoke them unto life again, was a vanity of affection;\r\nas not presumably ignorant of the critical tests of death,\r\nby apposition of feathers, glasses, and reflection of\r\nfigures, which dead eyes represent not: which, however\r\nnot strictly verifiable in fresh and warm "
+          },
+          {
+            "text": "cadavers",
+            "italic": true
+          },
+          {
+            "text": ",\r\ncould hardly elude the test, in corpses of four or five\r\ndays."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That they sucked in the last breath of their expiring\r\nfriends, was surely a practice of no medical institution,\r\nbut a loose opinion that the soul passed out that way,\r\nand a fondness of affection, from some Pythagorical\r\nfoundation, that the spirit of one body passed into\r\nanother, which they wished might be their own."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That they poured oil upon the pyre, was a tolerable\r\npractice, while the intention rested in facilitating the\r\nascension. But to place good omens in the quick and\r\nspeedy burning, to sacrifice unto the winds for a\r\ndespatch in this office, was a low form of superstition."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The archimime, or jester, attending the funeral train,\r\nand imitating the speeches, gesture, and manners of the\r\ndeceased, was too light for such solemnities, contradicting\r\ntheir funeral orations and doleful rites of the\r\ngrave."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "That they buried a piece of money with them as a fee\r\nof the Elysian ferryman, was a practice full of folly.\r\nBut the ancient custom of placing coins in considerable\r\nurns, and the present practice of burying medals in the\r\nnoble foundations of Europe, are laudable ways of historical\r\ndiscoveries, in actions, persons, chronologies;\r\nand posterity will applaud them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "We examine not the old laws of sepulture, exempting\r\ncertain persons from burial or burning. But hereby we\r\napprehend that these were not the bones of persons\r\nplanet-struck or burnt with fire from heaven; no relicks\r\nof traitors to their country, self-killers, or sacrilegious\r\nmalefactors; persons in old apprehension unworthy of the\r\nearth; condemned unto the Tartarus of hell, and bottomless\r\npit of Pluto, from whence there was no redemption."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Nor were only many customs questionable in order\r\nto their obsequies, but also sundry practices, fictions,\r\nand conceptions, discordant or obscure, of their state\r\nand future beings. Whether unto eight or ten bodies\r\nof men to add one of a woman, as being more inflammable\r\nand unctuously constituted for the better\r\npyral combustion, were any rational practice; or\r\nwhether the complaint of Periander’s wife be tolerable,\r\nthat wanting her funeral burning, she suffered\r\nintolerable cold in hell, according to the constitution\r\nof the infernal house of Pluto, wherein cold makes a\r\ngreat part of their tortures; it cannot pass without\r\nsome question."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Why the female ghosts appear unto Ulysses, before\r\nthe heroes and masculine spirits,—why the Psyche or\r\nsoul of Tiresias is of the masculine gender, who, being\r\nblind on earth, sees more than all the rest in hell; why\r\nthe funeral suppers consisted of eggs, beans, smallage,\r\nand lettuce, since the dead are made to eat asphodels\r\nabout the Elysian meadows:—why, since there is no\r\nsacrifice acceptable, nor any propitiation for the covenant\r\nof the grave, men set up the deity of Morta, and\r\nfruitlessly adored divinities without ears, it cannot\r\nescape some doubt."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The dead seem all alive in the human Hades of\r\nHomer, yet cannot well speak, prophecy, or know the\r\nliving, except they drink blood, wherein is the life of\r\nman. And therefore the souls of Penelope’s paramours,\r\nconducted by Mercury, chirped like bats, and those\r\nwhich followed Hercules, made a noise but like a flock\r\nof birds."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "The departed spirits know things past and to come;\r\nyet are ignorant of things present. Agamemnon foretells\r\nwhat should happen unto Ulysses; yet ignorantly\r\ninquires what is become of his own son. The ghosts\r\nare afraid of swords in Homer; yet Sibylla tells Æneas\r\nin Virgil, the thin habit of spirits was beyond the force\r\nof weapons. The spirits put off their malice with their\r\nbodies, and Cæsar and Pompey accord in Latin hell; yet\r\nAjax, in Homer, endures not a conference with Ulysses;\r\nand Deiphobus appears all mangled in Virgil’s ghosts,\r\nyet we meet with perfect shadows among the wounded\r\nghosts of Homer."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Since Charon in Lucian applauds his condition among\r\nthe dead, whether it be handsomely said of Achilles,\r\nthat living contemner of death, that he had rather be a\r\nploughman’s servant, than emperor of the dead? How\r\nHercules his soul is in hell, and yet in heaven; and\r\nJulius his soul in a star, yet seen by Æneas in hell?—except\r\nthe ghosts were but images and shadows of the\r\nsoul, received in higher mansions, according to the\r\nancient division of body, soul, and image, or "
+          },
+          {
+            "text": "simulachrum",
+            "italic": true
+          },
+          {
+            "text": "\r\nof them both. The particulars of future beings must\r\nneeds be dark unto ancient theories, which Christian\r\nphilosophy yet determines but in a cloud of opinions.\r\nA dialogue between two infants in the womb concerning\r\nthe state of this world, might handsomely illustrate\r\nour ignorance of the next, whereof methinks we\r\nyet discourse in Pluto’s den, and are but embryo\r\nphilosophers."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Pythagoras escapes in the fabulous hell of Dante,[LXVII.]\r\namong that swarm of philosophers, wherein, whilst we\r\nmeet with Plato and Socrates, Cato is to be found in no\r\nlower place than purgatory. Among all the set,\r\nEpicurus is most considerable, whom men make honest\r\nwithout an Elysium, who contemned life without encouragement\r\nof immortality, and making nothing after\r\ndeath, yet made nothing of the king of terrors."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Were the happiness of the next world as closely apprehended\r\nas the felicities of this, it were a martyrdom to\r\nlive; and unto such as consider none hereafter, it must be\r\nmore than death to die, which makes us amazed at those\r\naudacities that durst be nothing and return into their\r\nchaos again. Certainly such spirits as could contemn\r\ndeath, when they expected no better being after, would\r\nhave scorned to live, had they known any. And therefore\r\nwe applaud not the judgment of Machiavel, that\r\nChristianity makes men cowards, or that with the confidence\r\nof but half-dying, the despised virtues of\r\npatience and humility have abased the spirits of men,\r\nwhich Pagan principles exalted; but rather regulated\r\nthe wildness of audacities in the attempts, grounds, and\r\neternal sequels of death; wherein men of the boldest\r\nspirits are often prodigiously temerarious. Nor can we\r\nextenuate the valour of ancient martyrs, who contemned\r\ndeath in the uncomfortable scene of their lives, and in\r\ntheir decrepit martyrdoms did probably lose not many\r\nmonths of their days, or parted with life when it was\r\nscarce worth the living. For (beside that long time\r\npast holds no consideration unto a slender time to come)\r\nthey had no small disadvantage from the constitution\r\nof old age, which naturally makes men fearful, and\r\ncomplexionally superannuated from the bold and\r\ncourageous thoughts of youth and fervent years. But\r\nthe contempt of death from corporal animosity, promoteth\r\nnot our felicity. They may sit in the orchestra,\r\nand noblest seats of heaven, who have held up\r\nshaking hands in the fire, and humanly contended\r\nfor glory."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Meanwhile Epicurus lies deep in Dante’s hell, wherein\r\nwe meet with tombs enclosing souls which denied\r\ntheir immortalities. But whether the virtuous heathen,\r\nwho lived better than he spake, or erring in the principles\r\nof himself, yet lived above philosophers of more\r\nspecious maxims, lie so deep as he is placed, at least so\r\nlow as not to rise against Christians, who believing or\r\nknowing that truth, have lastingly denied it in their\r\npractice and conversation—were a query too sad to\r\ninsist on."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But all or most apprehensions rested in opinions of\r\nsome future being, which, ignorantly or coldly believed,\r\nbegat those perverted conceptions, ceremonies, sayings,\r\nwhich Christians pity or laugh at. Happy are they\r\nwhich live not in that disadvantage of time, when men\r\ncould say little for futurity, but from reason: whereby\r\nthe noblest minds fell often upon doubtful deaths, and\r\nmelancholy dissolutions. With these hopes, Socrates\r\nwarmed his doubtful spirits against that cold potion;\r\nand Cato, before he durst give the fatal stroke, spent part\r\nof the night in reading the Immortality of Plato, thereby\r\nconfirming his wavering hand unto the animosity of\r\nthat attempt."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "It is the heaviest stone that melancholy can throw at\r\na man, to tell him he is at the end of his nature; or\r\nthat there is no further state to come, unto which\r\nthis seems progressional, and otherwise made in vain.\r\nWithout this accomplishment, the natural expectation\r\nand desire of such a state, were but a fallacy in nature;\r\nunsatisfied considerators would quarrel the justice of\r\ntheir constitutions, and rest content that Adam had\r\nfallen lower; whereby, by knowing no other original,\r\nand deeper ignorance of themselves, they might have\r\nenjoyed the happiness of inferior creatures, who in\r\ntranquillity possess their constitutions, as having not\r\nthe apprehension to deplore their own natures, and,\r\nbeing framed below the circumference of these hopes,\r\nor cognition of better being, the wisdom of God hath\r\nnecessitated their contentment: but the superior ingredient\r\nand obscured part of ourselves, whereto all\r\npresent felicities afford no resting contentment, will be\r\nable at last to tell us, we are more than our present\r\nselves, and evacuate such hopes in the fruition of their\r\nown accomplishments."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "spans": [
+          {
+            "text": "CHAPTER V."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Now since these dead bones have already outlasted\r\nthe living ones of Methuselah, and in a yard underground,\r\nand thin walls of clay, outworn all the strong\r\nand specious buildings above it; and quietly rested\r\nunder the drums and tramplings of three conquests:\r\nwhat prince can promise such diuturnity unto his relicks,\r\nor might not gladly say,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Sic ego componi versus in ossa velim?",
+            "italic": true
+          },
+          {
+            "text": "[LXVIII.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Time, which antiquates antiquities, and hath an art to\r\nmake dust of all things, hath yet spared these minor\r\nmonuments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "In vain we hope to be known by open and visible\r\nconservatories, when to be unknown was the means of\r\ntheir continuation, and obscurity their protection. If\r\nthey died by violent hands, and were thrust into their\r\nurns, these bones become considerable, and some old\r\nphilosophers would honour them, whose souls they\r\nconceived most pure, which were thus snatched from\r\ntheir bodies, and to retain a stronger propension unto\r\nthem; whereas they weariedly left a languishing corpse\r\nand with faint desires of re-union. If they fell by\r\nlong and aged decay, yet wrapt up in the bundle of\r\ntime, they fall into indistinction, and make but one\r\nblot with infants. If we begin to die when we live,\r\nand long life be but a prolongation of death, our life is\r\na sad composition; we live with death, and die not in\r\na moment. How many pulses made up the life of\r\nMethuselah, were work for Archimedes: common\r\ncounters sum up the life of Moses his man. Our days\r\nbecome considerable, like petty sums, by minute accumulations:\r\nwhere numerous fractions make up but\r\nsmall round numbers; and our days of a span long,\r\nmake not one little finger.[LXIX.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "If the nearness of our last necessity brought a nearer\r\nconformity into it, there were a happiness in hoary\r\nhairs, and no calamity in half-senses. But the long\r\nhabit of living indisposeth us for dying; when avarice\r\nmakes us the sport of death, when even David grew\r\npolitickly cruel, and Solomon could hardly be said to\r\nbe the wisest of men. But many are too early old, and\r\nbefore the date of age. Adversity stretcheth our days,\r\nmisery makes Alcmena’s nights,[LXX.] and time hath no\r\nwings unto it. But the most tedious being is that which\r\ncan unwish itself, content to be nothing, or never to\r\nhave been, which was beyond the malcontent of Job,\r\nwho cursed not the day of his life, but his nativity; content\r\nto have so far been, as to have a title to future being,\r\nalthough he had lived here but in an hidden state of\r\nlife, and as it were an abortion."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "What song the Syrens sang, or what name Achilles\r\nassumed when he hid himself among women, though\r\npuzzling questions,[LXXI.] are not beyond all conjecture. What\r\ntime the persons of these ossuaries entered the famous\r\nnations of the dead, and slept with princes and counsellors,\r\nmight admit a wide solution. But who were\r\nthe proprietaries of these bones, or what bodies these\r\nashes made up, were a question above antiquarism; not\r\nto be resolved by man, nor easily perhaps by spirits,\r\nexcept we consult the provincial guardians, or tutelary\r\nobservators. Had they made as good provision for\r\ntheir names, as they have done for their relicks, they\r\nhad not so grossly erred in the art of perpetuation. But\r\nto subsist in bones, and be but pyramidally extant, is a\r\nfallacy in duration. Vain ashes which in the oblivion\r\nof names, persons, times, and sexes, have found unto\r\nthemselves a fruitless continuation, and only arise unto\r\nlate posterity, as emblems of mortal vanities, antidotes\r\nagainst pride, vain-glory, and madding vices. Pagan\r\nvain-glories which thought the world might last for\r\never, had encouragement for ambition; and, finding no\r\n"
+          },
+          {
+            "text": "atropos",
+            "italic": true
+          },
+          {
+            "text": " unto the immortality of their names, were never\r\ndampt with the necessity of oblivion. Even old ambitions\r\nhad the advantage of ours, in the attempts of\r\ntheir vain-glories, who acting early, and before the\r\nprobable meridian of time, have by this time found\r\ngreat accomplishment of their designs, whereby the\r\nancient heroes have already outlasted their monuments\r\nand mechanical preservations. But in this latter scene\r\nof time, we cannot expect such mummies unto our\r\nmemories, when ambition may fear the prophecy of\r\nElias,[LXXII.] and Charles the Fifth can never hope to live\r\nwithin two Methuselahs of Hector.[LXXIII.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "And therefore, restless inquietude for the diuturnity\r\nof our memories unto the present considerations seems\r\na vanity almost out of date, and superannuated piece of\r\nfolly. We cannot hope to live so long in our names,\r\nas some have done in their persons. One face of Janus\r\nholds no proportion unto the other. ’Tis too late to be\r\nambitious. The great mutations of the world are acted,\r\nor time may be too short for our designs. To extend\r\nour memories by monuments, whose death we daily\r\npray for, and whose duration we cannot hope, without\r\ninjury to our expectations in the advent of the last day,\r\nwere a contradiction to our beliefs. We whose generations\r\nare ordained in this setting part of time, are providentially\r\ntaken off from such imaginations; and,\r\nbeing necessitated to eye the remaining particle of\r\nfuturity, are naturally constituted unto thoughts of the\r\nnext world, and cannot excusably decline the consideration\r\nof that duration, which maketh pyramids pillars\r\nof snow, and all that’s past a moment."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Circles and right lines limit and close all bodies, and\r\nthe mortal right-lined circle[LXXIV.] must conclude and shut\r\nup all. There is no antidote against the opium of time,\r\nwhich temporally considereth all things: our fathers\r\nfind their graves in our short memories, and sadly tell\r\nus how we may be buried in our survivors. Gravestones\r\ntell truth scarce forty years. Generations pass\r\nwhile some trees stand, and old families last not three\r\noaks. To be read by bare inscriptions like many in\r\nGruter, to hope for eternity by enigmatical epithets or\r\nfirst letters of our names, to be studied by antiquaries,\r\nwho we were, and have new names given us like many\r\nof the mummies, are cold consolations unto the students\r\nof perpetuity, even by everlasting languages."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "To be content that times to come should only know\r\nthere was such a man, not caring whether they knew\r\nmore of him, was a frigid ambition in Cardan;[LXXV.] disparaging\r\nhis horoscopal inclination and judgment of himself.\r\nWho cares to subsist like Hippocrates’s patients, or\r\nAchilles’s horses in Homer, under naked nominations,\r\nwithout deserts and noble acts, which are the balsam\r\nof our memories, the "
+          },
+          {
+            "text": "entelechia",
+            "italic": true
+          },
+          {
+            "text": " and soul of our subsistences?\r\nTo be nameless in worthy deeds, exceeds\r\nan infamous history. The Canaanitish woman lives\r\nmore happily without a name, than Herodias with\r\none. And who had not rather have been the good\r\nthief, than Pilate?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "But the iniquity of oblivion blindly scattereth her\r\npoppy, and deals with the memory of men without\r\ndistinction to merit of perpetuity. Who can but\r\npity the founder of the pyramids? Herostratus lives\r\nthat burnt the temple of Diana, he is almost lost that\r\nbuilt it. Time hath spared the epitaph of Adrian’s\r\nhorse, confounded that of himself. In vain we compute\r\nour felicities by the advantage of our good\r\nnames, since bad have equal durations, and Thersites\r\nis like to live as long as Agamemnon without the\r\nfavour of the everlasting register. Who knows\r\nwhether the best of men be known, or whether there\r\nbe not more remarkable persons forgot, than any\r\nthat stand remembered in the known account of time?\r\nThe first man had been as unknown as the last,\r\nand Methuselah’s long life had been his only\r\nchronicle."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Oblivion is not to be hired. The greater part must\r\nbe content to be as though they had not been, to be\r\nfound in the register of God, not in the record of man.\r\nTwenty-seven names make up the first story and the\r\nrecorded names ever since contain not one living century.\r\nThe number of the dead long exceedeth all that\r\nshall live. The night of time far surpasseth the day,\r\nand who knows when was the equinox? Every hour\r\nadds unto that current arithmetick, which scarce stands\r\none moment. And since death must be the "
+          },
+          {
+            "text": "Lucina",
+            "italic": true
+          },
+          {
+            "text": "\r\nof life, and even Pagans[108] could doubt, whether\r\nthus to live were to die; since our longest sun sets\r\nat right descensions, and makes but winter arches,\r\nand therefore it cannot be long before we lie down\r\nin darkness, and have our light in ashes; since the\r\nbrother of death daily haunts us with dying mementoes,\r\nand time that grows old in itself, bids us hope\r\nno long duration;—diuturnity is a dream and folly\r\nof expectation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Darkness and light divide the course of time, and\r\noblivion shares with memory a great part even of our\r\nliving beings; we slightly remember our felicities, and\r\nthe smartest strokes of affliction leave but short smart\r\nupon us. Sense endureth no extremities, and sorrows\r\ndestroy us or themselves. To weep into stones are\r\nfables. Afflictions induce callosities; miseries are slippery,\r\nor fall like snow upon us, which notwithstanding\r\nis no unhappy stupidity. To be ignorant of evils to\r\ncome, and forgetful of evils past, is a merciful provision\r\nin nature, whereby we digest the mixture of our few\r\nand evil days, and, our delivered senses not relapsing\r\ninto cutting remembrances, our sorrows are not kept\r\nraw by the edge of repetitions. A great part of antiquity\r\ncontented their hopes of subsistency with a transmigration\r\nof their souls,—a good way to continue their memories,\r\nwhile having the advantage of plural successions,\r\nthey could not but act something remarkable in such\r\nvariety of beings, and enjoying the fame of their passed\r\nselves, make accumulation of glory unto their last durations.\r\nOthers, rather than be lost in the uncomfortable\r\nnight of nothing, were content to recede into the common\r\nbeing, and make one particle of the public soul of all\r\nthings, which was no more than to return into their unknown\r\nand divine original again. Egyptian ingenuity\r\nwas more unsatisfied, contriving their bodies in sweet\r\nconsistences, to attend the return of their souls. But\r\nall is vanity, feeding the wind, and folly. Egyptian\r\nmummies, which Cambyses or time hath spared,\r\navarice now consumeth. Mummy is become merchandise,\r\nMizraim, cures wounds, and Pharaoh is sold\r\nfor balsams."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "In vain do individuals hope for immortality, or any\r\npatent from oblivion, in preservations below the moon;\r\nmen have been deceived even in their flatteries, above\r\nthe sun, and studied conceits to perpetuate their names\r\nin heaven. The various cosmography of that part hath\r\nalready varied the names of contrived constellations;\r\nNimrod is lost in Orion, and Osyris in the Dog-star.\r\nWhile we look for incorruption in the heavens, we find\r\nthat they are but like the earth;—durable in their main\r\nbodies, alterable in their parts; whereof, beside comets\r\nand new stars, perspectives begin to tell tales, and the\r\nspots that wander about the sun, with Phaeton’s favour,\r\nwould make clear conviction."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "There is nothing strictly immortal, but immortality.\r\nWhatever hath no beginning, may be confident of no\r\nend;—all others have a dependent being and within\r\nthe reach of destruction;—which is the peculiar of\r\nthat necessary essence that cannot destroy itself;—and\r\nthe highest strain of omnipotency, to be so powerfully\r\nconstituted as not to suffer even from the power of\r\nitself. But the sufficiency of Christian immortality\r\nfrustrates all earthly glory, and the quality of either\r\nstate after death, makes a folly of posthumous memory.\r\nGod who can only destroy our souls, and hath assured\r\nour resurrection, either of our bodies or names hath\r\ndirectly promised no duration. Wherein there is so\r\nmuch of chance, that the boldest expectants have found\r\nunhappy frustration; and to hold long subsistence,\r\nseems but a scape in oblivion. But man is a noble\r\nanimal, splendid in ashes, and pompous in the grave,\r\nsolemnizing nativities and deaths with equal lustre,\r\nnor omitting ceremonies of bravery in the infamy of\r\nhis nature."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Life is a pure flame, and we live by an invisible sun\r\nwithin us. A small fire sufficeth for life, great flames\r\nseemed too little after death, while men vainly affected\r\nprecious pyres, and to burn like Sardanapalus; but\r\nthe wisdom of funeral laws found the folly of prodigal\r\nblazes and reduced undoing fires unto the rule of sober\r\nobsequies, wherein few could be so mean as not to provide\r\nwood, pitch, a mourner, and an urn."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Five languages[109] secured not the epitaph of Gordianus.\r\nThe man of God lives longer without a tomb than any\r\nby one, invisibly interred by angels, and adjudged to\r\nobscurity, though not without some marks directing\r\nhuman discovery. Enoch and Elias, without either\r\ntomb or burial, in an anomalous state of being, are\r\nthe great examples of perpetuity, in their long and\r\nliving memory, in strict account being still on this\r\nside death, and having a late part yet to act upon this\r\nstage of earth. If in the decretory term of the world\r\nwe shall not all die but be changed, according to received\r\ntranslation, the last day will make but few graves;\r\nat least quick resurrections will anticipate lasting\r\nsepultures. Some graves will be opened before they\r\nbe quite closed, and Lazarus be no wonder. When many\r\nthat feared to die, shall groan that they can die but once,\r\nthe dismal state is the second and living death, when\r\nlife puts despair on the damned; when men shall wish\r\nthe coverings of mountains, not of monuments, and\r\nannihilations shall be courted."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "While some have studied monuments, others have\r\nstudiously declined them, and some have been so vainly\r\nboisterous, that they durst not acknowledge their graves;\r\nwherein Alaricus seems most subtle, who had a river\r\nturned to hide his bones at the bottom. Even Sylla,\r\nthat thought himself safe in his urn, could not prevent\r\nrevenging tongues, and stones thrown at his monument.\r\nHappy are they whom privacy makes innocent, who\r\ndeal so with men in this world, that they are not\r\nafraid to meet them in the next; who, when they die,\r\nmake no commotion among the dead, and are not\r\ntouched with that poetical taunt of Isaiah.[LXXVI.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Pyramids, arches, obelisks, were but the irregularities\r\nof vain-glory, and wild enormities of ancient magnanimity.\r\nBut the most magnanimous resolution rests in\r\nthe Christian religion, which trampleth upon pride and\r\nsits on the neck of ambition, humbly pursuing that\r\ninfallible perpetuity, unto which all others must\r\ndiminish their diameters, and be poorly seen in angles\r\nof contingency.[LXXVII.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Pious spirits who passed their days in raptures of\r\nfuturity, made little more of this world, than the world\r\nthat was before it, while they lay obscure in the chaos\r\nof pre-ordination, and night of their fore-beings. And\r\nif any have been so happy as truly to understand\r\nChristian annihilation, ecstasies, exolution, liquefaction,\r\ntransformation, the kiss of the spouse, gustation of\r\nGod, and ingression into the divine shadow, they have\r\nalready had an handsome anticipation of heaven; the\r\nglory of the world is surely over, and the earth in ashes\r\nunto them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "To subsist in lasting monuments, to live in their productions,\r\nto exist in their names and predicament of\r\nchimeras, was large satisfaction unto old expectations,\r\nand made one part of their Elysiums. But all this\r\nis nothing in the metaphysicks of true belief. To live\r\nindeed, is to be again ourselves, which being not only an\r\nhope, but an evidence in noble believers, ’tis all one to\r\nlie in St Innocent’s[LXXVIII.] church-yard as in the sands of\r\nEgypt. Ready to be anything, in the ecstasy of\r\nbeing ever, and as content with six foot as the "
+          },
+          {
+            "text": "moles",
+            "italic": true
+          },
+          {
+            "text": "\r\nof Adrianus.[LXXIX.]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "——“"
+          },
+          {
+            "text": "Tabésne cadavera solvat,An rogus, haud refert.",
+            "italic": true
+          },
+          {
+            "text": "”—Lucan. viii. 809."
+          }
+        ]
+      }
+    ]
+  }
+}

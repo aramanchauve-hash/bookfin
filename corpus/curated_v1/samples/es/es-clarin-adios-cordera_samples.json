@@ -1,0 +1,37 @@
+{
+  "work_id": "es-clarin-adios-cordera",
+  "author": "Leopoldo Alas (Clarín)",
+  "title": "¡Adiós, Cordera! y otros cuentos",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 14,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 14,
+      "character_length": 1604,
+      "blocks_count": 5,
+      "preview": "¡ADIÓS, CORDERA!¡Eran tres: siempre los tres! Rosa, Pinín y la Cordera. El prao Somonte era un recorte triangular de terciopelo verde tendido, como una colgadura, cuesta abajo por la loma. Uno de sus ángulos, el inferior, lo despuntaba el camino de hierro de Oviedo a Gijón. Un palo del telégrafo, plantado allí como pendón de conquista, con sus jícaras blancas y sus alambres paralelos, a derecha e ...",
+      "content_hash": "1cc67e64d27ad5a1086a5356054b8e0c6bb8a3acfbd5ae99d22a8b5f5d9dc05d"
+    },
+    "middle": {
+      "label": "Milieu (Page 7)",
+      "page_sequence_number": 7,
+      "total_pages": 14,
+      "character_length": 1218,
+      "blocks_count": 3,
+      "preview": "Antón de Chinta comprendió que había nacido para pobre cuando palpó la imposibilidad de cumplir aquel sueño dorado suyo de tener un corral propio con dos yuntas por lo menos. Llegó, gracias a mil ahorros, que eran mares de sudor y purgatorios de privaciones, llegó a la primera vaca, la Cordera, y no pasó de ahí; antes de poder comprar la segunda se vió obligado, para pagar atrasos al amo, el dueño...",
+      "content_hash": "823fc8e20f7803e1aed5ef7a3f61a70c4b1deeafa60bc34573e294f3dbdc8e4b"
+    },
+    "end": {
+      "label": "Fin (Page 14)",
+      "page_sequence_number": 14,
+      "total_pages": 14,
+      "character_length": 607,
+      "blocks_count": 4,
+      "preview": "Con qué odio miraba Rosa la vía manchada de carbones apagados; con qué ira los alambres del telégrafo. ¡Oh! bien hacía la Cordera en no acercarse. Aquello era el mundo, lo desconocido, que se lo llevaba todo. Y sin pensarlo, Rosa apoyó la cabeza sobre el palo clavado como un pendón en la punta del Somonte. El viento cantaba en las entrañas del pino seco su canción metálica. Ahora ya lo comprendía ...",
+      "content_hash": "d5e0e9d520e7f94e27817b1bb02d953571f49e058a793450da86e44741daf6e8"
+    }
+  }
+}

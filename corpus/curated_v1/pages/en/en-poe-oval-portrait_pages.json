@@ -1,0 +1,211 @@
+{
+  "work_id": "en-poe-oval-portrait",
+  "author": "Edgar Allan Poe",
+  "title": "The Oval Portrait",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "wikisource",
+  "source_sha256": "8bb3cddd1541b61fec6ff1263174c97a54fe9fca6e6f806adeadbdfb44783d9d",
+  "document_sha256": "880a00b0f3ee5d6ac4aee338c2b4f6957bc0155959214fd71fc44b10af36f6b8",
+  "pages_count": 5,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-poe-oval-portrait",
+      "edition_id": "wikisource",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "7211ead3ffe379e7383bc453e8fa9c62578cf3bfb542dcb77b0be66e0b955f5f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "THE OVAL PORTRAIT."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nThe chateau into which my valet had ventured to make forcible entrance, rather than permit me, in my desperately wounded condition, to pass a night in the open air, was one of those piles of commingled gloom and grandeur which have so long frowned among the Appenines, not less in fact than in the fancy of Mrs. \nRadcliffe. To all appearance it had been temporarily and very lately abandoned. We established ourselves in one of the smallest and least sumptuously furnished apartments. It lay in a remote turret of the building. Its decorations were rich, yet tattered and antique. Its walls were hung with tapestry and bedecked with manifold and multiform armorial trophies, together with an unusually great number of very spirited modern paintings in frames of rich golden arabesque. In these paintings, which depended from the walls not only in their main surfaces, but in very many nooks which the bizarre architecture of the chateau rendered necessary—in these paintings my incipient delirium, perhaps, had caused me to take deep interest; so that I bade Pedro to close the heavy shutters of the room—since it was already night—to light the tongues of a tall candelabrum which stood by the head of my bed—and to throw open far and wide the fringed curtains of black velvet which enveloped the bed itself. I wished all this done that I might resign myself, if not to sleep, at least alternately to the contemplation of these pictures, and the perusal of a small volume which had been found upon the pillow, and which purported to criticise and describe them.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-poe-oval-portrait",
+      "edition_id": "wikisource",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "fcad1bd522f96836c3c441abb991ad213295fb1de4a56fe090473e4339c00a30",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Long—long I read—and devoutly, devoutedly I gazed. Rapidly and gloriously the hours flew by, and the deep midnight came. The position of the candelabrum displeased me, and outreaching my hand with difficulty, rather than disturb my slumbering valet, I placed it so as to throw its rays more fully upon the book.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "But the action produced an effect altogether unanticipated. The rays of the numerous candles (for there were many) now fell within a niche of the room which had hitherto been thrown into deep shade by one of the bed-posts. I thus saw in vivid light a picture all unnoticed before. It was the portrait of a young girl just ripening into womanhood. I glanced at the painting hurriedly, and then closed my eyes. Why I did this was not at first apparent even to my own perception. But while my lids remained thus shut, I ran over in mind my reason for so shutting them. It was an impulsive movement to gain time for thought—to make sure that my vision had not deceived me—to calm and subdue my fancy for a more sober and more certain gaze. In a very few moments I again looked fixedly at the painting.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "That I now saw aright I could not and would not doubt; for the first flashing of the candles upon that canvass had seemed to dissipate the dreamy stupor which was stealing over my senses, and to startle me at once into waking life.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-poe-oval-portrait",
+      "edition_id": "wikisource",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "ea34a6545b497693e469faa9e55f9f936fcf5f3e7e6f1744072a157465123a20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "The portrait, I have already said, was that of a young girl. It was a mere head and shoulders, done in what is technically termed a "
+            },
+            {
+              "text": "vignette",
+              "italic": true
+            },
+            {
+              "text": " manner; much in the style of the favorite heads of Sully. The arms, the bosom and even the ends of the radiant hair, melted imperceptibly into the vague yet deep shadow which formed the back ground of the whole. The frame was oval, richly gilded and filagreed in "
+            },
+            {
+              "text": "Moresque",
+              "italic": true
+            },
+            {
+              "text": ". As a thing of art nothing could be more admirable than the painting itself. But it could have been neither the execution of the work, nor the immortal beauty of the countenance, which had so suddenly and so vehemently moved me. Least of all, could it have been that my fancy, shaken from its half slumber, had mistaken the head for that of a living person. I saw at once that the peculiarities of the design, of the "
+            },
+            {
+              "text": "vignetting",
+              "italic": true
+            },
+            {
+              "text": ", and of the frame, must have instantly dispelled such idea—must have prevented even its momentary entertainment. Thinking earnestly upon these points, I remained, for an hour perhaps, half sitting, half reclining, with my vision riveted upon the portrait. At length, satisfied with the true secret of its effect, I fell back within the bed. I had found the spell of the picture in an absolute "
+            },
+            {
+              "text": "life-likeliness",
+              "italic": true
+            },
+            {
+              "text": " of expression, which, at first startling, finally confounded, subdued and appalled me. With deep and reverent awe I replaced the candelabrum in its former position. The cause of my deep agitation being thus shut from view, I sought eagerly the volume which discussed the paintings and their histories. Turning to the number which designated the oval portrait, I there read the vague and quaint words which follow:\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-poe-oval-portrait",
+      "edition_id": "wikisource",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "cae6dd645cecf915875d2ea91508a61c3869a10d30e44f3aa65d6eef5ea7d5ab",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"She was a maiden of rarest beauty, and not more lovely than full of glee. And evil was the hour when she saw, and loved, and wedded the painter. He, passionate, studious, austere, and having already a bride in his Art; she a maiden of rarest beauty, and not more lovely than full of glee: all light and smiles, and frolicksome as the young fawn: loving and cherishing all things: hating only the Art which was her rival: dreading only the pallet and brushes and other untoward instruments which deprived her of the countenance of her lover. It was thus a terrible thing for this lady to hear the painter speak of his desire to portray even his young bride. But she was humble and obedient, and sat meekly for many weeks in the dark high turret-chamber where the light dripped upon the pale canvass only from overhead. But he, the painter, took glory in his work, which went on from hour to hour, and from day to day. And he was a passionate, and wild, and moody man, who became lost in reveries; so that he "
+            },
+            {
+              "text": "would",
+              "italic": true
+            },
+            {
+              "text": " not see that the light which fell so ghastlily in that lone turret withered the health and the spirits of his bride, who pined visibly to all but him. Yet she smiled on and still on, uncomplainingly, because she saw that the painter, (who had high renown,) took a fervid and burning pleasure in his task, and wrought day and night to depict her who so loved him, yet who grew daily more dispirited and weak. And in sooth some who beheld the portrait spoke of its resemblance in low words, as of a mighty marvel, and a proof not less of the power of the painter than of his deep love for her whom he depicted so surpassingly well."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-poe-oval-portrait",
+      "edition_id": "wikisource",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "fc824fad1f70655b90c42ea9cf9f63351e54e152edc8de88d4c085e0f621f545",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " But at length, as the labor drew nearer to its conclusion, there were admitted none into the turret; for the painter had grown wild with the ardor of his work, and turned his eyes from the canvass rarely, even to regard the countenance of his wife. And he "
+            },
+            {
+              "text": "would",
+              "italic": true
+            },
+            {
+              "text": " not see that the tints which he spread upon the canvass were drawn from the cheeks of her who sat beside him. And when many weeks had passed, and but little remained to do, save one brush upon the mouth and one tint upon the eye, the spirit of the lady again flickered up as the flame within the socket of the lamp. And then the brush was given, and then the tint was placed; and, for one moment, the painter stood entranced before the work which he had wrought; but in the next, while he yet gazed, he grew tremulous and very pallid, and aghast, and crying with a loud voice, 'This is indeed "
+            },
+            {
+              "text": "Life",
+              "italic": true
+            },
+            {
+              "text": " itself!' turned suddenly to regard his beloved:—"
+            },
+            {
+              "text": "She was dead!",
+              "italic": true
+            },
+            {
+              "text": "\"\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "This work was published before January 1, 1931, and is in the "
+            },
+            {
+              "text": "public domain",
+              "bold": true
+            },
+            {
+              "text": " worldwide because the author died at least 100 years ago.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Public domainPublic domainfalsefalse"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "es-cervantes-el-licenciado-vidriera",
+  "author": "Miguel de Cervantes",
+  "title": "El licenciado Vidriera",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 34,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 34,
+      "character_length": 1745,
+      "blocks_count": 8,
+      "preview": "EL LICENCIADO VIDRIERA.Paseándose dos caballeros estudiantes por las riberas del Tórmes, hallaron en ellas debajo de un árbol durmiendo á un muchacho de hasta edad de once años, vestido como labrador: mandaron á un criado que le despertase: despertó, y preguntáronle de adónde era y qué hacia durmiendo en aquella soledad; á lo cual el muchacho respondió, que el nombre de su tierra se le habia olvid...",
+      "content_hash": "d5824e4daa5675121aed475de3c94a969f6cbf904fe21fce95fc4d1964d66613"
+    },
+    "middle": {
+      "label": "Milieu (Page 17)",
+      "page_sequence_number": 17,
+      "total_pages": 34,
+      "character_length": 1251,
+      "blocks_count": 13,
+      "preview": "Preguntóle otro estudiante que en qué estimacion tenia á los poetas. Respondió que á la ciencia en mucha, pero que á los poetas en ninguna. Replicáronle que por qué decia aquello. Respondió que del infinito número de poetas que habia, eran tan pocos los buenos, que casi no hacian número; y así como si no hubiese poetas, no los estimaba; pero que admiraba y reverenciaba la ciencia de la poesía, por...",
+      "content_hash": "b2684300a8a623b82fa0a3c4dc39e75da83e2343a2bad90c297e9f217181f695"
+    },
+    "end": {
+      "label": "Fin (Page 34)",
+      "page_sequence_number": 34,
+      "total_pages": 34,
+      "character_length": 1163,
+      "blocks_count": 5,
+      "preview": "hagais que el seguirme sea perseguirme, y que lo que alcancé por loco, que es el sustento, lo pierda por cuerdo: lo que solíades preguntarme en las plazas, preguntádmelo ahora en mi casa, y veréis que el que os respondia bien de improviso, os responderá mejor de pensado.Escucháronle todos, y dejáronle algunos. Volvióse á su posada con poco ménos acompañamiento que habia llevado. Salió otro dia, y ...",
+      "content_hash": "af05d75d7417a6e75499789a9a2b1fb5d2ffbb1dc1c8916099802aa2aae52235"
+    }
+  }
+}

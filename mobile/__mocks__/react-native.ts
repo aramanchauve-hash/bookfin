@@ -57,10 +57,33 @@ export const Animated = {
   },
   timing: () => ({
     start: (cb?: any) => {
-      if (cb) cb();
+      if (cb) cb({ finished: true });
+    },
+  }),
+  spring: () => ({
+    start: (cb?: any) => {
+      if (cb) cb({ finished: true });
+    },
+  }),
+  parallel: (animations: Array<{ start: (cb?: any) => void }>) => ({
+    start: (cb?: any) => {
+      animations.forEach((a) => a.start());
+      if (cb) cb({ finished: true });
+    },
+  }),
+  sequence: (animations: Array<{ start: (cb?: any) => void }>) => ({
+    start: (cb?: any) => {
+      animations.forEach((a) => a.start());
+      if (cb) cb({ finished: true });
     },
   }),
   View: 'Animated.View',
+};
+export const PanResponder = {
+  create: (config: Record<string, any>) => ({
+    panHandlers: {},
+    ...config,
+  }),
 };
 export const useColorScheme = () => 'light';
 

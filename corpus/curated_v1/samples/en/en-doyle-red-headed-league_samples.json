@@ -1,0 +1,37 @@
+{
+  "work_id": "en-doyle-red-headed-league",
+  "author": "Arthur Conan Doyle",
+  "title": "The Red-Headed League",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 33,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 33,
+      "character_length": 1739,
+      "blocks_count": 11,
+      "preview": "II. THE RED-HEADED LEAGUEI had called upon my friend, Mr. Sherlock Holmes, one day in the autumn of last year and found him in deep conversation with a very stout, florid-faced, elderly gentleman with fiery red hair. With an apology for my intrusion, I was about to withdraw when Holmes pulled me abruptly into the room and closed the door behind me. “You could not possibly have come at a better tim...",
+      "content_hash": "5c427013f4461fa9e83d5c692ee1ace3f235b7d594394581fa925ea7ec803940"
+    },
+    "middle": {
+      "label": "Milieu (Page 16)",
+      "page_sequence_number": 16,
+      "total_pages": 33,
+      "character_length": 1739,
+      "blocks_count": 20,
+      "preview": "“Grave enough!” said Mr. Jabez Wilson. “Why, I have lost four pound a week.” “As far as you are personally concerned,” remarked Holmes, “I do not see that you have any grievance against this extraordinary league. On the contrary, you are, as I understand, richer by some £ 30, to say nothing of the minute knowledge which you have gained on every subject which comes under the letter A. You have lost...",
+      "content_hash": "1e5e98c91d10c8a07bfc75dcbfc31ea03169bf0e09bed675de132e415aaa6b2c"
+    },
+    "end": {
+      "label": "Fin (Page 33)",
+      "page_sequence_number": 33,
+      "total_pages": 33,
+      "character_length": 1042,
+      "blocks_count": 5,
+      "preview": "“Well, when they closed their League offices that was a sign that they cared no longer about Mr. Jabez Wilson’s presence—in other words, that they had completed their tunnel. But it was essential that they should use it soon, as it might be discovered, or the bullion might be removed. Saturday would suit them better than any other day, as it would give them two days for their escape. For all these...",
+      "content_hash": "eb95b715058df8285dac10b1ed540eb1782e9d62e5cb421cf6ae26daf4ea209f"
+    }
+  }
+}

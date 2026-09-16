@@ -728,19 +728,24 @@ async fn test_random_page_strictly_excludes_seen_pages() {
     let edition_id = Uuid::new_v4();
     let page_a = Uuid::new_v4();
     let page_b = Uuid::new_v4();
+    // Isolate this strict-pool contract from pages inserted by other async
+    // integration tests sharing the same local database.
+    let strict_language = "zz-strict";
 
     sqlx::query("INSERT INTO users (id) VALUES ($1)").bind(user_id).execute(&pool).await.unwrap();
-    sqlx::query("INSERT INTO works (id, title, author, original_language_tag) VALUES ($1, 'W', 'A', 'fr')")
-        .bind(work_id).execute(&pool).await.unwrap();
-    sqlx::query("INSERT INTO editions (id, work_id, edition_title, language_tag) VALUES ($1, $2, 'E', 'fr')")
-        .bind(edition_id).bind(work_id).execute(&pool).await.unwrap();
+    sqlx::query("INSERT INTO user_language_preferences (user_id, language_tag, priority) VALUES ($1, $2, 0)")
+        .bind(user_id).bind(strict_language).execute(&pool).await.unwrap();
+    sqlx::query("INSERT INTO works (id, title, author, original_language_tag) VALUES ($1, 'W', 'A', $2)")
+        .bind(work_id).bind(strict_language).execute(&pool).await.unwrap();
+    sqlx::query("INSERT INTO editions (id, work_id, edition_title, language_tag) VALUES ($1, $2, 'E', $3)")
+        .bind(edition_id).bind(work_id).bind(strict_language).execute(&pool).await.unwrap();
 
     let ha = Page::compute_hash("Page A content");
     let hb = Page::compute_hash("Page B content");
-    sqlx::query("INSERT INTO pages (id, edition_id, page_number, content, content_hash, language_tag, token_count, random_key) VALUES ($1, $2, 1, 'Page A content', $3, 'fr', 10, 0.1)")
-        .bind(page_a).bind(edition_id).bind(&ha).execute(&pool).await.unwrap();
-    sqlx::query("INSERT INTO pages (id, edition_id, page_number, content, content_hash, language_tag, token_count, random_key) VALUES ($1, $2, 2, 'Page B content', $3, 'fr', 10, 0.9)")
-        .bind(page_b).bind(edition_id).bind(&hb).execute(&pool).await.unwrap();
+    sqlx::query("INSERT INTO pages (id, edition_id, page_number, content, content_hash, language_tag, token_count, random_key) VALUES ($1, $2, 1, 'Page A content', $3, $4, 10, 0.1)")
+        .bind(page_a).bind(edition_id).bind(&ha).bind(strict_language).execute(&pool).await.unwrap();
+    sqlx::query("INSERT INTO pages (id, edition_id, page_number, content, content_hash, language_tag, token_count, random_key) VALUES ($1, $2, 2, 'Page B content', $3, $4, 10, 0.9)")
+        .bind(page_b).bind(edition_id).bind(&hb).bind(strict_language).execute(&pool).await.unwrap();
 
     let page_repo = PostgresPageRepository::new(pool.clone());
     let impression_repo = PostgresImpressionRepository::new(pool.clone());
@@ -786,6 +791,8 @@ fn test_json_contract_feed_never_leaks_metadata() {
         page_sequence_number: 42,
         source_page_number: Some("XLII".to_string()),
         text: "Le vent se lève, il faut tenter de vivre.".to_string(),
+        blocks: None,
+        content_hash: Page::compute_hash("legacy dto contract"),
         language_tag: "fr".to_string(),
         token_count: 8,
         continuation_depth: 0,
@@ -801,6 +808,8 @@ fn test_json_contract_feed_never_leaks_metadata() {
     assert!(obj.contains_key("page_sequence_number"));
     assert!(obj.contains_key("source_page_number"));
     assert!(obj.contains_key("text"));
+    assert!(obj.contains_key("content_hash"));
+    assert!(!obj.contains_key("blocks"), "legacy rows omit absent V2 blocks");
     assert!(obj.contains_key("language_tag"));
     assert!(obj.contains_key("token_count"));
     assert!(obj.contains_key("continuation_depth"));

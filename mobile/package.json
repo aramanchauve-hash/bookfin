@@ -7,9 +7,14 @@
     "expo-constants": "~57.0.18",
     "expo-secure-store": "~57.0.4",
     "expo-status-bar": "~57.0.1",
+    "hyphenation.en-us": "^0.2.1",
+    "hyphenation.es": "^0.2.1",
+    "hyphenation.fr": "^0.2.1",
+    "hypher": "^0.2.5",
     "react": "19.2.3",
     "react-native": "0.86.3",
-    "react-native-safe-area-context": "~5.7.0"
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-webview": "13.16.1"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
@@ -25,7 +30,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "typecheck": "tsc --noEmit",
-    "test": "jest"
+    "test": "jest",
+    "sync:curated-preview": "python ../scripts/sync_mobile_curated_preview.py"
   },
   "private": true
 }

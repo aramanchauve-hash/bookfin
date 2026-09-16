@@ -1,0 +1,2184 @@
+{
+  "work_id": "en-doyle-red-headed-league",
+  "author": "Arthur Conan Doyle",
+  "title": "The Red-Headed League",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989",
+  "document_sha256": "cabc0987d4501630e2d1086d4918ad8eb460a1e0aa760778c9621a8533aa50de",
+  "pages_count": 33,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "5c427013f4461fa9e83d5c692ee1ace3f235b7d594394581fa925ea7ec803940",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "II.\nTHE RED-HEADED LEAGUE"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "I had\r\ncalled upon my friend, Mr. Sherlock Holmes, one day in the autumn of last year\r\nand found him in deep conversation with a very stout, florid-faced, elderly\r\ngentleman with fiery red hair. With an apology for my intrusion, I was about to\r\nwithdraw when Holmes pulled me abruptly into the room and closed the door\r\nbehind me.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You could not possibly have come at a better time, my dear\r\nWatson,” he said cordially.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I was afraid that you were engaged.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“So I am. Very much so.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Then I can wait in the next room.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Not at all. This gentleman, Mr. Wilson, has been my partner and helper\r\nin many of my most successful cases, and I have no doubt that he will be of the\r\nutmost use to me in yours also.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe stout gentleman half rose from his chair and gave a bob of greeting, with a\r\nquick little questioning glance from his small fat-encircled eyes.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Try the settee,” said Holmes, relapsing into his armchair and\r\nputting his fingertips together, as was his custom when in judicial moods.\r\n“I know, my dear Watson, that you share my love of all that is bizarre\r\nand outside the conventions and humdrum routine of everyday life. You have\r\nshown your relish for it by the enthusiasm which has prompted you to chronicle,\r\nand, if you will excuse my saying so, somewhat to embellish so many of my own\r\nlittle adventures.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Your cases have indeed been of the greatest interest to me,” I\r\nobserved.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You will remember that I remarked the other day, just before we went\r\ninto the very simple problem presented by Miss Mary Sutherland, that for\r\nstrange effects and extraordinary combinations we must go to life itself, which\r\nis always far more daring than any effort of the imagination.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "339c222a67aa35258a3cfd862d3d1b57bb290ba8b05e0732c7b164dcc3711385",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“A proposition which I took the liberty of doubting.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You did, Doctor, but none the less you must come round to my view, for\r\notherwise I shall keep on piling fact upon fact on you until your reason breaks\r\ndown under them and acknowledges me to be right. Now, Mr. Jabez Wilson here has\r\nbeen good enough to call upon me this morning, and to begin a narrative which\r\npromises to be one of the most singular which I have listened to for some time.\r\nYou have heard me remark that the strangest and most unique things are very\r\noften connected not with the larger but with the smaller crimes, and\r\noccasionally, indeed, where there is room for doubt whether any positive crime\r\nhas been committed. As far as I have heard, it is impossible for me to say\r\nwhether the present case is an instance of crime or not, but the course of\r\nevents is certainly among the most singular that I have ever listened to.\r\nPerhaps, Mr. Wilson, you would have the great kindness to recommence your\r\nnarrative. I ask you not merely because my friend Dr. Watson has not heard the\r\nopening part but also because the peculiar nature of the story makes me anxious\r\nto have every possible detail from your lips. As a rule, when I have heard some\r\nslight indication of the course of events, I am able to guide myself by the\r\nthousands of other similar cases which occur to my memory. In the present\r\ninstance I am forced to admit that the facts are, to the best of my belief,\r\nunique.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "fe25d02a05f1ba317766ff1bc5de05d836a378a4208fddbb23e77f2aa7be4f41",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe portly client puffed out his chest with an appearance of some little pride\r\nand pulled a dirty and wrinkled newspaper from the inside pocket of his\r\ngreatcoat. As he glanced down the advertisement column, with his head thrust\r\nforward and the paper flattened out upon his knee, I took a good look at the\r\nman and endeavoured, after the fashion of my companion, to read the indications\r\nwhich might be presented by his dress or appearance.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI did not gain very much, however, by my inspection. Our visitor bore every\r\nmark of being an average commonplace British tradesman, obese, pompous, and\r\nslow. He wore rather baggy grey shepherd’s check trousers, a not\r\nover-clean black frock-coat, unbuttoned in the front, and a drab waistcoat with\r\na heavy brassy Albert chain, and a square pierced bit of metal dangling down as\r\nan ornament. A frayed top-hat and a faded brown overcoat with a wrinkled velvet\r\ncollar lay upon a chair beside him. Altogether, look as I would, there was\r\nnothing remarkable about the man save his blazing red head, and the expression\r\nof extreme chagrin and discontent upon his features.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSherlock Holmes’ quick eye took in my occupation, and he shook his head\r\nwith a smile as he noticed my questioning glances. “Beyond the obvious\r\nfacts that he has at some time done manual labour, that he takes snuff, that he\r\nis a Freemason, that he has been in China, and that he has done a considerable\r\namount of writing lately, I can deduce nothing else.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nMr. Jabez Wilson started up in his chair, with his forefinger upon the paper,\r\nbut his eyes upon my companion.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "e7bd69063610642cab0fe1f562f8bce13c0e9c7860505b446c79d934ad41ab99",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“How, in the name of good-fortune, did you know all that, Mr.\r\nHolmes?” he asked. “How did you know, for example, that I did\r\nmanual labour. It’s as true as gospel, for I began as a ship’s\r\ncarpenter.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Your hands, my dear sir. Your right hand is quite a size larger than\r\nyour left. You have worked with it, and the muscles are more developed.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, the snuff, then, and the Freemasonry?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I won’t insult your intelligence by telling you how I read that,\r\nespecially as, rather against the strict rules of your order, you use an\r\narc-and-compass breastpin.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Ah, of course, I forgot that. But the writing?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What else can be indicated by that right cuff so very shiny for five\r\ninches, and the left one with the smooth patch near the elbow where you rest it\r\nupon the desk?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, but China?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“The fish that you have tattooed immediately above your right wrist could\r\nonly have been done in China. I have made a small study of tattoo marks and\r\nhave even contributed to the literature of the subject. That trick of staining\r\nthe fishes’ scales of a delicate pink is quite peculiar to China. When,\r\nin addition, I see a Chinese coin hanging from your watch-chain, the matter\r\nbecomes even more simple.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nMr. Jabez Wilson laughed heavily. “Well, I never!” said he.\r\n“I thought at first that you had done something clever, but I see that\r\nthere was nothing in it after all.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I begin to think, Watson,” said Holmes, “that I make a\r\nmistake in explaining. ‘"
+            },
+            {
+              "text": "Omne ignotum pro magnifico",
+              "italic": true
+            },
+            {
+              "text": ",’ you\r\nknow, and my poor little reputation, such as it is, will suffer shipwreck if I\r\nam so candid. Can you not find the advertisement, Mr. Wilson?”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "1c9eb8d79adf4add308516f8eca3d628b300dc02861c0806d59d50b8cbdcb62d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes, I have got it now,” he answered with his thick red finger\r\nplanted halfway down the column. “Here it is. This is what began it all.\r\nYou just read it for yourself, sir.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI took the paper from him and read as follows:\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“TO THE RED-HEADED LEAGUE: On account of the bequest of the late Ezekiah\r\nHopkins, of Lebanon, Pennsylvania, U.S.A., there is now another vacancy open\r\nwhich entitles a member of the League to a salary of £ 4 a week for purely\r\nnominal services. All red-headed men who are sound in body and mind and above\r\nthe age of twenty-one years, are eligible. Apply in person on Monday, at eleven\r\no’clock, to Duncan Ross, at the offices of the League, 7 Pope’s\r\nCourt, Fleet Street.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What on earth does this mean?” I ejaculated after I had twice read\r\nover the extraordinary announcement.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHolmes chuckled and wriggled in his chair, as was his habit when in high\r\nspirits. “It is a little off the beaten track, isn’t it?”\r\nsaid he. “And now, Mr. Wilson, off you go at scratch and tell us all\r\nabout yourself, your household, and the effect which this advertisement had\r\nupon your fortunes. You will first make a note, Doctor, of the paper and the\r\ndate.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“It is "
+            },
+            {
+              "text": "The Morning Chronicle",
+              "italic": true
+            },
+            {
+              "text": " of April 27, 1890. Just two months\r\nago.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Very good. Now, Mr. Wilson?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, it is just as I have been telling you, Mr. Sherlock Holmes,”\r\nsaid Jabez Wilson, mopping his forehead; “I have a small\r\npawnbroker’s business at Coburg Square, near the City. It’s not a\r\nvery large affair, and of late years it has not done more than just give me a\r\nliving. I used to be able to keep two assistants, but now I only keep one; and\r\nI would have a job to pay him but that he is willing to come for half wages so\r\nas to learn the business.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 6,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "6b6b8d1b21c242172faa967096278271e8a2a2b78a0de34f48ef5c142b601692",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What is the name of this obliging youth?” asked Sherlock Holmes.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“His name is Vincent Spaulding, and he’s not such a youth, either.\r\nIt’s hard to say his age. I should not wish a smarter assistant, Mr.\r\nHolmes; and I know very well that he could better himself and earn twice what I\r\nam able to give him. But, after all, if he is satisfied, why should I put ideas\r\nin his head?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Why, indeed? You seem most fortunate in having an "
+            },
+            {
+              "text": "employé",
+              "italic": true
+            },
+            {
+              "text": " who\r\ncomes under the full market price. It is not a common experience among\r\nemployers in this age. I don’t know that your assistant is not as\r\nremarkable as your advertisement.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Oh, he has his faults, too,” said Mr. Wilson. “Never was\r\nsuch a fellow for photography. Snapping away with a camera when he ought to be\r\nimproving his mind, and then diving down into the cellar like a rabbit into its\r\nhole to develop his pictures. That is his main fault, but on the whole\r\nhe’s a good worker. There’s no vice in him.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“He is still with you, I presume?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes, sir. He and a girl of fourteen, who does a bit of simple cooking\r\nand keeps the place clean—that’s all I have in the house, for I am\r\na widower and never had any family. We live very quietly, sir, the three of us;\r\nand we keep a roof over our heads and pay our debts, if we do nothing more.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“The first thing that put us out was that advertisement. Spaulding, he\r\ncame down into the office just this day eight weeks, with this very paper in\r\nhis hand, and he says:\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘I wish to the Lord, Mr. Wilson, that I was a red-headed\r\nman.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Why that?’ I asks.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 7,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "aa4015cc310a23b55d28bd8600d76a1b267f663d2056f1df1a553b102395543e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Why,’ says he, ‘here’s another vacancy on\r\nthe League of the Red-headed Men. It’s worth quite a little fortune to\r\nany man who gets it, and I understand that there are more vacancies than there\r\nare men, so that the trustees are at their wits’ end what to do with the\r\nmoney. If my hair would only change colour, here’s a nice little crib all\r\nready for me to step into.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Why, what is it, then?’ I asked. You see, Mr. Holmes,\r\nI am a very stay-at-home man, and as my business came to me instead of my\r\nhaving to go to it, I was often weeks on end without putting my foot over the\r\ndoor-mat. In that way I didn’t know much of what was going on outside,\r\nand I was always glad of a bit of news.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Have you never heard of the League of the Red-headed\r\nMen?’ he asked with his eyes open.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Never.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Why, I wonder at that, for you are eligible yourself for\r\none of the vacancies.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘And what are they worth?’ I asked.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Oh, merely a couple of hundred a year, but the work is\r\nslight, and it need not interfere very much with one’s other\r\noccupations.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, you can easily think that that made me prick up my ears, for the\r\nbusiness has not been over good for some years, and an extra couple of hundred\r\nwould have been very handy.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Tell me all about it,’ said I.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 8,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "65cbb6dab4fb26503133514dd605922025be805ee3bbb04847fe1230b00789d1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Well,’ said he, showing me the advertisement,\r\n‘you can see for yourself that the League has a vacancy, and there is the\r\naddress where you should apply for particulars. As far as I can make out, the\r\nLeague was founded by an American millionaire, Ezekiah Hopkins, who was very\r\npeculiar in his ways. He was himself red-headed, and he had a great sympathy\r\nfor all red-headed men; so, when he died, it was found that he had left his\r\nenormous fortune in the hands of trustees, with instructions to apply the\r\ninterest to the providing of easy berths to men whose hair is of that colour.\r\nFrom all I hear it is splendid pay and very little to do.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘But,’ said I, ‘there would be millions of\r\nred-headed men who would apply.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Not so many as you might think,’ he answered.\r\n‘You see it is really confined to Londoners, and to grown men. This\r\nAmerican had started from London when he was young, and he wanted to do the old\r\ntown a good turn. Then, again, I have heard it is no use your applying if your\r\nhair is light red, or dark red, or anything but real bright, blazing, fiery\r\nred. Now, if you cared to apply, Mr. Wilson, you would just walk in; but\r\nperhaps it would hardly be worth your while to put yourself out of the way for\r\nthe sake of a few hundred pounds.’\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 9,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "02d4683d4a7bfcdc689395e0355ca816736730737b66185d306401df02f4e615",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Now, it is a fact, gentlemen, as you may see for yourselves, that my\r\nhair is of a very full and rich tint, so that it seemed to me that if there was\r\nto be any competition in the matter I stood as good a chance as any man that I\r\nhad ever met. Vincent Spaulding seemed to know so much about it that I thought\r\nhe might prove useful, so I just ordered him to put up the shutters for the day\r\nand to come right away with me. He was very willing to have a holiday, so we\r\nshut the business up and started off for the address that was given us in the\r\nadvertisement.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I never hope to see such a sight as that again, Mr. Holmes. From north,\r\nsouth, east, and west every man who had a shade of red in his hair had tramped\r\ninto the city to answer the advertisement. Fleet Street was choked with\r\nred-headed folk, and Pope’s Court looked like a coster’s orange\r\nbarrow. I should not have thought there were so many in the whole country as\r\nwere brought together by that single advertisement. Every shade of colour they\r\nwere—straw, lemon, orange, brick, Irish-setter, liver, clay; but, as\r\nSpaulding said, there were not many who had the real vivid flame-coloured tint.\r\nWhen I saw how many were waiting, I would have given it up in despair; but\r\nSpaulding would not hear of it. How he did it I could not imagine, but he\r\npushed and pulled and butted until he got me through the crowd, and right up to\r\nthe steps which led to the office. There was a double stream upon the stair,\r\nsome going up in hope, and some coming back dejected; but we wedged in as well\r\nas we could and soon found ourselves in the office.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 10,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "5f0c1b8ab990dcedfb37351358097738fcec5e5c18e7d62417766c955dac3b9a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Your experience has been a most entertaining one,” remarked Holmes\r\nas his client paused and refreshed his memory with a huge pinch of snuff.\r\n“Pray continue your very interesting statement.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“There was nothing in the office but a couple of wooden chairs and a deal\r\ntable, behind which sat a small man with a head that was even redder than mine.\r\nHe said a few words to each candidate as he came up, and then he always managed\r\nto find some fault in them which would disqualify them. Getting a vacancy did\r\nnot seem to be such a very easy matter, after all. However, when our turn came\r\nthe little man was much more favourable to me than to any of the others, and he\r\nclosed the door as we entered, so that he might have a private word with us.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘This is Mr. Jabez Wilson,’ said my assistant,\r\n‘and he is willing to fill a vacancy in the League.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘And he is admirably suited for it,’ the other\r\nanswered. ‘He has every requirement. I cannot recall when I have seen\r\nanything so fine.’ He took a step backward, cocked his head on one side,\r\nand gazed at my hair until I felt quite bashful. Then suddenly he plunged\r\nforward, wrung my hand, and congratulated me warmly on my success.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 11,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "9c7dfd17f3f585d190d0d8fbc22128fb77f718a3874358243a37a2436a33ef28",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘It would be injustice to hesitate,’ said he.\r\n‘You will, however, I am sure, excuse me for taking an obvious\r\nprecaution.’ With that he seized my hair in both his hands, and tugged\r\nuntil I yelled with the pain. ‘There is water in your eyes,’ said\r\nhe as he released me. ‘I perceive that all is as it should be. But we\r\nhave to be careful, for we have twice been deceived by wigs and once by paint.\r\nI could tell you tales of cobbler’s wax which would disgust you with\r\nhuman nature.’ He stepped over to the window and shouted through it at\r\nthe top of his voice that the vacancy was filled. A groan of disappointment\r\ncame up from below, and the folk all trooped away in different directions until\r\nthere was not a red-head to be seen except my own and that of the manager.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘My name,’ said he, ‘is Mr. Duncan Ross, and I\r\nam myself one of the pensioners upon the fund left by our noble benefactor. Are\r\nyou a married man, Mr. Wilson? Have you a family?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I answered that I had not.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“His face fell immediately.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Dear me!’ he said gravely, ‘that is very\r\nserious indeed! I am sorry to hear you say that. The fund was, of course, for\r\nthe propagation and spread of the red-heads as well as for their maintenance.\r\nIt is exceedingly unfortunate that you should be a bachelor.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“My face lengthened at this, Mr. Holmes, for I thought that I was not to\r\nhave the vacancy after all; but after thinking it over for a few minutes he\r\nsaid that it would be all right.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘In the case of another,’ said he, ‘the\r\nobjection might be fatal, but we must stretch a point in favour of a man with\r\nsuch a head of hair as yours. When shall you be able to enter upon your new\r\nduties?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Well, it is a little awkward, for I have a business\r\nalready,’ said I.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 12,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "43d5cec896150eef39e41d42c2b8c3e2aeee79fc813967c0043800f7905ba9b8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Oh, never mind about that, Mr. Wilson!’ said Vincent\r\nSpaulding. ‘I should be able to look after that for you.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘What would be the hours?’ I asked.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Ten to two.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Now a pawnbroker’s business is mostly done of an evening, Mr.\r\nHolmes, especially Thursday and Friday evening, which is just before pay-day;\r\nso it would suit me very well to earn a little in the mornings. Besides, I knew\r\nthat my assistant was a good man, and that he would see to anything that turned\r\nup.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘That would suit me very well,’ said I. ‘And the\r\npay?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Is £ 4 a week.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘And the work?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Is purely nominal.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘What do you call purely nominal?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Well, you have to be in the office, or at least in the\r\nbuilding, the whole time. If you leave, you forfeit your whole position\r\nforever. The will is very clear upon that point. You don’t comply with\r\nthe conditions if you budge from the office during that time.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘It’s only four hours a day, and I should not think of\r\nleaving,’ said I.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘No excuse will avail,’ said Mr. Duncan Ross;\r\n‘neither sickness nor business nor anything else. There you must stay, or\r\nyou lose your billet.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘And the work?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Is to copy out the "
+            },
+            {
+              "text": "Encyclopædia Britannica",
+              "italic": true
+            },
+            {
+              "text": ". There is the\r\nfirst volume of it in that press. You must find your own ink, pens, and\r\nblotting-paper, but we provide this table and chair. Will you be ready\r\nto-morrow?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Certainly,’ I answered.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Then, good-bye, Mr. Jabez Wilson, and let me congratulate\r\nyou once more on the important position which you have been fortunate enough to\r\ngain.’ He bowed me out of the room and I went home with my assistant,\r\nhardly knowing what to say or do, I was so pleased at my own good fortune.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 13,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "b8f1f2e87e479fc313ce9fb5f14c9fbfe74e3c9d456bad52435fb7e0d24989a1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, I thought over the matter all day, and by evening I was in low\r\nspirits again; for I had quite persuaded myself that the whole affair must be\r\nsome great hoax or fraud, though what its object might be I could not imagine.\r\nIt seemed altogether past belief that anyone could make such a will, or that\r\nthey would pay such a sum for doing anything so simple as copying out the\r\n"
+            },
+            {
+              "text": "Encyclopædia Britannica",
+              "italic": true
+            },
+            {
+              "text": ". Vincent Spaulding did what he could to cheer me\r\nup, but by bedtime I had reasoned myself out of the whole thing. However, in\r\nthe morning I determined to have a look at it anyhow, so I bought a penny\r\nbottle of ink, and with a quill-pen, and seven sheets of foolscap paper, I\r\nstarted off for Pope’s Court.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, to my surprise and delight, everything was as right as possible.\r\nThe table was set out ready for me, and Mr. Duncan Ross was there to see that I\r\ngot fairly to work. He started me off upon the letter A, and then he left me;\r\nbut he would drop in from time to time to see that all was right with me. At\r\ntwo o’clock he bade me good-day, complimented me upon the amount that I\r\nhad written, and locked the door of the office after me.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“This went on day after day, Mr. Holmes, and on Saturday the manager came\r\nin and planked down four golden sovereigns for my week’s work. It was the\r\nsame next week, and the same the week after. Every morning I was there at ten,\r\nand every afternoon I left at two. By degrees Mr. Duncan Ross took to coming in\r\nonly once of a morning, and then, after a time, he did not come in at all.\r\nStill, of course, I never dared to leave the room for an instant, for I was not\r\nsure when he might come, and the billet was such a good one, and suited me so\r\nwell, that I would not risk the loss of it.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 14,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "d7b788b02badfc9c5113cbb425634fcbdc5c2a9b330567d796759b9706f4a7d7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Eight weeks passed away like this, and I had written about Abbots and\r\nArchery and Armour and Architecture and Attica, and hoped with diligence that I\r\nmight get on to the B’s before very long. It cost me something in\r\nfoolscap, and I had pretty nearly filled a shelf with my writings. And then\r\nsuddenly the whole business came to an end.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“To an end?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes, sir. And no later than this morning. I went to my work as usual at\r\nten o’clock, but the door was shut and locked, with a little square of\r\ncardboard hammered on to the middle of the panel with a tack. Here it is, and\r\nyou can read for yourself.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe held up a piece of white cardboard about the size of a sheet of note-paper.\r\nIt read in this fashion:\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“THE RED-HEADED LEAGUE IS DISSOLVED. October 9, 1890.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSherlock Holmes and I surveyed this curt announcement and the rueful face\r\nbehind it, until the comical side of the affair so completely overtopped every\r\nother consideration that we both burst out into a roar of laughter.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I cannot see that there is anything very funny,” cried our client,\r\nflushing up to the roots of his flaming head. “If you can do nothing\r\nbetter than laugh at me, I can go elsewhere.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No, no,” cried Holmes, shoving him back into the chair from which\r\nhe had half risen. “I really wouldn’t miss your case for the world.\r\nIt is most refreshingly unusual. But there is, if you will excuse my saying so,\r\nsomething just a little funny about it. Pray what steps did you take when you\r\nfound the card upon the door?”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 15,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "684a56157b778a2bec197adff0511947089cc8795cedabec29312aa58deec35c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I was staggered, sir. I did not know what to do. Then I called at the\r\noffices round, but none of them seemed to know anything about it. Finally, I\r\nwent to the landlord, who is an accountant living on the ground floor, and I\r\nasked him if he could tell me what had become of the Red-headed League. He said\r\nthat he had never heard of any such body. Then I asked him who Mr. Duncan Ross\r\nwas. He answered that the name was new to him.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Well,’ said I, ‘the gentleman at No. 4.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘What, the red-headed man?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Yes.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Oh,’ said he, ‘his name was William Morris. He\r\nwas a solicitor and was using my room as a temporary convenience until his new\r\npremises were ready. He moved out yesterday.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Where could I find him?’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“‘Oh, at his new offices. He did tell me the address. Yes, 17\r\nKing Edward Street, near St. Paul’s.’\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I started off, Mr. Holmes, but when I got to that address it was a\r\nmanufactory of artificial knee-caps, and no one in it had ever heard of either\r\nMr. William Morris or Mr. Duncan Ross.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And what did you do then?” asked Holmes.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I went home to Saxe-Coburg Square, and I took the advice of my\r\nassistant. But he could not help me in any way. He could only say that if I\r\nwaited I should hear by post. But that was not quite good enough, Mr. Holmes. I\r\ndid not wish to lose such a place without a struggle, so, as I had heard that\r\nyou were good enough to give advice to poor folk who were in need of it, I came\r\nright away to you.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And you did very wisely,” said Holmes. “Your case is an\r\nexceedingly remarkable one, and I shall be happy to look into it. From what you\r\nhave told me I think that it is possible that graver issues hang from it than\r\nmight at first sight appear.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 16,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "1e5e98c91d10c8a07bfc75dcbfc31ea03169bf0e09bed675de132e415aaa6b2c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Grave enough!” said Mr. Jabez Wilson. “Why, I have lost four\r\npound a week.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“As far as you are personally concerned,” remarked Holmes, “I\r\ndo not see that you have any grievance against this extraordinary league. On\r\nthe contrary, you are, as I understand, richer by some £ 30, to say nothing of\r\nthe minute knowledge which you have gained on every subject which comes under\r\nthe letter A. You have lost nothing by them.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No, sir. But I want to find out about them, and who they are, and what\r\ntheir object was in playing this prank—if it was a prank—upon me.\r\nIt was a pretty expensive joke for them, for it cost them two and thirty\r\npounds.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“We shall endeavour to clear up these points for you. And, first, one or\r\ntwo questions, Mr. Wilson. This assistant of yours who first called your\r\nattention to the advertisement—how long had he been with you?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“About a month then.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“How did he come?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“In answer to an advertisement.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Was he the only applicant?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No, I had a dozen.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Why did you pick him?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Because he was handy and would come cheap.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“At half wages, in fact.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What is he like, this Vincent Spaulding?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Small, stout-built, very quick in his ways, no hair on his face, though\r\nhe’s not short of thirty. Has a white splash of acid upon his\r\nforehead.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHolmes sat up in his chair in considerable excitement. “I thought as\r\nmuch,” said he. “Have you ever observed that his ears are pierced\r\nfor earrings?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes, sir. He told me that a gipsy had done it for him when he was a\r\nlad.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Hum!” said Holmes, sinking back in deep thought. “He is\r\nstill with you?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Oh, yes, sir; I have only just left him.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And has your business been attended to in your absence?”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 17,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "5dd2690deaafd140542aa4ddf72de994b4ae613e33bae59255f57a9e94395207",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Nothing to complain of, sir. There’s never very much to do of a\r\nmorning.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“That will do, Mr. Wilson. I shall be happy to give you an opinion upon\r\nthe subject in the course of a day or two. To-day is Saturday, and I hope that\r\nby Monday we may come to a conclusion.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, Watson,” said Holmes when our visitor had left us,\r\n“what do you make of it all?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I make nothing of it,” I answered frankly. “It is a most\r\nmysterious business.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“As a rule,” said Holmes, “the more bizarre a thing is the\r\nless mysterious it proves to be. It is your commonplace, featureless crimes\r\nwhich are really puzzling, just as a commonplace face is the most difficult to\r\nidentify. But I must be prompt over this matter.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What are you going to do, then?” I asked.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“To smoke,” he answered. “It is quite a three pipe problem,\r\nand I beg that you won’t speak to me for fifty minutes.” He curled\r\nhimself up in his chair, with his thin knees drawn up to his hawk-like nose,\r\nand there he sat with his eyes closed and his black clay pipe thrusting out\r\nlike the bill of some strange bird. I had come to the conclusion that he had\r\ndropped asleep, and indeed was nodding myself, when he suddenly sprang out of\r\nhis chair with the gesture of a man who has made up his mind and put his pipe\r\ndown upon the mantelpiece.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Sarasate plays at the St. James’s Hall this afternoon,” he\r\nremarked. “What do you think, Watson? Could your patients spare you for a\r\nfew hours?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I have nothing to do to-day. My practice is never very absorbing.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 18,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f4631f677a8cadd4190fca9ea86ac4446aaa025aee7f17e73319fe47b08ef26e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Then put on your hat and come. I am going through the City first, and we\r\ncan have some lunch on the way. I observe that there is a good deal of German\r\nmusic on the programme, which is rather more to my taste than Italian or\r\nFrench. It is introspective, and I want to introspect. Come along!”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nWe travelled by the Underground as far as Aldersgate; and a short walk took us\r\nto Saxe-Coburg Square, the scene of the singular story which we had listened to\r\nin the morning. It was a poky, little, shabby-genteel place, where four lines\r\nof dingy two-storied brick houses looked out into a small railed-in enclosure,\r\nwhere a lawn of weedy grass and a few clumps of faded laurel bushes made a hard\r\nfight against a smoke-laden and uncongenial atmosphere. Three gilt balls and a\r\nbrown board with “JABEZ WILSON” in white letters, upon a corner\r\nhouse, announced the place where our red-headed client carried on his business.\r\nSherlock Holmes stopped in front of it with his head on one side and looked it\r\nall over, with his eyes shining brightly between puckered lids. Then he walked\r\nslowly up the street, and then down again to the corner, still looking keenly\r\nat the houses. Finally he returned to the pawnbroker’s, and, having\r\nthumped vigorously upon the pavement with his stick two or three times, he went\r\nup to the door and knocked. It was instantly opened by a bright-looking,\r\nclean-shaven young fellow, who asked him to step in.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Thank you,” said Holmes, “I only wished to ask you how you\r\nwould go from here to the Strand.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Third right, fourth left,” answered the assistant promptly,\r\nclosing the door.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 19,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8cb94277ce14a7388770ab9ce53fa87287ab1da80a2408b24b45307c647a546f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Smart fellow, that,” observed Holmes as we walked away. “He\r\nis, in my judgment, the fourth smartest man in London, and for daring I am not\r\nsure that he has not a claim to be third. I have known something of him\r\nbefore.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Evidently,” said I, “Mr. Wilson’s assistant counts for\r\na good deal in this mystery of the Red-headed League. I am sure that you\r\ninquired your way merely in order that you might see him.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Not him.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What then?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“The knees of his trousers.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And what did you see?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What I expected to see.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Why did you beat the pavement?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“My dear doctor, this is a time for observation, not for talk. We are\r\nspies in an enemy’s country. We know something of Saxe-Coburg Square. Let\r\nus now explore the parts which lie behind it.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe road in which we found ourselves as we turned round the corner from the\r\nretired Saxe-Coburg Square presented as great a contrast to it as the front of\r\na picture does to the back. It was one of the main arteries which conveyed the\r\ntraffic of the City to the north and west. The roadway was blocked with the\r\nimmense stream of commerce flowing in a double tide inward and outward, while\r\nthe footpaths were black with the hurrying swarm of pedestrians. It was\r\ndifficult to realise as we looked at the line of fine shops and stately\r\nbusiness premises that they really abutted on the other side upon the faded and\r\nstagnant square which we had just quitted.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 20,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "74a439678085a73e53769460bd1cfe93636bd55ec76162b799fe9c56aa3d4baf",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Let me see,” said Holmes, standing at the corner and glancing\r\nalong the line, “I should like just to remember the order of the houses\r\nhere. It is a hobby of mine to have an exact knowledge of London. There is\r\nMortimer’s, the tobacconist, the little newspaper shop, the Coburg branch\r\nof the City and Suburban Bank, the Vegetarian Restaurant, and McFarlane’s\r\ncarriage-building depot. That carries us right on to the other block. And now,\r\nDoctor, we’ve done our work, so it’s time we had some play. A\r\nsandwich and a cup of coffee, and then off to violin-land, where all is\r\nsweetness and delicacy and harmony, and there are no red-headed clients to vex\r\nus with their conundrums.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nMy friend was an enthusiastic musician, being himself not only a very capable\r\nperformer but a composer of no ordinary merit. All the afternoon he sat in the\r\nstalls wrapped in the most perfect happiness, gently waving his long, thin\r\nfingers in time to the music, while his gently smiling face and his languid,\r\ndreamy eyes were as unlike those of Holmes the sleuth-hound, Holmes the\r\nrelentless, keen-witted, ready-handed criminal agent, as it was possible to\r\nconceive. In his singular character the dual nature alternately asserted\r\nitself, and his extreme exactness and astuteness represented, as I have often\r\nthought, the reaction against the poetic and contemplative mood which\r\noccasionally predominated in him. The swing of his nature took him from extreme\r\nlanguor to devouring energy; and, as I knew well, he was never so truly\r\nformidable as when, for days on end, he had been lounging in his armchair amid\r\nhis improvisations and his black-letter editions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 21,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "cfc1398eff0099dc10e5c3215448b3a7fc87b9c5816528b3ae24c13a53f444b9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Then it was that the lust of\r\nthe chase would suddenly come upon him, and that his brilliant reasoning power\r\nwould rise to the level of intuition, until those who were unacquainted with\r\nhis methods would look askance at him as on a man whose knowledge was not that\r\nof other mortals. When I saw him that afternoon so enwrapped in the music at\r\nSt. James’s Hall I felt that an evil time might be coming upon those whom\r\nhe had set himself to hunt down.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You want to go home, no doubt, Doctor,” he remarked as we emerged.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes, it would be as well.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And I have some business to do which will take some hours. This business\r\nat Coburg Square is serious.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Why serious?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“A considerable crime is in contemplation. I have every reason to believe\r\nthat we shall be in time to stop it. But to-day being Saturday rather\r\ncomplicates matters. I shall want your help to-night.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“At what time?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Ten will be early enough.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I shall be at Baker Street at ten.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Very well. And, I say, Doctor, there may be some little danger, so\r\nkindly put your army revolver in your pocket.” He waved his hand, turned\r\non his heel, and disappeared in an instant among the crowd.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 22,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "64171ac87899483a834ca3aa49bf4f6f4be003563d8950a2479510d17f243db2",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI trust that I am not more dense than my neighbours, but I was always oppressed\r\nwith a sense of my own stupidity in my dealings with Sherlock Holmes. Here I\r\nhad heard what he had heard, I had seen what he had seen, and yet from his\r\nwords it was evident that he saw clearly not only what had happened but what\r\nwas about to happen, while to me the whole business was still confused and\r\ngrotesque. As I drove home to my house in Kensington I thought over it all,\r\nfrom the extraordinary story of the red-headed copier of the\r\n"
+            },
+            {
+              "text": "Encyclopædia",
+              "italic": true
+            },
+            {
+              "text": " down to the visit to Saxe-Coburg Square, and the ominous\r\nwords with which he had parted from me. What was this nocturnal expedition, and\r\nwhy should I go armed? Where were we going, and what were we to do? I had the\r\nhint from Holmes that this smooth-faced pawnbroker’s assistant was a\r\nformidable man—a man who might play a deep game. I tried to puzzle it\r\nout, but gave it up in despair and set the matter aside until night should\r\nbring an explanation.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIt was a quarter-past nine when I started from home and made my way across the\r\nPark, and so through Oxford Street to Baker Street. Two hansoms were standing\r\nat the door, and as I entered the passage I heard the sound of voices from\r\nabove. On entering his room, I found Holmes in animated conversation with two\r\nmen, one of whom I recognised as Peter Jones, the official police agent, while\r\nthe other was a long, thin, sad-faced man, with a very shiny hat and\r\noppressively respectable frock-coat.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Ha! Our party is complete,” said Holmes, buttoning up his\r\npea-jacket and taking his heavy hunting crop from the rack. “Watson, I\r\nthink you know Mr. Jones, of Scotland Yard? Let me introduce you to Mr.\r\nMerryweather, who is to be our companion in to-night’s adventure.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 23,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "02aac2d3fa5b4c657bbbc8e8e0513e0a519a37c63237b0df1f31ab54a554e9c9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“We’re hunting in couples again, Doctor, you see,” said Jones\r\nin his consequential way. “Our friend here is a wonderful man for\r\nstarting a chase. All he wants is an old dog to help him to do the running\r\ndown.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I hope a wild goose may not prove to be the end of our chase,”\r\nobserved Mr. Merryweather gloomily.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You may place considerable confidence in Mr. Holmes, sir,” said\r\nthe police agent loftily. “He has his own little methods, which are, if\r\nhe won’t mind my saying so, just a little too theoretical and fantastic,\r\nbut he has the makings of a detective in him. It is not too much to say that\r\nonce or twice, as in that business of the Sholto murder and the Agra treasure,\r\nhe has been more nearly correct than the official force.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Oh, if you say so, Mr. Jones, it is all right,” said the stranger\r\nwith deference. “Still, I confess that I miss my rubber. It is the first\r\nSaturday night for seven-and-twenty years that I have not had my rubber.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I think you will find,” said Sherlock Holmes, “that you will\r\nplay for a higher stake to-night than you have ever done yet, and that the play\r\nwill be more exciting. For you, Mr. Merryweather, the stake will be some £\r\n30,000; and for you, Jones, it will be the man upon whom you wish to lay your\r\nhands.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 24,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "5473e6c910ace6dee422855c6251cc080049332829c867d60b1ef7a3a1929958",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“John Clay, the murderer, thief, smasher, and forger. He’s a young\r\nman, Mr. Merryweather, but he is at the head of his profession, and I would\r\nrather have my bracelets on him than on any criminal in London. He’s a\r\nremarkable man, is young John Clay. His grandfather was a royal duke, and he\r\nhimself has been to Eton and Oxford. His brain is as cunning as his fingers,\r\nand though we meet signs of him at every turn, we never know where to find the\r\nman himself. He’ll crack a crib in Scotland one week, and be raising\r\nmoney to build an orphanage in Cornwall the next. I’ve been on his track\r\nfor years and have never set eyes on him yet.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I hope that I may have the pleasure of introducing you to-night.\r\nI’ve had one or two little turns also with Mr. John Clay, and I agree\r\nwith you that he is at the head of his profession. It is past ten, however, and\r\nquite time that we started. If you two will take the first hansom, Watson and I\r\nwill follow in the second.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSherlock Holmes was not very communicative during the long drive and lay back\r\nin the cab humming the tunes which he had heard in the afternoon. We rattled\r\nthrough an endless labyrinth of gas-lit streets until we emerged into\r\nFarrington Street.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“We are close there now,” my friend remarked. “This fellow\r\nMerryweather is a bank director, and personally interested in the matter. I\r\nthought it as well to have Jones with us also. He is not a bad fellow, though\r\nan absolute imbecile in his profession. He has one positive virtue. He is as\r\nbrave as a bulldog and as tenacious as a lobster if he gets his claws upon\r\nanyone. Here we are, and they are waiting for us.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 25,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f49dfecdab79d40b92cf2d26cee4c0e09c3ed57fcbeacd4522049172536f020a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nWe had reached the same crowded thoroughfare in which we had found ourselves in\r\nthe morning. Our cabs were dismissed, and, following the guidance of Mr.\r\nMerryweather, we passed down a narrow passage and through a side door, which he\r\nopened for us. Within there was a small corridor, which ended in a very massive\r\niron gate. This also was opened, and led down a flight of winding stone steps,\r\nwhich terminated at another formidable gate. Mr. Merryweather stopped to light\r\na lantern, and then conducted us down a dark, earth-smelling passage, and so,\r\nafter opening a third door, into a huge vault or cellar, which was piled all\r\nround with crates and massive boxes.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You are not very vulnerable from above,” Holmes remarked as he\r\nheld up the lantern and gazed about him.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Nor from below,” said Mr. Merryweather, striking his stick upon\r\nthe flags which lined the floor. “Why, dear me, it sounds quite\r\nhollow!” he remarked, looking up in surprise.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I must really ask you to be a little more quiet!” said Holmes\r\nseverely. “You have already imperilled the whole success of our\r\nexpedition. Might I beg that you would have the goodness to sit down upon one\r\nof those boxes, and not to interfere?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe solemn Mr. Merryweather perched himself upon a crate, with a very injured\r\nexpression upon his face, while Holmes fell upon his knees upon the floor and,\r\nwith the lantern and a magnifying lens, began to examine minutely the cracks\r\nbetween the stones. A few seconds sufficed to satisfy him, for he sprang to his\r\nfeet again and put his glass in his pocket.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 26,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "272a4271982b6d285daadbd21a05331ec47e5e7cdafb0d1451dcffcbca946d7b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“We have at least an hour before us,” he remarked, “for they\r\ncan hardly take any steps until the good pawnbroker is safely in bed. Then they\r\nwill not lose a minute, for the sooner they do their work the longer time they\r\nwill have for their escape. We are at present, Doctor—as no doubt you\r\nhave divined—in the cellar of the City branch of one of the principal\r\nLondon banks. Mr. Merryweather is the chairman of directors, and he will\r\nexplain to you that there are reasons why the more daring criminals of London\r\nshould take a considerable interest in this cellar at present.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“It is our French gold,” whispered the director. “We have had\r\nseveral warnings that an attempt might be made upon it.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Your French gold?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes. We had occasion some months ago to strengthen our resources and\r\nborrowed for that purpose 30,000 napoleons from the Bank of France. It has\r\nbecome known that we have never had occasion to unpack the money, and that it\r\nis still lying in our cellar. The crate upon which I sit contains 2,000\r\nnapoleons packed between layers of lead foil. Our reserve of bullion is much\r\nlarger at present than is usually kept in a single branch office, and the\r\ndirectors have had misgivings upon the subject.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Which were very well justified,” observed Holmes. “And now\r\nit is time that we arranged our little plans. I expect that within an hour\r\nmatters will come to a head. In the meantime Mr. Merryweather, we must put the\r\nscreen over that dark lantern.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And sit in the dark?”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 27,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "fde83eefd4248eeeabc65baac64e753683cfe11170c87708875ba3c848e00b4e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I am afraid so. I had brought a pack of cards in my pocket, and I\r\nthought that, as we were a "
+            },
+            {
+              "text": "partie carrée",
+              "italic": true
+            },
+            {
+              "text": ", you might have your rubber\r\nafter all. But I see that the enemy’s preparations have gone so far that\r\nwe cannot risk the presence of a light. And, first of all, we must choose our\r\npositions. These are daring men, and though we shall take them at a\r\ndisadvantage, they may do us some harm unless we are careful. I shall stand\r\nbehind this crate, and do you conceal yourselves behind those. Then, when I\r\nflash a light upon them, close in swiftly. If they fire, Watson, have no\r\ncompunction about shooting them down.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI placed my revolver, cocked, upon the top of the wooden case behind which I\r\ncrouched. Holmes shot the slide across the front of his lantern and left us in\r\npitch darkness—such an absolute darkness as I have never before\r\nexperienced. The smell of hot metal remained to assure us that the light was\r\nstill there, ready to flash out at a moment’s notice. To me, with my\r\nnerves worked up to a pitch of expectancy, there was something depressing and\r\nsubduing in the sudden gloom, and in the cold dank air of the vault.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“They have but one retreat,” whispered Holmes. “That is back\r\nthrough the house into Saxe-Coburg Square. I hope that you have done what I\r\nasked you, Jones?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I have an inspector and two officers waiting at the front door.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Then we have stopped all the holes. And now we must be silent and\r\nwait.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 28,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "a2d7cb33b9eb38af50f2f285e4a3fe9767720f3c3af05d3a756b588b13fcbe54",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nWhat a time it seemed! From comparing notes afterwards it was but an hour and a\r\nquarter, yet it appeared to me that the night must have almost gone, and the\r\ndawn be breaking above us. My limbs were weary and stiff, for I feared to\r\nchange my position; yet my nerves were worked up to the highest pitch of\r\ntension, and my hearing was so acute that I could not only hear the gentle\r\nbreathing of my companions, but I could distinguish the deeper, heavier\r\nin-breath of the bulky Jones from the thin, sighing note of the bank director.\r\nFrom my position I could look over the case in the direction of the floor.\r\nSuddenly my eyes caught the glint of a light.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAt first it was but a lurid spark upon the stone pavement. Then it lengthened\r\nout until it became a yellow line, and then, without any warning or sound, a\r\ngash seemed to open and a hand appeared, a white, almost womanly hand, which\r\nfelt about in the centre of the little area of light. For a minute or more the\r\nhand, with its writhing fingers, protruded out of the floor. Then it was\r\nwithdrawn as suddenly as it appeared, and all was dark again save the single\r\nlurid spark which marked a chink between the stones.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 29,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f937c835d7ed8c18767f191ab41ac0fc3f106c7bc5780d23c599497bc4cfc07b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIts disappearance, however, was but momentary. With a rending, tearing sound,\r\none of the broad, white stones turned over upon its side and left a square,\r\ngaping hole, through which streamed the light of a lantern. Over the edge there\r\npeeped a clean-cut, boyish face, which looked keenly about it, and then, with a\r\nhand on either side of the aperture, drew itself shoulder-high and waist-high,\r\nuntil one knee rested upon the edge. In another instant he stood at the side of\r\nthe hole and was hauling after him a companion, lithe and small like himself,\r\nwith a pale face and a shock of very red hair.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“It’s all clear,” he whispered. “Have you the chisel\r\nand the bags? Great Scott! Jump, Archie, jump, and I’ll swing for\r\nit!”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSherlock Holmes had sprung out and seized the intruder by the collar. The other\r\ndived down the hole, and I heard the sound of rending cloth as Jones clutched\r\nat his skirts. The light flashed upon the barrel of a revolver, but\r\nHolmes’ hunting crop came down on the man’s wrist, and the pistol\r\nclinked upon the stone floor.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“It’s no use, John Clay,” said Holmes blandly. “You\r\nhave no chance at all.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“So I see,” the other answered with the utmost coolness. “I\r\nfancy that my pal is all right, though I see you have got his\r\ncoat-tails.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“There are three men waiting for him at the door,” said Holmes.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Oh, indeed! You seem to have done the thing very completely. I must\r\ncompliment you.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And I you,” Holmes answered. “Your red-headed idea was very\r\nnew and effective.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You’ll see your pal again presently,” said Jones.\r\n“He’s quicker at climbing down holes than I am. Just hold out while\r\nI fix the derbies.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 30,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8f5cfca687cf28cdfaffe079fb0fad3dcf3338764d4199fb4e76249e0074da63",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I beg that you will not touch me with your filthy hands,” remarked\r\nour prisoner as the handcuffs clattered upon his wrists. “You may not be\r\naware that I have royal blood in my veins. Have the goodness, also, when you\r\naddress me always to say ‘sir’ and\r\n‘please.’”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“All right,” said Jones with a stare and a snigger. “Well,\r\nwould you please, sir, march upstairs, where we can get a cab to carry your\r\nHighness to the police-station?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“That is better,” said John Clay serenely. He made a sweeping bow\r\nto the three of us and walked quietly off in the custody of the detective.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Really, Mr. Holmes,” said Mr. Merryweather as we followed them\r\nfrom the cellar, “I do not know how the bank can thank you or repay you.\r\nThere is no doubt that you have detected and defeated in the most complete\r\nmanner one of the most determined attempts at bank robbery that have ever come\r\nwithin my experience.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I have had one or two little scores of my own to settle with Mr. John\r\nClay,” said Holmes. “I have been at some small expense over this\r\nmatter, which I shall expect the bank to refund, but beyond that I am amply\r\nrepaid by having had an experience which is in many ways unique, and by hearing\r\nthe very remarkable narrative of the Red-headed League.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 31,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "0d46554437e0e3277bf0c370b4f91c4727893283444453a758845cbaf96f902b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You see, Watson,” he explained in the early hours of the morning\r\nas we sat over a glass of whisky and soda in Baker Street, “it was\r\nperfectly obvious from the first that the only possible object of this rather\r\nfantastic business of the advertisement of the League, and the copying of the\r\n"
+            },
+            {
+              "text": "Encyclopædia",
+              "italic": true
+            },
+            {
+              "text": ", must be to get this not over-bright pawnbroker out of the\r\nway for a number of hours every day. It was a curious way of managing it, but,\r\nreally, it would be difficult to suggest a better. The method was no doubt\r\nsuggested to Clay’s ingenious mind by the colour of his\r\naccomplice’s hair. The £ 4 a week was a lure which must draw him, and\r\nwhat was it to them, who were playing for thousands? They put in the\r\nadvertisement, one rogue has the temporary office, the other rogue incites the\r\nman to apply for it, and together they manage to secure his absence every\r\nmorning in the week. From the time that I heard of the assistant having come\r\nfor half wages, it was obvious to me that he had some strong motive for\r\nsecuring the situation.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“But how could you guess what the motive was?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Had there been women in the house, I should have suspected a mere vulgar\r\nintrigue. That, however, was out of the question. The man’s business was\r\na small one, and there was nothing in his house which could account for such\r\nelaborate preparations, and such an expenditure as they were at. It must, then,\r\nbe something out of the house. What could it be? I thought of the\r\nassistant’s fondness for photography, and his trick of vanishing into the\r\ncellar. The cellar! There was the end of this tangled clue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 32,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "a7ca1fd200ca0db4175da618981fc496d0b8c0f0da77c7fc97ca649e0b731c9c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Then I made\r\ninquiries as to this mysterious assistant and found that I had to deal with one\r\nof the coolest and most daring criminals in London. He was doing something in\r\nthe cellar—something which took many hours a day for months on end. What\r\ncould it be, once more? I could think of nothing save that he was running a\r\ntunnel to some other building.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“So far I had got when we went to visit the scene of action. I surprised\r\nyou by beating upon the pavement with my stick. I was ascertaining whether the\r\ncellar stretched out in front or behind. It was not in front. Then I rang the\r\nbell, and, as I hoped, the assistant answered it. We have had some skirmishes,\r\nbut we had never set eyes upon each other before. I hardly looked at his face.\r\nHis knees were what I wished to see. You must yourself have remarked how worn,\r\nwrinkled, and stained they were. They spoke of those hours of burrowing. The\r\nonly remaining point was what they were burrowing for. I walked round the\r\ncorner, saw the City and Suburban Bank abutted on our friend’s premises,\r\nand felt that I had solved my problem. When you drove home after the concert I\r\ncalled upon Scotland Yard and upon the chairman of the bank directors, with the\r\nresult that you have seen.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And how could you tell that they would make their attempt\r\nto-night?” I asked.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-doyle-red-headed-league",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 33,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "eb95b715058df8285dac10b1ed540eb1782e9d62e5cb421cf6ae26daf4ea209f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well, when they closed their League offices that was a sign that they\r\ncared no longer about Mr. Jabez Wilson’s presence—in other words,\r\nthat they had completed their tunnel. But it was essential that they should use\r\nit soon, as it might be discovered, or the bullion might be removed. Saturday\r\nwould suit them better than any other day, as it would give them two days for\r\ntheir escape. For all these reasons I expected them to come to-night.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You reasoned it out beautifully,” I exclaimed in unfeigned\r\nadmiration. “It is so long a chain, and yet every link rings true.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“It saved me from ennui,” he answered, yawning. “Alas! I\r\nalready feel it closing in upon me. My life is spent in one long effort to\r\nescape from the commonplaces of existence. These little problems help me to do\r\nso.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And you are a benefactor of the race,” said I.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe shrugged his shoulders. “Well, perhaps, after all, it is of some\r\nlittle use,” he remarked. “‘"
+            },
+            {
+              "text": "L’homme\r\nc’est rien—l’œuvre c’est tout",
+              "italic": true
+            },
+            {
+              "text": ",’ as Gustave\r\nFlaubert wrote to George Sand.”\r\n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

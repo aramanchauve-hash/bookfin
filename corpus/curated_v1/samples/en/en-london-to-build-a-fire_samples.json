@@ -1,0 +1,37 @@
+{
+  "work_id": "en-london-to-build-a-fire",
+  "author": "Jack London",
+  "title": "To Build a Fire",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 26,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 26,
+      "character_length": 1615,
+      "blocks_count": 6,
+      "preview": "TO BUILD A FIREBY JACK LONDONAuthor of \"The Call of the Wild,\" \"The Sea-Wolf,\" etc. He travels fastest who travels alone ... but not after the frost has dropped below zero fifty degrees or more.—Yukon Code. Day had broken cold and gray, exceedingly cold and gray, when the man turned aside from the main Yukon trail and climbed the high earth-bank, where a dim and little-traveled trail led eastward ...",
+      "content_hash": "2f62bb9df1f3b2dbab821ac7e102b645262ecc2def05ee4b4a676cc4a5273df6"
+    },
+    "middle": {
+      "label": "Milieu (Page 13)",
+      "page_sequence_number": 13,
+      "total_pages": 26,
+      "character_length": 1185,
+      "blocks_count": 1,
+      "preview": "All this the man knew. The old-timer on Sulphur Creek had told him about it the previous fall, and now he was appreciating the advice. Already all sensation had gone out of his feet. To build the fire he had been forced to remove his mittens, and the fingers had quickly gone numb. His pace of four miles an hour had kept his heart pumping blood to the surface of his body and to all the extremities....",
+      "content_hash": "917592386aff858e4263ddebac5e55098e1b77e33524456bd4a2911caf106390"
+    },
+    "end": {
+      "label": "Fin (Page 26)",
+      "page_sequence_number": 26,
+      "total_pages": 26,
+      "character_length": 1158,
+      "blocks_count": 3,
+      "preview": "Then the man drowsed off into what seemed to him the most comfortable and satisfying sleep he had ever known. The dog sat facing him and waiting. The brief day drew to a close in a long, slow twilight. There were no signs of a fire to be made, and, besides, never in the dog's experience had it known a man to sit like that in the snow and make no fire. As the twilight drew on, its eager yearning fo...",
+      "content_hash": "a87b8526f89b7bba4efa51c71780695e57cdf65b5c0dc49ad116a91940c88d8a"
+    }
+  }
+}

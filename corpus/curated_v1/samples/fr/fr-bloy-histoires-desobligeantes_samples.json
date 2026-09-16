@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-bloy-histoires-desobligeantes",
+  "author": "Léon Bloy",
+  "title": "Histoires désobligeantes",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 194,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 194,
+      "character_length": 1726,
+      "blocks_count": 18,
+      "preview": "LÉON BLOY―― HISTOIRESDÉSOBLIGEANTESPARIS E. DENTU, ÉDITEUR 3 et 5, place de valois (palais-royal)─ Tous droits réservés ILA TISANEà Henry de Groux.Jacques se jugea simplement ignoble. C’était odieux de rester là, dans l’obscurité, comme un espion sacrilège, pendant que cette femme, si parfaitement inconnue de lui, se confessait. Mais alors, il aurait fallu partir tout de suite, aussitôt que le prê...",
+      "content_hash": "94120297d324cd0ef700136987e705f82d86d8132696e1f5a0ef5ed79630d4a5"
+    },
+    "middle": {
+      "label": "Milieu (Page 97)",
+      "page_sequence_number": 97,
+      "total_pages": 194,
+      "character_length": 1732,
+      "blocks_count": 9,
+      "preview": "Il est vrai que sa vertueuse mère, appliquée sans relâche à l’abrutissement de M. Durable et livrée, en outre, à d’obscures farces, ne s’en était occupée que très peu, l’ayant, de bonne heure, abandonnée à la vigilance mercenaire des religieuses de l’Escalier de Pilate qui, par miracle, s’acquittèrent consciencieusement de leur mission. La jeune fille, dotée suffisamment et sortable de tout point,...",
+      "content_hash": "7b9a3c690efd01ff65a356414034e89b09604e08ed6582153ae96fa9d4eec9e5"
+    },
+    "end": {
+      "label": "Fin (Page 194)",
+      "page_sequence_number": 194,
+      "total_pages": 194,
+      "character_length": 364,
+      "blocks_count": 1,
+      "preview": "Bafoué par les imbéciles et les hypocrites, indigent volontaire et triste jusqu’à la mort, quand il se regarde lui-même, fiancé à tous les tourments et compagnon satisfait de tous les opprobres, ce brûlant de la Croix est, à mes yeux, l’image et le raccourci très fidèle de ces temps défunts où la terre était comme un grand vaisseau dans les golfes du Paradis !",
+      "content_hash": "0aa452845416e6ea6f0ef06bd18a675def6e48ccf1cd4a44d730fe5d594e7df2"
+    }
+  }
+}

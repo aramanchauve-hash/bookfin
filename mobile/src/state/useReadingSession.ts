@@ -11,11 +11,31 @@ import { ApiError, isDevBuild } from '../lib/api/client';
 import { generateClientRequestId, getCurrentUserId } from '../lib/auth/userContext';
 import { toServerScrollDepth, useReadingTracker } from '../lib/metrics/useReadingTracker';
 import { ReactionType } from '../types/api';
+import { FeedPageDto, PageRevealDto } from '../types/api';
+
+interface BufferedPage {
+  page: FeedPageDto;
+  metadata: PageRevealDto | null;
+  reaction: ReactionType | null;
+  scrollOffset: number;
+}
 
 export function useReadingSession() {
   const [state, dispatch] = useReducer(readingReducer, initialReadingState);
   const tracker = useReadingTracker(state.currentPage?.page_id);
   const isActionLockedRef = useRef<boolean>(false);
+  const previousPageRef = useRef<BufferedPage | null>(null);
+  const forwardCachedPageRef = useRef<BufferedPage | null>(null);
+
+  const makeBufferedPage = useCallback((): BufferedPage | null => {
+    if (!state.currentPage) return null;
+    return {
+      page: state.currentPage,
+      metadata: state.metadata,
+      reaction: state.userReaction,
+      scrollOffset: tracker.getSnapshot(state.currentPage.token_count).scroll_offset_y,
+    };
+  }, [state.currentPage, state.metadata, state.userReaction, tracker]);
 
   // 1. Chargement d'une page aléatoire
   const loadRandomPage = useCallback(
@@ -136,6 +156,112 @@ export function useReadingSession() {
     }
   }, [state.status, state.currentPage]);
 
+  /**
+   * The composed reading gesture. It deliberately uses the same reaction
+   * endpoint, event id and continuation endpoint as the explicit controls:
+   * LIKE is confirmed first; only then is CONTINUE_BOOK allowed.
+   */
+  const handleSwipeLikeContinue = useCallback(async () => {
+    if (
+      (state.status !== 'reading' && !(state.isBufferedPage && state.status === 'revealed')) ||
+      !state.currentPage ||
+      isActionLockedRef.current
+    ) {
+      return;
+    }
+
+    // A -> B -> A -> B is purely local: no duplicate impression, reaction or request.
+    if (forwardCachedPageRef.current) {
+      const current = makeBufferedPage();
+      const cached = forwardCachedPageRef.current;
+      forwardCachedPageRef.current = null;
+      previousPageRef.current = current;
+      dispatch({
+        type: 'RESTORE_BUFFERED_PAGE',
+        page: cached.page,
+        metadata: cached.metadata,
+        reaction: cached.reaction,
+        scrollOffset: cached.scrollOffset,
+      });
+      return;
+    }
+
+    isActionLockedRef.current = true;
+    const eventId = generateClientRequestId();
+    const current = makeBufferedPage();
+    const snapshot = tracker.getSnapshot(state.currentPage.token_count);
+    dispatch({ type: 'REACT_START', reaction: 'like', eventId });
+
+    try {
+      const userId = getCurrentUserId();
+      await submitReaction({
+        user_id: userId,
+        page_id: state.currentPage.page_id,
+        impression_id: state.currentPage.impression_id || state.currentPage.id!,
+        reaction: 'like',
+        reading_time_ms: snapshot.dwell_time_ms,
+        scroll_depth: toServerScrollDepth(snapshot.scroll_depth_percent),
+        bottom_reached: snapshot.bottom_reached,
+        content_overflows: snapshot.content_overflows,
+        navigation_action: 'continue_book',
+        event_id: eventId,
+        served_at: state.currentPage.served_at,
+      });
+
+      // Metadata is retained for the one-page back buffer, but never made into
+      // a blocking intermediate screen in the swipe path.
+      let metadata: PageRevealDto | null = null;
+      try {
+        metadata = await revealPageMetadata(state.currentPage.page_id, userId);
+      } catch {
+        // The reaction is authoritative. A transient reveal failure must not
+        // transform a confirmed like into a second reaction attempt.
+      }
+      if (current) {
+        previousPageRef.current = { ...current, metadata, reaction: 'like' };
+      }
+      forwardCachedPageRef.current = null;
+      dispatch({ type: 'NAVIGATE_START', action: 'continue_book' });
+
+      const nextPage = await continueReading(
+        state.currentPage.page_id,
+        state.currentPage.impression_id || state.currentPage.id,
+        userId,
+        generateClientRequestId()
+      );
+      dispatch({ type: 'FETCH_SUCCESS', page: nextPage });
+    } catch (err: any) {
+      if (isDevBuild() && err instanceof ApiError && err.isReadingValidationError) {
+        // eslint-disable-next-line no-console
+        console.log('[Bookfin][dev] swipe like validation', { reason: err.validationReason });
+      }
+      dispatch(resolveReactionErrorAction(err));
+    } finally {
+      isActionLockedRef.current = false;
+    }
+  }, [
+    state.status,
+    state.isBufferedPage,
+    state.currentPage,
+    tracker,
+    makeBufferedPage,
+  ]);
+
+  const handleSwipeBack = useCallback(() => {
+    if (!previousPageRef.current || isActionLockedRef.current || !state.currentPage) return;
+    const current = makeBufferedPage();
+    const previous = previousPageRef.current;
+    previousPageRef.current = null;
+    forwardCachedPageRef.current = current;
+    dispatch({
+      type: 'RESTORE_BUFFERED_PAGE',
+      page: previous.page,
+      metadata: previous.metadata,
+      reaction: previous.reaction,
+      scrollOffset: previous.scrollOffset,
+    });
+  }, [state.currentPage, makeBufferedPage]);
+
   // 4. Navigation : Autre page au hasard (RANDOM_PAGE)
   const handleRandomPage = useCallback(async () => {
     if (
@@ -164,6 +290,10 @@ export function useReadingSession() {
     tracker,
     handleReaction,
     handleContinueBook,
+    handleSwipeLikeContinue,
+    handleSwipeBack,
+    canSwipeBack: previousPageRef.current !== null,
+    canReuseForward: forwardCachedPageRef.current !== null,
     handleRandomPage,
     handleRetry,
   };

@@ -1,0 +1,3199 @@
+{
+  "rule": "Bookfin draws pages uniformly: composition IS the algorithm. No algorithmic weighting is applied.",
+  "status_gate": "Statut en direct : 73 candidats ACCEPTED validés par décision éditoriale humaine (0 en base SQL / zéro import exécuté).",
+  "live_accepted_count": 73,
+  "live_accepted": {
+    "scenario_name": "live_status",
+    "description": "Statut actuel en temps réel (73 œuvres ACCEPTED validées par curation humaine)",
+    "candidate_count": 73,
+    "total_estimated_pages": 12303.5,
+    "long_form_count": 25,
+    "short_work_count": 48,
+    "languages": {
+      "es": 33.54,
+      "en": 33.46,
+      "fr": 33.0
+    },
+    "work_kinds": {
+      "LONG_FORM": 78.03,
+      "SHORT_WORK": 21.97
+    },
+    "potential_author_dominations_gte_15pct": [],
+    "top_5_authors": [
+      {
+        "key": "Miguel de Cervantes",
+        "estimated_pages": 1534.0,
+        "share_percent": 12.47
+      },
+      {
+        "key": "Henry James",
+        "estimated_pages": 1295.0,
+        "share_percent": 10.53
+      },
+      {
+        "key": "Stendhal",
+        "estimated_pages": 870.0,
+        "share_percent": 7.07
+      },
+      {
+        "key": "Guy de Maupassant",
+        "estimated_pages": 793.0,
+        "share_percent": 6.45
+      },
+      {
+        "key": "Jane Austen",
+        "estimated_pages": 790.0,
+        "share_percent": 6.42
+      }
+    ],
+    "top_5_works": [
+      {
+        "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+        "estimated_pages": 1250.0,
+        "share_percent": 10.16
+      },
+      {
+        "key": "The Portrait of a Lady (Henry James)",
+        "estimated_pages": 800.0,
+        "share_percent": 6.5
+      },
+      {
+        "key": "La Chartreuse de Parme (Stendhal)",
+        "estimated_pages": 650.0,
+        "share_percent": 5.28
+      },
+      {
+        "key": "Pride and Prejudice (Jane Austen)",
+        "estimated_pages": 470.0,
+        "share_percent": 3.82
+      },
+      {
+        "key": "Misericordia (Benito Pérez Galdós)",
+        "estimated_pages": 455.0,
+        "share_percent": 3.7
+      }
+    ],
+    "top_10_authors": [
+      {
+        "key": "Miguel de Cervantes",
+        "estimated_pages": 1534.0,
+        "share_percent": 12.47
+      },
+      {
+        "key": "Henry James",
+        "estimated_pages": 1295.0,
+        "share_percent": 10.53
+      },
+      {
+        "key": "Stendhal",
+        "estimated_pages": 870.0,
+        "share_percent": 7.07
+      },
+      {
+        "key": "Guy de Maupassant",
+        "estimated_pages": 793.0,
+        "share_percent": 6.45
+      },
+      {
+        "key": "Jane Austen",
+        "estimated_pages": 790.0,
+        "share_percent": 6.42
+      },
+      {
+        "key": "Benito Pérez Galdós",
+        "estimated_pages": 750.0,
+        "share_percent": 6.1
+      },
+      {
+        "key": "Denis Diderot",
+        "estimated_pages": 430.0,
+        "share_percent": 3.49
+      },
+      {
+        "key": "Francisco de Quevedo",
+        "estimated_pages": 405.0,
+        "share_percent": 3.29
+      },
+      {
+        "key": "Octave Mirbeau",
+        "estimated_pages": 400.0,
+        "share_percent": 3.25
+      },
+      {
+        "key": "Mariano José de Larra",
+        "estimated_pages": 395.0,
+        "share_percent": 3.21
+      }
+    ],
+    "top_10_works": [
+      {
+        "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+        "estimated_pages": 1250.0,
+        "share_percent": 10.16
+      },
+      {
+        "key": "The Portrait of a Lady (Henry James)",
+        "estimated_pages": 800.0,
+        "share_percent": 6.5
+      },
+      {
+        "key": "La Chartreuse de Parme (Stendhal)",
+        "estimated_pages": 650.0,
+        "share_percent": 5.28
+      },
+      {
+        "key": "Pride and Prejudice (Jane Austen)",
+        "estimated_pages": 470.0,
+        "share_percent": 3.82
+      },
+      {
+        "key": "Misericordia (Benito Pérez Galdós)",
+        "estimated_pages": 455.0,
+        "share_percent": 3.7
+      },
+      {
+        "key": "Bel-Ami (Guy de Maupassant)",
+        "estimated_pages": 430.0,
+        "share_percent": 3.49
+      },
+      {
+        "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+        "estimated_pages": 400.0,
+        "share_percent": 3.25
+      },
+      {
+        "key": "El doncel de don Enrique el Doliente (Mariano José de Larra)",
+        "estimated_pages": 395.0,
+        "share_percent": 3.21
+      },
+      {
+        "key": "Table-Talk (William Hazlitt)",
+        "estimated_pages": 390.0,
+        "share_percent": 3.17
+      },
+      {
+        "key": "Los pazos de Ulloa (Emilia Pardo Bazán)",
+        "estimated_pages": 385.0,
+        "share_percent": 3.13
+      }
+    ],
+    "all_authors": [
+      {
+        "key": "Miguel de Cervantes",
+        "estimated_pages": 1534.0,
+        "share_percent": 12.47
+      },
+      {
+        "key": "Henry James",
+        "estimated_pages": 1295.0,
+        "share_percent": 10.53
+      },
+      {
+        "key": "Stendhal",
+        "estimated_pages": 870.0,
+        "share_percent": 7.07
+      },
+      {
+        "key": "Guy de Maupassant",
+        "estimated_pages": 793.0,
+        "share_percent": 6.45
+      },
+      {
+        "key": "Jane Austen",
+        "estimated_pages": 790.0,
+        "share_percent": 6.42
+      },
+      {
+        "key": "Benito Pérez Galdós",
+        "estimated_pages": 750.0,
+        "share_percent": 6.1
+      },
+      {
+        "key": "Denis Diderot",
+        "estimated_pages": 430.0,
+        "share_percent": 3.49
+      },
+      {
+        "key": "Francisco de Quevedo",
+        "estimated_pages": 405.0,
+        "share_percent": 3.29
+      },
+      {
+        "key": "Octave Mirbeau",
+        "estimated_pages": 400.0,
+        "share_percent": 3.25
+      },
+      {
+        "key": "Mariano José de Larra",
+        "estimated_pages": 395.0,
+        "share_percent": 3.21
+      },
+      {
+        "key": "William Hazlitt",
+        "estimated_pages": 390.0,
+        "share_percent": 3.17
+      },
+      {
+        "key": "Emilia Pardo Bazán",
+        "estimated_pages": 385.0,
+        "share_percent": 3.13
+      },
+      {
+        "key": "Jules Barbey d'Aurevilly",
+        "estimated_pages": 350.0,
+        "share_percent": 2.84
+      },
+      {
+        "key": "Charles Lamb",
+        "estimated_pages": 345.0,
+        "share_percent": 2.8
+      },
+      {
+        "key": "Miguel de Unamuno",
+        "estimated_pages": 342.5,
+        "share_percent": 2.78
+      },
+      {
+        "key": "Oscar Wilde",
+        "estimated_pages": 315.0,
+        "share_percent": 2.56
+      },
+      {
+        "key": "Joris-Karl Huysmans",
+        "estimated_pages": 295.0,
+        "share_percent": 2.4
+      },
+      {
+        "key": "Marcel Schwob",
+        "estimated_pages": 290.0,
+        "share_percent": 2.36
+      },
+      {
+        "key": "Ramón del Valle-Inclán",
+        "estimated_pages": 277.5,
+        "share_percent": 2.26
+      },
+      {
+        "key": "Alain-René Lesage",
+        "estimated_pages": 260.0,
+        "share_percent": 2.11
+      },
+      {
+        "key": "Sir Thomas Browne",
+        "estimated_pages": 235.0,
+        "share_percent": 1.91
+      },
+      {
+        "key": "George Gissing",
+        "estimated_pages": 230.0,
+        "share_percent": 1.87
+      },
+      {
+        "key": "Laurence Sterne",
+        "estimated_pages": 170.0,
+        "share_percent": 1.38
+      },
+      {
+        "key": "Léon Bloy",
+        "estimated_pages": 145.0,
+        "share_percent": 1.18
+      },
+      {
+        "key": "Samuel Johnson",
+        "estimated_pages": 130.0,
+        "share_percent": 1.06
+      },
+      {
+        "key": "Prosper Mérimée",
+        "estimated_pages": 115.0,
+        "share_percent": 0.93
+      },
+      {
+        "key": "Gérard de Nerval",
+        "estimated_pages": 80.0,
+        "share_percent": 0.65
+      },
+      {
+        "key": "Arthur Conan Doyle",
+        "estimated_pages": 73.0,
+        "share_percent": 0.59
+      },
+      {
+        "key": "Herman Melville",
+        "estimated_pages": 60.0,
+        "share_percent": 0.49
+      },
+      {
+        "key": "Alphonse Daudet",
+        "estimated_pages": 32.0,
+        "share_percent": 0.26
+      },
+      {
+        "key": "Jack London",
+        "estimated_pages": 29.0,
+        "share_percent": 0.24
+      },
+      {
+        "key": "Edgar Allan Poe",
+        "estimated_pages": 25.5,
+        "share_percent": 0.21
+      },
+      {
+        "key": "Horacio Quiroga",
+        "estimated_pages": 23.5,
+        "share_percent": 0.19
+      },
+      {
+        "key": "O. Henry",
+        "estimated_pages": 19.0,
+        "share_percent": 0.15
+      },
+      {
+        "key": "Leopoldo Alas (Clarín)",
+        "estimated_pages": 14.0,
+        "share_percent": 0.11
+      },
+      {
+        "key": "Saki (H. H. Munro)",
+        "estimated_pages": 6.0,
+        "share_percent": 0.05
+      },
+      {
+        "key": "Kate Chopin",
+        "estimated_pages": 4.5,
+        "share_percent": 0.04
+      }
+    ],
+    "all_works": [
+      {
+        "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+        "estimated_pages": 1250.0,
+        "share_percent": 10.16
+      },
+      {
+        "key": "The Portrait of a Lady (Henry James)",
+        "estimated_pages": 800.0,
+        "share_percent": 6.5
+      },
+      {
+        "key": "La Chartreuse de Parme (Stendhal)",
+        "estimated_pages": 650.0,
+        "share_percent": 5.28
+      },
+      {
+        "key": "Pride and Prejudice (Jane Austen)",
+        "estimated_pages": 470.0,
+        "share_percent": 3.82
+      },
+      {
+        "key": "Misericordia (Benito Pérez Galdós)",
+        "estimated_pages": 455.0,
+        "share_percent": 3.7
+      },
+      {
+        "key": "Bel-Ami (Guy de Maupassant)",
+        "estimated_pages": 430.0,
+        "share_percent": 3.49
+      },
+      {
+        "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+        "estimated_pages": 400.0,
+        "share_percent": 3.25
+      },
+      {
+        "key": "El doncel de don Enrique el Doliente (Mariano José de Larra)",
+        "estimated_pages": 395.0,
+        "share_percent": 3.21
+      },
+      {
+        "key": "Table-Talk (William Hazlitt)",
+        "estimated_pages": 390.0,
+        "share_percent": 3.17
+      },
+      {
+        "key": "Los pazos de Ulloa (Emilia Pardo Bazán)",
+        "estimated_pages": 385.0,
+        "share_percent": 3.13
+      },
+      {
+        "key": "Les Diaboliques (Jules Barbey d'Aurevilly)",
+        "estimated_pages": 350.0,
+        "share_percent": 2.84
+      },
+      {
+        "key": "Essays of Elia (Charles Lamb)",
+        "estimated_pages": 345.0,
+        "share_percent": 2.8
+      },
+      {
+        "key": "Jacques le fataliste et son maître (Denis Diderot)",
+        "estimated_pages": 330.0,
+        "share_percent": 2.68
+      },
+      {
+        "key": "Persuasion (Jane Austen)",
+        "estimated_pages": 320.0,
+        "share_percent": 2.6
+      },
+      {
+        "key": "The Picture of Dorian Gray (Oscar Wilde)",
+        "estimated_pages": 315.0,
+        "share_percent": 2.56
+      },
+      {
+        "key": "Doña Perfecta (Benito Pérez Galdós)",
+        "estimated_pages": 295.0,
+        "share_percent": 2.4
+      },
+      {
+        "key": "Niebla (Miguel de Unamuno)",
+        "estimated_pages": 295.0,
+        "share_percent": 2.4
+      },
+      {
+        "key": "À rebours (Joris-Karl Huysmans)",
+        "estimated_pages": 295.0,
+        "share_percent": 2.4
+      },
+      {
+        "key": "Le Diable boiteux (Alain-René Lesage)",
+        "estimated_pages": 260.0,
+        "share_percent": 2.11
+      },
+      {
+        "key": "The Private Papers of Henry Ryecroft (George Gissing)",
+        "estimated_pages": 230.0,
+        "share_percent": 1.87
+      },
+      {
+        "key": "Chroniques italiennes (Stendhal)",
+        "estimated_pages": 220.0,
+        "share_percent": 1.79
+      },
+      {
+        "key": "Historia de la vida del Buscón (Francisco de Quevedo)",
+        "estimated_pages": 210.0,
+        "share_percent": 1.71
+      },
+      {
+        "key": "Los sueños (Francisco de Quevedo)",
+        "estimated_pages": 195.0,
+        "share_percent": 1.58
+      },
+      {
+        "key": "Pierre et Jean (Guy de Maupassant)",
+        "estimated_pages": 190.0,
+        "share_percent": 1.54
+      },
+      {
+        "key": "Vies imaginaires (Marcel Schwob)",
+        "estimated_pages": 175.0,
+        "share_percent": 1.42
+      },
+      {
+        "key": "A Sentimental Journey Through France and Italy (Laurence Sterne)",
+        "estimated_pages": 170.0,
+        "share_percent": 1.38
+      },
+      {
+        "key": "The Turn of the Screw (Henry James)",
+        "estimated_pages": 165.0,
+        "share_percent": 1.34
+      },
+      {
+        "key": "Histoires désobligeantes (Léon Bloy)",
+        "estimated_pages": 145.0,
+        "share_percent": 1.18
+      },
+      {
+        "key": "Religio Medici (Sir Thomas Browne)",
+        "estimated_pages": 145.0,
+        "share_percent": 1.18
+      },
+      {
+        "key": "The Aspern Papers (Henry James)",
+        "estimated_pages": 140.0,
+        "share_percent": 1.14
+      },
+      {
+        "key": "The History of Rasselas, Prince of Abissinia (Samuel Johnson)",
+        "estimated_pages": 130.0,
+        "share_percent": 1.06
+      },
+      {
+        "key": "Daisy Miller (Henry James)",
+        "estimated_pages": 105.0,
+        "share_percent": 0.85
+      },
+      {
+        "key": "Le Neveu de Rameau (Denis Diderot)",
+        "estimated_pages": 100.0,
+        "share_percent": 0.81
+      },
+      {
+        "key": "Luces de bohemia (esperpento) (Ramón del Valle-Inclán)",
+        "estimated_pages": 100.0,
+        "share_percent": 0.81
+      },
+      {
+        "key": "Carmen (Prosper Mérimée)",
+        "estimated_pages": 95.0,
+        "share_percent": 0.77
+      },
+      {
+        "key": "Sonata de otoño (Memorias del Marqués de Bradomín) (Ramón del Valle-Inclán)",
+        "estimated_pages": 92.5,
+        "share_percent": 0.75
+      },
+      {
+        "key": "Hydriotaphia, Urn Burial (Sir Thomas Browne)",
+        "estimated_pages": 90.0,
+        "share_percent": 0.73
+      },
+      {
+        "key": "Le Livre de Monelle (Marcel Schwob)",
+        "estimated_pages": 87.5,
+        "share_percent": 0.71
+      },
+      {
+        "key": "La gitanilla (Miguel de Cervantes)",
+        "estimated_pages": 85.0,
+        "share_percent": 0.69
+      },
+      {
+        "key": "Sonata de primavera (Ramón del Valle-Inclán)",
+        "estimated_pages": 85.0,
+        "share_percent": 0.69
+      },
+      {
+        "key": "The Beast in the Jungle (Henry James)",
+        "estimated_pages": 85.0,
+        "share_percent": 0.69
+      },
+      {
+        "key": "Aurélia ou le Rêve et la Vie (Gérard de Nerval)",
+        "estimated_pages": 80.0,
+        "share_percent": 0.65
+      },
+      {
+        "key": "El coloquio de los perros (Miguel de Cervantes)",
+        "estimated_pages": 65.0,
+        "share_percent": 0.53
+      },
+      {
+        "key": "Bartleby, the Scrivener (Herman Melville)",
+        "estimated_pages": 60.0,
+        "share_percent": 0.49
+      },
+      {
+        "key": "Boule de Suif (Guy de Maupassant)",
+        "estimated_pages": 57.5,
+        "share_percent": 0.47
+      },
+      {
+        "key": "Rinconete y Cortadillo (Miguel de Cervantes)",
+        "estimated_pages": 49.0,
+        "share_percent": 0.4
+      },
+      {
+        "key": "San Manuel Bueno, mártir (Miguel de Unamuno)",
+        "estimated_pages": 47.5,
+        "share_percent": 0.39
+      },
+      {
+        "key": "El celoso extremeño (Miguel de Cervantes)",
+        "estimated_pages": 45.0,
+        "share_percent": 0.37
+      },
+      {
+        "key": "La Maison Tellier (Guy de Maupassant)",
+        "estimated_pages": 42.0,
+        "share_percent": 0.34
+      },
+      {
+        "key": "El licenciado Vidriera (Miguel de Cervantes)",
+        "estimated_pages": 40.0,
+        "share_percent": 0.33
+      },
+      {
+        "key": "Le Horla (Guy de Maupassant)",
+        "estimated_pages": 40.0,
+        "share_percent": 0.33
+      },
+      {
+        "key": "The Red-Headed League (Arthur Conan Doyle)",
+        "estimated_pages": 38.0,
+        "share_percent": 0.31
+      },
+      {
+        "key": "A Scandal in Bohemia (Arthur Conan Doyle)",
+        "estimated_pages": 35.0,
+        "share_percent": 0.28
+      },
+      {
+        "key": "To Build a Fire (Jack London)",
+        "estimated_pages": 29.0,
+        "share_percent": 0.24
+      },
+      {
+        "key": "La Croisade des enfants (Marcel Schwob)",
+        "estimated_pages": 27.5,
+        "share_percent": 0.22
+      },
+      {
+        "key": "Mateo Falcone (Prosper Mérimée)",
+        "estimated_pages": 20.0,
+        "share_percent": 0.16
+      },
+      {
+        "key": "Les trois messes basses (Alphonse Daudet)",
+        "estimated_pages": 14.0,
+        "share_percent": 0.11
+      },
+      {
+        "key": "¡Adiós, Cordera! y otros cuentos (Leopoldo Alas (Clarín))",
+        "estimated_pages": 14.0,
+        "share_percent": 0.11
+      },
+      {
+        "key": "La Parure (Guy de Maupassant)",
+        "estimated_pages": 11.5,
+        "share_percent": 0.09
+      },
+      {
+        "key": "La insolación (Horacio Quiroga)",
+        "estimated_pages": 11.5,
+        "share_percent": 0.09
+      },
+      {
+        "key": "Deux amis (Guy de Maupassant)",
+        "estimated_pages": 11.0,
+        "share_percent": 0.09
+      },
+      {
+        "key": "La Ficelle (Guy de Maupassant)",
+        "estimated_pages": 11.0,
+        "share_percent": 0.09
+      },
+      {
+        "key": "The Cask of Amontillado (Edgar Allan Poe)",
+        "estimated_pages": 10.5,
+        "share_percent": 0.09
+      },
+      {
+        "key": "The Last Leaf (O. Henry)",
+        "estimated_pages": 10.0,
+        "share_percent": 0.08
+      },
+      {
+        "key": "La chèvre de monsieur Seguin (Alphonse Daudet)",
+        "estimated_pages": 9.0,
+        "share_percent": 0.07
+      },
+      {
+        "key": "Le secret de maître Cornille (Alphonse Daudet)",
+        "estimated_pages": 9.0,
+        "share_percent": 0.07
+      },
+      {
+        "key": "The Gift of the Magi (O. Henry)",
+        "estimated_pages": 9.0,
+        "share_percent": 0.07
+      },
+      {
+        "key": "The Tell-Tale Heart (Edgar Allan Poe)",
+        "estimated_pages": 9.0,
+        "share_percent": 0.07
+      },
+      {
+        "key": "A la deriva (Horacio Quiroga)",
+        "estimated_pages": 6.0,
+        "share_percent": 0.05
+      },
+      {
+        "key": "El almohadón de plumas (Horacio Quiroga)",
+        "estimated_pages": 6.0,
+        "share_percent": 0.05
+      },
+      {
+        "key": "The Open Window (Saki (H. H. Munro))",
+        "estimated_pages": 6.0,
+        "share_percent": 0.05
+      },
+      {
+        "key": "The Oval Portrait (Edgar Allan Poe)",
+        "estimated_pages": 6.0,
+        "share_percent": 0.05
+      },
+      {
+        "key": "The Story of an Hour (Kate Chopin)",
+        "estimated_pages": 4.5,
+        "share_percent": 0.04
+      }
+    ]
+  },
+  "scenarios": [
+    {
+      "scenario_name": "scenario_a_pilot",
+      "description": "Scénario A : Pilote minimal 3 langues (6 œuvres)",
+      "candidate_count": 6,
+      "total_estimated_pages": 553.5,
+      "long_form_count": 1,
+      "short_work_count": 5,
+      "languages": {
+        "en": 84.91,
+        "es": 11.02,
+        "fr": 4.07
+      },
+      "work_kinds": {
+        "LONG_FORM": 84.91,
+        "SHORT_WORK": 15.09
+      },
+      "potential_author_dominations_gte_15pct": [
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 470.0,
+          "share_percent": 84.91
+        }
+      ],
+      "top_5_authors": [
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 470.0,
+          "share_percent": 84.91
+        },
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 49.0,
+          "share_percent": 8.85
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 22.5,
+          "share_percent": 4.07
+        },
+        {
+          "key": "Horacio Quiroga",
+          "estimated_pages": 12.0,
+          "share_percent": 2.17
+        }
+      ],
+      "top_5_works": [
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 84.91
+        },
+        {
+          "key": "Rinconete y Cortadillo (Miguel de Cervantes)",
+          "estimated_pages": 49.0,
+          "share_percent": 8.85
+        },
+        {
+          "key": "La Parure (Guy de Maupassant)",
+          "estimated_pages": 11.5,
+          "share_percent": 2.08
+        },
+        {
+          "key": "La Ficelle (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 1.99
+        },
+        {
+          "key": "A la deriva (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 1.08
+        }
+      ],
+      "top_10_authors": [
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 470.0,
+          "share_percent": 84.91
+        },
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 49.0,
+          "share_percent": 8.85
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 22.5,
+          "share_percent": 4.07
+        },
+        {
+          "key": "Horacio Quiroga",
+          "estimated_pages": 12.0,
+          "share_percent": 2.17
+        }
+      ],
+      "top_10_works": [
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 84.91
+        },
+        {
+          "key": "Rinconete y Cortadillo (Miguel de Cervantes)",
+          "estimated_pages": 49.0,
+          "share_percent": 8.85
+        },
+        {
+          "key": "La Parure (Guy de Maupassant)",
+          "estimated_pages": 11.5,
+          "share_percent": 2.08
+        },
+        {
+          "key": "La Ficelle (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 1.99
+        },
+        {
+          "key": "A la deriva (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 1.08
+        },
+        {
+          "key": "El almohadón de plumas (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 1.08
+        }
+      ],
+      "all_authors": [
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 470.0,
+          "share_percent": 84.91
+        },
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 49.0,
+          "share_percent": 8.85
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 22.5,
+          "share_percent": 4.07
+        },
+        {
+          "key": "Horacio Quiroga",
+          "estimated_pages": 12.0,
+          "share_percent": 2.17
+        }
+      ],
+      "all_works": [
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 84.91
+        },
+        {
+          "key": "Rinconete y Cortadillo (Miguel de Cervantes)",
+          "estimated_pages": 49.0,
+          "share_percent": 8.85
+        },
+        {
+          "key": "La Parure (Guy de Maupassant)",
+          "estimated_pages": 11.5,
+          "share_percent": 2.08
+        },
+        {
+          "key": "La Ficelle (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 1.99
+        },
+        {
+          "key": "A la deriva (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 1.08
+        },
+        {
+          "key": "El almohadón de plumas (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 1.08
+        }
+      ]
+    },
+    {
+      "scenario_name": "scenario_b_p0_core",
+      "description": "Scénario B : Noyau des œuvres P0 prioritaires (42 œuvres)",
+      "candidate_count": 42,
+      "total_estimated_pages": 4985.0,
+      "long_form_count": 9,
+      "short_work_count": 33,
+      "languages": {
+        "en": 47.48,
+        "es": 30.34,
+        "fr": 22.18
+      },
+      "work_kinds": {
+        "LONG_FORM": 71.72,
+        "SHORT_WORK": 28.28
+      },
+      "potential_author_dominations_gte_15pct": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 1489.0,
+          "share_percent": 29.87
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 1090.0,
+          "share_percent": 21.87
+        }
+      ],
+      "top_5_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 1489.0,
+          "share_percent": 29.87
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 1090.0,
+          "share_percent": 21.87
+        },
+        {
+          "key": "Octave Mirbeau",
+          "estimated_pages": 400.0,
+          "share_percent": 8.02
+        },
+        {
+          "key": "Henry James",
+          "estimated_pages": 355.0,
+          "share_percent": 7.12
+        },
+        {
+          "key": "Marcel Schwob",
+          "estimated_pages": 262.5,
+          "share_percent": 5.27
+        }
+      ],
+      "top_5_works": [
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 25.08
+        },
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 9.43
+        },
+        {
+          "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+          "estimated_pages": 400.0,
+          "share_percent": 8.02
+        },
+        {
+          "key": "Persuasion (Jane Austen)",
+          "estimated_pages": 320.0,
+          "share_percent": 6.42
+        },
+        {
+          "key": "Northanger Abbey (Jane Austen)",
+          "estimated_pages": 300.0,
+          "share_percent": 6.02
+        }
+      ],
+      "top_10_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 1489.0,
+          "share_percent": 29.87
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 1090.0,
+          "share_percent": 21.87
+        },
+        {
+          "key": "Octave Mirbeau",
+          "estimated_pages": 400.0,
+          "share_percent": 8.02
+        },
+        {
+          "key": "Henry James",
+          "estimated_pages": 355.0,
+          "share_percent": 7.12
+        },
+        {
+          "key": "Marcel Schwob",
+          "estimated_pages": 262.5,
+          "share_percent": 5.27
+        },
+        {
+          "key": "Alain-René Lesage",
+          "estimated_pages": 260.0,
+          "share_percent": 5.22
+        },
+        {
+          "key": "Sir Thomas Browne",
+          "estimated_pages": 235.0,
+          "share_percent": 4.71
+        },
+        {
+          "key": "George Gissing",
+          "estimated_pages": 230.0,
+          "share_percent": 4.61
+        },
+        {
+          "key": "Laurence Sterne",
+          "estimated_pages": 170.0,
+          "share_percent": 3.41
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 131.0,
+          "share_percent": 2.63
+        }
+      ],
+      "top_10_works": [
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 25.08
+        },
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 9.43
+        },
+        {
+          "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+          "estimated_pages": 400.0,
+          "share_percent": 8.02
+        },
+        {
+          "key": "Persuasion (Jane Austen)",
+          "estimated_pages": 320.0,
+          "share_percent": 6.42
+        },
+        {
+          "key": "Northanger Abbey (Jane Austen)",
+          "estimated_pages": 300.0,
+          "share_percent": 6.02
+        },
+        {
+          "key": "Le Diable boiteux (Alain-René Lesage)",
+          "estimated_pages": 260.0,
+          "share_percent": 5.22
+        },
+        {
+          "key": "The Private Papers of Henry Ryecroft (George Gissing)",
+          "estimated_pages": 230.0,
+          "share_percent": 4.61
+        },
+        {
+          "key": "Vies imaginaires (Marcel Schwob)",
+          "estimated_pages": 175.0,
+          "share_percent": 3.51
+        },
+        {
+          "key": "A Sentimental Journey Through France and Italy (Laurence Sterne)",
+          "estimated_pages": 170.0,
+          "share_percent": 3.41
+        },
+        {
+          "key": "The Turn of the Screw (Henry James)",
+          "estimated_pages": 165.0,
+          "share_percent": 3.31
+        }
+      ],
+      "all_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 1489.0,
+          "share_percent": 29.87
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 1090.0,
+          "share_percent": 21.87
+        },
+        {
+          "key": "Octave Mirbeau",
+          "estimated_pages": 400.0,
+          "share_percent": 8.02
+        },
+        {
+          "key": "Henry James",
+          "estimated_pages": 355.0,
+          "share_percent": 7.12
+        },
+        {
+          "key": "Marcel Schwob",
+          "estimated_pages": 262.5,
+          "share_percent": 5.27
+        },
+        {
+          "key": "Alain-René Lesage",
+          "estimated_pages": 260.0,
+          "share_percent": 5.22
+        },
+        {
+          "key": "Sir Thomas Browne",
+          "estimated_pages": 235.0,
+          "share_percent": 4.71
+        },
+        {
+          "key": "George Gissing",
+          "estimated_pages": 230.0,
+          "share_percent": 4.61
+        },
+        {
+          "key": "Laurence Sterne",
+          "estimated_pages": 170.0,
+          "share_percent": 3.41
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 131.0,
+          "share_percent": 2.63
+        },
+        {
+          "key": "Samuel Johnson",
+          "estimated_pages": 130.0,
+          "share_percent": 2.61
+        },
+        {
+          "key": "Arthur Conan Doyle",
+          "estimated_pages": 73.0,
+          "share_percent": 1.46
+        },
+        {
+          "key": "Alphonse Daudet",
+          "estimated_pages": 32.0,
+          "share_percent": 0.64
+        },
+        {
+          "key": "Jack London",
+          "estimated_pages": 29.0,
+          "share_percent": 0.58
+        },
+        {
+          "key": "Edgar Allan Poe",
+          "estimated_pages": 25.5,
+          "share_percent": 0.51
+        },
+        {
+          "key": "Horacio Quiroga",
+          "estimated_pages": 23.5,
+          "share_percent": 0.47
+        },
+        {
+          "key": "Prosper Mérimée",
+          "estimated_pages": 20.0,
+          "share_percent": 0.4
+        },
+        {
+          "key": "O. Henry",
+          "estimated_pages": 19.0,
+          "share_percent": 0.38
+        },
+        {
+          "key": "Saki (H. H. Munro)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.12
+        },
+        {
+          "key": "Kate Chopin",
+          "estimated_pages": 4.5,
+          "share_percent": 0.09
+        }
+      ],
+      "all_works": [
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 25.08
+        },
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 9.43
+        },
+        {
+          "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+          "estimated_pages": 400.0,
+          "share_percent": 8.02
+        },
+        {
+          "key": "Persuasion (Jane Austen)",
+          "estimated_pages": 320.0,
+          "share_percent": 6.42
+        },
+        {
+          "key": "Northanger Abbey (Jane Austen)",
+          "estimated_pages": 300.0,
+          "share_percent": 6.02
+        },
+        {
+          "key": "Le Diable boiteux (Alain-René Lesage)",
+          "estimated_pages": 260.0,
+          "share_percent": 5.22
+        },
+        {
+          "key": "The Private Papers of Henry Ryecroft (George Gissing)",
+          "estimated_pages": 230.0,
+          "share_percent": 4.61
+        },
+        {
+          "key": "Vies imaginaires (Marcel Schwob)",
+          "estimated_pages": 175.0,
+          "share_percent": 3.51
+        },
+        {
+          "key": "A Sentimental Journey Through France and Italy (Laurence Sterne)",
+          "estimated_pages": 170.0,
+          "share_percent": 3.41
+        },
+        {
+          "key": "The Turn of the Screw (Henry James)",
+          "estimated_pages": 165.0,
+          "share_percent": 3.31
+        },
+        {
+          "key": "Religio Medici (Sir Thomas Browne)",
+          "estimated_pages": 145.0,
+          "share_percent": 2.91
+        },
+        {
+          "key": "The History of Rasselas, Prince of Abissinia (Samuel Johnson)",
+          "estimated_pages": 130.0,
+          "share_percent": 2.61
+        },
+        {
+          "key": "Daisy Miller (Henry James)",
+          "estimated_pages": 105.0,
+          "share_percent": 2.11
+        },
+        {
+          "key": "Hydriotaphia, Urn Burial (Sir Thomas Browne)",
+          "estimated_pages": 90.0,
+          "share_percent": 1.81
+        },
+        {
+          "key": "Le Livre de Monelle (Marcel Schwob)",
+          "estimated_pages": 87.5,
+          "share_percent": 1.76
+        },
+        {
+          "key": "La gitanilla (Miguel de Cervantes)",
+          "estimated_pages": 85.0,
+          "share_percent": 1.71
+        },
+        {
+          "key": "The Beast in the Jungle (Henry James)",
+          "estimated_pages": 85.0,
+          "share_percent": 1.71
+        },
+        {
+          "key": "El coloquio de los perros (Miguel de Cervantes)",
+          "estimated_pages": 65.0,
+          "share_percent": 1.3
+        },
+        {
+          "key": "Boule de Suif (Guy de Maupassant)",
+          "estimated_pages": 57.5,
+          "share_percent": 1.15
+        },
+        {
+          "key": "Rinconete y Cortadillo (Miguel de Cervantes)",
+          "estimated_pages": 49.0,
+          "share_percent": 0.98
+        },
+        {
+          "key": "El licenciado Vidriera (Miguel de Cervantes)",
+          "estimated_pages": 40.0,
+          "share_percent": 0.8
+        },
+        {
+          "key": "Le Horla (Guy de Maupassant)",
+          "estimated_pages": 40.0,
+          "share_percent": 0.8
+        },
+        {
+          "key": "The Red-Headed League (Arthur Conan Doyle)",
+          "estimated_pages": 38.0,
+          "share_percent": 0.76
+        },
+        {
+          "key": "A Scandal in Bohemia (Arthur Conan Doyle)",
+          "estimated_pages": 35.0,
+          "share_percent": 0.7
+        },
+        {
+          "key": "To Build a Fire (Jack London)",
+          "estimated_pages": 29.0,
+          "share_percent": 0.58
+        },
+        {
+          "key": "Mateo Falcone (Prosper Mérimée)",
+          "estimated_pages": 20.0,
+          "share_percent": 0.4
+        },
+        {
+          "key": "Les trois messes basses (Alphonse Daudet)",
+          "estimated_pages": 14.0,
+          "share_percent": 0.28
+        },
+        {
+          "key": "La Parure (Guy de Maupassant)",
+          "estimated_pages": 11.5,
+          "share_percent": 0.23
+        },
+        {
+          "key": "La insolación (Horacio Quiroga)",
+          "estimated_pages": 11.5,
+          "share_percent": 0.23
+        },
+        {
+          "key": "Deux amis (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 0.22
+        },
+        {
+          "key": "La Ficelle (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 0.22
+        },
+        {
+          "key": "The Cask of Amontillado (Edgar Allan Poe)",
+          "estimated_pages": 10.5,
+          "share_percent": 0.21
+        },
+        {
+          "key": "The Last Leaf (O. Henry)",
+          "estimated_pages": 10.0,
+          "share_percent": 0.2
+        },
+        {
+          "key": "La chèvre de monsieur Seguin (Alphonse Daudet)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.18
+        },
+        {
+          "key": "Le secret de maître Cornille (Alphonse Daudet)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.18
+        },
+        {
+          "key": "The Gift of the Magi (O. Henry)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.18
+        },
+        {
+          "key": "The Tell-Tale Heart (Edgar Allan Poe)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.18
+        },
+        {
+          "key": "A la deriva (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.12
+        },
+        {
+          "key": "El almohadón de plumas (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.12
+        },
+        {
+          "key": "The Open Window (Saki (H. H. Munro))",
+          "estimated_pages": 6.0,
+          "share_percent": 0.12
+        },
+        {
+          "key": "The Oval Portrait (Edgar Allan Poe)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.12
+        },
+        {
+          "key": "The Story of an Hour (Kate Chopin)",
+          "estimated_pages": 4.5,
+          "share_percent": 0.09
+        }
+      ]
+    },
+    {
+      "scenario_name": "scenario_c_linguistic_balance_illustration",
+      "description": "Scénario de composition linguistique équilibrée — illustration uniquement (25 longues, 49 courtes)",
+      "candidate_count": 73,
+      "total_estimated_pages": 12303.5,
+      "long_form_count": 25,
+      "short_work_count": 48,
+      "languages": {
+        "es": 33.54,
+        "en": 33.46,
+        "fr": 33.0
+      },
+      "work_kinds": {
+        "LONG_FORM": 78.03,
+        "SHORT_WORK": 21.97
+      },
+      "potential_author_dominations_gte_15pct": [],
+      "top_5_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 1534.0,
+          "share_percent": 12.47
+        },
+        {
+          "key": "Henry James",
+          "estimated_pages": 1295.0,
+          "share_percent": 10.53
+        },
+        {
+          "key": "Stendhal",
+          "estimated_pages": 870.0,
+          "share_percent": 7.07
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 793.0,
+          "share_percent": 6.45
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 790.0,
+          "share_percent": 6.42
+        }
+      ],
+      "top_5_works": [
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 10.16
+        },
+        {
+          "key": "The Portrait of a Lady (Henry James)",
+          "estimated_pages": 800.0,
+          "share_percent": 6.5
+        },
+        {
+          "key": "La Chartreuse de Parme (Stendhal)",
+          "estimated_pages": 650.0,
+          "share_percent": 5.28
+        },
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 3.82
+        },
+        {
+          "key": "Misericordia (Benito Pérez Galdós)",
+          "estimated_pages": 455.0,
+          "share_percent": 3.7
+        }
+      ],
+      "top_10_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 1534.0,
+          "share_percent": 12.47
+        },
+        {
+          "key": "Henry James",
+          "estimated_pages": 1295.0,
+          "share_percent": 10.53
+        },
+        {
+          "key": "Stendhal",
+          "estimated_pages": 870.0,
+          "share_percent": 7.07
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 793.0,
+          "share_percent": 6.45
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 790.0,
+          "share_percent": 6.42
+        },
+        {
+          "key": "Benito Pérez Galdós",
+          "estimated_pages": 750.0,
+          "share_percent": 6.1
+        },
+        {
+          "key": "Denis Diderot",
+          "estimated_pages": 430.0,
+          "share_percent": 3.49
+        },
+        {
+          "key": "Francisco de Quevedo",
+          "estimated_pages": 405.0,
+          "share_percent": 3.29
+        },
+        {
+          "key": "Octave Mirbeau",
+          "estimated_pages": 400.0,
+          "share_percent": 3.25
+        },
+        {
+          "key": "Mariano José de Larra",
+          "estimated_pages": 395.0,
+          "share_percent": 3.21
+        }
+      ],
+      "top_10_works": [
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 10.16
+        },
+        {
+          "key": "The Portrait of a Lady (Henry James)",
+          "estimated_pages": 800.0,
+          "share_percent": 6.5
+        },
+        {
+          "key": "La Chartreuse de Parme (Stendhal)",
+          "estimated_pages": 650.0,
+          "share_percent": 5.28
+        },
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 3.82
+        },
+        {
+          "key": "Misericordia (Benito Pérez Galdós)",
+          "estimated_pages": 455.0,
+          "share_percent": 3.7
+        },
+        {
+          "key": "Bel-Ami (Guy de Maupassant)",
+          "estimated_pages": 430.0,
+          "share_percent": 3.49
+        },
+        {
+          "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+          "estimated_pages": 400.0,
+          "share_percent": 3.25
+        },
+        {
+          "key": "El doncel de don Enrique el Doliente (Mariano José de Larra)",
+          "estimated_pages": 395.0,
+          "share_percent": 3.21
+        },
+        {
+          "key": "Table-Talk (William Hazlitt)",
+          "estimated_pages": 390.0,
+          "share_percent": 3.17
+        },
+        {
+          "key": "Los pazos de Ulloa (Emilia Pardo Bazán)",
+          "estimated_pages": 385.0,
+          "share_percent": 3.13
+        }
+      ],
+      "all_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 1534.0,
+          "share_percent": 12.47
+        },
+        {
+          "key": "Henry James",
+          "estimated_pages": 1295.0,
+          "share_percent": 10.53
+        },
+        {
+          "key": "Stendhal",
+          "estimated_pages": 870.0,
+          "share_percent": 7.07
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 793.0,
+          "share_percent": 6.45
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 790.0,
+          "share_percent": 6.42
+        },
+        {
+          "key": "Benito Pérez Galdós",
+          "estimated_pages": 750.0,
+          "share_percent": 6.1
+        },
+        {
+          "key": "Denis Diderot",
+          "estimated_pages": 430.0,
+          "share_percent": 3.49
+        },
+        {
+          "key": "Francisco de Quevedo",
+          "estimated_pages": 405.0,
+          "share_percent": 3.29
+        },
+        {
+          "key": "Octave Mirbeau",
+          "estimated_pages": 400.0,
+          "share_percent": 3.25
+        },
+        {
+          "key": "Mariano José de Larra",
+          "estimated_pages": 395.0,
+          "share_percent": 3.21
+        },
+        {
+          "key": "William Hazlitt",
+          "estimated_pages": 390.0,
+          "share_percent": 3.17
+        },
+        {
+          "key": "Emilia Pardo Bazán",
+          "estimated_pages": 385.0,
+          "share_percent": 3.13
+        },
+        {
+          "key": "Jules Barbey d'Aurevilly",
+          "estimated_pages": 350.0,
+          "share_percent": 2.84
+        },
+        {
+          "key": "Charles Lamb",
+          "estimated_pages": 345.0,
+          "share_percent": 2.8
+        },
+        {
+          "key": "Miguel de Unamuno",
+          "estimated_pages": 342.5,
+          "share_percent": 2.78
+        },
+        {
+          "key": "Oscar Wilde",
+          "estimated_pages": 315.0,
+          "share_percent": 2.56
+        },
+        {
+          "key": "Joris-Karl Huysmans",
+          "estimated_pages": 295.0,
+          "share_percent": 2.4
+        },
+        {
+          "key": "Marcel Schwob",
+          "estimated_pages": 290.0,
+          "share_percent": 2.36
+        },
+        {
+          "key": "Ramón del Valle-Inclán",
+          "estimated_pages": 277.5,
+          "share_percent": 2.26
+        },
+        {
+          "key": "Alain-René Lesage",
+          "estimated_pages": 260.0,
+          "share_percent": 2.11
+        },
+        {
+          "key": "Sir Thomas Browne",
+          "estimated_pages": 235.0,
+          "share_percent": 1.91
+        },
+        {
+          "key": "George Gissing",
+          "estimated_pages": 230.0,
+          "share_percent": 1.87
+        },
+        {
+          "key": "Laurence Sterne",
+          "estimated_pages": 170.0,
+          "share_percent": 1.38
+        },
+        {
+          "key": "Léon Bloy",
+          "estimated_pages": 145.0,
+          "share_percent": 1.18
+        },
+        {
+          "key": "Samuel Johnson",
+          "estimated_pages": 130.0,
+          "share_percent": 1.06
+        },
+        {
+          "key": "Prosper Mérimée",
+          "estimated_pages": 115.0,
+          "share_percent": 0.93
+        },
+        {
+          "key": "Gérard de Nerval",
+          "estimated_pages": 80.0,
+          "share_percent": 0.65
+        },
+        {
+          "key": "Arthur Conan Doyle",
+          "estimated_pages": 73.0,
+          "share_percent": 0.59
+        },
+        {
+          "key": "Herman Melville",
+          "estimated_pages": 60.0,
+          "share_percent": 0.49
+        },
+        {
+          "key": "Alphonse Daudet",
+          "estimated_pages": 32.0,
+          "share_percent": 0.26
+        },
+        {
+          "key": "Jack London",
+          "estimated_pages": 29.0,
+          "share_percent": 0.24
+        },
+        {
+          "key": "Edgar Allan Poe",
+          "estimated_pages": 25.5,
+          "share_percent": 0.21
+        },
+        {
+          "key": "Horacio Quiroga",
+          "estimated_pages": 23.5,
+          "share_percent": 0.19
+        },
+        {
+          "key": "O. Henry",
+          "estimated_pages": 19.0,
+          "share_percent": 0.15
+        },
+        {
+          "key": "Leopoldo Alas (Clarín)",
+          "estimated_pages": 14.0,
+          "share_percent": 0.11
+        },
+        {
+          "key": "Saki (H. H. Munro)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.05
+        },
+        {
+          "key": "Kate Chopin",
+          "estimated_pages": 4.5,
+          "share_percent": 0.04
+        }
+      ],
+      "all_works": [
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 10.16
+        },
+        {
+          "key": "The Portrait of a Lady (Henry James)",
+          "estimated_pages": 800.0,
+          "share_percent": 6.5
+        },
+        {
+          "key": "La Chartreuse de Parme (Stendhal)",
+          "estimated_pages": 650.0,
+          "share_percent": 5.28
+        },
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 3.82
+        },
+        {
+          "key": "Misericordia (Benito Pérez Galdós)",
+          "estimated_pages": 455.0,
+          "share_percent": 3.7
+        },
+        {
+          "key": "Bel-Ami (Guy de Maupassant)",
+          "estimated_pages": 430.0,
+          "share_percent": 3.49
+        },
+        {
+          "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+          "estimated_pages": 400.0,
+          "share_percent": 3.25
+        },
+        {
+          "key": "El doncel de don Enrique el Doliente (Mariano José de Larra)",
+          "estimated_pages": 395.0,
+          "share_percent": 3.21
+        },
+        {
+          "key": "Table-Talk (William Hazlitt)",
+          "estimated_pages": 390.0,
+          "share_percent": 3.17
+        },
+        {
+          "key": "Los pazos de Ulloa (Emilia Pardo Bazán)",
+          "estimated_pages": 385.0,
+          "share_percent": 3.13
+        },
+        {
+          "key": "Les Diaboliques (Jules Barbey d'Aurevilly)",
+          "estimated_pages": 350.0,
+          "share_percent": 2.84
+        },
+        {
+          "key": "Essays of Elia (Charles Lamb)",
+          "estimated_pages": 345.0,
+          "share_percent": 2.8
+        },
+        {
+          "key": "Jacques le fataliste et son maître (Denis Diderot)",
+          "estimated_pages": 330.0,
+          "share_percent": 2.68
+        },
+        {
+          "key": "Persuasion (Jane Austen)",
+          "estimated_pages": 320.0,
+          "share_percent": 2.6
+        },
+        {
+          "key": "The Picture of Dorian Gray (Oscar Wilde)",
+          "estimated_pages": 315.0,
+          "share_percent": 2.56
+        },
+        {
+          "key": "Doña Perfecta (Benito Pérez Galdós)",
+          "estimated_pages": 295.0,
+          "share_percent": 2.4
+        },
+        {
+          "key": "Niebla (Miguel de Unamuno)",
+          "estimated_pages": 295.0,
+          "share_percent": 2.4
+        },
+        {
+          "key": "À rebours (Joris-Karl Huysmans)",
+          "estimated_pages": 295.0,
+          "share_percent": 2.4
+        },
+        {
+          "key": "Le Diable boiteux (Alain-René Lesage)",
+          "estimated_pages": 260.0,
+          "share_percent": 2.11
+        },
+        {
+          "key": "The Private Papers of Henry Ryecroft (George Gissing)",
+          "estimated_pages": 230.0,
+          "share_percent": 1.87
+        },
+        {
+          "key": "Chroniques italiennes (Stendhal)",
+          "estimated_pages": 220.0,
+          "share_percent": 1.79
+        },
+        {
+          "key": "Historia de la vida del Buscón (Francisco de Quevedo)",
+          "estimated_pages": 210.0,
+          "share_percent": 1.71
+        },
+        {
+          "key": "Los sueños (Francisco de Quevedo)",
+          "estimated_pages": 195.0,
+          "share_percent": 1.58
+        },
+        {
+          "key": "Pierre et Jean (Guy de Maupassant)",
+          "estimated_pages": 190.0,
+          "share_percent": 1.54
+        },
+        {
+          "key": "Vies imaginaires (Marcel Schwob)",
+          "estimated_pages": 175.0,
+          "share_percent": 1.42
+        },
+        {
+          "key": "A Sentimental Journey Through France and Italy (Laurence Sterne)",
+          "estimated_pages": 170.0,
+          "share_percent": 1.38
+        },
+        {
+          "key": "The Turn of the Screw (Henry James)",
+          "estimated_pages": 165.0,
+          "share_percent": 1.34
+        },
+        {
+          "key": "Histoires désobligeantes (Léon Bloy)",
+          "estimated_pages": 145.0,
+          "share_percent": 1.18
+        },
+        {
+          "key": "Religio Medici (Sir Thomas Browne)",
+          "estimated_pages": 145.0,
+          "share_percent": 1.18
+        },
+        {
+          "key": "The Aspern Papers (Henry James)",
+          "estimated_pages": 140.0,
+          "share_percent": 1.14
+        },
+        {
+          "key": "The History of Rasselas, Prince of Abissinia (Samuel Johnson)",
+          "estimated_pages": 130.0,
+          "share_percent": 1.06
+        },
+        {
+          "key": "Daisy Miller (Henry James)",
+          "estimated_pages": 105.0,
+          "share_percent": 0.85
+        },
+        {
+          "key": "Le Neveu de Rameau (Denis Diderot)",
+          "estimated_pages": 100.0,
+          "share_percent": 0.81
+        },
+        {
+          "key": "Luces de bohemia (esperpento) (Ramón del Valle-Inclán)",
+          "estimated_pages": 100.0,
+          "share_percent": 0.81
+        },
+        {
+          "key": "Carmen (Prosper Mérimée)",
+          "estimated_pages": 95.0,
+          "share_percent": 0.77
+        },
+        {
+          "key": "Sonata de otoño (Memorias del Marqués de Bradomín) (Ramón del Valle-Inclán)",
+          "estimated_pages": 92.5,
+          "share_percent": 0.75
+        },
+        {
+          "key": "Hydriotaphia, Urn Burial (Sir Thomas Browne)",
+          "estimated_pages": 90.0,
+          "share_percent": 0.73
+        },
+        {
+          "key": "Le Livre de Monelle (Marcel Schwob)",
+          "estimated_pages": 87.5,
+          "share_percent": 0.71
+        },
+        {
+          "key": "La gitanilla (Miguel de Cervantes)",
+          "estimated_pages": 85.0,
+          "share_percent": 0.69
+        },
+        {
+          "key": "Sonata de primavera (Ramón del Valle-Inclán)",
+          "estimated_pages": 85.0,
+          "share_percent": 0.69
+        },
+        {
+          "key": "The Beast in the Jungle (Henry James)",
+          "estimated_pages": 85.0,
+          "share_percent": 0.69
+        },
+        {
+          "key": "Aurélia ou le Rêve et la Vie (Gérard de Nerval)",
+          "estimated_pages": 80.0,
+          "share_percent": 0.65
+        },
+        {
+          "key": "El coloquio de los perros (Miguel de Cervantes)",
+          "estimated_pages": 65.0,
+          "share_percent": 0.53
+        },
+        {
+          "key": "Bartleby, the Scrivener (Herman Melville)",
+          "estimated_pages": 60.0,
+          "share_percent": 0.49
+        },
+        {
+          "key": "Boule de Suif (Guy de Maupassant)",
+          "estimated_pages": 57.5,
+          "share_percent": 0.47
+        },
+        {
+          "key": "Rinconete y Cortadillo (Miguel de Cervantes)",
+          "estimated_pages": 49.0,
+          "share_percent": 0.4
+        },
+        {
+          "key": "San Manuel Bueno, mártir (Miguel de Unamuno)",
+          "estimated_pages": 47.5,
+          "share_percent": 0.39
+        },
+        {
+          "key": "El celoso extremeño (Miguel de Cervantes)",
+          "estimated_pages": 45.0,
+          "share_percent": 0.37
+        },
+        {
+          "key": "La Maison Tellier (Guy de Maupassant)",
+          "estimated_pages": 42.0,
+          "share_percent": 0.34
+        },
+        {
+          "key": "El licenciado Vidriera (Miguel de Cervantes)",
+          "estimated_pages": 40.0,
+          "share_percent": 0.33
+        },
+        {
+          "key": "Le Horla (Guy de Maupassant)",
+          "estimated_pages": 40.0,
+          "share_percent": 0.33
+        },
+        {
+          "key": "The Red-Headed League (Arthur Conan Doyle)",
+          "estimated_pages": 38.0,
+          "share_percent": 0.31
+        },
+        {
+          "key": "A Scandal in Bohemia (Arthur Conan Doyle)",
+          "estimated_pages": 35.0,
+          "share_percent": 0.28
+        },
+        {
+          "key": "To Build a Fire (Jack London)",
+          "estimated_pages": 29.0,
+          "share_percent": 0.24
+        },
+        {
+          "key": "La Croisade des enfants (Marcel Schwob)",
+          "estimated_pages": 27.5,
+          "share_percent": 0.22
+        },
+        {
+          "key": "Mateo Falcone (Prosper Mérimée)",
+          "estimated_pages": 20.0,
+          "share_percent": 0.16
+        },
+        {
+          "key": "Les trois messes basses (Alphonse Daudet)",
+          "estimated_pages": 14.0,
+          "share_percent": 0.11
+        },
+        {
+          "key": "¡Adiós, Cordera! y otros cuentos (Leopoldo Alas (Clarín))",
+          "estimated_pages": 14.0,
+          "share_percent": 0.11
+        },
+        {
+          "key": "La Parure (Guy de Maupassant)",
+          "estimated_pages": 11.5,
+          "share_percent": 0.09
+        },
+        {
+          "key": "La insolación (Horacio Quiroga)",
+          "estimated_pages": 11.5,
+          "share_percent": 0.09
+        },
+        {
+          "key": "Deux amis (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 0.09
+        },
+        {
+          "key": "La Ficelle (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 0.09
+        },
+        {
+          "key": "The Cask of Amontillado (Edgar Allan Poe)",
+          "estimated_pages": 10.5,
+          "share_percent": 0.09
+        },
+        {
+          "key": "The Last Leaf (O. Henry)",
+          "estimated_pages": 10.0,
+          "share_percent": 0.08
+        },
+        {
+          "key": "La chèvre de monsieur Seguin (Alphonse Daudet)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.07
+        },
+        {
+          "key": "Le secret de maître Cornille (Alphonse Daudet)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.07
+        },
+        {
+          "key": "The Gift of the Magi (O. Henry)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.07
+        },
+        {
+          "key": "The Tell-Tale Heart (Edgar Allan Poe)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.07
+        },
+        {
+          "key": "A la deriva (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.05
+        },
+        {
+          "key": "El almohadón de plumas (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.05
+        },
+        {
+          "key": "The Open Window (Saki (H. H. Munro))",
+          "estimated_pages": 6.0,
+          "share_percent": 0.05
+        },
+        {
+          "key": "The Oval Portrait (Edgar Allan Poe)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.05
+        },
+        {
+          "key": "The Story of an Hour (Kate Chopin)",
+          "estimated_pages": 4.5,
+          "share_percent": 0.04
+        }
+      ]
+    },
+    {
+      "scenario_name": "scenario_d_full_catalog",
+      "description": "Scénario D : Tous les candidats explorés (127 œuvres, montrant les dominations sans curation)",
+      "candidate_count": 127,
+      "total_estimated_pages": 36013.5,
+      "long_form_count": 66,
+      "short_work_count": 61,
+      "languages": {
+        "en": 43.28,
+        "fr": 34.11,
+        "es": 22.61
+      },
+      "work_kinds": {
+        "LONG_FORM": 88.7,
+        "SHORT_WORK": 11.3
+      },
+      "potential_author_dominations_gte_15pct": [],
+      "top_5_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 2184.0,
+          "share_percent": 6.06
+        },
+        {
+          "key": "Restif de la Bretonne",
+          "estimated_pages": 2170.0,
+          "share_percent": 6.03
+        },
+        {
+          "key": "Samuel Johnson",
+          "estimated_pages": 1880.0,
+          "share_percent": 5.22
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 1670.0,
+          "share_percent": 4.64
+        },
+        {
+          "key": "Leopoldo Alas (Clarín)",
+          "estimated_pages": 1534.0,
+          "share_percent": 4.26
+        }
+      ],
+      "top_5_works": [
+        {
+          "key": "Les Nuits de Paris (volume authentique à définir) (Restif de la Bretonne)",
+          "estimated_pages": 1900.0,
+          "share_percent": 5.28
+        },
+        {
+          "key": "The Anatomy of Melancholy (Robert Burton)",
+          "estimated_pages": 1400.0,
+          "share_percent": 3.89
+        },
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 3.47
+        },
+        {
+          "key": "La Regenta (Leopoldo Alas (Clarín))",
+          "estimated_pages": 1175.0,
+          "share_percent": 3.26
+        },
+        {
+          "key": "The Rambler (essais individuels à délimiter) (Samuel Johnson)",
+          "estimated_pages": 1175.0,
+          "share_percent": 3.26
+        }
+      ],
+      "top_10_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 2184.0,
+          "share_percent": 6.06
+        },
+        {
+          "key": "Restif de la Bretonne",
+          "estimated_pages": 2170.0,
+          "share_percent": 6.03
+        },
+        {
+          "key": "Samuel Johnson",
+          "estimated_pages": 1880.0,
+          "share_percent": 5.22
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 1670.0,
+          "share_percent": 4.64
+        },
+        {
+          "key": "Leopoldo Alas (Clarín)",
+          "estimated_pages": 1534.0,
+          "share_percent": 4.26
+        },
+        {
+          "key": "Stendhal",
+          "estimated_pages": 1495.0,
+          "share_percent": 4.15
+        },
+        {
+          "key": "George Borrow",
+          "estimated_pages": 1470.0,
+          "share_percent": 4.08
+        },
+        {
+          "key": "Robert Burton",
+          "estimated_pages": 1400.0,
+          "share_percent": 3.89
+        },
+        {
+          "key": "Michel de Montaigne",
+          "estimated_pages": 1375.0,
+          "share_percent": 3.82
+        },
+        {
+          "key": "George Gissing",
+          "estimated_pages": 1360.0,
+          "share_percent": 3.78
+        }
+      ],
+      "top_10_works": [
+        {
+          "key": "Les Nuits de Paris (volume authentique à définir) (Restif de la Bretonne)",
+          "estimated_pages": 1900.0,
+          "share_percent": 5.28
+        },
+        {
+          "key": "The Anatomy of Melancholy (Robert Burton)",
+          "estimated_pages": 1400.0,
+          "share_percent": 3.89
+        },
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 3.47
+        },
+        {
+          "key": "La Regenta (Leopoldo Alas (Clarín))",
+          "estimated_pages": 1175.0,
+          "share_percent": 3.26
+        },
+        {
+          "key": "The Rambler (essais individuels à délimiter) (Samuel Johnson)",
+          "estimated_pages": 1175.0,
+          "share_percent": 3.26
+        },
+        {
+          "key": "Histoire de Gil Blas de Santillane (Alain-René Lesage)",
+          "estimated_pages": 900.0,
+          "share_percent": 2.5
+        },
+        {
+          "key": "Personal Narrative of a Pilgrimage to Al-Madinah and Meccah (Sir Richard Francis Burton)",
+          "estimated_pages": 875.0,
+          "share_percent": 2.43
+        },
+        {
+          "key": "Moby-Dick (Herman Melville)",
+          "estimated_pages": 840.0,
+          "share_percent": 2.33
+        },
+        {
+          "key": "The Portrait of a Lady (Henry James)",
+          "estimated_pages": 800.0,
+          "share_percent": 2.22
+        },
+        {
+          "key": "Essais — Livre I (découpage éditorial à arrêter) (Michel de Montaigne)",
+          "estimated_pages": 750.0,
+          "share_percent": 2.08
+        }
+      ],
+      "all_authors": [
+        {
+          "key": "Miguel de Cervantes",
+          "estimated_pages": 2184.0,
+          "share_percent": 6.06
+        },
+        {
+          "key": "Restif de la Bretonne",
+          "estimated_pages": 2170.0,
+          "share_percent": 6.03
+        },
+        {
+          "key": "Samuel Johnson",
+          "estimated_pages": 1880.0,
+          "share_percent": 5.22
+        },
+        {
+          "key": "Jane Austen",
+          "estimated_pages": 1670.0,
+          "share_percent": 4.64
+        },
+        {
+          "key": "Leopoldo Alas (Clarín)",
+          "estimated_pages": 1534.0,
+          "share_percent": 4.26
+        },
+        {
+          "key": "Stendhal",
+          "estimated_pages": 1495.0,
+          "share_percent": 4.15
+        },
+        {
+          "key": "George Borrow",
+          "estimated_pages": 1470.0,
+          "share_percent": 4.08
+        },
+        {
+          "key": "Robert Burton",
+          "estimated_pages": 1400.0,
+          "share_percent": 3.89
+        },
+        {
+          "key": "Michel de Montaigne",
+          "estimated_pages": 1375.0,
+          "share_percent": 3.82
+        },
+        {
+          "key": "George Gissing",
+          "estimated_pages": 1360.0,
+          "share_percent": 3.78
+        },
+        {
+          "key": "Sir Richard Francis Burton",
+          "estimated_pages": 1330.0,
+          "share_percent": 3.69
+        },
+        {
+          "key": "Henry James",
+          "estimated_pages": 1295.0,
+          "share_percent": 3.6
+        },
+        {
+          "key": "Alain-René Lesage",
+          "estimated_pages": 1160.0,
+          "share_percent": 3.22
+        },
+        {
+          "key": "Emilia Pardo Bazán",
+          "estimated_pages": 1060.0,
+          "share_percent": 2.94
+        },
+        {
+          "key": "Herman Melville",
+          "estimated_pages": 1022.5,
+          "share_percent": 2.84
+        },
+        {
+          "key": "Benito Pérez Galdós",
+          "estimated_pages": 980.0,
+          "share_percent": 2.72
+        },
+        {
+          "key": "Mariano José de Larra",
+          "estimated_pages": 970.0,
+          "share_percent": 2.69
+        },
+        {
+          "key": "Laurence Sterne",
+          "estimated_pages": 910.0,
+          "share_percent": 2.53
+        },
+        {
+          "key": "Guy de Maupassant",
+          "estimated_pages": 793.0,
+          "share_percent": 2.2
+        },
+        {
+          "key": "Octave Mirbeau",
+          "estimated_pages": 775.0,
+          "share_percent": 2.15
+        },
+        {
+          "key": "Joris-Karl Huysmans",
+          "estimated_pages": 725.0,
+          "share_percent": 2.01
+        },
+        {
+          "key": "Auguste Villiers de l'Isle-Adam",
+          "estimated_pages": 690.0,
+          "share_percent": 1.92
+        },
+        {
+          "key": "William Hazlitt",
+          "estimated_pages": 685.0,
+          "share_percent": 1.9
+        },
+        {
+          "key": "Jules Barbey d'Aurevilly",
+          "estimated_pages": 645.0,
+          "share_percent": 1.79
+        },
+        {
+          "key": "Charles Lamb",
+          "estimated_pages": 615.0,
+          "share_percent": 1.71
+        },
+        {
+          "key": "Miguel de Unamuno",
+          "estimated_pages": 572.5,
+          "share_percent": 1.59
+        },
+        {
+          "key": "Léon Bloy",
+          "estimated_pages": 555.0,
+          "share_percent": 1.54
+        },
+        {
+          "key": "Oscar Wilde",
+          "estimated_pages": 535.0,
+          "share_percent": 1.49
+        },
+        {
+          "key": "Denis Diderot",
+          "estimated_pages": 490.0,
+          "share_percent": 1.36
+        },
+        {
+          "key": "François Rabelais",
+          "estimated_pages": 480.0,
+          "share_percent": 1.33
+        },
+        {
+          "key": "Marcel Schwob",
+          "estimated_pages": 475.0,
+          "share_percent": 1.32
+        },
+        {
+          "key": "Francisco de Quevedo",
+          "estimated_pages": 405.0,
+          "share_percent": 1.12
+        },
+        {
+          "key": "Walter Pater",
+          "estimated_pages": 375.0,
+          "share_percent": 1.04
+        },
+        {
+          "key": "Sir Thomas Browne",
+          "estimated_pages": 335.0,
+          "share_percent": 0.93
+        },
+        {
+          "key": "Gérard de Nerval",
+          "estimated_pages": 310.0,
+          "share_percent": 0.86
+        },
+        {
+          "key": "Ramón del Valle-Inclán",
+          "estimated_pages": 277.5,
+          "share_percent": 0.77
+        },
+        {
+          "key": "Thomas De Quincey",
+          "estimated_pages": 265.0,
+          "share_percent": 0.74
+        },
+        {
+          "key": "Thomas Love Peacock",
+          "estimated_pages": 252.5,
+          "share_percent": 0.7
+        },
+        {
+          "key": "Horacio Quiroga",
+          "estimated_pages": 158.5,
+          "share_percent": 0.44
+        },
+        {
+          "key": "Prosper Mérimée",
+          "estimated_pages": 115.0,
+          "share_percent": 0.32
+        },
+        {
+          "key": "Arthur Conan Doyle",
+          "estimated_pages": 73.0,
+          "share_percent": 0.2
+        },
+        {
+          "key": "Edgar Allan Poe",
+          "estimated_pages": 55.5,
+          "share_percent": 0.15
+        },
+        {
+          "key": "Alphonse Daudet",
+          "estimated_pages": 32.0,
+          "share_percent": 0.09
+        },
+        {
+          "key": "Jack London",
+          "estimated_pages": 29.0,
+          "share_percent": 0.08
+        },
+        {
+          "key": "O. Henry",
+          "estimated_pages": 19.0,
+          "share_percent": 0.05
+        },
+        {
+          "key": "Saki (H. H. Munro)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "Kate Chopin",
+          "estimated_pages": 4.5,
+          "share_percent": 0.01
+        }
+      ],
+      "all_works": [
+        {
+          "key": "Les Nuits de Paris (volume authentique à définir) (Restif de la Bretonne)",
+          "estimated_pages": 1900.0,
+          "share_percent": 5.28
+        },
+        {
+          "key": "The Anatomy of Melancholy (Robert Burton)",
+          "estimated_pages": 1400.0,
+          "share_percent": 3.89
+        },
+        {
+          "key": "Don Quijote de la Mancha (Miguel de Cervantes)",
+          "estimated_pages": 1250.0,
+          "share_percent": 3.47
+        },
+        {
+          "key": "La Regenta (Leopoldo Alas (Clarín))",
+          "estimated_pages": 1175.0,
+          "share_percent": 3.26
+        },
+        {
+          "key": "The Rambler (essais individuels à délimiter) (Samuel Johnson)",
+          "estimated_pages": 1175.0,
+          "share_percent": 3.26
+        },
+        {
+          "key": "Histoire de Gil Blas de Santillane (Alain-René Lesage)",
+          "estimated_pages": 900.0,
+          "share_percent": 2.5
+        },
+        {
+          "key": "Personal Narrative of a Pilgrimage to Al-Madinah and Meccah (Sir Richard Francis Burton)",
+          "estimated_pages": 875.0,
+          "share_percent": 2.43
+        },
+        {
+          "key": "Moby-Dick (Herman Melville)",
+          "estimated_pages": 840.0,
+          "share_percent": 2.33
+        },
+        {
+          "key": "The Portrait of a Lady (Henry James)",
+          "estimated_pages": 800.0,
+          "share_percent": 2.22
+        },
+        {
+          "key": "Essais — Livre I (découpage éditorial à arrêter) (Michel de Montaigne)",
+          "estimated_pages": 750.0,
+          "share_percent": 2.08
+        },
+        {
+          "key": "The Bible in Spain (George Borrow)",
+          "estimated_pages": 750.0,
+          "share_percent": 2.08
+        },
+        {
+          "key": "The Life and Opinions of Tristram Shandy, Gentleman (Laurence Sterne)",
+          "estimated_pages": 740.0,
+          "share_percent": 2.05
+        },
+        {
+          "key": "Lavengro (George Borrow)",
+          "estimated_pages": 720.0,
+          "share_percent": 2.0
+        },
+        {
+          "key": "La Chartreuse de Parme (Stendhal)",
+          "estimated_pages": 650.0,
+          "share_percent": 1.8
+        },
+        {
+          "key": "Novelas ejemplares (recueil complet) (Miguel de Cervantes)",
+          "estimated_pages": 650.0,
+          "share_percent": 1.8
+        },
+        {
+          "key": "Essais — Livre III (découpage éditorial à arrêter) (Michel de Montaigne)",
+          "estimated_pages": 625.0,
+          "share_percent": 1.74
+        },
+        {
+          "key": "Le Rouge et le Noir (Stendhal)",
+          "estimated_pages": 625.0,
+          "share_percent": 1.74
+        },
+        {
+          "key": "New Grub Street (George Gissing)",
+          "estimated_pages": 610.0,
+          "share_percent": 1.69
+        },
+        {
+          "key": "Emma (Jane Austen)",
+          "estimated_pages": 580.0,
+          "share_percent": 1.61
+        },
+        {
+          "key": "Artículos de costumbres (artículos individuales a delimitar) (Mariano José de Larra)",
+          "estimated_pages": 575.0,
+          "share_percent": 1.6
+        },
+        {
+          "key": "The Idler (essais individuels à délimiter) (Samuel Johnson)",
+          "estimated_pages": 575.0,
+          "share_percent": 1.6
+        },
+        {
+          "key": "The Odd Women (George Gissing)",
+          "estimated_pages": 520.0,
+          "share_percent": 1.44
+        },
+        {
+          "key": "Pride and Prejudice (Jane Austen)",
+          "estimated_pages": 470.0,
+          "share_percent": 1.31
+        },
+        {
+          "key": "First Footsteps in East Africa (Sir Richard Francis Burton)",
+          "estimated_pages": 455.0,
+          "share_percent": 1.26
+        },
+        {
+          "key": "Misericordia (Benito Pérez Galdós)",
+          "estimated_pages": 455.0,
+          "share_percent": 1.26
+        },
+        {
+          "key": "Bel-Ami (Guy de Maupassant)",
+          "estimated_pages": 430.0,
+          "share_percent": 1.19
+        },
+        {
+          "key": "Là-bas (Joris-Karl Huysmans)",
+          "estimated_pages": 430.0,
+          "share_percent": 1.19
+        },
+        {
+          "key": "Le Désespéré (Léon Bloy)",
+          "estimated_pages": 410.0,
+          "share_percent": 1.14
+        },
+        {
+          "key": "La madre naturaleza (Emilia Pardo Bazán)",
+          "estimated_pages": 405.0,
+          "share_percent": 1.12
+        },
+        {
+          "key": "Le Journal d'une femme de chambre (Octave Mirbeau)",
+          "estimated_pages": 400.0,
+          "share_percent": 1.11
+        },
+        {
+          "key": "El doncel de don Enrique el Doliente (Mariano José de Larra)",
+          "estimated_pages": 395.0,
+          "share_percent": 1.1
+        },
+        {
+          "key": "Table-Talk (William Hazlitt)",
+          "estimated_pages": 390.0,
+          "share_percent": 1.08
+        },
+        {
+          "key": "L'Ève future (Auguste Villiers de l'Isle-Adam)",
+          "estimated_pages": 385.0,
+          "share_percent": 1.07
+        },
+        {
+          "key": "Los pazos de Ulloa (Emilia Pardo Bazán)",
+          "estimated_pages": 385.0,
+          "share_percent": 1.07
+        },
+        {
+          "key": "Les Diaboliques (Jules Barbey d'Aurevilly)",
+          "estimated_pages": 350.0,
+          "share_percent": 0.97
+        },
+        {
+          "key": "Essays of Elia (Charles Lamb)",
+          "estimated_pages": 345.0,
+          "share_percent": 0.96
+        },
+        {
+          "key": "Su único hijo (Leopoldo Alas (Clarín))",
+          "estimated_pages": 345.0,
+          "share_percent": 0.96
+        },
+        {
+          "key": "Jacques le fataliste et son maître (Denis Diderot)",
+          "estimated_pages": 330.0,
+          "share_percent": 0.92
+        },
+        {
+          "key": "Persuasion (Jane Austen)",
+          "estimated_pages": 320.0,
+          "share_percent": 0.89
+        },
+        {
+          "key": "The Picture of Dorian Gray (Oscar Wilde)",
+          "estimated_pages": 315.0,
+          "share_percent": 0.87
+        },
+        {
+          "key": "Contes cruels (Auguste Villiers de l'Isle-Adam)",
+          "estimated_pages": 305.0,
+          "share_percent": 0.85
+        },
+        {
+          "key": "Northanger Abbey (Jane Austen)",
+          "estimated_pages": 300.0,
+          "share_percent": 0.83
+        },
+        {
+          "key": "Doña Perfecta (Benito Pérez Galdós)",
+          "estimated_pages": 295.0,
+          "share_percent": 0.82
+        },
+        {
+          "key": "L'Ensorcelée (Jules Barbey d'Aurevilly)",
+          "estimated_pages": 295.0,
+          "share_percent": 0.82
+        },
+        {
+          "key": "Niebla (Miguel de Unamuno)",
+          "estimated_pages": 295.0,
+          "share_percent": 0.82
+        },
+        {
+          "key": "The Spirit of the Age (William Hazlitt)",
+          "estimated_pages": 295.0,
+          "share_percent": 0.82
+        },
+        {
+          "key": "À rebours (Joris-Karl Huysmans)",
+          "estimated_pages": 295.0,
+          "share_percent": 0.82
+        },
+        {
+          "key": "Cuentos de amor (recueil intégral ou contes individuels) (Emilia Pardo Bazán)",
+          "estimated_pages": 270.0,
+          "share_percent": 0.75
+        },
+        {
+          "key": "La Vie de mon père (Restif de la Bretonne)",
+          "estimated_pages": 270.0,
+          "share_percent": 0.75
+        },
+        {
+          "key": "Le Jardin des supplices (Octave Mirbeau)",
+          "estimated_pages": 270.0,
+          "share_percent": 0.75
+        },
+        {
+          "key": "The Last Essays of Elia (Charles Lamb)",
+          "estimated_pages": 270.0,
+          "share_percent": 0.75
+        },
+        {
+          "key": "Gargantua (François Rabelais)",
+          "estimated_pages": 260.0,
+          "share_percent": 0.72
+        },
+        {
+          "key": "Le Diable boiteux (Alain-René Lesage)",
+          "estimated_pages": 260.0,
+          "share_percent": 0.72
+        },
+        {
+          "key": "Amor y pedagogía (Miguel de Unamuno)",
+          "estimated_pages": 230.0,
+          "share_percent": 0.64
+        },
+        {
+          "key": "Les Filles du feu (incluant Sylvie) (Gérard de Nerval)",
+          "estimated_pages": 230.0,
+          "share_percent": 0.64
+        },
+        {
+          "key": "Studies in the History of the Renaissance (Walter Pater)",
+          "estimated_pages": 230.0,
+          "share_percent": 0.64
+        },
+        {
+          "key": "The Private Papers of Henry Ryecroft (George Gissing)",
+          "estimated_pages": 230.0,
+          "share_percent": 0.64
+        },
+        {
+          "key": "Trafalgar (Episodios Nacionales) (Benito Pérez Galdós)",
+          "estimated_pages": 230.0,
+          "share_percent": 0.64
+        },
+        {
+          "key": "Chroniques italiennes (Stendhal)",
+          "estimated_pages": 220.0,
+          "share_percent": 0.61
+        },
+        {
+          "key": "Pantagruel (François Rabelais)",
+          "estimated_pages": 220.0,
+          "share_percent": 0.61
+        },
+        {
+          "key": "Historia de la vida del Buscón (Francisco de Quevedo)",
+          "estimated_pages": 210.0,
+          "share_percent": 0.58
+        },
+        {
+          "key": "Confessions of an English Opium-Eater (Thomas De Quincey)",
+          "estimated_pages": 205.0,
+          "share_percent": 0.57
+        },
+        {
+          "key": "Los sueños (Francisco de Quevedo)",
+          "estimated_pages": 195.0,
+          "share_percent": 0.54
+        },
+        {
+          "key": "Pierre et Jean (Guy de Maupassant)",
+          "estimated_pages": 190.0,
+          "share_percent": 0.53
+        },
+        {
+          "key": "Cœur double (Marcel Schwob)",
+          "estimated_pages": 185.0,
+          "share_percent": 0.51
+        },
+        {
+          "key": "Vies imaginaires (Marcel Schwob)",
+          "estimated_pages": 175.0,
+          "share_percent": 0.49
+        },
+        {
+          "key": "A Sentimental Journey Through France and Italy (Laurence Sterne)",
+          "estimated_pages": 170.0,
+          "share_percent": 0.47
+        },
+        {
+          "key": "The Turn of the Screw (Henry James)",
+          "estimated_pages": 165.0,
+          "share_percent": 0.46
+        },
+        {
+          "key": "Histoires désobligeantes (Léon Bloy)",
+          "estimated_pages": 145.0,
+          "share_percent": 0.4
+        },
+        {
+          "key": "Imaginary Portraits (Walter Pater)",
+          "estimated_pages": 145.0,
+          "share_percent": 0.4
+        },
+        {
+          "key": "Religio Medici (Sir Thomas Browne)",
+          "estimated_pages": 145.0,
+          "share_percent": 0.4
+        },
+        {
+          "key": "The Aspern Papers (Henry James)",
+          "estimated_pages": 140.0,
+          "share_percent": 0.39
+        },
+        {
+          "key": "Cuentos de la selva (Horacio Quiroga)",
+          "estimated_pages": 135.0,
+          "share_percent": 0.37
+        },
+        {
+          "key": "Nightmare Abbey (Thomas Love Peacock)",
+          "estimated_pages": 130.0,
+          "share_percent": 0.36
+        },
+        {
+          "key": "The History of Rasselas, Prince of Abissinia (Samuel Johnson)",
+          "estimated_pages": 130.0,
+          "share_percent": 0.36
+        },
+        {
+          "key": "Benito Cereno (Herman Melville)",
+          "estimated_pages": 122.5,
+          "share_percent": 0.34
+        },
+        {
+          "key": "Headlong Hall (Thomas Love Peacock)",
+          "estimated_pages": 122.5,
+          "share_percent": 0.34
+        },
+        {
+          "key": "De Profundis (Oscar Wilde)",
+          "estimated_pages": 120.0,
+          "share_percent": 0.33
+        },
+        {
+          "key": "Daisy Miller (Henry James)",
+          "estimated_pages": 105.0,
+          "share_percent": 0.29
+        },
+        {
+          "key": "Farces et moralités (Octave Mirbeau)",
+          "estimated_pages": 105.0,
+          "share_percent": 0.29
+        },
+        {
+          "key": "Le Neveu de Rameau (Denis Diderot)",
+          "estimated_pages": 100.0,
+          "share_percent": 0.28
+        },
+        {
+          "key": "Luces de bohemia (esperpento) (Ramón del Valle-Inclán)",
+          "estimated_pages": 100.0,
+          "share_percent": 0.28
+        },
+        {
+          "key": "The Garden of Cyrus (Sir Thomas Browne)",
+          "estimated_pages": 100.0,
+          "share_percent": 0.28
+        },
+        {
+          "key": "Carmen (Prosper Mérimée)",
+          "estimated_pages": 95.0,
+          "share_percent": 0.26
+        },
+        {
+          "key": "Sonata de otoño (Memorias del Marqués de Bradomín) (Ramón del Valle-Inclán)",
+          "estimated_pages": 92.5,
+          "share_percent": 0.26
+        },
+        {
+          "key": "Hydriotaphia, Urn Burial (Sir Thomas Browne)",
+          "estimated_pages": 90.0,
+          "share_percent": 0.25
+        },
+        {
+          "key": "Le Livre de Monelle (Marcel Schwob)",
+          "estimated_pages": 87.5,
+          "share_percent": 0.24
+        },
+        {
+          "key": "La gitanilla (Miguel de Cervantes)",
+          "estimated_pages": 85.0,
+          "share_percent": 0.24
+        },
+        {
+          "key": "Sonata de primavera (Ramón del Valle-Inclán)",
+          "estimated_pages": 85.0,
+          "share_percent": 0.24
+        },
+        {
+          "key": "The Beast in the Jungle (Henry James)",
+          "estimated_pages": 85.0,
+          "share_percent": 0.24
+        },
+        {
+          "key": "Aurélia ou le Rêve et la Vie (Gérard de Nerval)",
+          "estimated_pages": 80.0,
+          "share_percent": 0.22
+        },
+        {
+          "key": "El coloquio de los perros (Miguel de Cervantes)",
+          "estimated_pages": 65.0,
+          "share_percent": 0.18
+        },
+        {
+          "key": "Bartleby, the Scrivener (Herman Melville)",
+          "estimated_pages": 60.0,
+          "share_percent": 0.17
+        },
+        {
+          "key": "On Murder Considered as one of the Fine Arts (Thomas De Quincey)",
+          "estimated_pages": 60.0,
+          "share_percent": 0.17
+        },
+        {
+          "key": "Supplément au Voyage de Bougainville (Denis Diderot)",
+          "estimated_pages": 60.0,
+          "share_percent": 0.17
+        },
+        {
+          "key": "The Happy Prince and Other Tales (Oscar Wilde)",
+          "estimated_pages": 60.0,
+          "share_percent": 0.17
+        },
+        {
+          "key": "Boule de Suif (Guy de Maupassant)",
+          "estimated_pages": 57.5,
+          "share_percent": 0.16
+        },
+        {
+          "key": "Rinconete y Cortadillo (Miguel de Cervantes)",
+          "estimated_pages": 49.0,
+          "share_percent": 0.14
+        },
+        {
+          "key": "San Manuel Bueno, mártir (Miguel de Unamuno)",
+          "estimated_pages": 47.5,
+          "share_percent": 0.13
+        },
+        {
+          "key": "El celoso extremeño (Miguel de Cervantes)",
+          "estimated_pages": 45.0,
+          "share_percent": 0.12
+        },
+        {
+          "key": "La Maison Tellier (Guy de Maupassant)",
+          "estimated_pages": 42.0,
+          "share_percent": 0.12
+        },
+        {
+          "key": "El licenciado Vidriera (Miguel de Cervantes)",
+          "estimated_pages": 40.0,
+          "share_percent": 0.11
+        },
+        {
+          "key": "Le Horla (Guy de Maupassant)",
+          "estimated_pages": 40.0,
+          "share_percent": 0.11
+        },
+        {
+          "key": "The Decay of Lying (Oscar Wilde)",
+          "estimated_pages": 40.0,
+          "share_percent": 0.11
+        },
+        {
+          "key": "The Red-Headed League (Arthur Conan Doyle)",
+          "estimated_pages": 38.0,
+          "share_percent": 0.11
+        },
+        {
+          "key": "A Scandal in Bohemia (Arthur Conan Doyle)",
+          "estimated_pages": 35.0,
+          "share_percent": 0.1
+        },
+        {
+          "key": "The Fall of the House of Usher (Edgar Allan Poe)",
+          "estimated_pages": 30.0,
+          "share_percent": 0.08
+        },
+        {
+          "key": "To Build a Fire (Jack London)",
+          "estimated_pages": 29.0,
+          "share_percent": 0.08
+        },
+        {
+          "key": "La Croisade des enfants (Marcel Schwob)",
+          "estimated_pages": 27.5,
+          "share_percent": 0.08
+        },
+        {
+          "key": "Mateo Falcone (Prosper Mérimée)",
+          "estimated_pages": 20.0,
+          "share_percent": 0.06
+        },
+        {
+          "key": "Les trois messes basses (Alphonse Daudet)",
+          "estimated_pages": 14.0,
+          "share_percent": 0.04
+        },
+        {
+          "key": "¡Adiós, Cordera! y otros cuentos (Leopoldo Alas (Clarín))",
+          "estimated_pages": 14.0,
+          "share_percent": 0.04
+        },
+        {
+          "key": "La Parure (Guy de Maupassant)",
+          "estimated_pages": 11.5,
+          "share_percent": 0.03
+        },
+        {
+          "key": "La insolación (Horacio Quiroga)",
+          "estimated_pages": 11.5,
+          "share_percent": 0.03
+        },
+        {
+          "key": "Deux amis (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 0.03
+        },
+        {
+          "key": "La Ficelle (Guy de Maupassant)",
+          "estimated_pages": 11.0,
+          "share_percent": 0.03
+        },
+        {
+          "key": "The Cask of Amontillado (Edgar Allan Poe)",
+          "estimated_pages": 10.5,
+          "share_percent": 0.03
+        },
+        {
+          "key": "The Last Leaf (O. Henry)",
+          "estimated_pages": 10.0,
+          "share_percent": 0.03
+        },
+        {
+          "key": "La chèvre de monsieur Seguin (Alphonse Daudet)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "Le secret de maître Cornille (Alphonse Daudet)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "The Gift of the Magi (O. Henry)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "The Tell-Tale Heart (Edgar Allan Poe)",
+          "estimated_pages": 9.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "A la deriva (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "El almohadón de plumas (Horacio Quiroga)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "The Open Window (Saki (H. H. Munro))",
+          "estimated_pages": 6.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "The Oval Portrait (Edgar Allan Poe)",
+          "estimated_pages": 6.0,
+          "share_percent": 0.02
+        },
+        {
+          "key": "The Story of an Hour (Kate Chopin)",
+          "estimated_pages": 4.5,
+          "share_percent": 0.01
+        }
+      ]
+    }
+  ]
+}

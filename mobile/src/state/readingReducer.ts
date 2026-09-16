@@ -23,11 +23,13 @@ export interface ReadingState {
    * bloquant, la lecture et la réaction restent immédiatement disponibles.
    */
   validationHint: string | null;
-  transitionType: 'page_flip' | 'fade' | 'none';
+  transitionType: 'page_flip' | 'page_flip_back' | 'fade' | 'none';
+  restoreScrollOffset: number;
+  isBufferedPage: boolean;
 }
 
 export type ReadingAction =
-  | { type: 'FETCH_START'; transitionType?: 'page_flip' | 'fade' }
+  | { type: 'FETCH_START'; transitionType?: 'page_flip' | 'page_flip_back' | 'fade' }
   | { type: 'FETCH_SUCCESS'; page: FeedPageDto }
   | { type: 'FETCH_ERROR'; message: string }
   | { type: 'REACT_START'; reaction: ReactionType; eventId: string }
@@ -35,6 +37,13 @@ export type ReadingAction =
   | { type: 'REACT_ERROR'; message: string }
   | { type: 'REACT_VALIDATION_RETRY'; message: string }
   | { type: 'NAVIGATE_START'; action: NavigationAction }
+  | {
+      type: 'RESTORE_BUFFERED_PAGE';
+      page: FeedPageDto;
+      metadata: PageRevealDto | null;
+      reaction: ReactionType | null;
+      scrollOffset: number;
+    }
   | { type: 'END_OF_EDITION'; message?: string }
   | { type: 'RESET' };
 
@@ -48,6 +57,8 @@ export const initialReadingState: ReadingState = {
   errorMessage: null,
   validationHint: null,
   transitionType: 'page_flip',
+  restoreScrollOffset: 0,
+  isBufferedPage: false,
 };
 
 /**
@@ -71,6 +82,8 @@ export function readingReducer(
         transitionType: action.transitionType || 'fade',
         errorMessage: null,
         validationHint: null,
+        restoreScrollOffset: 0,
+        isBufferedPage: false,
       };
 
     case 'FETCH_SUCCESS':
@@ -141,6 +154,22 @@ export function readingReducer(
         validationHint: null,
       };
 
+    case 'RESTORE_BUFFERED_PAGE':
+      return {
+        ...state,
+        status: action.metadata ? 'revealed' : 'reading',
+        currentPage: action.page,
+        metadata: action.metadata,
+        userReaction: action.reaction,
+        pendingEventId: null,
+        lastNavigationAction: null,
+        errorMessage: null,
+        validationHint: null,
+        transitionType: 'page_flip_back',
+        restoreScrollOffset: action.scrollOffset,
+        isBufferedPage: true,
+      };
+
     case 'END_OF_EDITION':
       return {
         ...state,
@@ -155,4 +184,3 @@ export function readingReducer(
       return state;
   }
 }
-

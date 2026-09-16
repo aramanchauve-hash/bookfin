@@ -1,0 +1,55 @@
+{
+  "work_id": "fr-barbey-les-diaboliques",
+  "author": "Jules Barbey d'Aurevilly",
+  "title": "Les Diaboliques",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "total_pages": 371,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 371,
+      "character_length": 1646,
+      "blocks_count": 7,
+      "preview": "Jules Amédée Barbey d'AurevillyLES DIABOLIQUES (1850 — 1874)Table des matièresPremière préface aux Diaboliques Préface de la première édition Le rideau cramoisi Le plus bel amour de Don Juan I II III IV V Le bonheur dans le crime Le dessous de cartes d'une partie de whist I II III À un dîner d'athées La vengeance d'une femme Première préface aux DiaboliquesÀ qui dédier cela?… J. B. d'A. Voici (sau...",
+      "content_hash": "91087597d777ee9fc3d5a021af0a2f59301e06602e3b5227ad941577d50fecdb"
+    },
+    "25pct": {
+      "label": "25% (Page 93)",
+      "page_sequence_number": 93,
+      "total_pages": 371,
+      "character_length": 1427,
+      "blocks_count": 4,
+      "preview": "C'était presque joli, du reste, que le contraste de cette confusion et de cette gaucherie avec cette grande femme passionnée, qui, à la voir dans le monde, eût trompé tant d'observateurs, — qui avait tout de l'amour, même le bonheur, mais qui n'avait pas la puissance de le rendre comme on le lui donnait. Seulement je n'étais pas alors assez contemplateur pour me contenter de ce joli d'artiste, et ...",
+      "content_hash": "6ec764d2e070740ccfbfe75d868b9267d3e830feabd9c8ebc6047c7ad4a3fc10"
+    },
+    "50pct": {
+      "label": "50% (Page 186)",
+      "page_sequence_number": 186,
+      "total_pages": 371,
+      "character_length": 1601,
+      "blocks_count": 2,
+      "preview": "Or, on était dans une de ces périodes tranquilles, en 182… Le libéralisme, qui croissait à l'ombre de la Charte constitutionnelle comme les chiens de la lice grandissaient dans leur chenil d'emprunt, n'avait pas encore étouffé un royalisme que le passage des Princes, revenant de l'exil, avait remué dans tous les coeurs jusqu'à l'enthousiasme. Cette époque, quoi qu'on ait dit, fut un moment superbe...",
+      "content_hash": "08043db3c4df050572a74881dff31cd7ddd7c44f3c062875ce31c9d784246664"
+    },
+    "75pct": {
+      "label": "75% (Page 278)",
+      "page_sequence_number": 278,
+      "total_pages": 371,
+      "character_length": 1383,
+      "blocks_count": 2,
+      "preview": "— Que veux-tu que je te dise? — fit-il, avec une lassitude qui touchait à la mélancolie. — M. Reniant n'a pas fait là une chose si crâne pour que, toi, tu puisses tant l'admirer! S'il avait cru que c'était Dieu, le Dieu vivant, le Dieu vengeur qu'il jetait aux porcs, au risque de la foudre sur le coup ou de l'enfer, sûrement, pour plus tard, il y aurait eu là du moins de la bravoure, du mépris de ...",
+      "content_hash": "7678ed73fdcc8ddf5d602764611377254ffa7e9163f7474e14c8daffddf6e83e"
+    },
+    "end": {
+      "label": "Fin (Page 371)",
+      "page_sequence_number": 371,
+      "total_pages": 371,
+      "character_length": 1007,
+      "blocks_count": 5,
+      "preview": "gros sou… L'autre s'était liquéfié et fondu… Elle était morte — mais stoïquement — dans d'intolérables tortures… Riche d'argent encore et de ses bijoux, elle avait tout légué aux malades, comme elle, de la maison qui l'avait accueillie, et prescrit de solennelles funérailles. «Seulement, pour se punir de ses désordres, — dit le vieux prêtre, qui n'avait rien compris du tout à cette femme-là, — ell...",
+      "content_hash": "a7408c9edd4be0822a3c59e8e977cc80973c0b6dc3ae79792a9e411b5573eb74"
+    }
+  }
+}

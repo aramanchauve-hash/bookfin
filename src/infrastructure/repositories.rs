@@ -1,7 +1,7 @@
 #[cfg(feature = "ssr")]
 use chrono::{DateTime, Utc};
 #[cfg(feature = "ssr")]
-use sqlx::{FromRow, PgPool};
+use sqlx::{types::Json, FromRow, PgPool};
 #[cfg(feature = "ssr")]
 use uuid::Uuid;
 
@@ -14,7 +14,7 @@ use crate::application::ports::{
 use crate::domain::errors::DomainError;
 #[cfg(feature = "ssr")]
 use crate::domain::models::{
-    AlphaInviteCode, ConnectionProposal, ConnectionStatus, LanguageTag, Page, PageImpression,
+    AlphaInviteCode, ConnectionProposal, ConnectionStatus, LanguageTag, Page, PageContentV2, PageImpression,
     PageMetadata, Reaction, ReactionType, ReadingStats, ReadingValidationConfig, UserAffinity,
 };
 
@@ -39,6 +39,7 @@ struct SqlPage {
     page_number: i32,
     source_page_number: Option<String>,
     content: String,
+    content_v2: Option<Json<PageContentV2>>,
     content_hash: String,
     language_tag: String,
     token_count: i32,
@@ -58,6 +59,7 @@ impl SqlPage {
             page_number: self.page_number,
             source_page_number: self.source_page_number,
             content: self.content,
+            content_v2: self.content_v2.map(|Json(content)| content),
             content_hash: self.content_hash,
             language_tag,
             token_count: self.token_count,
@@ -91,10 +93,23 @@ impl PageRepository for PostgresPageRepository {
         // 1. Essai après la clé aléatoire
         let candidate = sqlx::query_as::<_, SqlPage>(
             r#"
-            SELECT id, edition_id, page_number, source_page_number, content, content_hash, language_tag,
+            SELECT id, edition_id, page_number, source_page_number, content, content_v2, content_hash, language_tag,
                    token_count, random_key, is_active, version, created_at
             FROM pages p
             WHERE p.is_active = true
+              -- New readers always have preferences (set during onboarding).
+              -- The first branch is a narrow compatibility bridge for existing
+              -- alpha identities created before preferences existed; it avoids
+              -- silently invalidating their historical sessions.
+              AND (
+                  NOT EXISTS (
+                      SELECT 1 FROM user_language_preferences ulp WHERE ulp.user_id = $1
+                  )
+                  OR EXISTS (
+                      SELECT 1 FROM user_language_preferences ulp
+                      WHERE ulp.user_id = $1 AND ulp.language_tag = p.language_tag
+                  )
+              )
               AND NOT EXISTS (
                   SELECT 1 FROM page_impressions pi WHERE pi.user_id = $1 AND pi.page_id = p.id
               )
@@ -116,10 +131,19 @@ impl PageRepository for PostgresPageRepository {
         // 2. Wrap-around : recommence au début de l'index random_key
         let wrap_candidate = sqlx::query_as::<_, SqlPage>(
             r#"
-            SELECT id, edition_id, page_number, source_page_number, content, content_hash, language_tag,
+            SELECT id, edition_id, page_number, source_page_number, content, content_v2, content_hash, language_tag,
                    token_count, random_key, is_active, version, created_at
             FROM pages p
             WHERE p.is_active = true
+              AND (
+                  NOT EXISTS (
+                      SELECT 1 FROM user_language_preferences ulp WHERE ulp.user_id = $1
+                  )
+                  OR EXISTS (
+                      SELECT 1 FROM user_language_preferences ulp
+                      WHERE ulp.user_id = $1 AND ulp.language_tag = p.language_tag
+                  )
+              )
               AND NOT EXISTS (
                   SELECT 1 FROM page_impressions pi WHERE pi.user_id = $1 AND pi.page_id = p.id
               )
@@ -171,7 +195,7 @@ impl PageRepository for PostgresPageRepository {
     async fn get_page_by_id(&self, page_id: Uuid) -> Result<Option<Page>, DomainError> {
         let row = sqlx::query_as::<_, SqlPage>(
             r#"
-            SELECT id, edition_id, page_number, source_page_number, content, content_hash, language_tag,
+            SELECT id, edition_id, page_number, source_page_number, content, content_v2, content_hash, language_tag,
                    token_count, random_key, is_active, version, created_at
             FROM pages
             WHERE id = $1
@@ -195,7 +219,7 @@ impl PageRepository for PostgresPageRepository {
     ) -> Result<Option<Page>, DomainError> {
         let row = sqlx::query_as::<_, SqlPage>(
             r#"
-            SELECT id, edition_id, page_number, source_page_number, content, content_hash, language_tag,
+            SELECT id, edition_id, page_number, source_page_number, content, content_v2, content_hash, language_tag,
                    token_count, random_key, is_active, version, created_at
             FROM pages
             WHERE edition_id = $1

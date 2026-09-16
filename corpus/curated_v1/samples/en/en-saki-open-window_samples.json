@@ -1,0 +1,37 @@
+{
+  "work_id": "en-saki-open-window",
+  "author": "Saki (H. H. Munro)",
+  "title": "The Open Window",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 4,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 4,
+      "character_length": 1753,
+      "blocks_count": 10,
+      "preview": "“My aunt will be down presently, Mr. Nuttel,” said a very self-possessed young lady of fifteen; “in the meantime you must try and put up with me.” Framton Nuttel endeavoured to say the correct something which should duly flatter the niece of the moment without unduly discounting the aunt that was to come. Privately he doubted more than ever whether these formal visits on a succession of total stra...",
+      "content_hash": "d82a3af78fd1437121f8f107ed8e5006d2f9feb3c34edd36a5262de7c8b5cd36"
+    },
+    "middle": {
+      "label": "Milieu (Page 2)",
+      "page_sequence_number": 2,
+      "total_pages": 4,
+      "character_length": 1764,
+      "blocks_count": 6,
+      "preview": "“Her tragedy?” asked Framton; somehow in this restful country spot tragedies seemed out of place. “You may wonder why we keep that window wide open on an October afternoon,” said the niece, indicating a large French window that opened on to a lawn. “It is quite warm for the time of the year,” said Framton; “but has that window got anything to do with the tragedy?” “Out through that window, three y...",
+      "content_hash": "1e8b71cc368040b3369471b31a0ae5abc0e629987c269d4c69aa5b1ae24ac361"
+    },
+    "end": {
+      "label": "Fin (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 4,
+      "character_length": 1696,
+      "blocks_count": 7,
+      "preview": "Framton shivered slightly and turned towards the niece with a look intended to convey sympathetic comprehension. The child was staring out through the open window with dazed horror in her eyes. In a chill shock of nameless fear Framton swung round in his seat and looked in the same direction. In the deepening twilight three figures were walking across the lawn towards the window; they all carried ...",
+      "content_hash": "eb6d6a251bd45af3658bc97ffe010f8d6c38cceac65735a484d21d1797a8bba9"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "en-doyle-scandal-bohemia",
+  "author": "Arthur Conan Doyle",
+  "title": "A Scandal in Bohemia",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 31,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 31,
+      "character_length": 1187,
+      "blocks_count": 3,
+      "preview": "I. A SCANDAL IN BOHEMIAI.To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect r...",
+      "content_hash": "60624aa4cf403da2be9e7d7c6d07043956ccb7e5745067ba37aa4e055c2d6164"
+    },
+    "middle": {
+      "label": "Milieu (Page 16)",
+      "page_sequence_number": 16,
+      "total_pages": 31,
+      "character_length": 1547,
+      "blocks_count": 3,
+      "preview": "“Oh, she has turned all the men’s heads down in that part. She is the daintiest thing under a bonnet on this planet. So say the Serpentine-mews, to a man. She lives quietly, sings at concerts, drives out at five every day, and returns at seven sharp for dinner. Seldom goes out at other times, except when she sings. Has only one male visitor, but a good deal of him. He is dark, handsome, and dashin...",
+      "content_hash": "1e6ddc3aaeb1176d3f927e7ac7ba95dbfd2362215b9f7e1cf3715887dabba8fa"
+    },
+    "end": {
+      "label": "Fin (Page 31)",
+      "page_sequence_number": 31,
+      "total_pages": 31,
+      "character_length": 1074,
+      "blocks_count": 8,
+      "preview": "“I am immensely indebted to you. Pray tell me in what way I can reward you. This ring—” He slipped an emerald snake ring from his finger and held it out upon the palm of his hand. “Your Majesty has something which I should value even more highly,” said Holmes. “You have but to name it.” “This photograph!” The King stared at him in amazement. “Irene’s photograph!” he cried. “Certainly, if you wish ...",
+      "content_hash": "b393eb84767085e082e56fdaf0115fa3bb0dc88a505435de082e258e45cc2d7e"
+    }
+  }
+}

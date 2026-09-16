@@ -1,0 +1,37 @@
+{
+  "work_id": "es-unamuno-san-manuel-bueno-martir",
+  "author": "Miguel de Unamuno",
+  "title": "San Manuel Bueno, mártir",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 48,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 48,
+      "character_length": 1705,
+      "blocks_count": 4,
+      "preview": "San Manuel Bueno, martir Prólogo En La Nación, de Buenos Aires, y algo más tarde en El Sol, de Madrid, número del 3 de diciembre de 1931 [...], Gregorio Marañón publicó un artículo sobre mi San Manuel Bueno, Mártir, asegurando que ella, esta novelita, publicada en La Novela de Hoy, número 461 y último de la publicación, correspondiente al día 13 de marzo de 1931 —estos detalles los doy para la ins...",
+      "content_hash": "823d796c9e24e87c5a2e9a050891bb3a52337d522be317f00fa70fcf7cfecc6d"
+    },
+    "middle": {
+      "label": "Milieu (Page 24)",
+      "page_sequence_number": 24,
+      "total_pages": 48,
+      "character_length": 1536,
+      "blocks_count": 7,
+      "preview": "Mas aun así ni entraba en la iglesia ni dejaba de hacer alarde en todas partes de su incredulidad, aunque procurando siempre dejar a salvo a Don Manuel. Y ya en el pueblo se fue formando, no sé cómo, una expectativa, la de una especie de duelo entre mi hermano Lázaro y Don Manuel, o más bien se esperaba la conversión de aquel por este. Nadie dudaba de que al cabo el párroco le llevaría a su parroq...",
+      "content_hash": "4302dbacadd07f4556aa93e28c22e12e7c9bda49e1316e87f3c7c3c21b37dc9b"
+    },
+    "end": {
+      "label": "Fin (Page 48)",
+      "page_sequence_number": 48,
+      "total_pages": 48,
+      "character_length": 948,
+      "blocks_count": 2,
+      "preview": "Ni les habría creído, añado yo. Habrían creído a sus obras y no a sus palabras, porque las palabras no sirven para apoyar las obras, sino que las obras se bastan. Y para un pueblo como el de Valverde de Lucerna no hay más confesión que la conducta. Ni sabe el pueblo qué cosa es fe, ni acaso le importa mucho. Bien sé que en lo que se cuenta en este relato, si se quiere novelesco —y la novela es la ...",
+      "content_hash": "6152273c0d136dfd4c691918c62ce16e324901a1dd8785a369bb0b667f3759c9"
+    }
+  }
+}

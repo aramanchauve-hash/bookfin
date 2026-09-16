@@ -7,6 +7,7 @@ module.exports = {
     '^react-native$': '<rootDir>/__mocks__/react-native.ts',
     '^expo-constants$': '<rootDir>/__mocks__/expo-constants.ts',
     '^expo-secure-store$': '<rootDir>/__mocks__/expo-secure-store.ts',
+    '^react-native-webview$': '<rootDir>/__mocks__/react-native-webview.ts',
   },
   transform: {
     '^.+\\.tsx?$': [

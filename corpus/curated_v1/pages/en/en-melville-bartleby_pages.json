@@ -1,0 +1,2982 @@
+{
+  "work_id": "en-melville-bartleby",
+  "author": "Herman Melville",
+  "title": "Bartleby, the Scrivener",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "a51dfe7737271c08eec79b4f97c1cc07825e7bf05388c0952e291a010b2045f2",
+  "document_sha256": "328cd37dacae3665b7c79e1cba6f3cdcbd58d577939146cc0f7cf503a733c309",
+  "pages_count": 53,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "0795d3d321d2df485c9b3f3bebc50200d619bb19c0d388aac5e72fdca43dcb38",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "spans": [
+            {
+              "text": "Bartleby, The Scrivener"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "spans": [
+            {
+              "text": "A STORY OF WALL-STREET."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "by Herman Melville"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI am a rather elderly man. The nature of my avocations for the last thirty\r\nyears has brought me into more than ordinary contact with what would seem an\r\ninteresting and somewhat singular set of men, of whom as yet nothing that I\r\nknow of has ever been written:—I mean the law-copyists or scriveners. I\r\nhave known very many of them, professionally and privately, and if I pleased,\r\ncould relate divers histories, at which good-natured gentlemen might smile, and\r\nsentimental souls might weep. But I waive the biographies of all other\r\nscriveners for a few passages in the life of Bartleby, who was a scrivener of\r\nthe strangest I ever saw or heard of. While of other law-copyists I might write\r\nthe complete life, of Bartleby nothing of that sort can be done. I believe that\r\nno materials exist for a full and satisfactory biography of this man. It is an\r\nirreparable loss to literature. Bartleby was one of those beings of whom\r\nnothing is ascertainable, except from the original sources, and in his case\r\nthose are very small. What my own astonished eyes saw of Bartleby, "
+            },
+            {
+              "text": "that",
+              "italic": true
+            },
+            {
+              "text": "\r\nis all I know of him, except, indeed, one vague report which will appear in the\r\nsequel.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nEre introducing the scrivener, as he first appeared to me, it is fit I make\r\nsome mention of myself, my employés, my business, my chambers, and general\r\nsurroundings; because some such description is indispensable to an adequate\r\nunderstanding of the chief character about to be presented.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "594f9110f08d794891ae5376d9e4210b17bbb22f43252b864fc38d0472b280fa",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nImprimis: I am a man who, from his youth upwards, has been filled with a\r\nprofound conviction that the easiest way of life is the best. Hence, though I\r\nbelong to a profession proverbially energetic and nervous, even to turbulence,\r\nat times, yet nothing of that sort have I ever suffered to invade my peace. I\r\nam one of those unambitious lawyers who never addresses a jury, or in any way\r\ndraws down public applause; but in the cool tranquility of a snug retreat, do a\r\nsnug business among rich men’s bonds and mortgages and title-deeds. All\r\nwho know me, consider me an eminently "
+            },
+            {
+              "text": "safe",
+              "italic": true
+            },
+            {
+              "text": " man. The late John Jacob\r\nAstor, a personage little given to poetic enthusiasm, had no hesitation in\r\npronouncing my first grand point to be prudence; my next, method. I do not\r\nspeak it in vanity, but simply record the fact, that I was not unemployed in my\r\nprofession by the late John Jacob Astor; a name which, I admit, I love to\r\nrepeat, for it hath a rounded and orbicular sound to it, and rings like unto\r\nbullion. I will freely add, that I was not insensible to the late John Jacob\r\nAstor’s good opinion.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSome time prior to the period at which this little history begins, my\r\navocations had been largely increased. The good old office, now extinct in the\r\nState of New York, of a Master in Chancery, had been conferred upon me. It was\r\nnot a very arduous office, but very pleasantly remunerative. I seldom lose my\r\ntemper; much more seldom indulge in dangerous indignation at wrongs and\r\noutrages; but I must be permitted to be rash here and declare, that I consider\r\nthe sudden and violent abrogation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "29a9aa03fab38c3042391630b496ef78132923524dcc517fa26865c7017b517d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " of the office of Master in Chancery, by the\r\nnew Constitution, as a—premature act; inasmuch as I had counted upon a\r\nlife-lease of the profits, whereas I only received those of a few short years.\r\nBut this is by the way.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nMy chambers were up stairs at No.—Wall-street. At one end they looked\r\nupon the white wall of the interior of a spacious sky-light shaft, penetrating\r\nthe building from top to bottom. This view might have been considered rather\r\ntame than otherwise, deficient in what landscape painters call\r\n“life.” But if so, the view from the other end of my chambers\r\noffered, at least, a contrast, if nothing more. In that direction my windows\r\ncommanded an unobstructed view of a lofty brick wall, black by age and\r\neverlasting shade; which wall required no spy-glass to bring out its lurking\r\nbeauties, but for the benefit of all near-sighted spectators, was pushed up to\r\nwithin ten feet of my window panes. Owing to the great height of the\r\nsurrounding buildings, and my chambers being on the second floor, the interval\r\nbetween this wall and mine not a little resembled a huge square cistern.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAt the period just preceding the advent of Bartleby, I had two persons as\r\ncopyists in my employment, and a promising lad as an office-boy. First, Turkey;\r\nsecond, Nippers; third, Ginger Nut. These may seem names, the like of which are\r\nnot usually found in the Directory. In truth they were nicknames, mutually\r\nconferred upon each other by my three clerks, and were deemed expressive of\r\ntheir respective persons or characters. Turkey was a short, pursy Englishman of\r\nabout my own age, that is, somewhere not far from sixty."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "16e19ceccb21a7a1016b76f08c26b6c60ebd2feae77952dcf04e3d5bbe3337a8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " In the morning, one\r\nmight say, his face was of a fine florid hue, but after twelve o’clock,\r\nmeridian—his dinner hour—it blazed like a grate full of Christmas\r\ncoals; and continued blazing—but, as it were, with a gradual\r\nwane—till 6 o’clock, P.M. or thereabouts, after which I saw no more\r\nof the proprietor of the face, which gaining its meridian with the sun, seemed\r\nto set with it, to rise, culminate, and decline the following day, with the\r\nlike regularity and undiminished glory. There are many singular coincidences I\r\nhave known in the course of my life, not the least among which was the fact,\r\nthat exactly when Turkey displayed his fullest beams from his red and radiant\r\ncountenance, just then, too, at that critical moment, began the daily period\r\nwhen I considered his business capacities as seriously disturbed for the\r\nremainder of the twenty-four hours. Not that he was absolutely idle, or averse\r\nto business then; far from it. The difficulty was, he was apt to be altogether\r\ntoo energetic. There was a strange, inflamed, flurried, flighty recklessness of\r\nactivity about him. He would be incautious in dipping his pen into his\r\ninkstand. All his blots upon my documents, were dropped there after twelve\r\no’clock, meridian. Indeed, not only would he be reckless and sadly given\r\nto making blots in the afternoon, but some days he went further, and was rather\r\nnoisy. At such times, too, his face flamed with augmented blazonry, as if\r\ncannel coal had been heaped on anthracite."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "a2e96dfdb728657ebeb4d88dfa8a4f1ba58adfc1c22110ba826a910a0e63e43b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " He made an unpleasant racket with\r\nhis chair; spilled his sand-box; in mending his pens, impatiently split them\r\nall to pieces, and threw them on the floor in a sudden passion; stood up and\r\nleaned over his table, boxing his papers about in a most indecorous manner,\r\nvery sad to behold in an elderly man like him. Nevertheless, as he was in many\r\nways a most valuable person to me, and all the time before twelve\r\no’clock, meridian, was the quickest, steadiest creature too,\r\naccomplishing a great deal of work in a style not easy to be matched—for\r\nthese reasons, I was willing to overlook his eccentricities, though indeed,\r\noccasionally, I remonstrated with him. I did this very gently, however,\r\nbecause, though the civilest, nay, the blandest and most reverential of men in\r\nthe morning, yet in the afternoon he was disposed, upon provocation, to be\r\nslightly rash with his tongue, in fact, insolent. Now, valuing his morning\r\nservices as I did, and resolved not to lose them; yet, at the same time made\r\nuncomfortable by his inflamed ways after twelve o’clock; and being a man\r\nof peace, unwilling by my admonitions to call forth unseemly retorts from him;\r\nI took upon me, one Saturday noon (he was always worse on Saturdays), to hint\r\nto him, very kindly, that perhaps now that he was growing old, it might be well\r\nto abridge his labors; in short, he need not come to my chambers after twelve\r\no’clock, but, dinner over, had best go home to his lodgings and rest\r\nhimself till teatime. But no; he insisted upon his afternoon devotions. His\r\ncountenance became intolerably fervid, as he oratorically assured\r\nme—gesticulating with a long ruler at the other end of the\r\nroom—that if his services in the morning were useful, how indispensable,\r\nthen, in the afternoon?\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 6,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "59ebc92435641f6a825e4dc920cc669ec95ca9c7afdbc74fc55d4154ce539df7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“With submission, sir,” said Turkey on this occasion, “I\r\nconsider myself your right-hand man. In the morning I but marshal and deploy my\r\ncolumns; but in the afternoon I put myself at their head, and gallantly charge\r\nthe foe, thus!”—and he made a violent thrust with the ruler.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“But the blots, Turkey,” intimated I.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“True,—but, with submission, sir, behold these hairs! I am getting\r\nold. Surely, sir, a blot or two of a warm afternoon is not to be severely urged\r\nagainst gray hairs. Old age—even if it blot the page—is honorable.\r\nWith submission, sir, we "
+            },
+            {
+              "text": "both",
+              "italic": true
+            },
+            {
+              "text": " are getting old.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThis appeal to my fellow-feeling was hardly to be resisted. At all events, I\r\nsaw that go he would not. So I made up my mind to let him stay, resolving,\r\nnevertheless, to see to it, that during the afternoon he had to do with my less\r\nimportant papers.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNippers, the second on my list, was a whiskered, sallow, and, upon the whole,\r\nrather piratical-looking young man of about five and twenty. I always deemed\r\nhim the victim of two evil powers—ambition and indigestion. The ambition\r\nwas evinced by a certain impatience of the duties of a mere copyist, an\r\nunwarrantable usurpation of strictly professional affairs, such as the original\r\ndrawing up of legal documents. The indigestion seemed betokened in an\r\noccasional nervous testiness and grinning irritability, causing the teeth to\r\naudibly grind together over mistakes committed in copying; unnecessary\r\nmaledictions, hissed, rather than spoken, in the heat of business; and\r\nespecially by a continual discontent with the height of the table where he\r\nworked."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 7,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "37363cea28e3b8f33b4f87f018eef47701ce50b7648a4a4635599cc2737ebb3b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Though of a very ingenious mechanical turn, Nippers could never get\r\nthis table to suit him. He put chips under it, blocks of various sorts, bits of\r\npasteboard, and at last went so far as to attempt an exquisite adjustment by\r\nfinal pieces of folded blotting paper. But no invention would answer. If, for\r\nthe sake of easing his back, he brought the table lid at a sharp angle well up\r\ntowards his chin, and wrote there like a man using the steep roof of a Dutch\r\nhouse for his desk:—then he declared that it stopped the circulation in\r\nhis arms. If now he lowered the table to his waistbands, and stooped over it in\r\nwriting, then there was a sore aching in his back. In short, the truth of the\r\nmatter was, Nippers knew not what he wanted. Or, if he wanted any thing, it was\r\nto be rid of a scrivener’s table altogether. Among the manifestations of\r\nhis diseased ambition was a fondness he had for receiving visits from certain\r\nambiguous-looking fellows in seedy coats, whom he called his clients. Indeed I\r\nwas aware that not only was he, at times, considerable of a ward-politician,\r\nbut he occasionally did a little business at the Justices’ courts, and\r\nwas not unknown on the steps of the Tombs. I have good reason to believe,\r\nhowever, that one individual who called upon him at my chambers, and who, with\r\na grand air, he insisted was his client, was no other than a dun, and the\r\nalleged title-deed, a bill. But with all his failings, and the annoyances he\r\ncaused me, Nippers, like his compatriot Turkey, was a very useful man to me;\r\nwrote a neat, swift hand; and, when he chose, was not deficient in a\r\ngentlemanly sort of deportment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 8,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "1c00c55c3d98f1c409d0b3e8f5ec003cc4fffb85c2c284c58d62ec9a48839174",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Added to this, he always dressed in a\r\ngentlemanly sort of way; and so, incidentally, reflected credit upon my\r\nchambers. Whereas with respect to Turkey, I had much ado to keep him from being\r\na reproach to me. His clothes were apt to look oily and smell of eating-houses.\r\nHe wore his pantaloons very loose and baggy in summer. His coats were\r\nexecrable; his hat not to be handled. But while the hat was a thing of\r\nindifference to me, inasmuch as his natural civility and deference, as a\r\ndependent Englishman, always led him to doff it the moment he entered the room,\r\nyet his coat was another matter. Concerning his coats, I reasoned with him; but\r\nwith no effect. The truth was, I suppose, that a man of so small an income,\r\ncould not afford to sport such a lustrous face and a lustrous coat at one and\r\nthe same time. As Nippers once observed, Turkey’s money went chiefly for\r\nred ink. One winter day I presented Turkey with a highly-respectable looking\r\ncoat of my own, a padded gray coat, of a most comfortable warmth, and which\r\nbuttoned straight up from the knee to the neck. I thought Turkey would\r\nappreciate the favor, and abate his rashness and obstreperousness of\r\nafternoons. But no. I verily believe that buttoning himself up in so downy and\r\nblanket-like a coat had a pernicious effect upon him; upon the same principle\r\nthat too much oats are bad for horses. In fact, precisely as a rash, restive\r\nhorse is said to feel his oats, so Turkey felt his coat. It made him insolent.\r\nHe was a man whom prosperity harmed.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 9,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "443727008597b9176ed5e67188b649e20caf85964f4f283ae9cefaa5325fb07d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThough concerning the self-indulgent habits of Turkey I had my own private\r\nsurmises, yet touching Nippers I was well persuaded that whatever might be his\r\nfaults in other respects, he was, at least, a temperate young man. But indeed,\r\nnature herself seemed to have been his vintner, and at his birth charged him so\r\nthoroughly with an irritable, brandy-like disposition, that all subsequent\r\npotations were needless. When I consider how, amid the stillness of my\r\nchambers, Nippers would sometimes impatiently rise from his seat, and stooping\r\nover his table, spread his arms wide apart, seize the whole desk, and move it,\r\nand jerk it, with a grim, grinding motion on the floor, as if the table were a\r\nperverse voluntary agent, intent on thwarting and vexing him; I plainly\r\nperceive that for Nippers, brandy and water were altogether superfluous.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIt was fortunate for me that, owing to its peculiar\r\ncause—indigestion—the irritability and consequent nervousness of\r\nNippers, were mainly observable in the morning, while in the afternoon he was\r\ncomparatively mild. So that Turkey’s paroxysms only coming on about\r\ntwelve o’clock, I never had to do with their eccentricities at one time.\r\nTheir fits relieved each other like guards. When Nippers’ was on,\r\nTurkey’s was off; and "
+            },
+            {
+              "text": "vice versa",
+              "italic": true
+            },
+            {
+              "text": ". This was a good natural\r\narrangement under the circumstances.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 10,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "af4dbbaa8c4d0a5d33b7fa54a09debedab01ef221e833acb48623b35327cf960",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nGinger Nut, the third on my list, was a lad some twelve years old. His father\r\nwas a carman, ambitious of seeing his son on the bench instead of a cart,\r\nbefore he died. So he sent him to my office as student at law, errand boy, and\r\ncleaner and sweeper, at the rate of one dollar a week. He had a little desk to\r\nhimself, but he did not use it much. Upon inspection, the drawer exhibited a\r\ngreat array of the shells of various sorts of nuts. Indeed, to this\r\nquick-witted youth the whole noble science of the law was contained in a\r\nnut-shell. Not the least among the employments of Ginger Nut, as well as one\r\nwhich he discharged with the most alacrity, was his duty as cake and apple\r\npurveyor for Turkey and Nippers. Copying law papers being proverbially dry,\r\nhusky sort of business, my two scriveners were fain to moisten their mouths\r\nvery often with Spitzenbergs to be had at the numerous stalls nigh the Custom\r\nHouse and Post Office. Also, they sent Ginger Nut very frequently for that\r\npeculiar cake—small, flat, round, and very spicy—after which he had\r\nbeen named by them. Of a cold morning when business was but dull, Turkey would\r\ngobble up scores of these cakes, as if they were mere wafers—indeed they\r\nsell them at the rate of six or eight for a penny—the scrape of his pen\r\nblending with the crunching of the crisp particles in his mouth. Of all the\r\nfiery afternoon blunders and flurried rashnesses of Turkey, was his once\r\nmoistening a ginger-cake between his lips, and clapping it on to a mortgage for\r\na seal. I came within an ace of dismissing him then. But he mollified me by\r\nmaking an oriental bow, and saying—“With submission, sir, it was\r\ngenerous of me to find you in stationery on my own account.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 11,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "2e06009ea711f6c436040a694d4bae59f053bfafba79f5ccf001784f8204cb12",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNow my original business—that of a conveyancer and title hunter, and\r\ndrawer-up of recondite documents of all sorts—was considerably increased\r\nby receiving the master’s office. There was now great work for\r\nscriveners. Not only must I push the clerks already with me, but I must have\r\nadditional help. In answer to my advertisement, a motionless young man one\r\nmorning, stood upon my office threshold, the door being open, for it was\r\nsummer. I can see that figure now—pallidly neat, pitiably respectable,\r\nincurably forlorn! It was Bartleby.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAfter a few words touching his qualifications, I engaged him, glad to have\r\namong my corps of copyists a man of so singularly sedate an aspect, which I\r\nthought might operate beneficially upon the flighty temper of Turkey, and the\r\nfiery one of Nippers.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI should have stated before that ground glass folding-doors divided my premises\r\ninto two parts, one of which was occupied by my scriveners, the other by\r\nmyself. According to my humor I threw open these doors, or closed them. I\r\nresolved to assign Bartleby a corner by the folding-doors, but on my side of\r\nthem, so as to have this quiet man within easy call, in case any trifling thing\r\nwas to be done. I placed his desk close up to a small side-window in that part\r\nof the room, a window which originally had afforded a lateral view of certain\r\ngrimy back-yards and bricks, but which, owing to subsequent erections,\r\ncommanded at present no view at all, though it gave some light. Within three\r\nfeet of the panes was a wall, and the light came down from far above, between\r\ntwo lofty buildings, as from a very small opening in a dome."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 12,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "3b1db05d6addfc2ceeb9c432ee705a4013cadf7f2077752644b72c1cc0ed2ac1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Still further to a\r\nsatisfactory arrangement, I procured a high green folding screen, which might\r\nentirely isolate Bartleby from my sight, though not remove him from my voice.\r\nAnd thus, in a manner, privacy and society were conjoined.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAt first Bartleby did an extraordinary quantity of writing. As if long\r\nfamishing for something to copy, he seemed to gorge himself on my documents.\r\nThere was no pause for digestion. He ran a day and night line, copying by\r\nsun-light and by candle-light. I should have been quite delighted with his\r\napplication, had he been cheerfully industrious. But he wrote on silently,\r\npalely, mechanically.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIt is, of course, an indispensable part of a scrivener’s business to\r\nverify the accuracy of his copy, word by word. Where there are two or more\r\nscriveners in an office, they assist each other in this examination, one\r\nreading from the copy, the other holding the original. It is a very dull,\r\nwearisome, and lethargic affair. I can readily imagine that to some sanguine\r\ntemperaments it would be altogether intolerable. For example, I cannot credit\r\nthat the mettlesome poet Byron would have contentedly sat down with Bartleby to\r\nexamine a law document of, say five hundred pages, closely written in a crimpy\r\nhand.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 13,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "7283021bc18142a33c6f56701c7c6f97c5b3796ebad70de2055633af7e87c821",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNow and then, in the haste of business, it had been my habit to assist in\r\ncomparing some brief document myself, calling Turkey or Nippers for this\r\npurpose. One object I had in placing Bartleby so handy to me behind the screen,\r\nwas to avail myself of his services on such trivial occasions. It was on the\r\nthird day, I think, of his being with me, and before any necessity had arisen\r\nfor having his own writing examined, that, being much hurried to complete a\r\nsmall affair I had in hand, I abruptly called to Bartleby. In my haste and\r\nnatural expectancy of instant compliance, I sat with my head bent over the\r\noriginal on my desk, and my right hand sideways, and somewhat nervously\r\nextended with the copy, so that immediately upon emerging from his retreat,\r\nBartleby might snatch it and proceed to business without the least delay.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIn this very attitude did I sit when I called to him, rapidly stating what it\r\nwas I wanted him to do—namely, to examine a small paper with me. Imagine\r\nmy surprise, nay, my consternation, when without moving from his privacy,\r\nBartleby in a singularly mild, firm voice, replied, “I would prefer not\r\nto.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI sat awhile in perfect silence, rallying my stunned faculties. Immediately it\r\noccurred to me that my ears had deceived me, or Bartleby had entirely\r\nmisunderstood my meaning. I repeated my request in the clearest tone I could\r\nassume. But in quite as clear a one came the previous reply, “I would\r\nprefer not to.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Prefer not to,” echoed I, rising in high excitement, and crossing\r\nthe room with a stride. “What do you mean? Are you moon-struck? I want\r\nyou to help me compare this sheet here—take it,” and I thrust it\r\ntowards him.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to,” said he.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 14,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "1045ef94f01d551f7056bd7a5f051ba3411f6f44979a969a5413e241ea0d5b23",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI looked at him steadfastly. His face was leanly composed; his gray eye dimly\r\ncalm. Not a wrinkle of agitation rippled him. Had there been the least\r\nuneasiness, anger, impatience or impertinence in his manner; in other words,\r\nhad there been any thing ordinarily human about him, doubtless I should have\r\nviolently dismissed him from the premises. But as it was, I should have as soon\r\nthought of turning my pale plaster-of-paris bust of Cicero out of doors. I\r\nstood gazing at him awhile, as he went on with his own writing, and then\r\nreseated myself at my desk. This is very strange, thought I. What had one best\r\ndo? But my business hurried me. I concluded to forget the matter for the\r\npresent, reserving it for my future leisure. So calling Nippers from the other\r\nroom, the paper was speedily examined.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nA few days after this, Bartleby concluded four lengthy documents, being\r\nquadruplicates of a week’s testimony taken before me in my High Court of\r\nChancery. It became necessary to examine them. It was an important suit, and\r\ngreat accuracy was imperative. Having all things arranged I called Turkey,\r\nNippers and Ginger Nut from the next room, meaning to place the four copies in\r\nthe hands of my four clerks, while I should read from the original. Accordingly\r\nTurkey, Nippers and Ginger Nut had taken their seats in a row, each with his\r\ndocument in hand, when I called to Bartleby to join this interesting group.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby! quick, I am waiting.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI heard a slow scrape of his chair legs on the uncarpeted floor, and soon he\r\nappeared standing at the entrance of his hermitage.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What is wanted?” said he mildly.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“The copies, the copies,” said I hurriedly. “We are going to\r\nexamine them. There”—and I held towards him the fourth\r\nquadruplicate.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 15,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "e1fda8b73efcb3eb0c0a11cdf3ab982026e406be37bbe1e6865424751a6bbe7d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to,” he said, and gently disappeared behind the\r\nscreen.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nFor a few moments I was turned into a pillar of salt, standing at the head of\r\nmy seated column of clerks. Recovering myself, I advanced towards the screen,\r\nand demanded the reason for such extraordinary conduct.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“"
+            },
+            {
+              "text": "Why",
+              "italic": true
+            },
+            {
+              "text": " do you refuse?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nWith any other man I should have flown outright into a dreadful passion,\r\nscorned all further words, and thrust him ignominiously from my presence. But\r\nthere was something about Bartleby that not only strangely disarmed me, but in\r\na wonderful manner touched and disconcerted me. I began to reason with him.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“These are your own copies we are about to examine. It is labor saving to\r\nyou, because one examination will answer for your four papers. It is common\r\nusage. Every copyist is bound to help examine his copy. Is it not so? Will you\r\nnot speak? Answer!”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I prefer not to,” he replied in a flute-like tone. It seemed to me\r\nthat while I had been addressing him, he carefully revolved every statement\r\nthat I made; fully comprehended the meaning; could not gainsay the irresistible\r\nconclusions; but, at the same time, some paramount consideration prevailed with\r\nhim to reply as he did.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You are decided, then, not to comply with my request—a request\r\nmade according to common usage and common sense?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe briefly gave me to understand that on that point my judgment was sound. Yes:\r\nhis decision was irreversible.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 16,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "ef73ca84ff780be4b37af02b7bd43bef27567fe87403185f1341654a4e8daf90",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIt is not seldom the case that when a man is browbeaten in some unprecedented\r\nand violently unreasonable way, he begins to stagger in his own plainest faith.\r\nHe begins, as it were, vaguely to surmise that, wonderful as it may be, all the\r\njustice and all the reason is on the other side. Accordingly, if any\r\ndisinterested persons are present, he turns to them for some reinforcement for\r\nhis own faltering mind.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Turkey,” said I, “what do you think of this? Am I not\r\nright?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“With submission, sir,” said Turkey, with his blandest tone,\r\n“I think that you are.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Nippers,” said I, “what do "
+            },
+            {
+              "text": "you",
+              "italic": true
+            },
+            {
+              "text": " think of it?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I think I should kick him out of the office.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n(The reader of nice perceptions will here perceive that, it being morning,\r\nTurkey’s answer is couched in polite and tranquil terms, but Nippers\r\nreplies in ill-tempered ones. Or, to repeat a previous sentence, Nippers’\r\nugly mood was on duty and Turkey’s off.)\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Ginger Nut,” said I, willing to enlist the smallest suffrage in my\r\nbehalf, “what do you think of it?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I think, sir, he’s a little "
+            },
+            {
+              "text": "luny",
+              "italic": true
+            },
+            {
+              "text": ",” replied Ginger Nut\r\nwith a grin.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You hear what they say,” said I, turning towards the screen,\r\n“come forth and do your duty.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 17,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "00dbe29d1672c9d43353ced838fdb2963093656edaebd833ae7c1034f3469d2e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nBut he vouchsafed no reply. I pondered a moment in sore perplexity. But once\r\nmore business hurried me. I determined again to postpone the consideration of\r\nthis dilemma to my future leisure. With a little trouble we made out to examine\r\nthe papers without Bartleby, though at every page or two, Turkey deferentially\r\ndropped his opinion that this proceeding was quite out of the common; while\r\nNippers, twitching in his chair with a dyspeptic nervousness, ground out\r\nbetween his set teeth occasional hissing maledictions against the stubborn oaf\r\nbehind the screen. And for his (Nippers’) part, this was the first and\r\nthe last time he would do another man’s business without pay.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nMeanwhile Bartleby sat in his hermitage, oblivious to every thing but his own\r\npeculiar business there.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSome days passed, the scrivener being employed upon another lengthy work. His\r\nlate remarkable conduct led me to regard his ways narrowly. I observed that he\r\nnever went to dinner; indeed that he never went any where. As yet I had never\r\nof my personal knowledge known him to be outside of my office. He was a\r\nperpetual sentry in the corner. At about eleven o’clock though, in the\r\nmorning, I noticed that Ginger Nut would advance toward the opening in\r\nBartleby’s screen, as if silently beckoned thither by a gesture invisible\r\nto me where I sat. The boy would then leave the office jingling a few pence,\r\nand reappear with a handful of ginger-nuts which he delivered in the hermitage,\r\nreceiving two of the cakes for his trouble.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 18,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "11a29fc6b7c26d687b0dca34995c8e59a857f4de72296f946dc077636f3a27c1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe lives, then, on ginger-nuts, thought I; never eats a dinner, properly\r\nspeaking; he must be a vegetarian then; but no; he never eats even vegetables,\r\nhe eats nothing but ginger-nuts. My mind then ran on in reveries concerning the\r\nprobable effects upon the human constitution of living entirely on ginger-nuts.\r\nGinger-nuts are so called because they contain ginger as one of their peculiar\r\nconstituents, and the final flavoring one. Now what was ginger? A hot, spicy\r\nthing. Was Bartleby hot and spicy? Not at all. Ginger, then, had no effect upon\r\nBartleby. Probably he preferred it should have none.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNothing so aggravates an earnest person as a passive resistance. If the\r\nindividual so resisted be of a not inhumane temper, and the resisting one\r\nperfectly harmless in his passivity; then, in the better moods of the former,\r\nhe will endeavor charitably to construe to his imagination what proves\r\nimpossible to be solved by his judgment. Even so, for the most part, I regarded\r\nBartleby and his ways. Poor fellow! thought I, he means no mischief; it is\r\nplain he intends no insolence; his aspect sufficiently evinces that his\r\neccentricities are involuntary. He is useful to me. I can get along with him.\r\nIf I turn him away, the chances are he will fall in with some less indulgent\r\nemployer, and then he will be rudely treated, and perhaps driven forth\r\nmiserably to starve. Yes. Here I can cheaply purchase a delicious\r\nself-approval. To befriend Bartleby; to humor him in his strange willfulness,\r\nwill cost me little or nothing, while I lay up in my soul what will eventually\r\nprove a sweet morsel for my conscience."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 19,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "aecb49acd9fb975bc9ba089bb9ecab70f207513420b98bd3d3998854d0c62994",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " But this mood was not invariable with\r\nme. The passiveness of Bartleby sometimes irritated me. I felt strangely goaded\r\non to encounter him in new opposition, to elicit some angry spark from him\r\nanswerable to my own. But indeed I might as well have essayed to strike fire\r\nwith my knuckles against a bit of Windsor soap. But one afternoon the evil\r\nimpulse in me mastered me, and the following little scene ensued:\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, “when those papers are all copied, I will\r\ncompare them with you.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“How? Surely you do not mean to persist in that mulish vagary?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNo answer.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI threw open the folding-doors near by, and turning upon Turkey and Nippers,\r\nexclaimed in an excited manner—\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“He says, a second time, he won’t examine his papers. What do you\r\nthink of it, Turkey?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIt was afternoon, be it remembered. Turkey sat glowing like a brass boiler, his\r\nbald head steaming, his hands reeling among his blotted papers.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Think of it?” roared Turkey; “I think I’ll just step\r\nbehind his screen, and black his eyes for him!”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSo saying, Turkey rose to his feet and threw his arms into a pugilistic\r\nposition. He was hurrying away to make good his promise, when I detained him,\r\nalarmed at the effect of incautiously rousing Turkey’s combativeness\r\nafter dinner.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Sit down, Turkey,” said I, “and hear what Nippers has to\r\nsay. What do you think of it, Nippers? Would I not be justified in immediately\r\ndismissing Bartleby?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Excuse me, that is for you to decide, sir. I think his conduct quite\r\nunusual, and indeed unjust, as regards Turkey and myself. But it may only be a\r\npassing whim.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Ah,” exclaimed I, “you have strangely changed your mind\r\nthen—you speak very gently of him now.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 20,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "193131f72b0d09b2d4643630abfc98b47e0ba142ad6f594bf8fd368f4c76073f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“All beer,” cried Turkey; “gentleness is effects of\r\nbeer—Nippers and I dined together to-day. You see how gentle "
+            },
+            {
+              "text": "I",
+              "italic": true
+            },
+            {
+              "text": " am,\r\nsir. Shall I go and black his eyes?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You refer to Bartleby, I suppose. No, not to-day, Turkey,” I\r\nreplied; “pray, put up your fists.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI closed the doors, and again advanced towards Bartleby. I felt additional\r\nincentives tempting me to my fate. I burned to be rebelled against again. I\r\nremembered that Bartleby never left the office.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, “Ginger Nut is away; just step round to\r\nthe Post Office, won’t you? (it was but a three minute walk,) and see if\r\nthere is any thing for me.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You "
+            },
+            {
+              "text": "will",
+              "italic": true
+            },
+            {
+              "text": " not?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I "
+            },
+            {
+              "text": "prefer",
+              "italic": true
+            },
+            {
+              "text": " not.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI staggered to my desk, and sat there in a deep study. My blind inveteracy\r\nreturned. Was there any other thing in which I could procure myself to be\r\nignominiously repulsed by this lean, penniless wight?—my hired clerk?\r\nWhat added thing is there, perfectly reasonable, that he will be sure to refuse\r\nto do?\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby!”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNo answer.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” in a louder tone.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNo answer.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” I roared.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nLike a very ghost, agreeably to the laws of magical invocation, at the third\r\nsummons, he appeared at the entrance of his hermitage.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Go to the next room, and tell Nippers to come to me.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I prefer not to,” he respectfully and slowly said, and mildly\r\ndisappeared.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 21,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "b73cff845484c973f11a1551e0a3a42f8217280786251fd483b541d0cd4e5c81",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Very good, Bartleby,” said I, in a quiet sort of serenely severe\r\nself-possessed tone, intimating the unalterable purpose of some terrible\r\nretribution very close at hand. At the moment I half intended something of the\r\nkind. But upon the whole, as it was drawing towards my dinner-hour, I thought\r\nit best to put on my hat and walk home for the day, suffering much from\r\nperplexity and distress of mind.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nShall I acknowledge it? The conclusion of this whole business was, that it soon\r\nbecame a fixed fact of my chambers, that a pale young scrivener, by the name of\r\nBartleby, and a desk there; that he copied for me at the usual rate of four\r\ncents a folio (one hundred words); but he was permanently exempt from examining\r\nthe work done by him, that duty being transferred to Turkey and Nippers, one of\r\ncompliment doubtless to their superior acuteness; moreover, said Bartleby was\r\nnever on any account to be dispatched on the most trivial errand of any sort;\r\nand that even if entreated to take upon him such a matter, it was generally\r\nunderstood that he would prefer not to—in other words, that he would\r\nrefuse pointblank.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAs days passed on, I became considerably reconciled to Bartleby. His\r\nsteadiness, his freedom from all dissipation, his incessant industry (except\r\nwhen he chose to throw himself into a standing revery behind his screen), his\r\ngreat stillness, his unalterableness of demeanor under all circumstances, made\r\nhim a valuable acquisition. One prime thing was this,—"
+            },
+            {
+              "text": "he was always\r\nthere;",
+              "italic": true
+            },
+            {
+              "text": "—first in the morning, continually through the day, and the\r\nlast at night."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 22,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8a6a6f6a15eff67dd15b515eac2e92110c0c3ffa5a373e8af8cd077da4de58d8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " I had a singular confidence in his honesty. I felt my most\r\nprecious papers perfectly safe in his hands. Sometimes to be sure I could not,\r\nfor the very soul of me, avoid falling into sudden spasmodic passions with him.\r\nFor it was exceeding difficult to bear in mind all the time those strange\r\npeculiarities, privileges, and unheard of exemptions, forming the tacit\r\nstipulations on Bartleby’s part under which he remained in my office. Now\r\nand then, in the eagerness of dispatching pressing business, I would\r\ninadvertently summon Bartleby, in a short, rapid tone, to put his finger, say,\r\non the incipient tie of a bit of red tape with which I was about compressing\r\nsome papers. Of course, from behind the screen the usual answer, “I\r\nprefer not to,” was sure to come; and then, how could a human creature\r\nwith the common infirmities of our nature, refrain from bitterly exclaiming\r\nupon such perverseness—such unreasonableness. However, every added\r\nrepulse of this sort which I received only tended to lessen the probability of\r\nmy repeating the inadvertence.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHere it must be said, that according to the custom of most legal gentlemen\r\noccupying chambers in densely-populated law buildings, there were several keys\r\nto my door. One was kept by a woman residing in the attic, which person weekly\r\nscrubbed and daily swept and dusted my apartments. Another was kept by Turkey\r\nfor convenience sake. The third I sometimes carried in my own pocket. The\r\nfourth I knew not who had.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 23,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "35f8fa05a2a8feb05b65efbd5cbb72e9d05401ccc8401e20597f7a444ffcff9a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNow, one Sunday morning I happened to go to Trinity Church, to hear a\r\ncelebrated preacher, and finding myself rather early on the ground, I thought I\r\nwould walk around to my chambers for a while. Luckily I had my key with me; but\r\nupon applying it to the lock, I found it resisted by something inserted from\r\nthe inside. Quite surprised, I called out; when to my consternation a key was\r\nturned from within; and thrusting his lean visage at me, and holding the door\r\najar, the apparition of Bartleby appeared, in his shirt sleeves, and otherwise\r\nin a strangely tattered dishabille, saying quietly that he was sorry, but he\r\nwas deeply engaged just then, and—preferred not admitting me at present.\r\nIn a brief word or two, he moreover added, that perhaps I had better walk round\r\nthe block two or three times, and by that time he would probably have concluded\r\nhis affairs.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNow, the utterly unsurmised appearance of Bartleby, tenanting my law-chambers\r\nof a Sunday morning, with his cadaverously gentlemanly "
+            },
+            {
+              "text": "nonchalance",
+              "italic": true
+            },
+            {
+              "text": ", yet\r\nwithal firm and self-possessed, had such a strange effect upon me, that\r\nincontinently I slunk away from my own door, and did as desired. But not\r\nwithout sundry twinges of impotent rebellion against the mild effrontery of\r\nthis unaccountable scrivener. Indeed, it was his wonderful mildness chiefly,\r\nwhich not only disarmed me, but unmanned me, as it were. For I consider that\r\none, for the time, is a sort of unmanned when he tranquilly permits his hired\r\nclerk to dictate to him, and order him away from his own premises."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 24,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "be32fa663596fffa58e4fe09babf7a94545eec220f39d8a6b3636474655d7065",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Furthermore,\r\nI was full of uneasiness as to what Bartleby could possibly be doing in my\r\noffice in his shirt sleeves, and in an otherwise dismantled condition of a\r\nSunday morning. Was any thing amiss going on? Nay, that was out of the\r\nquestion. It was not to be thought of for a moment that Bartleby was an immoral\r\nperson. But what could he be doing there?—copying? Nay again, whatever\r\nmight be his eccentricities, Bartleby was an eminently decorous person. He\r\nwould be the last man to sit down to his desk in any state approaching to\r\nnudity. Besides, it was Sunday; and there was something about Bartleby that\r\nforbade the supposition that he would by any secular occupation violate the\r\nproprieties of the day.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNevertheless, my mind was not pacified; and full of a restless curiosity, at\r\nlast I returned to the door. Without hindrance I inserted my key, opened it,\r\nand entered. Bartleby was not to be seen. I looked round anxiously, peeped\r\nbehind his screen; but it was very plain that he was gone. Upon more closely\r\nexamining the place, I surmised that for an indefinite period Bartleby must\r\nhave ate, dressed, and slept in my office, and that too without plate, mirror,\r\nor bed. The cushioned seat of a rickety old sofa in one corner bore the faint\r\nimpress of a lean, reclining form. Rolled away under his desk, I found a\r\nblanket; under the empty grate, a blacking box and brush; on a chair, a tin\r\nbasin, with soap and a ragged towel; in a newspaper a few crumbs of ginger-nuts\r\nand a morsel of cheese. Yes, thought I, it is evident enough that Bartleby has\r\nbeen making his home here, keeping bachelor’s hall all by himself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 25,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "efb82baccec90291334753a2c50295035492d87f7c8b31d4614c488b48e9c82e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nImmediately then the thought came sweeping across me, What miserable\r\nfriendlessness and loneliness are here revealed! His poverty is great; but his\r\nsolitude, how horrible! Think of it. Of a Sunday, Wall-street is deserted as\r\nPetra; and every night of every day it is an emptiness. This building too,\r\nwhich of week-days hums with industry and life, at nightfall echoes with sheer\r\nvacancy, and all through Sunday is forlorn. And here Bartleby makes his home;\r\nsole spectator of a solitude which he has seen all populous—a sort of\r\ninnocent and transformed Marius brooding among the ruins of Carthage!\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nFor the first time in my life a feeling of overpowering stinging melancholy\r\nseized me. Before, I had never experienced aught but a not-unpleasing sadness.\r\nThe bond of a common humanity now drew me irresistibly to gloom. A fraternal\r\nmelancholy! For both I and Bartleby were sons of Adam. I remembered the bright\r\nsilks and sparkling faces I had seen that day, in gala trim, swan-like sailing\r\ndown the Mississippi of Broadway; and I contrasted them with the pallid\r\ncopyist, and thought to myself, Ah, happiness courts the light, so we deem the\r\nworld is gay; but misery hides aloof, so we deem that misery there is none.\r\nThese sad fancyings—chimeras, doubtless, of a sick and silly\r\nbrain—led on to other and more special thoughts, concerning the\r\neccentricities of Bartleby. Presentiments of strange discoveries hovered round\r\nme. The scrivener’s pale form appeared to me laid out, among uncaring\r\nstrangers, in its shivering winding sheet.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSuddenly I was attracted by Bartleby’s closed desk, the key in open sight\r\nleft in the lock.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 26,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "2604e9dc76f1b9e7d9314508014ce9e8557f82b4873b23c8e48c636599021716",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI mean no mischief, seek the gratification of no heartless curiosity, thought\r\nI; besides, the desk is mine, and its contents too, so I will make bold to look\r\nwithin. Every thing was methodically arranged, the papers smoothly placed. The\r\npigeon holes were deep, and removing the files of documents, I groped into\r\ntheir recesses. Presently I felt something there, and dragged it out. It was an\r\nold bandanna handkerchief, heavy and knotted. I opened it, and saw it was a\r\nsavings’ bank.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI now recalled all the quiet mysteries which I had noted in the man. I\r\nremembered that he never spoke but to answer; that though at intervals he had\r\nconsiderable time to himself, yet I had never seen him reading—no, not\r\neven a newspaper; that for long periods he would stand looking out, at his pale\r\nwindow behind the screen, upon the dead brick wall; I was quite sure he never\r\nvisited any refectory or eating house; while his pale face clearly indicated\r\nthat he never drank beer like Turkey, or tea and coffee even, like other men;\r\nthat he never went any where in particular that I could learn; never went out\r\nfor a walk, unless indeed that was the case at present; that he had declined\r\ntelling who he was, or whence he came, or whether he had any relatives in the\r\nworld; that though so thin and pale, he never complained of ill health. And\r\nmore than all, I remembered a certain unconscious air of pallid—how shall\r\nI call it?—of pallid haughtiness, say, or rather an austere reserve about\r\nhim, which had positively awed me into my tame compliance with his\r\neccentricities, when I had feared to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 27,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "6922a2aaa0a42ca54b828f59864815a9e720e21b06c2df5cf3ca903bbd4e6c46",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " ask him to do the slightest incidental\r\nthing for me, even though I might know, from his long-continued motionlessness,\r\nthat behind his screen he must be standing in one of those dead-wall reveries\r\nof his.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nRevolving all these things, and coupling them with the recently discovered fact\r\nthat he made my office his constant abiding place and home, and not forgetful\r\nof his morbid moodiness; revolving all these things, a prudential feeling began\r\nto steal over me. My first emotions had been those of pure melancholy and\r\nsincerest pity; but just in proportion as the forlornness of Bartleby grew and\r\ngrew to my imagination, did that same melancholy merge into fear, that pity\r\ninto repulsion. So true it is, and so terrible too, that up to a certain point\r\nthe thought or sight of misery enlists our best affections; but, in certain\r\nspecial cases, beyond that point it does not. They err who would assert that\r\ninvariably this is owing to the inherent selfishness of the human heart. It\r\nrather proceeds from a certain hopelessness of remedying excessive and organic\r\nill. To a sensitive being, pity is not seldom pain. And when at last it is\r\nperceived that such pity cannot lead to effectual succor, common sense bids the\r\nsoul rid of it. What I saw that morning persuaded me that the scrivener was the\r\nvictim of innate and incurable disorder. I might give alms to his body; but his\r\nbody did not pain him; it was his soul that suffered, and his soul I could not\r\nreach.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 28,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "26fb8698ad3cb9bb612fe3208b41e8cda10a4ae89aa4c5e99e58da6fbedaae81",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI did not accomplish the purpose of going to Trinity Church that morning.\r\nSomehow, the things I had seen disqualified me for the time from church-going.\r\nI walked homeward, thinking what I would do with Bartleby. Finally, I resolved\r\nupon this;—I would put certain calm questions to him the next morning,\r\ntouching his history, etc., and if he declined to answer them openly and\r\nunreservedly (and I supposed he would prefer not), then to give him a twenty\r\ndollar bill over and above whatever I might owe him, and tell him his services\r\nwere no longer required; but that if in any other way I could assist him, I\r\nwould be happy to do so, especially if he desired to return to his native\r\nplace, wherever that might be, I would willingly help to defray the expenses.\r\nMoreover, if, after reaching home, he found himself at any time in want of aid,\r\na letter from him would be sure of a reply.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe next morning came.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, gently calling to him behind his screen.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNo reply.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, in a still gentler tone, “come here; I am\r\nnot going to ask you to do any thing you would prefer not to do—I simply\r\nwish to speak to you.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nUpon this he noiselessly slid into view.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Will you tell me, Bartleby, where you were born?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Will you tell me "
+            },
+            {
+              "text": "any thing",
+              "italic": true
+            },
+            {
+              "text": " about yourself?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“But what reasonable objection can you have to speak to me? I feel\r\nfriendly towards you.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe did not look at me while I spoke, but kept his glance fixed upon my bust of\r\nCicero, which as I then sat, was directly behind me, some six inches above my\r\nhead.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 29,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "a3711131a652057a64a4e26d8c3928d4fbcc7b53a11101fd54a59dac6a1b518e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What is your answer, Bartleby?” said I, after waiting a\r\nconsiderable time for a reply, during which his countenance remained immovable,\r\nonly there was the faintest conceivable tremor of the white attenuated mouth.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“At present I prefer to give no answer,” he said, and retired into\r\nhis hermitage.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIt was rather weak in me I confess, but his manner on this occasion nettled me.\r\nNot only did there seem to lurk in it a certain calm disdain, but his\r\nperverseness seemed ungrateful, considering the undeniable good usage and\r\nindulgence he had received from me.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAgain I sat ruminating what I should do. Mortified as I was at his behavior,\r\nand resolved as I had been to dismiss him when I entered my offices,\r\nnevertheless I strangely felt something superstitious knocking at my heart, and\r\nforbidding me to carry out my purpose, and denouncing me for a villain if I\r\ndared to breathe one bitter word against this forlornest of mankind. At last,\r\nfamiliarly drawing my chair behind his screen, I sat down and said:\r\n“Bartleby, never mind then about revealing your history; but let me\r\nentreat you, as a friend, to comply as far as may be with the usages of this\r\noffice. Say now you will help to examine papers to-morrow or next day: in\r\nshort, say now that in a day or two you will begin to be a little\r\nreasonable:—say so, Bartleby.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“At present I would prefer not to be a little reasonable,” was his\r\nmildly cadaverous reply.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nJust then the folding-doors opened, and Nippers approached. He seemed suffering\r\nfrom an unusually bad night’s rest, induced by severer indigestion than\r\ncommon. He overheard those final words of Bartleby.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 30,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "00fb9c1da6d96490c0da960632a117776c392ce3aaa41a43fccfdb6e0cba8605",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“"
+            },
+            {
+              "text": "Prefer not",
+              "italic": true
+            },
+            {
+              "text": ", eh?” gritted Nippers—“I’d\r\n"
+            },
+            {
+              "text": "prefer",
+              "italic": true
+            },
+            {
+              "text": " him, if I were you, sir,” addressing\r\nme—“I’d "
+            },
+            {
+              "text": "prefer",
+              "italic": true
+            },
+            {
+              "text": " him; I’d give him preferences,\r\nthe stubborn mule! What is it, sir, pray, that he "
+            },
+            {
+              "text": "prefers",
+              "italic": true
+            },
+            {
+              "text": " not to do\r\nnow?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nBartleby moved not a limb.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Mr. Nippers,” said I, “I’d prefer that you would\r\nwithdraw for the present.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSomehow, of late I had got into the way of involuntarily using this word\r\n“prefer” upon all sorts of not exactly suitable occasions. And I\r\ntrembled to think that my contact with the scrivener had already and seriously\r\naffected me in a mental way. And what further and deeper aberration might it\r\nnot yet produce? This apprehension had not been without efficacy in determining\r\nme to summary means.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAs Nippers, looking very sour and sulky, was departing, Turkey blandly and\r\ndeferentially approached.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“With submission, sir,” said he, “yesterday I was thinking\r\nabout Bartleby here, and I think that if he would but prefer to take a quart of\r\ngood ale every day, it would do much towards mending him, and enabling him to\r\nassist in examining his papers.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“So you have got the word too,” said I, slightly excited.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“With submission, what word, sir,” asked Turkey, respectfully\r\ncrowding himself into the contracted space behind the screen, and by so doing,\r\nmaking me jostle the scrivener. “What word, sir?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer to be left alone here,” said Bartleby, as if\r\noffended at being mobbed in his privacy.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“"
+            },
+            {
+              "text": "That’s",
+              "italic": true
+            },
+            {
+              "text": " the word, Turkey,” said\r\nI—“that’s it.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Oh, "
+            },
+            {
+              "text": "prefer",
+              "italic": true
+            },
+            {
+              "text": "? oh yes—queer word. I never use it myself. But,\r\nsir, as I was saying, if he would but prefer—”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Turkey,” interrupted I, “you will please withdraw.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Oh certainly, sir, if you prefer that I should.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 31,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "330be575c051fd43a88a38a1a3169ad0425bf143dd6416dccc698dedb1323f87",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAs he opened the folding-door to retire, Nippers at his desk caught a glimpse\r\nof me, and asked whether I would prefer to have a certain paper copied on blue\r\npaper or white. He did not in the least roguishly accent the word prefer. It\r\nwas plain that it involuntarily rolled from his tongue. I thought to myself,\r\nsurely I must get rid of a demented man, who already has in some degree turned\r\nthe tongues, if not the heads of myself and clerks. But I thought it prudent\r\nnot to break the dismission at once.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe next day I noticed that Bartleby did nothing but stand at his window in his\r\ndead-wall revery. Upon asking him why he did not write, he said that he had\r\ndecided upon doing no more writing.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Why, how now? what next?” exclaimed I, “do no more\r\nwriting?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No more.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“And what is the reason?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Do you not see the reason for yourself,” he indifferently replied.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI looked steadfastly at him, and perceived that his eyes looked dull and\r\nglazed. Instantly it occurred to me, that his unexampled diligence in copying\r\nby his dim window for the first few weeks of his stay with me might have\r\ntemporarily impaired his vision.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI was touched. I said something in condolence with him. I hinted that of course\r\nhe did wisely in abstaining from writing for a while; and urged him to embrace\r\nthat opportunity of taking wholesome exercise in the open air. This, however,\r\nhe did not do. A few days after this, my other clerks being absent, and being\r\nin a great hurry to dispatch certain letters by the mail, I thought that,\r\nhaving nothing else earthly to do, Bartleby would surely be less inflexible\r\nthan usual, and carry these letters to the post-office. But he blankly\r\ndeclined. So, much to my inconvenience, I went myself.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 32,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8bdfaf21c2213dd00a4e4dbd76f2474747f0e1536de691c3e36ab84711cfec08",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nStill added days went by. Whether Bartleby’s eyes improved or not, I\r\ncould not say. To all appearance, I thought they did. But when I asked him if\r\nthey did, he vouchsafed no answer. At all events, he would do no copying. At\r\nlast, in reply to my urgings, he informed me that he had permanently given up\r\ncopying.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What!” exclaimed I; “suppose your eyes should get entirely\r\nwell—better than ever before—would you not copy then?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I have given up copying,” he answered, and slid aside.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe remained as ever, a fixture in my chamber. Nay—if that were\r\npossible—he became still more of a fixture than before. What was to be\r\ndone? He would do nothing in the office: why should he stay there? In plain\r\nfact, he had now become a millstone to me, not only useless as a necklace, but\r\nafflictive to bear. Yet I was sorry for him. I speak less than truth when I say\r\nthat, on his own account, he occasioned me uneasiness. If he would but have\r\nnamed a single relative or friend, I would instantly have written, and urged\r\ntheir taking the poor fellow away to some convenient retreat. But he seemed\r\nalone, absolutely alone in the universe. A bit of wreck in the mid Atlantic. At\r\nlength, necessities connected with my business tyrannized over all other\r\nconsiderations. Decently as I could, I told Bartleby that in six days’\r\ntime he must unconditionally leave the office. I warned him to take measures,\r\nin the interval, for procuring some other abode. I offered to assist him in\r\nthis endeavor, if he himself would but take the first step towards a removal.\r\n“And when you finally quit me, Bartleby,” added I, “I shall\r\nsee that you go not away entirely unprovided. Six days from this hour,\r\nremember.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 33,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "d3e7378fb1c268bb15ff27213e6c2239d59507f53a63350cdcdf818e22209c24",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAt the expiration of that period, I peeped behind the screen, and lo! Bartleby\r\nwas there.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI buttoned up my coat, balanced myself; advanced slowly towards him, touched\r\nhis shoulder, and said, “The time has come; you must quit this place; I\r\nam sorry for you; here is money; but you must go.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not,” he replied, with his back still towards me.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You "
+            },
+            {
+              "text": "must",
+              "italic": true
+            },
+            {
+              "text": ".”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe remained silent.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNow I had an unbounded confidence in this man’s common honesty. He had\r\nfrequently restored to me sixpences and shillings carelessly dropped upon the\r\nfloor, for I am apt to be very reckless in such shirt-button affairs. The\r\nproceeding then which followed will not be deemed extraordinary.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, “I owe you twelve dollars on account;\r\nhere are thirty-two; the odd twenty are yours.—Will you take it?”\r\nand I handed the bills towards him.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nBut he made no motion.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I will leave them here then,” putting them under a weight on the\r\ntable. Then taking my hat and cane and going to the door I tranquilly turned\r\nand added—“After you have removed your things from these offices,\r\nBartleby, you will of course lock the door—since every one is now gone\r\nfor the day but you—and if you please, slip your key underneath the mat,\r\nso that I may have it in the morning. I shall not see you again; so good-bye to\r\nyou. If hereafter in your new place of abode I can be of any service to you, do\r\nnot fail to advise me by letter. Good-bye, Bartleby, and fare you well.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nBut he answered not a word; like the last column of some ruined temple, he\r\nremained standing mute and solitary in the middle of the otherwise deserted\r\nroom.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 34,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "1f297fed808e9d42c24c0021a02682613b8c5125965bd8f0d28d927384090618",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAs I walked home in a pensive mood, my vanity got the better of my pity. I\r\ncould not but highly plume myself on my masterly management in getting rid of\r\nBartleby. Masterly I call it, and such it must appear to any dispassionate\r\nthinker. The beauty of my procedure seemed to consist in its perfect quietness.\r\nThere was no vulgar bullying, no bravado of any sort, no choleric hectoring,\r\nand striding to and fro across the apartment, jerking out vehement commands for\r\nBartleby to bundle himself off with his beggarly traps. Nothing of the kind.\r\nWithout loudly bidding Bartleby depart—as an inferior genius might have\r\ndone—I "
+            },
+            {
+              "text": "assumed",
+              "italic": true
+            },
+            {
+              "text": " the ground that depart he must; and upon that\r\nassumption built all I had to say. The more I thought over my procedure, the\r\nmore I was charmed with it. Nevertheless, next morning, upon awakening, I had\r\nmy doubts,—I had somehow slept off the fumes of vanity. One of the\r\ncoolest and wisest hours a man has, is just after he awakes in the morning. My\r\nprocedure seemed as sagacious as ever.—but only in theory. How it would\r\nprove in practice—there was the rub. It was truly a beautiful thought to\r\nhave assumed Bartleby’s departure; but, after all, that assumption was\r\nsimply my own, and none of Bartleby’s. The great point was, not whether I\r\nhad assumed that he would quit me, but whether he would prefer so to do. He was\r\nmore a man of preferences than assumptions.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 35,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "2fb9183fd7f0956c7b277ee700e92965fc90f30b959a73e346ec712479bbf0d2",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAfter breakfast, I walked down town, arguing the probabilities "
+            },
+            {
+              "text": "pro",
+              "italic": true
+            },
+            {
+              "text": " and\r\n"
+            },
+            {
+              "text": "con",
+              "italic": true
+            },
+            {
+              "text": ". One moment I thought it would prove a miserable failure, and\r\nBartleby would be found all alive at my office as usual; the next moment it\r\nseemed certain that I should see his chair empty. And so I kept veering about.\r\nAt the corner of Broadway and Canal-street, I saw quite an excited group of\r\npeople standing in earnest conversation.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I’ll take odds he doesn’t,” said a voice as I passed.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Doesn’t go?—done!” said I, “put up your\r\nmoney.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI was instinctively putting my hand in my pocket to produce my own, when I\r\nremembered that this was an election day. The words I had overheard bore no\r\nreference to Bartleby, but to the success or non-success of some candidate for\r\nthe mayoralty. In my intent frame of mind, I had, as it were, imagined that all\r\nBroadway shared in my excitement, and were debating the same question with me.\r\nI passed on, very thankful that the uproar of the street screened my momentary\r\nabsent-mindedness.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAs I had intended, I was earlier than usual at my office door. I stood\r\nlistening for a moment. All was still. He must be gone. I tried the knob. The\r\ndoor was locked. Yes, my procedure had worked to a charm; he indeed must be\r\nvanished. Yet a certain melancholy mixed with this: I was almost sorry for my\r\nbrilliant success. I was fumbling under the door mat for the key, which\r\nBartleby was to have left there for me, when accidentally my knee knocked\r\nagainst a panel, producing a summoning sound, and in response a voice came to\r\nme from within—“Not yet; I am occupied.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nIt was Bartleby.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 36,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "88283ec254f61ceb5fcef585db4bd4af53e52e5fe9c7843f02353a462b6e0bd1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI was thunderstruck. For an instant I stood like the man who, pipe in mouth,\r\nwas killed one cloudless afternoon long ago in Virginia, by a summer lightning;\r\nat his own warm open window he was killed, and remained leaning out there upon\r\nthe dreamy afternoon, till some one touched him, when he fell.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Not gone!” I murmured at last. But again obeying that wondrous\r\nascendancy which the inscrutable scrivener had over me, and from which\r\nascendancy, for all my chafing, I could not completely escape, I slowly went\r\ndown stairs and out into the street, and while walking round the block,\r\nconsidered what I should next do in this unheard-of perplexity. Turn the man\r\nout by an actual thrusting I could not; to drive him away by calling him hard\r\nnames would not do; calling in the police was an unpleasant idea; and yet,\r\npermit him to enjoy his cadaverous triumph over me,—this too I could not\r\nthink of. What was to be done? or, if nothing could be done, was there any\r\nthing further that I could "
+            },
+            {
+              "text": "assume",
+              "italic": true
+            },
+            {
+              "text": " in the matter? Yes, as before I had\r\nprospectively assumed that Bartleby would depart, so now I might\r\nretrospectively assume that departed he was. In the legitimate carrying out of\r\nthis assumption, I might enter my office in a great hurry, and pretending not\r\nto see Bartleby at all, walk straight against him as if he were air. Such a\r\nproceeding would in a singular degree have the appearance of a home-thrust. It\r\nwas hardly possible that Bartleby could withstand such an application of the\r\ndoctrine of assumptions. But upon second thoughts the success of the plan\r\nseemed rather dubious. I resolved to argue the matter over with him again.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 37,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "45b49f55f480c66ecc5911610bc74ce0f933cdb41d4a2d29502e2137bf264eaa",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, entering the office, with a quietly severe\r\nexpression, “I am seriously displeased. I am pained, Bartleby. I had\r\nthought better of you. I had imagined you of such a gentlemanly organization,\r\nthat in any delicate dilemma a slight hint would have suffice—in short,\r\nan assumption. But it appears I am deceived. Why,” I added, unaffectedly\r\nstarting, “you have not even touched that money yet,” pointing to\r\nit, just where I had left it the evening previous.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe answered nothing.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Will you, or will you not, quit me?” I now demanded in a sudden\r\npassion, advancing close to him.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer "
+            },
+            {
+              "text": "not",
+              "italic": true
+            },
+            {
+              "text": " to quit you,” he replied, gently\r\nemphasizing the "
+            },
+            {
+              "text": "not",
+              "italic": true
+            },
+            {
+              "text": ".\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What earthly right have you to stay here? Do you pay any rent? Do you\r\npay my taxes? Or is this property yours?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe answered nothing.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Are you ready to go on and write now? Are your eyes recovered? Could you\r\ncopy a small paper for me this morning? or help examine a few lines? or step\r\nround to the post-office? In a word, will you do any thing at all, to give a\r\ncoloring to your refusal to depart the premises?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe silently retired into his hermitage.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 38,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "eba41c789f5c4a48241ca76495325e9a72aebe48dd79ad274a47a134b1931cfb",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI was now in such a state of nervous resentment that I thought it but prudent\r\nto check myself at present from further demonstrations. Bartleby and I were\r\nalone. I remembered the tragedy of the unfortunate Adams and the still more\r\nunfortunate Colt in the solitary office of the latter; and how poor Colt, being\r\ndreadfully incensed by Adams, and imprudently permitting himself to get wildly\r\nexcited, was at unawares hurried into his fatal act—an act which\r\ncertainly no man could possibly deplore more than the actor himself. Often it\r\nhad occurred to me in my ponderings upon the subject, that had that altercation\r\ntaken place in the public street, or at a private residence, it would not have\r\nterminated as it did. It was the circumstance of being alone in a solitary\r\noffice, up stairs, of a building entirely unhallowed by humanizing domestic\r\nassociations—an uncarpeted office, doubtless, of a dusty, haggard sort of\r\nappearance;—this it must have been, which greatly helped to enhance the\r\nirritable desperation of the hapless Colt.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nBut when this old Adam of resentment rose in me and tempted me concerning\r\nBartleby, I grappled him and threw him. How? Why, simply by recalling the\r\ndivine injunction: “A new commandment give I unto you, that ye love one\r\nanother.” Yes, this it was that saved me. Aside from higher\r\nconsiderations, charity often operates as a vastly wise and prudent\r\nprinciple—a great safeguard to its possessor. Men have committed murder\r\nfor jealousy’s sake, and anger’s sake, and hatred’s sake, and\r\nselfishness’ sake, and spiritual pride’s sake; but no man that ever\r\nI heard of, ever committed a diabolical murder for sweet charity’s sake."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 39,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "2b219f995b2608e3f0198d90f3666949e4e63569ad759fa646047fb8b989bd35",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nMere self-interest, then, if no better motive can be enlisted, should,\r\nespecially with high-tempered men, prompt all beings to charity and\r\nphilanthropy. At any rate, upon the occasion in question, I strove to drown my\r\nexasperated feelings towards the scrivener by benevolently construing his\r\nconduct. Poor fellow, poor fellow! thought I, he don’t mean any thing;\r\nand besides, he has seen hard times, and ought to be indulged.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI endeavored also immediately to occupy myself, and at the same time to comfort\r\nmy despondency. I tried to fancy that in the course of the morning, at such\r\ntime as might prove agreeable to him, Bartleby, of his own free accord, would\r\nemerge from his hermitage, and take up some decided line of march in the\r\ndirection of the door. But no. Half-past twelve o’clock came; Turkey\r\nbegan to glow in the face, overturn his inkstand, and become generally\r\nobstreperous; Nippers abated down into quietude and courtesy; Ginger Nut\r\nmunched his noon apple; and Bartleby remained standing at his window in one of\r\nhis profoundest dead-wall reveries. Will it be credited? Ought I to acknowledge\r\nit? That afternoon I left the office without saying one further word to him.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 40,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "4c5556555664e1e440424b08fa386c98f9ec0edeab75811c5ca588ec34ac3486",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSome days now passed, during which, at leisure intervals I looked a little into\r\n“Edwards on the Will,” and “Priestly on Necessity.”\r\nUnder the circumstances, those books induced a salutary feeling. Gradually I\r\nslid into the persuasion that these troubles of mine touching the scrivener,\r\nhad been all predestinated from eternity, and Bartleby was billeted upon me for\r\nsome mysterious purpose of an all-wise Providence, which it was not for a mere\r\nmortal like me to fathom. Yes, Bartleby, stay there behind your screen, thought\r\nI; I shall persecute you no more; you are harmless and noiseless as any of\r\nthese old chairs; in short, I never feel so private as when I know you are\r\nhere. At last I see it, I feel it; I penetrate to the predestinated purpose of\r\nmy life. I am content. Others may have loftier parts to enact; but my mission\r\nin this world, Bartleby, is to furnish you with office-room for such period as\r\nyou may see fit to remain.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI believe that this wise and blessed frame of mind would have continued with\r\nme, had it not been for the unsolicited and uncharitable remarks obtruded upon\r\nme by my professional friends who visited the rooms. But thus it often is, that\r\nthe constant friction of illiberal minds wears out at last the best resolves of\r\nthe more generous. Though to be sure, when I reflected upon it, it was not\r\nstrange that people entering my office should be struck by the peculiar aspect\r\nof the unaccountable Bartleby, and so be tempted to throw out some sinister\r\nobservations concerning him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 41,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "9eb28d958632a8687d508909940c195d6b368b03ff6a0c0eb147ae01549f7e66",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Sometimes an attorney having business with me, and\r\ncalling at my office and finding no one but the scrivener there, would\r\nundertake to obtain some sort of precise information from him touching my\r\nwhereabouts; but without heeding his idle talk, Bartleby would remain standing\r\nimmovable in the middle of the room. So after contemplating him in that\r\nposition for a time, the attorney would depart, no wiser than he came.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAlso, when a Reference was going on, and the room full of lawyers and witnesses\r\nand business was driving fast; some deeply occupied legal gentleman present,\r\nseeing Bartleby wholly unemployed, would request him to run round to his (the\r\nlegal gentleman’s) office and fetch some papers for him. Thereupon,\r\nBartleby would tranquilly decline, and yet remain idle as before. Then the\r\nlawyer would give a great stare, and turn to me. And what could I say? At last\r\nI was made aware that all through the circle of my professional acquaintance, a\r\nwhisper of wonder was running round, having reference to the strange creature I\r\nkept at my office. This worried me very much. And as the idea came upon me of\r\nhis possibly turning out a long-lived man, and keep occupying my chambers, and\r\ndenying my authority; and perplexing my visitors; and scandalizing my\r\nprofessional reputation; and casting a general gloom over the premises; keeping\r\nsoul and body together to the last upon his savings (for doubtless he spent but\r\nhalf a dime a day), and in the end perhaps outlive me, and claim possession of\r\nmy office by right of his perpetual occupancy: as all these dark anticipations\r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 42,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "57c97bfa1b7e6349a827d724feacbfdebf916be6429d5b5c42f970a3206f247c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\ncrowded upon me more and more, and my friends continually intruded their\r\nrelentless remarks upon the apparition in my room; a great change was wrought\r\nin me. I resolved to gather all my faculties together, and for ever rid me of\r\nthis intolerable incubus.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nEre revolving any complicated project, however, adapted to this end, I first\r\nsimply suggested to Bartleby the propriety of his permanent departure. In a\r\ncalm and serious tone, I commended the idea to his careful and mature\r\nconsideration. But having taken three days to meditate upon it, he apprised me\r\nthat his original determination remained the same; in short, that he still\r\npreferred to abide with me.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nWhat shall I do? I now said to myself, buttoning up my coat to the last button.\r\nWhat shall I do? what ought I to do? what does conscience say I "
+            },
+            {
+              "text": "should",
+              "italic": true
+            },
+            {
+              "text": "\r\ndo with this man, or rather ghost. Rid myself of him, I must; go, he shall. But\r\nhow? You will not thrust him, the poor, pale, passive mortal,—you will\r\nnot thrust such a helpless creature out of your door? you will not dishonor\r\nyourself by such cruelty? No, I will not, I cannot do that. Rather would I let\r\nhim live and die here, and then mason up his remains in the wall. What then\r\nwill you do? For all your coaxing, he will not budge. Bribes he leaves under\r\nyour own paperweight on your table; in short, it is quite plain that he prefers\r\nto cling to you.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 43,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f192574eb79ef1e117918ab770eda760ec04afab2fbc15caeca22b1d90ab1b39",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThen something severe, something unusual must be done. What! surely you will\r\nnot have him collared by a constable, and commit his innocent pallor to the\r\ncommon jail? And upon what ground could you procure such a thing to be\r\ndone?—a vagrant, is he? What! he a vagrant, a wanderer, who refuses to\r\nbudge? It is because he will "
+            },
+            {
+              "text": "not",
+              "italic": true
+            },
+            {
+              "text": " be a vagrant, then, that you seek to\r\ncount him "
+            },
+            {
+              "text": "as",
+              "italic": true
+            },
+            {
+              "text": " a vagrant. That is too absurd. No visible means of support:\r\nthere I have him. Wrong again: for indubitably he "
+            },
+            {
+              "text": "does",
+              "italic": true
+            },
+            {
+              "text": " support himself,\r\nand that is the only unanswerable proof that any man can show of his possessing\r\nthe means so to do. No more then. Since he will not quit me, I must quit him. I\r\nwill change my offices; I will move elsewhere; and give him fair notice, that\r\nif I find him on my new premises I will then proceed against him as a common\r\ntrespasser.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nActing accordingly, next day I thus addressed him: “I find these chambers\r\ntoo far from the City Hall; the air is unwholesome. In a word, I propose to\r\nremove my offices next week, and shall no longer require your services. I tell\r\nyou this now, in order that you may seek another place.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe made no reply, and nothing more was said.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nOn the appointed day I engaged carts and men, proceeded to my chambers, and\r\nhaving but little furniture, every thing was removed in a few hours.\r\nThroughout, the scrivener remained standing behind the screen, which I directed\r\nto be removed the last thing. It was withdrawn; and being folded up like a huge\r\nfolio, left him the motionless occupant of a naked room. I stood in the entry\r\nwatching him a moment, while something from within me upbraided me.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI re-entered, with my hand in my pocket—and—and my heart in my\r\nmouth.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 44,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "5c1ecfcddd29353e62c851259914f73a1cf0ba2860ae91468e95afaeef6d235c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Good-bye, Bartleby; I am going—good-bye, and God some way bless\r\nyou; and take that,” slipping something in his hand. But it dropped upon\r\nthe floor, and then,—strange to say—I tore myself from him whom I\r\nhad so longed to be rid of.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nEstablished in my new quarters, for a day or two I kept the door locked, and\r\nstarted at every footfall in the passages. When I returned to my rooms after\r\nany little absence, I would pause at the threshold for an instant, and\r\nattentively listen, ere applying my key. But these fears were needless.\r\nBartleby never came nigh me.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI thought all was going well, when a perturbed looking stranger visited me,\r\ninquiring whether I was the person who had recently occupied rooms at\r\nNo.—Wall-street.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nFull of forebodings, I replied that I was.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Then sir,” said the stranger, who proved a lawyer, “you are\r\nresponsible for the man you left there. He refuses to do any copying; he\r\nrefuses to do any thing; he says he prefers not to; and he refuses to quit the\r\npremises.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I am very sorry, sir,” said I, with assumed tranquility, but an\r\ninward tremor, “but, really, the man you allude to is nothing to\r\nme—he is no relation or apprentice of mine, that you should hold me\r\nresponsible for him.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“In mercy’s name, who is he?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I certainly cannot inform you. I know nothing about him. Formerly I\r\nemployed him as a copyist; but he has done nothing for me now for some time\r\npast.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I shall settle him then,—good morning, sir.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSeveral days passed, and I heard nothing more; and though I often felt a\r\ncharitable prompting to call at the place and see poor Bartleby, yet a certain\r\nsqueamishness of I know not what withheld me.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 45,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "eaa106414f134c2a6c28d6037fd02186367016cb1ecc038aa67780605982665c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAll is over with him, by this time, thought I at last, when through another\r\nweek no further intelligence reached me. But coming to my room the day after, I\r\nfound several persons waiting at my door in a high state of nervous excitement.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“That’s the man—here he comes,” cried the foremost one,\r\nwhom I recognized as the lawyer who had previously called upon me alone.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“You must take him away, sir, at once,” cried a portly person among\r\nthem, advancing upon me, and whom I knew to be the landlord of\r\nNo.—Wall-street. “These gentlemen, my tenants, cannot stand it any\r\nlonger; Mr. B—” pointing to the lawyer, “has turned him out\r\nof his room, and he now persists in haunting the building generally, sitting\r\nupon the banisters of the stairs by day, and sleeping in the entry by night.\r\nEvery body is concerned; clients are leaving the offices; some fears are\r\nentertained of a mob; something you must do, and that without delay.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAghast at this torrent, I fell back before it, and would fain have locked\r\nmyself in my new quarters. In vain I persisted that Bartleby was nothing to\r\nme—no more than to any one else. In vain:—I was the last person\r\nknown to have any thing to do with him, and they held me to the terrible\r\naccount. Fearful then of being exposed in the papers (as one person present\r\nobscurely threatened) I considered the matter, and at length said, that if the\r\nlawyer would give me a confidential interview with the scrivener, in his (the\r\nlawyer’s) own room, I would that afternoon strive my best to rid them of\r\nthe nuisance they complained of.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nGoing up stairs to my old haunt, there was Bartleby silently sitting upon the\r\nbanister at the landing.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“What are you doing here, Bartleby?” said I.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 46,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "5edfb2c7b11c65c5e3ddf8b26ac524542eed83bda2646dc7ebcad78f0d511e65",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Sitting upon the banister,” he mildly replied.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI motioned him into the lawyer’s room, who then left us.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, “are you aware that you are the cause of\r\ngreat tribulation to me, by persisting in occupying the entry after being\r\ndismissed from the office?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nNo answer.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Now one of two things must take place. Either you must do something, or\r\nsomething must be done to you. Now what sort of business would you like to\r\nengage in? Would you like to re-engage in copying for some one?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No; I would prefer not to make any change.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Would you like a clerkship in a dry-goods store?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“There is too much confinement about that. No, I would not like a\r\nclerkship; but I am not particular.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Too much confinement,” I cried, “why you keep yourself\r\nconfined all the time!”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would prefer not to take a clerkship,” he rejoined, as if to\r\nsettle that little item at once.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“How would a bar-tender’s business suit you? There is no trying of\r\nthe eyesight in that.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I would not like it at all; though, as I said before, I am not\r\nparticular.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHis unwonted wordiness inspirited me. I returned to the charge.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well then, would you like to travel through the country collecting bills\r\nfor the merchants? That would improve your health.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No, I would prefer to be doing something else.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“How then would going as a companion to Europe, to entertain some young\r\ngentleman with your conversation,—how would that suit you?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Not at all. It does not strike me that there is any thing definite about\r\nthat. I like to be stationary. But I am not particular.”\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 47,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8b9c5ab393f04b1ef304fc33178e92128f419b08dbb72327533bbc3af9a91e00",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Stationary you shall be then,” I cried, now losing all patience,\r\nand for the first time in all my exasperating connection with him fairly flying\r\ninto a passion. “If you do not go away from these premises before night,\r\nI shall feel bound—indeed I "
+            },
+            {
+              "text": "am",
+              "italic": true
+            },
+            {
+              "text": " bound—to—to—to\r\nquit the premises myself!” I rather absurdly concluded, knowing not with\r\nwhat possible threat to try to frighten his immobility into compliance.\r\nDespairing of all further efforts, I was precipitately leaving him, when a\r\nfinal thought occurred to me—one which had not been wholly unindulged\r\nbefore.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby,” said I, in the kindest tone I could assume under such\r\nexciting circumstances, “will you go home with me now—not to my\r\noffice, but my dwelling—and remain there till we can conclude upon some\r\nconvenient arrangement for you at our leisure? Come, let us start now, right\r\naway.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No: at present I would prefer not to make any change at all.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nI answered nothing; but effectually dodging every one by the suddenness and\r\nrapidity of my flight, rushed from the building, ran up Wall-street towards\r\nBroadway, and jumping into the first omnibus was soon removed from pursuit. As\r\nsoon as tranquility returned I distinctly perceived that I had now done all\r\nthat I possibly could, both in respect to the demands of the landlord and his\r\ntenants, and with regard to my own desire and sense of duty, to benefit\r\nBartleby, and shield him from rude persecution. I now strove to be entirely\r\ncare-free and quiescent; and my conscience justified me in the attempt; though\r\nindeed it was not so successful as I could have wished."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 48,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "7bb4d5b8b6e689fd817c9568125d1acd7b6326574d81b6d0a5361b4bc62edbc3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " So fearful was I of\r\nbeing again hunted out by the incensed landlord and his exasperated tenants,\r\nthat, surrendering my business to Nippers, for a few days I drove about the\r\nupper part of the town and through the suburbs, in my rockaway; crossed over to\r\nJersey City and Hoboken, and paid fugitive visits to Manhattanville and\r\nAstoria. In fact I almost lived in my rockaway for the time.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nWhen again I entered my office, lo, a note from the landlord lay upon the desk.\r\nI opened it with trembling hands. It informed me that the writer had sent to\r\nthe police, and had Bartleby removed to the Tombs as a vagrant. Moreover, since\r\nI knew more about him than any one else, he wished me to appear at that place,\r\nand make a suitable statement of the facts. These tidings had a conflicting\r\neffect upon me. At first I was indignant; but at last almost approved. The\r\nlandlord’s energetic, summary disposition had led him to adopt a\r\nprocedure which I do not think I would have decided upon myself; and yet as a\r\nlast resort, under such peculiar circumstances, it seemed the only plan.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAs I afterwards learned, the poor scrivener, when told that he must be\r\nconducted to the Tombs, offered not the slightest obstacle, but in his pale\r\nunmoving way, silently acquiesced.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSome of the compassionate and curious bystanders joined the party; and headed\r\nby one of the constables arm in arm with Bartleby, the silent procession filed\r\nits way through all the noise, and heat, and joy of the roaring thoroughfares\r\nat noon.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 49,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "a8f94ed94406365c667905c20ef29b184aba87964b0b28dfca5d09fa4b540105",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe same day I received the note I went to the Tombs, or to speak more\r\nproperly, the Halls of Justice. Seeking the right officer, I stated the purpose\r\nof my call, and was informed that the individual I described was indeed within.\r\nI then assured the functionary that Bartleby was a perfectly honest man, and\r\ngreatly to be compassionated, however unaccountably eccentric. I narrated all I\r\nknew, and closed by suggesting the idea of letting him remain in as indulgent\r\nconfinement as possible till something less harsh might be done—though\r\nindeed I hardly knew what. At all events, if nothing else could be decided\r\nupon, the alms-house must receive him. I then begged to have an interview.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nBeing under no disgraceful charge, and quite serene and harmless in all his\r\nways, they had permitted him freely to wander about the prison, and especially\r\nin the inclosed grass-platted yard thereof. And so I found him there, standing\r\nall alone in the quietest of the yards, his face towards a high wall, while all\r\naround, from the narrow slits of the jail windows, I thought I saw peering out\r\nupon him the eyes of murderers and thieves.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby!”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I know you,” he said, without looking round,—“and I\r\nwant nothing to say to you.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“It was not I that brought you here, Bartleby,” said I, keenly\r\npained at his implied suspicion. “And to you, this should not be so vile\r\na place. Nothing reproachful attaches to you by being here. And see, it is not\r\nso sad a place as one might think. Look, there is the sky, and here is the\r\ngrass.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I know where I am,” he replied, but would say nothing more, and so\r\nI left him.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 50,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "e010e660a76041978e0532fa881bc9a3ed3a5e167c0dd6a8887d0eebe47391d5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAs I entered the corridor again, a broad meat-like man, in an apron, accosted\r\nme, and jerking his thumb over his shoulder said—“Is that your\r\nfriend?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Yes.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Does he want to starve? If he does, let him live on the prison fare,\r\nthat’s all.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Who are you?” asked I, not knowing what to make of such an\r\nunofficially speaking person in such a place.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I am the grub-man. Such gentlemen as have friends here, hire me to\r\nprovide them with something good to eat.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Is this so?” said I, turning to the turnkey.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nHe said it was.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Well then,” said I, slipping some silver into the grub-man’s\r\nhands (for so they called him). “I want you to give particular attention\r\nto my friend there; let him have the best dinner you can get. And you must be\r\nas polite to him as possible.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Introduce me, will you?” said the grub-man, looking at me with an\r\nexpression which seemed to say he was all impatience for an opportunity to give a\r\nspecimen of his breeding.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThinking it would prove of benefit to the scrivener, I acquiesced; and asking\r\nthe grub-man his name, went up with him to Bartleby.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Bartleby, this is Mr. Cutlets; you will find him very useful to\r\nyou.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Your sarvant, sir, your sarvant,” said the grub-man, making a low\r\nsalutation behind his apron. “Hope you find it pleasant here,\r\nsir;—spacious grounds—cool apartments, sir—hope you’ll\r\nstay with us some time—try to make it agreeable. May Mrs. Cutlets and I\r\nhave the pleasure of your company to dinner, sir, in Mrs. Cutlets’\r\nprivate room?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I prefer not to dine to-day,” said Bartleby, turning away.\r\n“It would disagree with me; I am unused to dinners.” So saying he\r\nslowly moved to the other side of the inclosure, and took up a position\r\nfronting the dead-wall.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 51,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "4dbb1d3bba4230f6f5276e2a179e1acf0162ff172d30db96ba2c3620017a0d48",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“How’s this?” said the grub-man, addressing me with a stare\r\nof astonishment. “He’s odd, aint he?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I think he is a little deranged,” said I, sadly.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Deranged? deranged is it? Well now, upon my word, I thought that friend\r\nof yourn was a gentleman forger; they are always pale and genteel-like, them\r\nforgers. I can’t pity’em—can’t help it, sir. Did you\r\nknow Monroe Edwards?” he added touchingly, and paused. Then, laying his\r\nhand pityingly on my shoulder, sighed, “he died of consumption at\r\nSing-Sing. So you weren’t acquainted with Monroe?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“No, I was never socially acquainted with any forgers. But I cannot stop\r\nlonger. Look to my friend yonder. You will not lose by it. I will see you\r\nagain.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSome few days after this, I again obtained admission to the Tombs, and went\r\nthrough the corridors in quest of Bartleby; but without finding him.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“I saw him coming from his cell not long ago,” said a turnkey,\r\n“may be he’s gone to loiter in the yards.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nSo I went in that direction.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Are you looking for the silent man?” said another turnkey passing\r\nme. “Yonder he lies—sleeping in the yard there. ’Tis not\r\ntwenty minutes since I saw him lie down.”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe yard was entirely quiet. It was not accessible to the common prisoners. The\r\nsurrounding walls, of amazing thickness, kept off all sounds behind them. The\r\nEgyptian character of the masonry weighed upon me with its gloom. But a soft\r\nimprisoned turf grew under foot. The heart of the eternal pyramids, it seemed,\r\nwherein, by some strange magic, through the clefts, grass-seed, dropped by\r\nbirds, had sprung.\r\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 52,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "1edde6f4df087a58574bae9b884c66834eb32aa6412c54215567f2053da78cbd",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nStrangely huddled at the base of the wall, his knees drawn up, and lying on his\r\nside, his head touching the cold stones, I saw the wasted Bartleby. But nothing\r\nstirred. I paused; then went close up to him; stooped over, and saw that his\r\ndim eyes were open; otherwise he seemed profoundly sleeping. Something prompted\r\nme to touch him. I felt his hand, when a tingling shiver ran up my arm and down\r\nmy spine to my feet.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe round face of the grub-man peered upon me now. “His dinner is ready.\r\nWon’t he dine to-day, either? Or does he live without dining?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Lives without dining,” said I, and closed his eyes.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“Eh!—He’s asleep, aint he?”\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n“With kings and counselors,” murmured I.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThere would seem little need for proceeding further in this history.\r\nImagination will readily supply the meager recital of poor Bartleby’s\r\ninterment. But ere parting with the reader, let me say, that if this little\r\nnarrative has sufficiently interested him, to awaken curiosity as to who\r\nBartleby was, and what manner of life he led prior to the present\r\nnarrator’s making his acquaintance, I can only reply, that in such\r\ncuriosity I fully share, but am wholly unable to gratify it. Yet here I hardly\r\nknow whether I should divulge one little item of rumor, which came to my ear a\r\nfew months after the scrivener’s decease. Upon what basis it rested, I\r\ncould never ascertain; and hence, how true it is I cannot now tell. But\r\ninasmuch as this vague report has not been without certain strange suggestive\r\ninterest to me, however sad, it may prove the same with some others; and so I\r\nwill briefly mention it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-melville-bartleby",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 53,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f2e913be2b4535068f1a9d6cdf429def2b55bea795334d05559ff2dcf5f67300",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " The report was this: that Bartleby had been a\r\nsubordinate clerk in the Dead Letter Office at Washington, from which he had\r\nbeen suddenly removed by a change in the administration. When I think over this\r\nrumor, I cannot adequately express the emotions which seize me. Dead letters!\r\ndoes it not sound like dead men? Conceive a man by nature and misfortune prone\r\nto a pallid hopelessness, can any business seem more fitted to heighten it than\r\nthat of continually handling these dead letters, and assorting them for the\r\nflames? For by the cart-load they are annually burned. Sometimes from out the\r\nfolded paper the pale clerk takes a ring:—the finger it was meant for,\r\nperhaps, moulders in the grave; a bank-note sent in swiftest charity:—he\r\nwhom it would relieve, nor eats nor hungers any more; pardon for those who died\r\ndespairing; hope for those who died unhoping; good tidings for those who died\r\nstifled by unrelieved calamities. On errands of life, these letters speed to\r\ndeath.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAh Bartleby! Ah humanity!\r\n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

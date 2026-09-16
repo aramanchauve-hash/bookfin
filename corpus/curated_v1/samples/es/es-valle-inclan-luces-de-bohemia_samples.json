@@ -1,0 +1,37 @@
+{
+  "work_id": "es-valle-inclan-luces-de-bohemia",
+  "author": "Ramón del Valle-Inclán",
+  "title": "Luces de bohemia (esperpento)",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 68,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 68,
+      "character_length": 1590,
+      "blocks_count": 66,
+      "preview": "ÍndiceLuces de BohemiaNota de transcripciónLos errores de imprenta han sido corregidos.La ortografía del texto original ha sido modernizada de acuerdo con las normas publicadas en 2010 por la Real Academia Española.Las páginas en blanco han sido eliminadas.Algunas rayas intrapárrafos han sido eliminadas, siguiendo el modelo de las ediciones más modernas. También se han eliminado algunas comas que ...",
+      "content_hash": "60591f93b6c1992287fbac62a48bb6cd1d251017ffe01c786051ec276e39f8b7"
+    },
+    "middle": {
+      "label": "Milieu (Page 34)",
+      "page_sequence_number": 34,
+      "total_pages": 68,
+      "character_length": 1750,
+      "blocks_count": 30,
+      "preview": "Como Homero y como Belisario.EL MINISTROUna ceguera accidental, supongo...MAXDefinitiva e irrevocable. Es el regalo de Venus.EL MINISTROVálgate Dios. ¿Y cómo no te has acordado de venir a verme antes de ahora? Apenas leo tu firma en los periódicos.MAX¡Vivo olvidado! Tú has sido un vidente dejando las letras por hacernos felices gobernando. Paco, las letras no dan para comer. ¡Las letras son colorí...",
+      "content_hash": "682e99797d01b06166435c0ee6c3774aa1a330ffee6b924a261fd9b7936e3f13"
+    },
+    "end": {
+      "label": "Fin (Page 68)",
+      "page_sequence_number": 68,
+      "total_pages": 68,
+      "character_length": 511,
+      "blocks_count": 28,
+      "preview": "¡Absurdo! ¿Por qué habían de matarse?PICA LAGARTOS¡Pasaban muchas fatigas!DON LATINOEstaban acostumbradas. Solamente tendría una explicación. ¡El dolor por la pérdida de aquel astro!PICA LAGARTOSAhora usted hubiera podido socorrerlas.DON LATINO¡Naturalmente! ¡Y con el corazón que yo tengo, Venancio!PICA LAGARTOS¡El mundo es una controversia!DON LATINO¡Un esperpento!EL BORRACHO¡Cráneo previlegiado!...",
+      "content_hash": "51f32bafd9b716bc9455409f046b59ed6556d15a2b6b4891a62c30dba000f074"
+    }
+  }
+}

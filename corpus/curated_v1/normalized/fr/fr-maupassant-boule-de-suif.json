@@ -1,0 +1,2617 @@
+{
+  "work_id": "fr-maupassant-boule-de-suif",
+  "author": "Guy de Maupassant",
+  "title": "Boule de Suif",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "document_sha256": "634d4e58dc6bcbd6e02a42f69ab75f74e441aa60b9f27bf95d1f779f360e05ac",
+  "source_sha256": "b044d451038c4623d82758fe0289cbf291739cb9702fbac7ca0370a890890c66",
+  "document": {
+    "format": "bookfin.document.v1",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "BOULE DE SUIF ***"
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "\n\n\n\n\n"
+          },
+          {
+            "text": "LIBRAIRIE OLLENDORFF ",
+            "small_caps": true
+          },
+          {
+            "text": "48, CHAUSSÉE D'ANTIN, 50\r\nPARIS",
+            "small_caps": true,
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Collection des\r\nGrands Romans",
+            "bold": true,
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "A\r\n1 FRANC"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "GUY DE MAUPASSANT "
+          },
+          {
+            "text": "Yvette.\r\nMademoiselle Fifi. Boule de Suif.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "GEORGES OHNET "
+          },
+          {
+            "text": "Le Maître de\r\nForges. Serge Panine. La Grande\r\nMarnière.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "ALBERT DELPIT "
+          },
+          {
+            "text": "Le Fils de Coralie.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "ANDRÉ THEURIET "
+          },
+          {
+            "text": "Sauvageonne.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "RENÉ MAIZEROY "
+          },
+          {
+            "text": "Petite Reine.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "GUSTAVE TOUDOUZE "
+          },
+          {
+            "text": "Madame Lambelle.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "MARIO UCHARO "
+          },
+          {
+            "text": "Mon Oncle Barbassou.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "JEAN RAMEAU "
+          },
+          {
+            "text": "Plus que de l'Amour.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "PIERRE MAEL "
+          },
+          {
+            "text": "Un roman de Femme.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "JULES CASE "
+          },
+          {
+            "text": "La Fille à\r\nBlanchard.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "RODHA BROUGTHON "
+          },
+          {
+            "text": "Comme une Fleur.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "MATHILDE SERAO "
+          },
+          {
+            "text": "Adieu Amour.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "MAURICE MONTÉGUT "
+          },
+          {
+            "text": "Un nom sur\r\nune Tombe.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "MAURICE LEBLANC "
+          },
+          {
+            "text": "Une Femme.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "\n"
+          },
+          {
+            "text": "Envoi franco contre 1 fr. 25 par\r\nvolume.",
+            "small_caps": true
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      },
+      {
+        "type": "heading",
+        "level": 1,
+        "spans": [
+          {
+            "text": "\n\n\n\n\n"
+          },
+          {
+            "text": "Boule de Suif",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "\n\n\n\n\nOEUVRES COMPLETES ILLUSTRÉES DU GUY DE MAUPASSANT"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "\nÉDITION DE LUXE"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "("
+          },
+          {
+            "text": "Voir Catalogue à la fin du\r\nvolume",
+            "italic": true
+          },
+          {
+            "text": ".)"
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      },
+      {
+        "type": "heading",
+        "level": 1,
+        "spans": [
+          {
+            "text": "\n\n\n\n\nGUY DE MAUPASSANT"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 1,
+        "spans": [
+          {
+            "text": "\n\n"
+          },
+          {
+            "text": "BOULE DE SUIF",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "\nL'ÉPAVE—DÉCOUVERTE—UN PARRICIDE—LE\r\nRENDEZ-VOUS"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "BOMBARD—LE\r\nPAIN\r\nMAUDIT—LES SABOTS—LA BUCHE"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "MAGNÉTISME—DIVORCE—UNE SOIRÉE"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "\n\n"
+          },
+          {
+            "text": "PARIS 1907",
+            "small_caps": true
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "spans": [
+          {
+            "text": "\n\n\n\n\nBOULE DE SUIF"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "\nPendant plusieurs jours de suite des lambeaux d'armée en\r\ndéroute avaient\r\ntraversé la ville. Ce n'était point de la troupe, mais\r\ndes hordes\r\ndébandées. Les hommes avaient la barbe longue et sale,\r\ndes uniformes en\r\nguenilles, et ils avançaient d'une allure molle, sans drapeau,\r\nsans\r\nrégiment. Tous semblaient accablés,\r\néreintés, incapables d'une pensée ou\r\nd'une résolution, marchant seulement par habitude, et tombant de\r\nfatigue\r\nsitôt qu'ils s'arrêtaient. On voyait surtout des\r\nmobilisés, gens\r\npacifiques, rentiers tranquilles, pliant sous le poids du fusil; des\r\npetits moblots alertes, faciles à l'épouvante et prompts\r\nà\r\nl'enthousiasme, prêts à l'attaque comme à la fuite;\r\npuis, au milieu\r\nd'eux, quelques culottes rouges, débris d'une division moulue\r\ndans une\r\ngrande bataille; des artilleurs sombres alignés avec des\r\nfantassins\r\ndivers; et, parfois, le casque brillant d'un dragon au pied pesant qui\r\nsuivait avec peine la marche plus légère des lignards."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Des légions de francs-tireurs aux appellations\r\nhéroïques: «les Vengeurs\r\nde la Défaite—les Citoyens de la Tombe—les Partageurs de la\r\nMort«—passaient à leur tour, avec des airs de bandits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Leurs chefs, anciens commerçants en draps ou en graines,\r\nex-marchands de\r\nsuif ou de savon, guerriers de circonstance, nommés officiers\r\npour leurs\r\nécus ou la longueur de leurs moustaches, couverts d'armes, de\r\nflanelle\r\net de galons, parlaient d'une voix retentissante, discutaient plans de\r\ncampagne, et prétendaient soutenir seuls la France agonisante\r\nsur leurs\r\népaules de fanfarons; mais ils redoutaient parfois leurs propres\r\nsoldats, gens de sac et de corde, souvent braves à outrance,\r\npillards et\r\ndébauchés."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les Prussiens allaient entrer dans Rouen, disait-on."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La Garde nationale qui, depuis deux mois, faisait des\r\nreconnaissances\r\ntrès prudentes dans les bois voisins, fusillant parfois ses\r\npropres\r\nsentinelles, et se préparant au combat quand un petit lapin\r\nremuait sous\r\ndes broussailles, était rentrée dans ses foyers. Ses\r\narmes, ses\r\nuniformes, tout son attirail meurtrier, dont elle épouvantait\r\nnaguère\r\nles bornes des routes nationales à trois lieues à la\r\nronde, avaient\r\nsubitement disparu."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les derniers soldats français venaient enfin de traverser la\r\nSeine pour\r\ngagner Pont-Audemer par Saint-Sever et Bourg-Achard; et, marchant\r\naprès\r\ntous, le général, désespéré, ne\r\npouvant rien tenter avec ces loques\r\ndisparates, éperdu lui-même dans la grande\r\ndébâcle d'un peuple habitué à\r\nvaincre et désastreusement battu malgré sa bravoure\r\nlégendaire, s'en\r\nallait à pied, entre deux officiers d'ordonnance."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Puis un calme profond, une attente épouvantée et\r\nsilencieuse avaient\r\nplané sur la cité. Beaucoup de bourgeois bedonnants,\r\némasculés par le\r\ncommerce, attendaient anxieusement les vainqueurs, tremblant qu'on ne\r\nconsidérât comme une arme leurs broches à\r\nrôtir ou leurs grands couteaux\r\nde cuisine."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La vie semblait arrêtée; les boutiques étaient\r\ncloses, la rue muette.\r\nQuelquefois un habitant, intimidé par ce silence, filait\r\nrapidement le\r\nlong des murs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L'angoisse de l'attente faisait désirer la venue de l'ennemi."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Dans l'après-midi du jour qui suivit le départ des\r\ntroupes françaises,\r\nquelques uhlans, sortis on ne sait d'où, traversèrent la\r\nville avec\r\ncélérité. Puis, un peu plus tard, une masse noire\r\ndescendit de la côte\r\nSainte-Catherine, tandis que deux autres flots envahisseurs\r\napparaissaient par les routes de Darnetal et de Boisguillaume. Les\r\navant-gardes des trois corps, juste au même moment, se joignirent\r\nsur la\r\nplace de l'Hôtel-de-Ville; et par toutes les rues voisines,\r\nl'armée\r\nallemande arrivait, déroulant ses bataillons qui faisaient\r\nsonner les\r\npavés sous leur pas dur et rythmé."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Des commandements criés d'une voix inconnue et gutturale\r\nmontaient le\r\nlong des maisons qui semblaient mortes et désertes, tandis que,\r\nderrière\r\nles volets fermés, des yeux guettaient ces hommes victorieux,\r\nmaîtres de\r\nla cité, des fortunes et des vies, de par le «droit de\r\nguerre».\r\nLes\r\nhabitants, dans leurs chambres assombries, avaient l'affolement que\r\ndonnent les cataclysmes, les grands bouleversements meurtriers de la\r\nterre, contre lesquels toute sagesse et toute force sont inutiles. Car\r\nla même sensation reparaît chaque fois que l'ordre\r\nétabli des choses est\r\nrenversé, que la sécurité n'existe plus, que tout\r\nce que protégeaient\r\nles lois des hommes ou celles de la nature, se trouve à la merci\r\nd'une\r\nbrutalité inconsciente et féroce. Le tremblement de terre\r\nécrasant sous\r\nles maisons croulantes un peuple entier; le fleuve\r\ndébordé qui roule les\r\npaysans noyés avec les cadavres des boeufs et les poutres\r\narrachées aux\r\ntoits, ou l'armée glorieuse massacrant ceux qui se\r\ndéfendent, emmenant\r\nles autres prisonniers, pillant au nom du Sabre et remerciant un Dieu\r\nau\r\nson du canon, sont autant de fléaux effrayants qui\r\ndéconcertent toute\r\ncroyance à la justice éternelle, toute la confiance qu'on\r\nnous enseigne\r\nen la protection du Ciel et en la raison de l'homme."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais à chaque porte des petits détachements\r\nfrappaient, puis\r\ndisparaissaient dans les maisons. C'était l'occupation\r\naprès l'invasion.\r\nLe devoir commençait pour les vaincus de se montrer gracieux\r\nenvers les\r\nvainqueurs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Au bout de quelque temps, une fois la première terreur\r\ndisparue, un\r\ncalme nouveau s'établit. Dans beaucoup de familles, l'officier\r\nprussien\r\nmangeait à table. Il était parfois bien\r\nélevé, et, par politesse,\r\nplaignait la France, disait sa répugnance en prenant part\r\nà cette\r\nguerre. On lui était reconnaissant de ce sentiment; puis on\r\npouvait, un\r\njour ou l'autre, avoir besoin de sa protection. En le ménageant\r\non\r\nobtiendrait peut-être quelques hommes de moins à nourrir.\r\nEt pourquoi\r\nblesser quelqu'un dont on dépendait tout à fait? Agir\r\nainsi serait moins\r\nde la bravoure que de la témérité.—Et la\r\ntémérité n'est plus un défaut\r\ndes bourgeois de Rouen, comme au temps des défenses\r\nhéroïques où\r\ns'illustra leur cité.—On se disait enfin, raison suprême\r\ntirée de\r\nl'urbanité française, qu'il demeurait bien permis\r\nd'être poli dans son\r\nintérieur pourvu qu'on ne se montrât pas familier, en\r\npublic, avec le\r\nsoldat étranger. Au dehors on ne se connaissait plus, mais dans\r\nla\r\nmaison on causait volontiers, et l'Allemand demeurait plus longtemps,\r\nchaque soir, à se chauffer au foyer commun."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La ville même reprenait peu à peu de son aspect\r\nordinaire. Les Français\r\nne sortaient guère encore, mais les soldats prussiens\r\ngrouillaient dans\r\nles rues. Du reste, les officiers de hussards bleus, qui\r\ntraînaient avec\r\narrogance leurs grands outils de mort sur le pavé, ne semblaient\r\npas\r\navoir pour les simples citoyens énormément plus de\r\nmépris que les\r\nofficiers de chasseurs, qui, l'année d'avant, buvaient aux\r\nmêmes cafés."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il y avait cependant quelque chose dans l'air, quelque chose de\r\nsubtil\r\net d'inconnu, une atmosphère étrangère\r\nintolérable, comme une odeur\r\nrépandue, l'odeur de l'invasion. Elle emplissait les demeures et\r\nles\r\nplaces publiques, changeait le goût des aliments, donnait\r\nl'impression\r\nd'être en voyage, très loin, chez des tribus barbares et\r\ndangereuses."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les vainqueurs exigeaient de l'argent, beaucoup d'argent. Les\r\nhabitants\r\npayaient toujours; ils étaient riches d'ailleurs. Mais plus un\r\nnégociant\r\nnormand devient opulent et plus il souffre de tout sacrifice, de toute\r\nparcelle de sa fortune qu'il voit passer aux mains d'un autre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cependant, à deux ou trois lieues sous la ville, en suivant\r\nle cours de\r\nla rivière, vers Croisset, Dieppedalle ou Biessart, les\r\nmariniers et les\r\npêcheurs ramenaient souvent du fond de l'eau quelque cadavre\r\nd'Allemand\r\ngonflé dans son uniforme, tué d'un coup de couteau ou de\r\nsavate, la tête\r\nécrasée par une pierre, ou jeté à l'eau\r\nd'une poussée du haut d'un pont.\r\nLes vases du fleuve ensevelissaient ces vengeances obscures, sauvages\r\net\r\nlégitimes, héroïsmes inconnus, attaques muettes,\r\nplus périlleuses que\r\nles batailles au grand jour et sans le retentissement de la gloire."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Car la haine de l'Étranger arme toujours quelques\r\nIntrépides prêts à\r\nmourir pour une Idée."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Enfin, comme les envahisseurs, bien qu'assujétissant la ville\r\nà leur\r\ninflexible discipline, n'avaient accompli aucune des horreurs que la\r\nrenommée leur faisait commettre tout le long de leur marche\r\ntriomphale,\r\non s'enhardit, et le besoin du négoce travailla de nouveau le\r\ncoeur des\r\ncommerçants du pays. Quelques-uns avaient de gros\r\nintérêts engagés au\r\nHavre que l'armée française occupait, et ils voulurent\r\ntenter de gagner\r\nce port en allant par terre à Dieppe où ils\r\ns'embarqueraient."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On employa l'influence des officiers allemands dont on avait fait la\r\nconnaissance, et une autorisation de départ fut obtenue du\r\ngénéral en\r\nchef."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Donc, une grande diligence à quatre chevaux ayant\r\nété retenue pour ce\r\nvoyage, et dix personnes s'étant fait inscrire chez le\r\nvoiturier, on\r\nrésolut de partir un mardi matin, avant le jour, pour\r\néviter tout\r\nrassemblement."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Depuis quelque temps déjà la gelée avait durci\r\nla terre, et le lundi,\r\nvers trois heures, de gros nuages noirs venant du Nord\r\napportèrent la\r\nneige qui tomba sans interruption pendant toute la soirée et\r\ntoute la\r\nnuit."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "A quatre heures et demie du matin, les voyageurs se réunirent\r\ndans la\r\ncour de l'Hôtel de Normandie, où l'on devait monter en\r\nvoiture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils étaient encore pleins de sommeil, et grelottaient de\r\nfroid sous\r\nleurs couvertures. On se voyait mal dans l'obscurité; et\r\nl'entassement\r\ndes lourds vêtements d'hiver faisait ressembler tous ces corps\r\nà des\r\ncurés obèses avec leurs longues soutanes. Mais deux\r\nhommes se\r\nreconnurent, un troisième les aborda, ils\r\ncausèrent:—«J'emmène ma\r\nfemme,»—dit l'un.—«J'en fais autant.»—«Et moi\r\naussi.»—Le premier\r\najouta:—«Nous ne reviendrons pas à Rouen, et si les\r\nPrussiens\r\napprochent du Havre nous gagnerons l'Angleterre.»—Tous avaient\r\nles\r\nmêmes projets, étant de complexion semblable."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cependant on n'attelait pas la voiture. Une petite lanterne, que\r\nportait\r\nun valet d'écurie, sortait de temps à autre d'une porte\r\nobscure pour\r\ndisparaître immédiatement dans une autre. Des pieds de\r\nchevaux\r\nfrappaient la terre, amortis par le fumier des litières, et une\r\nvoix\r\nd'homme parlant aux bêtes et jurant s'entendait au fond du\r\nbâtiment. Un\r\nléger murmure de grelots annonça qu'on maniait les\r\nharnais; ce murmure\r\ndevint bientôt un frémissement clair et continu,\r\nrythmé par le mouvement\r\nde l'animal, s'arrêtant parfois, puis reprenant dans une brusque\r\nsecousse qu'accompagnait le bruit mat d'un sabot ferré battant\r\nle sol."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La porte subitement se ferma. Tout bruit cessa. Les bourgeois\r\ngelés\r\ns'étaient tus; ils demeuraient immobiles et roidis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Un rideau de flocons blancs ininterrompu miroitait sans cesse en\r\ndescendant vers la terre; il effaçait les formes, poudrait les\r\nchoses\r\nd'une mousse de glace; et l'on n'entendait plus, dans le grand silence\r\nde la ville calme et ensevelie sous l'hiver, que ce froissement vague,\r\ninnommable et flottant, de la neige qui tombe, plutôt sensation\r\nque\r\nbruit, entremêlement d'atomes légers qui semblaient emplir\r\nl'espace,\r\ncouvrir le monde."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L'homme reparut, avec sa lanterne, tirant au bout d'une corde un\r\ncheval\r\ntriste qui ne venait pas volontiers. Il le plaça contre le\r\ntimon,\r\nattacha les traits, tourna longtemps autour pour assurer les harnais,\r\ncar il ne pouvait se servir que d'une main, l'autre portant sa\r\nlumière.\r\nComme il allait chercher la seconde bête, il remarqua tous ces\r\nvoyageurs\r\nimmobiles, déjà blancs de neige, et leur\r\ndit:—«Pourquoi\r\nne montez-vous\r\npas dans la voiture, vous serez à l'abri, au moins.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ils n'y avaient pas songé, sans doute, et ils se\r\nprécipitèrent. Les\r\ntrois hommes installèrent leurs femmes dans le fond,\r\nmontèrent ensuite;\r\npuis les autres formes indécises et voilées prirent\r\nà leur tour les\r\ndernières places sans échanger une parole."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le plancher était couvert de paille où les pieds\r\ns'enfoncèrent. Les\r\ndames du fond, ayant apporté des petites chaufferettes en cuivre\r\navec un\r\ncharbon chimique, allumèrent ces appareils, et, pendant quelque\r\ntemps, à\r\nvoix basse, elles en énumérèrent les avantages, se\r\nrépétant des choses\r\nqu'elles savaient déjà depuis longtemps."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Enfin, la diligence étant attelée, avec six chevaux au\r\nlieu de quatre à\r\ncause du tirage plus pénible, une voix du dehors\r\ndemanda:—«Tout\r\nle\r\nmonde est-il monté?»—Une voix du dedans\r\nrépondit:—«Oui.»—On partit."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La voiture avançait lentement, lentement, à tout\r\npetits pas. Les roues\r\ns'enfonçaient dans la neige; le coffre entier geignait avec des\r\ncraquements sourds; les bêtes glissaient, soufflaient, fumaient;\r\net le\r\nfouet gigantesque du cocher claquait sans repos, voltigeait de tous les\r\ncôtés, se nouant et se déroulant comme un serpent\r\nmince, et cinglant\r\nbrusquement quelque croupe rebondie qui se tendait alors sous un effort\r\nplus violent."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais le jour imperceptiblement grandissait. Ces flocons\r\nlégers qu'un\r\nvoyageur, Rouennais pur sang, avait comparés à une pluie\r\nde coton, ne\r\ntombaient plus. Une lueur sale filtrait à travers de gros nuages\r\nobscurs\r\net lourds qui rendaient plus éclatante la blancheur de la\r\ncampagne où\r\napparaissaient tantôt une ligne de grands arbres vêtus de\r\ngivre, tantôt\r\nune chaumière avec un capuchon de neige."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Dans la voiture, on se regardait curieusement, à la triste\r\nclarté de\r\ncette aurore."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tout au fond, aux meilleures places, sommeillaient, en face l'un de\r\nl'autre, M. et Mme Loiseau, des marchands de vins en gros de la rue\r\nGrand-Pont."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ancien commis d'un patron ruiné dans les affaires, Loiseau\r\navait acheté\r\nle fonds et fait fortune. Il vendait à très bon\r\nmarché de très mauvais\r\nvin aux petits débitants des campagnes et passait parmi ses\r\nconnaissances et ses amis pour un fripon madré, un vrai Normand\r\nplein\r\nde ruses et de jovialité."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Sa réputation de filou était si bien établie,\r\nqu'un soir, à la\r\npréfecture, M. Tournel, auteur de fables et de chansons, esprit\r\nmordant\r\net fin, une gloire locale, ayant proposé aux dames qu'il voyait\r\nun peu\r\nsomnolentes de faire une partie de «Loiseau vole», le mot\r\nlui-même vola\r\nà travers les salons du préfet, puis, gagnant ceux de la\r\nville, avait\r\nfait rire pendant un mois toutes les mâchoires de la province."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau était en outre célèbre par ses farces\r\nde toute nature, ses\r\nplaisanteries bonnes ou mauvaises; et personne ne pouvait parler de lui\r\nsans ajouter immédiatement:—«Il est impayable, ce\r\nLoiseau.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "De taille exiguë, il présentait un ventre en ballon\r\nsurmonté d'une face\r\nrougeaude entre deux favoris grisonnants."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Sa femme, grande, forte, résolue, avec la voix haute et la\r\ndécision\r\nrapide, était l'ordre et l'arithmétique de la maison de\r\ncommerce, qu'il\r\nanimait par son activité joyeuse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "A côté d'eux se tenait, plus digne, appartenant\r\nà une caste supérieure,\r\nM. Carré-Lamadon, homme considérable, posé dans\r\nles cotons, propriétaire\r\nde trois filatures, officier de la Légion d'honneur et membre du\r\nConseil\r\ngénéral. Il était resté, tout le temps de\r\nl'Empire, chef de l'opposition\r\nbienveillante, uniquement pour se faire payer plus cher son ralliement\r\nà\r\nla cause qu'il combattait avec des armes courtoises, selon sa propre\r\nexpression. Mme Carré-Lamadon, beaucoup plus jeune que son mari,\r\ndemeurait la consolation des officiers de bonne famille envoyés\r\nà Rouen\r\nen garnison."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle faisait vis-à-vis à son époux, toute\r\npetite, toute mignonne, toute\r\njolie, pelotonnée dans ses fourrures, et regardait d'un oeil\r\nnavré\r\nl'intérieur lamentable de la voiture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ses voisins, le comte et la comtesse Hubert de Bréville,\r\nportaient un\r\ndes noms les plus anciens et les plus nobles de Normandie. Le comte,\r\nvieux gentilhomme de grande tournure, s'efforçait d'accentuer,\r\npar les\r\nartifices de sa toilette, sa ressemblance naturelle avec le roy Henri\r\nIV\r\nqui, suivant une légende glorieuse pour la famille, avait rendu\r\ngrosse\r\nune dame de Bréville dont le mari, pour ce fait, était\r\ndevenu comte et\r\ngouverneur de province."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Collègue de M. Carré-Lamadon au Conseil\r\ngénéral, le comte Hubert\r\nreprésentait le parti orléaniste dans le\r\ndépartement. L'histoire de son\r\nmariage avec la fille d'un petit armateur de Nantes était\r\ntoujours\r\ndemeurée mystérieuse. Mais comme la comtesse avait grand\r\nair, recevait\r\nmieux que personne, passait même pour avoir été\r\naimée par un des fils de\r\nLouis-Philippe, toute la noblesse lui faisait fête, et son salon\r\ndemeurait le premier du pays, le seul où se conservât la\r\nvieille\r\ngalanterie, et dont l'entrée fût difficile."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La fortune des Bréville, toute en biens-fonds, atteignait,\r\ndisait-on,\r\ncinq cent mille livres de revenu."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ces six personnes formaient le fond de la voiture, le\r\ncôté de la société\r\nrentée, sereine et forte, des honnêtes gens\r\nautorisés qui ont de la\r\nReligion et des Principes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Par un hasard étrange, toutes les femmes se trouvaient sur le\r\nmême banc;\r\net la comtesse avait encore pour voisines deux bonnes soeurs qui\r\négrenaient de longs chapelets en marmottant des "
+          },
+          {
+            "text": "Pater",
+            "italic": true
+          },
+          {
+            "text": " et\r\ndes "
+          },
+          {
+            "text": "Ave",
+            "italic": true
+          },
+          {
+            "text": ".\r\nL'une était vieille avec une face défoncée par la\r\npetite vérole comme si\r\nelle eût reçu à bout portant une bordée de\r\nmitraille en pleine figure.\r\nL'autre, très chétive, avait une tête jolie et\r\nmaladive sur une poitrine\r\nde phtisique rongée par cette foi dévorante qui fait les\r\nmartyrs et les\r\nilluminés."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En face des deux religieuses, un homme et une femme attiraient les\r\nregards de tous."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L'homme, bien connu, était Cornudet le démoc, la\r\nterreur des gens\r\nrespectables. Depuis vingt ans, il trempait sa grande barbe rousse dans\r\nles bocks de tous les cafés démocratiques. Il avait\r\nmangé avec les\r\nfrères et amis une assez belle fortune qu'il tenait de son\r\npère, ancien\r\nconfiseur, et il attendait impatiemment la République pour\r\nobtenir enfin\r\nla place méritée par tant de consommations\r\nrévolutionnaires. Au Quatre\r\nSeptembre, par suite d'une farce peut-être, il s'était cru\r\nnommé préfet,\r\nmais quand il voulut entrer en fonctions, les garçons de bureau,\r\ndemeurés seuls maîtres de la place, refusèrent de\r\nle reconnaître, ce qui\r\nle contraignit à la retraite. Fort bon garçon, du reste,\r\ninoffensif et\r\nserviable, il s'était occupé avec une ardeur incomparable\r\nd'organiser la\r\ndéfense. Il avait fait creuser des trous dans les plaines,\r\ncoucher tous\r\nles jeunes arbres des forêts voisines, semé des\r\npièges sur toutes les\r\nroutes, et, à l'approche de l'ennemi, satisfait de ses\r\npréparatifs, il\r\ns'était vivement replié vers la ville."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il pensait maintenant se rendre encore plus utile au Havre,\r\noù de\r\nnouveaux retranchements allaient être nécessaires."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La femme, une de celles appelées galantes, était\r\ncélèbre par son\r\nembonpoint précoce qui lui avait valu le surnom de Boule de\r\nSuif.\r\nPetite, ronde de partout, grasse à lard, avec des doigts\r\nbouffis,\r\nétranglés aux phalanges, pareils à des chapelets\r\nde courtes saucisses;\r\navec une peau luisante et tendue, une gorge énorme qui saillait\r\nsous sa\r\nrobe, elle restait cependant appétissante et courue, tant sa\r\nfraîcheur\r\nfaisait plaisir à voir. Sa figure était une pomme rouge,\r\nun bouton de\r\npivoine prêt à fleurir; et là-dedans s'ouvraient,\r\nen haut, deux yeux\r\nnoirs magnifiques, ombragés de grands cils épais qui\r\nmettaient une ombre\r\ndedans; en bas, une bouche charmante, étroite, humide pour le\r\nbaiser,\r\nmeublée de quenottes luisantes et microscopiques."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle était de plus, disait-on, pleine de qualités\r\ninappréciables."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Aussitôt qu'elle fut reconnue, des chuchotements coururent\r\nparmi les\r\nfemmes honnêtes, et les mots de «prostituée»,\r\nde «honte\r\npublique» furent\r\nchuchotés si haut qu'elle leva la tête. Alors elle promena\r\nsur ses\r\nvoisins un regard tellement provocant et hardi qu'un grand silence\r\naussitôt régna, et tout le monde baissa les yeux à\r\nl'exception de\r\nLoiseau, qui la guettait d'un air émoustillé."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais bientôt la conversation reprit entre les trois dames, que\r\nla\r\nprésence de cette fille avait rendues subitement amies, presque\r\nintimes.\r\nElles devaient faire, leur semblait-il, comme un faisceau de leurs\r\ndignités d'épouses en face de cette vendue sans vergogne;\r\ncar l'amour\r\nlégal le prend toujours de haut avec son libre confrère."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les trois hommes aussi, rapprochés par un instinct de\r\nconservateurs à\r\nl'aspect de Cornudet, parlaient argent d'un certain ton\r\ndédaigneux pour\r\nles pauvres. Le comte Hubert disait les dégâts que lui\r\navaient fait\r\nsubir les Prussiens, les pertes qui résulteraient du\r\nbétail volé et des\r\nrécoltes perdues, avec une assurance de grand seigneur dix fois\r\nmillionnaire que ces ravages gêneraient à peine une\r\nannée. M.\r\nCarré-Lamadon, fort éprouvé dans l'industrie\r\ncotonnière, avait eu soin\r\nd'envoyer six cent mille francs en Angleterre, une poire pour la soif\r\nqu'il se ménageait à toute occasion. Quant à\r\nLoiseau, il s'était arrangé\r\npour vendre à l'Intendance française tous les vins\r\ncommuns qui lui\r\nrestaient en cave, de sorte que l'État lui devait une somme\r\nformidable\r\nqu'il comptait bien toucher au Havre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et tous les trois se jetaient des coups d'oeil rapides et amicaux.\r\nBien\r\nque de conditions différentes, ils se sentaient frères\r\npar l'argent, de\r\nla grande franc-maçonnerie de ceux qui possèdent, qui\r\nfont sonner de\r\nl'or en mettant la main dans la poche de leur culotte."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La voiture allait si lentement qu'à dix heures du matin on\r\nn'avait pas\r\nfait quatre lieues. Les hommes descendirent trois fois pour monter des\r\ncôtes à pied. On commençait à\r\ns'inquiéter, car on devait déjeuner à\r\nTôtes et l'on désespérait maintenant d'y parvenir\r\navant la nuit. Chacun\r\nguettait pour apercevoir un cabaret sur la route, quand la diligence\r\nsombra dans un amoncellement de neige et il fallut deux heures pour la\r\ndégager."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L'appétit grandissait, troublait les esprits; et aucune\r\ngargote, aucun\r\nmarchand de vin ne se montraient, l'approche des Prussiens et le\r\npassage\r\ndes troupes françaises affamées ayant effrayé\r\ntoutes les industries."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les messieurs coururent aux provisions dans les fermes au bord du\r\nchemin, mais ils n'y trouvèrent pas même de pain, car le\r\npaysan défiant\r\ncachait ses réserves dans la crainte d'être pillé\r\npar les soldats qui,\r\nn'ayant rien à se mettre sous la dent, prenaient par force ce\r\nqu'ils\r\ndécouvraient."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Vers une heure de l'après-midi, Loiseau annonça que\r\ndécidément il se\r\nsentait un rude creux dans l'estomac. Tout le monde souffrait comme lui\r\ndepuis longtemps; et le violent besoin de manger, augmentant toujours,\r\navait tué les conversations."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "De temps en temps, quelqu'un bâillait; un autre presque\r\naussitôt\r\nl'imitait; et chacun, à tour de rôle, suivant son\r\ncaractère, son\r\nsavoir-vivre et sa position sociale, ouvrait la bouche avec fracas ou\r\nmodestement en portant vite sa main devant le trou béant\r\nd'où sortait\r\nune vapeur."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif, à plusieurs reprises, se pencha comme si elle\r\ncherchait\r\nquelque chose sous ses jupons. Elle hésitait une seconde,\r\nregardait ses\r\nvoisins, puis se redressait tranquillement. Les figures étaient\r\npâles et\r\ncrispées. Loiseau affirma qu'il payerait mille francs un\r\njambonneau. Sa\r\nfemme fit un geste comme pour protester; puis elle se calma. Elle\r\nsouffrait toujours en entendant parler d'argent gaspillé, et ne\r\ncomprenait même pas les plaisanteries sur ce sujet. «Le\r\nfait est\r\nque je\r\nne me sens pas bien, dit le comte, comment n'ai-je pas songé\r\nà apporter\r\ndes provisions?»—Chacun se faisait le même reproche."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cependant, Cornudet avait une gourde pleine de rhum; il en offrit;\r\non\r\nrefusa froidement. Loiseau seul en accepta deux gouttes, et, lorsqu'il\r\nrendit la gourde, il remercia: «C'est bon tout de même,\r\nça\r\nréchauffe, et\r\nça trompe l'appétit.»—L'alcool le mit en belle\r\nhumeur et\r\nil proposa de\r\nfaire comme sur le petit navire de la chanson: de manger le plus gras\r\ndes voyageurs. Cette allusion indirecte à Boule de Suif choqua\r\nles gens\r\nbien élevés. On ne répondit pas; Cornudet seul eut\r\nun sourire. Les deux\r\nbonnes soeurs avaient cessé de marmotter leur rosaire, et, les\r\nmains\r\nenfoncées dans leurs grandes manches, elles se tenaient\r\nimmobiles,\r\nbaissant obstinément les yeux, offrant sans doute au Ciel la\r\nsouffrance\r\nqu'il leur envoyait."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Enfin, à trois heures, comme on se trouvait au milieu d'une\r\nplaine\r\ninterminable, sans un seul village en vue, Boule de Suif se baissant\r\nvivement, retira de sous la banquette un large panier couvert d'une\r\nserviette blanche."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle en sortit d'abord une petite assiette de faïence, une fine\r\ntimbale\r\nen argent, puis une vaste terrine dans laquelle deux poulets entiers,\r\ntout découpés, avaient confi sous leur gelée; et\r\nl'on apercevait encore\r\ndans le panier d'autres bonnes choses enveloppées, des\r\npâtés, des\r\nfruits, des friandises, les provisions préparées pour un\r\nvoyage de trois\r\njours, afin de ne point toucher à la cuisine des auberges.\r\nQuatre\r\ngoulots de bouteilles passaient entre les paquets de nourriture. Elle\r\nprit une aile de poulet et, délicatement, se mit à la\r\nmanger avec un de\r\nces petits pains qu'on appelle «Régence» en\r\nNormandie."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tous les regards étaient tendus vers elle. Puis l'odeur se\r\nrépandit,\r\nélargissant les narines, faisant venir aux bouches une salive\r\nabondante\r\navec une contraction douloureuse de la mâchoire sous les\r\noreilles. Le\r\nmépris des dames pour cette fille devenait féroce, comme\r\nune envie de la\r\ntuer ou de la jeter en bas de la voiture, dans la neige, elle, sa\r\ntimbale, son panier et ses provisions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais Loiseau dévorait des yeux la terrine de poulet. Il dit:\r\n«A la bonne\r\nheure, madame a eu plus de précaution que nous. Il y a des\r\npersonnes qui\r\nsavent toujours penser à tout.» Elle leva la tête\r\nvers\r\nlui: «Si vous en\r\ndésirez, monsieur? C'est dur de jeûner depuis le\r\nmatin.»\r\nIl salua: «Ma\r\nfoi, franchement, je ne refuse pas, je n'en peux plus. A la guerre\r\ncomme\r\nà la guerre, n'est-ce pas, madame?» Et, jetant un regard\r\ncirculaire, il\r\najouta: «Dans des moments comme celui-ci, on est bien aise de\r\ntrouver\r\ndes gens qui vous obligent.»—Il avait un journal qu'il\r\nétendit\r\npour ne\r\npoint tacher son pantalon, et sur la pointe d'un couteau toujours\r\nlogé\r\ndans sa poche, il enleva une cuisse toute vernie de gelée, la\r\ndépeça des\r\ndents, puis la mâcha avec une satisfaction si évidente\r\nqu'il y eut dans\r\nla voiture un grand soupir de détresse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais Boule de Suif, d'une voix humble et douce, proposa aux bonnes\r\nsoeurs de partager sa collation. Elles acceptèrent toutes les\r\ndeux\r\ninstantanément, et, sans lever les yeux, se mirent à\r\nmanger très vite\r\naprès avoir balbutié des remerciements. Cornudet ne\r\nrefusa pas non plus\r\nles offres de sa voisine, et l'on forma avec les religieuses une sorte\r\nde table en développant des journaux sur les genoux."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les bouches s'ouvraient et se fermaient sans cesse, avalaient,\r\nmastiquaient, engloutissaient férocement. Loiseau, dans son\r\ncoin,\r\ntravaillait dur, et, à voix basse, il engageait sa femme\r\nà l'imiter.\r\nElle résista longtemps, puis, après une crispation qui\r\nlui parcourut les\r\nentrailles, elle céda. Alors son mari, arrondissant sa phrase,\r\ndemanda à\r\nleur «charmante compagne» si elle lui permettait d'offrir\r\nun petit\r\nmorceau à Mme Loiseau. Elle dit: «Mais oui, certainement,\r\nmonsieur,»\r\navec un sourire aimable, et tendit la terrine."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Un embarras se produisit lorsqu'on eût débouché\r\nla première bouteille de\r\nbordeaux: il n'y avait qu'une timbale. On se la passa après\r\nl'avoir\r\nessuyée. Cornudet seul, par galanterie sans doute, posa ses\r\nlèvres à la\r\nplace humide encore des lèvres de sa voisine."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors, entourés de gens qui mangeaient, suffoqués par\r\nles émanations des\r\nnourritures, le comte et la comtesse de Bréville, ainsi que M.\r\net Mme\r\nCarré-Lamadon souffrirent ce supplice odieux qui a gardé\r\nle nom de\r\nTantale. Tout d'un coup la jeune femme du manufacturier poussa un\r\nsoupir\r\nqui fit retourner les têtes; elle était aussi blanche que\r\nla neige du\r\ndehors; ses yeux se fermèrent, son front tomba: elle avait perdu\r\nconnaissance. Son mari, affolé, implorait le secours de tout le\r\nmonde.\r\nChacun perdait l'esprit, quand la plus âgée des bonnes\r\nsoeurs, soutenant\r\nla tête de la malade, glissa entre ses lèvres la timbale\r\nde Boule de\r\nSuif et lui fit avaler quelques gouttes de vin. La jolie dame remua,\r\nouvrit les yeux, sourit et déclara d'une voix mourante qu'elle\r\nse\r\nsentait fort bien maintenant. Mais, afin que cela ne se\r\nrenouvelât plus,\r\nla religieuse la contraignit à boire un plein verre de bordeaux,\r\net\r\nelle ajouta:—«C'est la faim, pas autre chose.» Alors Boule\r\nde Suif,\r\nrougissante et embarrassée, balbutia en regardant les quatre\r\nvoyageurs\r\nrestés à jeun: «Mon Dieu, si j'osais offrir\r\nà ces\r\nmessieurs et à ces\r\ndames ...» Elle se tut, craignant un outrage. Loiseau prit la\r\nparole: «Eh, parbleu, dans des cas pareils tout le monde est\r\nfrère et\r\ndoit\r\ns'aider. Allons, mesdames, pas de cérémonie, acceptez,\r\nque diable!\r\nSavons-nous si nous trouverons seulement une maison où passer la\r\nnuit?\r\nDu train dont nous allons nous ne serons pas à Tôtes avant\r\ndemain\r\nmidi.»—On hésitait, personne n'osant assumer la\r\nresponsabilité du «oui»."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais le comte trancha la question. Il se tourna vers la grosse fille\r\nintimidée, et, prenant son grand air de gentilhomme, il lui dit:\r\n«Nous\r\nacceptons avec reconnaissance, madame.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le premier pas seul coûtait. Une fois le Rubicon passé,\r\non s'en donna\r\ncarrément. Le panier fut vidé. Il contenait encore un\r\npâté de foie gras,\r\nun pâté de mauviettes, un morceau de langue fumée,\r\ndes poires de\r\nCrassane, un pavé de Pont-l'Evêque, des petits-fours et\r\nune tasse pleine\r\nde cornichons et d'oignons au vinaigre, Boule de Suif, comme toutes les\r\nfemmes, adorant les crudités."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On ne pouvait manger les provisions de cette fille sans lui parler.\r\nDonc\r\non causa, avec réserve d'abord, puis, comme elle se tenait fort\r\nbien, on\r\ns'abandonna davantage. Mmes de Bréville et Carré-Lamadon,\r\nqui avaient un\r\ngrand savoir-vivre, se firent gracieuses avec délicatesse. La\r\ncomtesse\r\nsurtout montra cette condescendance aimable des très nobles\r\ndames\r\nqu'aucun contact ne peut salir, et fut charmante. Mais la forte Mme\r\nLoiseau, qui avait une âme de gendarme, resta revêche,\r\nparlant peu et\r\nmangeant beaucoup."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On s'entretint de la guerre, naturellement. On raconta des faits\r\nhorribles des Prussiens, des traits de bravoure des Français; et\r\ntous\r\nces gens qui fuyaient rendirent hommage au courage des autres. Les\r\nhistoires personnelles commencèrent bientôt, et Boule de\r\nSuif raconta,\r\navec une émotion vraie, avec cette chaleur de parole qu'ont\r\nparfois les\r\nfilles pour exprimer leurs emportements naturels, comment elle avait\r\nquitté Rouen: «J'ai cru d'abord que je pourrais rester,\r\ndit-elle.\r\nJ'avais ma maison pleine de provisions, et j'aimais mieux nourrir\r\nquelques soldats que m'expatrier je ne sais où. Mais quand je\r\nles ai\r\nvus, ces Prussiens, ce fut plus fort que moi! Ils m'ont tourné\r\nle sang\r\nde colère; et j'ai pleuré de honte toute la\r\njournée. Oh! si j'étais un\r\nhomme, allez! Je les regardais de ma fenêtre, ces gros porcs avec\r\nleur\r\ncasque à pointe, et ma bonne me tenait les mains pour\r\nm'empêcher de leur\r\njeter mon mobilier sur le dos. Puis il en est venu pour loger chez moi;\r\nalors j'ai sauté à la gorge du premier. Ils ne sont pas\r\nplus difficiles\r\nà étrangler que d'autres! Et je l'aurais terminé,\r\ncelui-là, si l'on ne\r\nm'avait pas tirée par les cheveux. Il a fallu me cacher\r\naprès ça. Enfin,\r\nquand j'ai trouvé une occasion, je suis partie, et me\r\nvoici.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On la félicita beaucoup. Elle grandissait dans l'estime de\r\nses\r\ncompagnons qui ne s'étaient pas montrés si crânes;\r\net Cornudet, en\r\nl'écoutant, gardait un sourire approbateur et bienveillant\r\nd'apôtre; de\r\nmême un prêtre entend un dévot louer Dieu, car les\r\ndémocrates à longue\r\nbarbe ont le monopole du patriotisme comme les hommes en soutane ont\r\ncelui de la religion. Il parla à son tour d'un ton doctrinaire,\r\navec\r\nl'emphase apprise dans les proclamations qu'on collait chaque jour aux\r\nmurs, et il finit par un morceau d'éloquence où il\r\nétrillait\r\nmagistralement cette «crapule de Badinguet»."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais Boule de Suif aussitôt se fâcha, car elle\r\nétait bonapartiste. Elle\r\ndevenait plus rouge qu'une guigne, et, bégayant d'indignation:\r\n«J'aurais\r\nbien voulu vous voir à sa place, vous autres. Ça aurait\r\nété du propre,\r\nah oui! C'est vous qui l'avez trahi, cet homme! On n'aurait plus\r\nqu'à\r\nquitter la France si l'on était gouverné par des\r\npolissons comme vous!»\r\nCornudet, impassible, gardait un sourire dédaigneux et\r\nsupérieur, mais\r\non sentait que les gros mots allaient arriver quand le comte\r\ns'interposa\r\net calma, non sans peine, la fille exaspérée, en\r\nproclamant avec\r\nautorité que toutes les opinions sincères étaient\r\nrespectables.\r\nCependant la comtesse et la manufacturière, qui avaient dans\r\nl'âme la\r\nhaine irraisonnée des gens comme il faut pour la\r\nRépublique, et cette\r\ninstinctive tendresse que nourrissent toutes les femmes pour les\r\ngouvernements à panache et despotiques, se sentaient,\r\nmalgré elles,\r\nattirées vers cette prostituée pleine de dignité,\r\ndont les sentiments\r\nressemblaient si fort aux leurs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le panier était vide. A dix on l'avait tari sans peine, en\r\nregrettant\r\nqu'il ne fût pas plus grand. La conversation continua quelque\r\ntemps, un\r\npeu refroidie néanmoins depuis qu'on avait fini de manger."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La nuit tombait, l'obscurité peu à peu devint\r\nprofonde, et le froid,\r\nplus sensible pendant les digestions, faisait frissonner Boule de Suif,\r\nmalgré sa graisse. Alors Mme de Bréville lui proposa sa\r\nchaufferette\r\ndont le charbon, depuis le matin, avait été plusieurs\r\nfois renouvelé, et\r\nl'autre accepta tout de suite, car elle se sentait les pieds\r\ngelés. Mmes\r\nCarré-Lamadon et Loiseau donnèrent les leurs aux\r\nreligieuses."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le cocher avait allumé ses lanternes. Elles\r\néclairaient d'une lueur vive\r\nun nuage de buée au-dessus de la croupe en sueur des timoniers,\r\net, des\r\ndeux côtés de la route, la neige qui semblait se\r\ndérouler sous le reflet\r\nmobile des lumières."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On ne distinguait plus rien dans la voiture; mais tout à coup\r\nun\r\nmouvement se fit entre Boule de Suif et Cornudet; et Loiseau, dont\r\nl'oeil fouillait l'ombre, crut voir l'homme à la grande barbe\r\ns'écarter\r\nvivement comme s'il eût reçu quelque bon coup lancé\r\nsans bruit."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Des petits points de feu parurent en avant sur la route.\r\nC'était Tôtes.\r\nOn avait marché onze heures, ce qui, avec les deux heures de\r\nrepos\r\nlaissées en quatre fois aux chevaux pour manger l'avoine et\r\nsouffler,\r\nfaisait quatorze. On entra dans le bourg et devant l'Hôtel du\r\nCommerce\r\non s'arrêta."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La portière s'ouvrit! Un bruit bien connu fit tressaillir\r\ntous les\r\nvoyageurs; c'étaient les heurts d'un fourreau de sabre sur le\r\nsol.\r\nAussitôt la voix d'un Allemand cria quelque chose."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Bien que la diligence fût immobile, personne ne descendait,\r\ncomme si\r\nl'on se fût attendu à être massacré à\r\nla sortie. Alors le conducteur\r\napparut, tenant à la main une de ses lanternes qui\r\néclaira subitement\r\njusqu'au fond de la voiture les deux rangs de têtes\r\neffarées, dont les\r\nbouches étaient ouvertes et les yeux écarquillés\r\nde surprise et\r\nd'épouvante."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "A côté du cocher se tenait, en pleine lumière,\r\nun officier allemand, un\r\ngrand jeune homme excessivement mince et blond, serré dans son\r\nuniforme\r\ncomme une fille en son corset, et portant sur le côté sa\r\ncasquette plate\r\net cirée qui le faisait ressembler au chasseur d'un hôtel\r\nanglais. Sa\r\nmoustache démesurée, à longs poils droits,\r\ns'amincissant indéfiniment de\r\nchaque côté et terminée par un seul fil blond, si\r\nmince qu'on n'en\r\napercevait pas la fin, semblait peser sur les coins de sa bouche, et,\r\ntirant la joue, imprimait aux lèvres un pli tombant."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il invita en français d'Alsacien les voyageurs à\r\nsortir, disant d'un ton\r\nraide:«—Foulez-vous tescentre, messieurs et tames?»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les deux bonnes soeurs obéirent les premières avec une\r\ndocilité de\r\nsaintes filles habituées à toutes les soumissions. Le\r\ncomte et la\r\ncomtesse parurent ensuite, suivis du manufacturier et de sa femme, puis\r\nde Loiseau poussant devant lui sa grande moitié. Celui-ci, en\r\nmettant\r\npied à terre, dit à l'officier: «Bonjour\r\nmonsieur», par\r\nun sentiment de\r\nprudence bien plus que par politesse. L'autre insolent comme les gens\r\ntout-puissants, le regarda sans répondre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif et Cornudet, bien que près de la\r\nportière, descendirent\r\nles derniers, graves et hautains devant l'ennemi. La grosse fille\r\ntâchait de se dominer et d'être calme: le démoc\r\ntourmentait d'une main\r\ntragique et un peu tremblante sa longue barbe roussâtre. Ils\r\nvoulaient\r\ngarder de la dignité, comprenant qu'en ces rencontres-là\r\nchacun\r\nreprésente un peu son pays; et pareillement\r\nrévoltés par la souplesse de\r\nleurs compagnons, elle, tâchait de se montrer plus fière\r\nque ses\r\nvoisines, les femmes honnêtes, tandis que lui, sentant bien qu'il\r\ndevait\r\nl'exemple, continuait en toute son attitude sa mission de\r\nrésistance\r\ncommencée au défoncement des routes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On entra dans la vaste cuisine de l'auberge, et l'Allemand,\r\ns'étant fait\r\nprésenter l'autorisation de départ signée par le\r\ngénéral en chef et où\r\nétaient mentionnés les noms, le signalement et la\r\nprofession de chaque\r\nvoyageur, examina longuement tout ce monde, comparant les personnes aux\r\nrenseignements écrits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Puis il dit brusquement:—«C'est pien», et il disparut."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors on respira. On avait faim encore; le souper fut\r\ncommandé. Une\r\ndemi-heure était nécessaire pour l'apprêter; et,\r\npendant que deux\r\nservantes avaient l'air de s'en occuper, on alla visiter les chambres.\r\nElles se trouvaient toutes dans un long couloir que terminait une porte\r\nvitrée marquée d'un numéro parlant."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Enfin on allait se mettre à table, quand le patron de\r\nl'auberge parut\r\nlui-même. C'était un ancien marchand de chevaux, un gros\r\nhomme\r\nasthmatique, qui avait toujours des sifflements, des enrouements, des\r\nchants de glaires dans le larynx. Son père lui avait transmis le\r\nnom de\r\nFollenvie."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il demanda:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Mademoiselle Élisabeth Rousset?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif tressaillit, se retourna:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—C'est moi."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Mademoiselle, l'officier prussien veut vous parler\r\nimmédiatement."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—A moi?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Oui, si vous êtes bien mademoiselle Élisabeth Rousset."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle se troubla, réfléchit une seconde, puis\r\ndéclara carrément:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—C'est possible, mais je n'irai pas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Un mouvement se fit autour d'elle; chacun discutait, cherchait la\r\ncause\r\nde cet ordre. Le comte s'approcha:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Vous avez tort, madame, car votre refus peut amener des\r\ndifficultés\r\nconsidérables, non seulement pour vous, mais même pour\r\ntous vos\r\ncompagnons. Il ne faut jamais résister aux gens qui sont les\r\nplus forts.\r\nCette démarche assurément ne peut présenter aucun\r\ndanger; c'est sans\r\ndoute pour quelque formalité oubliée."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tout le monde se joignit à lui, on la pria, on la pressa, on\r\nla\r\nsermonna, et l'on finit par la convaincre; car tous redoutaient les\r\ncomplications qui pourraient résulter d'un coup de tête.\r\nElle dit enfin:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—C'est pour vous que je le fais, bien sûr!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La comtesse lui prit la main:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Et nous vous remercions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle sortit. On l'attendit pour se mettre à table."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Chacun se désolait de n'avoir pas été\r\ndemandé à la place de cette fille\r\nviolente et irascible, et préparait mentalement des platitudes\r\npour le\r\ncas où on l'appellerait à son tour."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais, au bout de dix minutes, elle reparut, soufflant, rouge\r\nà\r\nsuffoquer, exaspérée. Elle balbutiait: «Oh! la\r\ncanaille!\r\nla canaille!»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tous s'empressaient pour savoir, mais elle ne dit rien; et comme le\r\ncomte insistait, elle répondit avec une grande dignité:\r\n«Non, cela ne\r\nvous regarde pas, je ne peux pas parler.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors on s'assit autour d'une haute soupière d'où\r\nsortait un parfum de\r\nchoux. Malgré cette alerte, le souper fut gai. Le cidre\r\nétait bon, le\r\nménage Loiseau et les bonnes soeurs en prirent, par\r\néconomie. Les autres\r\ndemandèrent du vin; Cornudet réclama de la bière.\r\nIl avait une façon\r\nparticulière de déboucher la bouteille, de faire mousser\r\nle liquide, de\r\nle considérer en penchant le verre, qu'il élevait ensuite\r\nentre la lampe\r\net son oeil pour bien apprécier la couleur. Quand il buvait, sa\r\ngrande\r\nbarbe, qui avait gardé la nuance de son breuvage aimé,\r\nsemblait\r\ntressaillir de tendresse; ses yeux louchaient pour ne point perdre de\r\nvue sa chope, et il avait l'air de remplir l'unique fonction pour\r\nlaquelle il était né. On eût dit qu'il\r\nétablissait en son esprit un\r\nrapprochement et comme une affinité entre les deux grandes\r\npassions qui\r\noccupaient toute sa vie: le Pale Ale et la Révolution; et\r\nassurément il\r\nne pouvait déguster l'un sans songer à l'autre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. et Mme Follenvie dînaient tout au bout de la table.\r\nL'homme, râlant\r\ncomme une locomotive crevée, avait trop de tirage dans la\r\npoitrine pour\r\npouvoir parler en mangeant; mais la femme ne se taisait jamais. Elle\r\nraconta toutes ses impressions à l'arrivée des Prussiens,\r\nce qu'ils\r\nfaisaient, ce qu'ils disaient, les exécrant, d'abord, parce\r\nqu'ils lui\r\ncoûtaient de l'argent, et, ensuite, parce qu'elle avait deux fils\r\nà\r\nl'armée. Elle s'adressait surtout à la comtesse,\r\nflattée de causer avec\r\nune dame de qualité."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Puis elle baissait la voix pour dire des choses délicates, et\r\nson mari,\r\nde temps en temps, l'interrompait:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Tu ferais mieux de te taire, madame Follenvie. Mais elle n'en\r\ntenait\r\naucun compte, et continuait:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Oui, madame, ces gens-là ça ne fait que manger des\r\npommes de terre et\r\ndu cochon, et puis du cochon et des pommes de terre. Et il ne faut pas\r\ncroire qu'ils sont propres.—Oh non!—Ils ordurent partout, sauf le\r\nrespect que je vous dois. Et si vous les voyiez faire l'exercice\r\npendant\r\ndes heures et des jours; ils sont là tous dans un champ:—et\r\nmarche en\r\navant, et marche en arrière, et tourne par-ci, et tourne\r\npar-là.—S'ils\r\ncultivaient la terre au moins, ou s'ils travaillaient aux routes dans\r\nleur pays!—Mais non, madame, ces militaires, ça n'est profitable\r\nà\r\npersonne! Faut-il que le pauvre peuple les nourrisse pour n'apprendre\r\nrien qu'à massacrer!—Je ne suis qu'une vieille femme sans\r\néducation,\r\nc'est vrai, mais en les voyant qui s'esquintent le tempérament\r\nà\r\npiétiner du matin au soir, je me dis:—Quand il y a des gens qui\r\nfont\r\ntant de découvertes pour être utiles, faut il que d'autres\r\nse donnent\r\ntant de mal pour être nuisibles! Vraiment, n'est-ce pas une\r\nabomination\r\nde tuer des gens qu'ils soient Prussiens, ou bien Anglais, ou bien\r\nPolonais, ou bien Français?—Si l'on se revenge sur quelqu'un qui\r\nvous a\r\nfait tort, c'est mal, puisqu'on vous condamne; mais quand on extermine\r\nnos garçons comme du gibier, avec des fusils, c'est donc bien,\r\npuisqu'on\r\ndonne des décorations à celui qui en détruit le\r\nplus?—Non, voyez-vous,\r\nje ne comprendrai jamais ça!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cornudet éleva la voix:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—La guerre est une barbarie quand on attaque un voisin paisible;\r\nc'est\r\nun devoir sacré quand on défend la patrie."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La vieille femme baissa la tête:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Oui, quand on se défend, c'est autre chose; mais si l'on ne\r\ndevrait\r\npas plutôt tuer tous les rois qui font ça pour leur\r\nplaisir?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L'oeil de Cornudet s'enflamma:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Bravo, citoyenne! dit-il."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "M. Carré-Lamadon réfléchissait\r\nprofondément. Bien qu'il fût fanatique\r\ndes illustres capitaines, le bon sens de cette paysanne le faisait\r\nsonger à l'opulence qu'apporteraient dans un pays tant de bras\r\ninoccupés\r\net par conséquent ruineux, tant de forces qu'on entretient\r\nimproductives, si on les employait aux grands travaux industriels qu'il\r\nfaudra des siècles pour achever."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais Loiseau, quittant sa place, alla causer tout bas avec\r\nl'aubergiste.\r\nLe gros homme riait, toussait, crachait; son énorme ventre\r\nsautillait de\r\njoie aux plaisanteries de son voisin, et il lui acheta six feuillettes\r\nde bordeaux pour le printemps, quand les Prussiens seraient partis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le souper à peine achevé, comme on était\r\nbrisé de fatigue, on se coucha."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cependant Loiseau, qui avait observé les choses, fit mettre\r\nau lit son\r\népouse, puis colla tantôt son oreille et tantôt son\r\noeil au trou de la\r\nserrure, pour tâcher de découvrir ce qu'il appelait:\r\n«les\r\nmystères du\r\ncorridor ». Au bout d'une heure environ, il entendit un\r\nfrôlement,\r\nregarda bien vite, et aperçut Boule de Suif qui paraissait plus\r\nreplète\r\nencore sous un peignoir de cachemire bleu, brodé de dentelles\r\nblanches.\r\nElle tenait un bougeoir à la main et se dirigeait vers le gros\r\nnuméro\r\ntout au fond du couloir. Mais une porte, à côté,\r\ns'entr'ouvrit, et,\r\nquand elle revint au bout de quelques minutes, Cornudet, en bretelles,\r\nla suivait. Ils parlaient bas, puis ils s'arrêtèrent.\r\nBoule de Suif\r\nsemblait défendre l'entrée de sa chambre avec\r\nénergie. Loiseau,\r\nmalheureusement, n'entendait pas les paroles, mais, à la fin,\r\ncomme ils\r\nélevaient la voix, il put en saisir quelques-unes. Cornudet\r\ninsistait\r\navec vivacité. Il disait:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Voyons, vous êtes bête, qu'est-ce que ça vous\r\nfait?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle avait l'air indigné et répondit:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Non, mon cher, il y a des moments où ces choses-là ne\r\nse font pas; et\r\npuis, ici, ce serait une honte."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il ne comprenait point, sans doute, et demanda pourquoi. Alors elle\r\ns'emporta, élevant encore le ton:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pourquoi? Vous ne comprenez pas pourquoi? Quand il y a des\r\nPrussiens\r\ndans la maison, dans la chambre à côté,\r\npeut-être?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il se tut. Cette pudeur patriotique de catin qui ne se laissait\r\npoint\r\ncaresser près de l'ennemi, dut réveiller en son coeur sa\r\ndignité\r\ndéfaillante, car, après l'avoir seulement\r\nembrassée, il regagna sa porte\r\nà pas de loup."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau, très allumé, quitta la serrure, battit un\r\nentrechat dans sa\r\nchambre, mit son madras, souleva le drap sous lequel gisait la dure\r\ncarcasse de sa compagne qu'il réveilla d'un baiser en murmurant:\r\n«M'aimes-tu, chérie?»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors toute la maison devint silencieuse. Mais bientôt\r\ns'éleva quelque\r\npart, dans une direction indéterminée qui pouvait\r\nêtre la cave aussi\r\nbien que le grenier, un ronflement puissant, monotone, régulier,\r\nun\r\nbruit sourd et prolongé, avec des tremblements de\r\nchaudière sous\r\npression. M. Follenvie dormait."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Comme on avait décidé qu'on partirait à huit\r\nheures le lendemain, tout\r\nle monde se trouva dans la cuisine; mais la voiture, dont la\r\nbâche avait\r\nun toit de neige, se dressait solitaire au milieu de la cour, sans\r\nchevaux et sans conducteur. On chercha en vain celui-ci dans les\r\nécuries, dans les fourrages, dans les remises. Alors tous les\r\nhommes se\r\nrésolurent à battre le pays et ils sortirent. Ils se\r\ntrouvèrent sur la\r\nplace, avec l'église au fond, et, des deux côtés,\r\ndes maisons basses où\r\nl'on apercevait des soldats prussiens. Le premier qu'ils virent\r\népluchait des pommes de terre. Le second, plus loin, lavait la\r\nboutique\r\ndu coiffeur. Un autre, barbu jusqu'aux yeux, embrassait un mioche qui\r\npleurait et le berçait sur ses genoux pour tâcher de\r\nl'apaiser; et les\r\ngrosses paysannes dont les hommes étaient à\r\n«l'armée de la guerre»,\r\nindiquaient par signes à leurs vainqueurs obéissants le\r\ntravail qu'il\r\nfallait entreprendre: fendre du bois, tremper la soupe, moudre le\r\ncafé;\r\nun d'eux même lavait le linge de son hôtesse, une\r\naïeule tout impotente."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le comte, étonné, interrogea le bedeau qui sortait du\r\npresbytère. Le\r\nvieux rat d'église lui répondit: «Oh!\r\nceux-là ne\r\nsont pas méchants;\r\nc'est pas des Prussiens à ce qu'on dit. Ils sont de plus loin;\r\nje ne\r\nsais pas bien d'où; et ils ont tous laissé une femme et\r\ndes enfants au\r\npays; ça ne les amuse pas, la guerre, allez! Je suis sûr\r\nqu'on pleure\r\nbien aussi là-bas après les hommes; et ça fournira\r\nune fameuse misère\r\nchez eux comme chez nous. Ici, encore, on n'est pas trop malheureux\r\npour\r\nle moment, parce qu'ils ne font pas de mal et qu'ils travaillent comme\r\ns'ils étaient dans leurs maisons. Voyez-vous, monsieur, entre\r\npauvres\r\ngens, faut bien qu'on s'aide ... C'est les grands qui font la\r\nguerre.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cornudet, indigné de l'entente cordiale établie entre\r\nles vainqueurs et\r\nles vaincus, se retira, préférant s'enfermer dans\r\nl'auberge. Loiseau eut\r\nun mot pour rire: «Ils repeuplent.» M. Carré-Lamadon\r\neut un mot\r\ngrave: «Ils réparent.» Mais on ne trouvait pas le\r\ncocher. A la fin on\r\nle\r\ndécouvrit dans le café du village, attablé\r\nfraternellement avec\r\nl'ordonnance de l'officier. Le comte l'interpella:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ne vous avait-on pas donné l'ordre d'atteler pour huit\r\nheures?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ah! bien oui, mais on m'en a donné un autre depuis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Lequel?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—De ne pas atteler du tout."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Qui vous a donné cet ordre?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ma foi! le commandant prussien."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pourquoi?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Je n'en sais rien. Allez lui demander. On me défend\r\nd'atteler, moi je\r\nn'attelle pas.—Voilà."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—C'est lui-même qui vous a dit cela?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Non, monsieur, c'est l'aubergiste qui m'a donné l'ordre de\r\nsa part."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Quand ça?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Hier soir, comme j'allais me coucher. Les trois hommes\r\nrentrèrent fort\r\ninquiets."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On demanda M. Follenvie, mais la servante répondit que\r\nMonsieur, à cause\r\nde son asthme, ne se levait jamais avant dix heures. Il avait\r\nmême\r\nformellement défendu de le réveiller plus tôt,\r\nexcepté en cas\r\nd'incendie."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On voulut voir l'officier, mais cela était impossible\r\nabsolument, bien\r\nqu'il logeât dans l'auberge, M. Follenvie seul était\r\nautorisé à lui\r\nparler pour les affaires civiles. Alors on attendit. Les femmes\r\nremontèrent dans leurs chambres, et des futilités les\r\noccupèrent."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cornudet s'installa sous la haute cheminée de la cuisine\r\noù flambait un\r\ngrand feu. Il se fit apporter là une des petites tables du\r\ncafé, une\r\ncanette, et il tira sa pipe qui jouissait parmi les démocrates\r\nd'une\r\nconsidération presque égale à la sienne, comme si\r\nelle avait servi la\r\npatrie en servant à Cornudet. C'était une superbe pipe en\r\nécume\r\nadmirablement culottée, aussi noire que les dents de son\r\nmaître, mais\r\nparfumée, recourbée, luisante, familière à\r\nsa main, et complétant sa\r\nphysionomie. Et il demeura immobile, les yeux tantôt fixés\r\nsur la flamme\r\ndu foyer, tantôt sur la mousse qui couronnait sa chope; et chaque\r\nfois\r\nqu'il avait bu, il passait d'un air satisfait ses longs doigts maigres\r\ndans ses longs cheveux gras pendant qu'il humait sa moustache\r\nfrangée\r\nd'écume."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau, sous prétexte de se dégourdir les jambes,\r\nalla placer du vin\r\naux débitants du pays. Le comte et le manufacturier se mirent\r\nà causer\r\npolitique. Ils prévoyaient l'avenir de la France. L'un croyait\r\naux\r\nd'Orléans, l'autre à un sauveur inconnu, un héros\r\nqui se révèlerait\r\nquand tout serait désespéré: un du Guesclin, une\r\nJeanne d'Arc peut-être?\r\nou un autre Napoléon Ier? Ah! si le prince impérial\r\nn'était pas si\r\njeune! Cornudet, les écoutant, souriait en homme qui sait le mot\r\ndes\r\ndestinées. Sa pipe embaumait la cuisine."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Comme dix heures sonnaient, M. Follenvie parut. On l'interrogea bien\r\nvite; mais il ne put que répéter deux ou trois fois, sans\r\nune variante,\r\nces paroles: L'officier m'a dit comme ça: «Monsieur\r\nFollenvie,\r\nvous\r\ndéfendrez qu'on attelle demain la voiture de ces voyageurs. Je\r\nne veux\r\npas qu'ils partent sans mon ordre. Vous entendez. Ça\r\nsuffit.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors on voulut voir l'officier. Le comte lui envoya sa carte\r\noù M.\r\nCarré-Lamadon ajouta son nom et tous ses titres. Le Prussien fit\r\nrépondre qu'il admettrait ces deux hommes à lui parler\r\nquand il aurait\r\ndéjeuné, c'est-à-dire vers une heure."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les dames reparurent et l'on mangea quelque peu, malgré\r\nl'inquiétude.\r\nBoule de Suif semblait malade et prodigieusement troublée."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On achevait le café quand l'ordonnance vint chercher ces\r\nmessieurs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau se joignit aux deux premiers; mais comme on essayait\r\nd'entraîner\r\nCornudet pour donner plus de solennité à leur\r\ndémarche, il déclara\r\nfièrement qu'il entendait n'avoir jamais aucun rapport avec les\r\nAllemands; et il se remit dans sa cheminée, demandant une autre\r\ncanette.\r\nLes trois hommes montèrent et furent introduits dans la plus\r\nbelle\r\nchambre de l'auberge où l'officier les reçut,\r\nétendu dans un fauteuil,\r\nles pieds sur la cheminée, fumant une longue pipe de porcelaine,\r\net\r\nenveloppé par une robe de chambre flamboyante,\r\ndérobée sans doute dans\r\nla demeure abandonnée de quelques bourgeois de mauvais\r\ngoût. Il ne se\r\nleva pas, ne les salua pas, ne les regarda pas. Il présentait un\r\nmagnifique échantillon de la goujaterie naturelle au militaire\r\nvictorieux."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Au bout de quelques instants il dit enfin:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Qu'est-ce que fous foulez?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le comte prit la parole:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Nous désirons partir, Monsieur."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Non."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Oserai-je vous demander la cause de ce refus?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Parce que che ne feux pas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Je vous ferai respectueusement observer, Monsieur, que votre\r\ngénéral\r\nen chef nous a délivré une permission de départ\r\npour gagner Dieppe; et\r\nje ne pense pas que nous ayons rien fait pour mériter vos\r\nrigueurs."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Che ne feux pas ... foilà tout ... Fous poufez tescentre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "S'étant inclinés tous les trois, ils se\r\nretirèrent."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L'après-midi fut lamentable. On ne comprenait rien à\r\nce caprice\r\nd'Allemand; et les idées les plus singulières troublaient\r\nles têtes.\r\nTout le monde se tenait dans la cuisine et l'on discutait sans fin,\r\nimaginant des choses invraisemblables. On voulait peut-être les\r\ngarder\r\ncomme otages—mais dans quel but?—ou les emmener prisonniers? ou,\r\nplutôt, leur demander une rançon considérable? A\r\ncette pensée, une\r\npanique les affola. Les plus riches étaient les plus\r\népouvantés, se\r\nvoyant déjà contraints, pour racheter leur vie, de verser\r\ndes sacs\r\npleins d'or entre les mains de ce soldat insolent. Ils se creusaient la\r\ncervelle pour découvrir des mensonges acceptables, dissimuler\r\nleurs\r\nrichesses, se faire passer pour pauvres, très pauvres. Loiseau\r\nenleva sa\r\nchaîne de montre et la cacha dans sa poche. La nuit qui tombait\r\naugmenta\r\nles appréhensions. La lampe fut allumée, et comme on\r\navait encore deux\r\nheures avant le dîner, Mme Loiseau proposa une partie de\r\ntrente-et-un.\r\nCe serait une distraction. On accepta. Cornudet lui-même, ayant\r\néteint\r\nsa pipe par politesse, y prit part."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le comte battit les cartes—donna—Boule de Suif avait trente-et-un\r\nd'emblée; et bientôt l'intérêt de la partie\r\napaisa la crainte qui\r\nhantait les esprits. Mais Cornudet s'aperçut que le\r\nménage Loiseau\r\ns'entendait pour tricher."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Comme on allait se mettre à table, M. Follenvie reparut; et,\r\nde sa voix\r\ngraillonnante, il prononça: «L'officier prussien fait\r\ndemander\r\nà Mlle\r\nElisabeth Rousset si elle n'a pas encore changé d'avis.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif resta debout, toute pâle; puis, devenant\r\nsubitement\r\ncramoisie, elle eut un tel étouffement de colère qu'elle\r\nne pouvait plus\r\nparler. Enfin elle éclata: «Vous lui direz à cette\r\ncrapule, à ce\r\nsaligaud, à cette Charogne de Prussien, que jamais je ne\r\nvoudrai; vous\r\nentendez bien, jamais, jamais, jamais.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le gros aubergiste sortit. Alors Boule de Suif fut entourée,\r\ninterrogée,\r\nsollicitée par tout le monde de dévoiler le\r\nmystère de sa visite. Elle\r\nrésista d'abord; mais l'exaspération domina\r\nbientôt: «Ce qu'il veut?...\r\nce qu'il veut? Il veut coucher avec moi!» cria-t-elle. Personne\r\nne se\r\nchoqua du mot, tant l'indignation fut vive. Cornudet brisa sa chope en\r\nla reposant violemment sur la table. C'était une clameur de\r\nréprobation\r\ncontre ce soudard ignoble, un souffle de colère, une union de\r\ntous pour\r\nla résistance, comme si l'on eût demandé à\r\nchacun une partie du\r\nsacrifice exigé d'elle. Le comte déclara avec\r\ndégoût que ces gens-là se\r\nconduisaient à la façon des anciens barbares. Les femmes\r\nsurtout\r\ntémoignèrent à Boule de Suif une\r\ncommisération énergique et caressante.\r\nLes bonnes soeurs, qui ne se montraient qu'aux repas, avaient\r\nbaissé la\r\ntête et ne disaient rien."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On dîna néanmoins lorsque la première fureur fut\r\napaisée; mais on parla\r\npeu: on songeait."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les dames se retirèrent de bonne heure; et les hommes, tout\r\nen fumant,\r\norganisèrent un écarté auquel fut convié M.\r\nFollenvie qu'on avait\r\nl'intention d'interroger habilement sur les moyens à employer\r\npour\r\nvaincre la résistance de l'officier. Mais il ne songeait\r\nqu'à ses\r\ncartes, sans rien écouter, sans rien répondre; et il\r\nrépétait sans\r\ncesse: «Au jeu, messieurs, au jeu.» Son attention\r\nétait si\r\ntendue qu'il\r\nen oubliait de cracher, ce qui lui mettait parfois des points d'orgue\r\ndans la poitrine. Ses poumons sifflants donnaient toute la gamme de\r\nl'asthme, depuis les notes graves et profondes jusqu'aux enrouements\r\naigus des jeunes coqs essayant de chanter."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il refusa même de monter, quand sa femme, qui tombait de\r\nsommeil, vint\r\nle chercher. Alors elle partit toute seule, car elle était\r\n«du\r\nmatin»,\r\ntoujours levée avec le soleil, tandis que son homme était\r\n«du soir»,\r\ntoujours prêt à passer la nuit avec des amis. Il lui cria:\r\n«Tu placeras\r\nmon lait de poule devant le feu,» et se remit à sa partie.\r\nQuand\r\non vit\r\nbien qu'on n'en pouvait rien tirer, on déclara qu'il\r\nétait temps de s'en\r\naller, et chacun gagna son lit."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On se leva encore d'assez bonne heure le lendemain avez un espoir\r\nindéterminé, un désir plus grand de s'en aller,\r\nune terreur du jour à\r\npasser dans cette horrible petite auberge."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Hélas! les chevaux restaient à l'écurie, le\r\ncocher demeurait invisible.\r\nOn alla, par désoeuvrement, tourner autour de la voiture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le déjeuner fut bien triste; et il s'était produit\r\ncomme un\r\nrefroidissement vis-à-vis de Boule de Suif, car la nuit, qui\r\nporte\r\nconseil, avait un peu modifié les jugements. On en voulait\r\npresque à\r\ncette fille, maintenant, de n'avoir pas été trouver\r\nsecrètement le\r\nPrussien, afin de ménager, au réveil, une bonne surprise\r\nà ses\r\ncompagnons. Quoi de plus simple? Qui l'eût su, d'ailleurs? Elle\r\naurait\r\npu sauver les apparences en faisant dire à l'officier qu'elle\r\nprenait en\r\npitié leur détresse. Pour elle, ça avait si peu\r\nd'importance!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais personne n'avouait encore ces pensées."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Dans l'après-midi, comme on s'ennuyait à périr,\r\nle comte proposa de\r\nfaire une promenade aux alentours du village. Chacun s'enveloppa avec\r\nsoin et la petite société partit, à l'exception de\r\nCornudet, qui\r\npréférait rester près du feu, et des bonnes\r\nsoeurs, qui passaient leurs\r\njournées dans l'église ou chez le curé."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le froid, plus intense de jour en jour, piquait cruellement le nez\r\net\r\nles oreilles; les pieds devenaient si douloureux que chaque pas\r\nétait\r\nune souffrance; et lorsque la campagne se découvrit, elle leur\r\napparut\r\nsi effroyablement lugubre sous cette blancheur illimitée que\r\ntout le\r\nmonde aussitôt retourna, l'âme glacée et le coeur\r\nserré."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les quatre femmes marchaient devant, les trois hommes suivaient, un\r\npeu\r\nderrière."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau, qui comprenait la situation, demanda tout à coup si\r\ncette«\r\ngarce-là» allait les faire rester longtemps encore dans un\r\npareil\r\nendroit. Le comte, toujours courtois, dit qu'on ne pouvait exiger d'une\r\nfemme un sacrifice aussi pénible, et qu'il devait venir\r\nd'elle-même. M.\r\nCarré-Lamadon remarqua que si les Français faisaient,\r\ncomme il en était\r\nquestion, un retour offensif par Dieppe, la rencontre ne pourrait avoir\r\nlieu qu'à Tôtes. Cette réflexion rendit les deux\r\nautres soucieux.—« Si\r\nl'on se sauvait à pied, »—dit Loiseau. Le comte haussa les\r\népaules:— «Y songez-vous, dans cette neige? avec nos\r\nfemmes? Et puis nous serions\r\ntout de suite poursuivis, rattrapés en dix minutes, et\r\nramenés\r\nprisonniers à la merci des soldats.»—C'était vrai;\r\non se\r\ntut."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les dames parlaient toilette; mais une certaine contrainte semblait\r\nles\r\ndésunir."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tout a coup, au bout de la rue, l'officier parut. Sur la neige qui\r\nfermait l'horizon, il profilait sa grande taille de guêpe en\r\nuniforme,\r\net marchait, les genoux écartés, de ce mouvement\r\nparticulier aux\r\nmilitaires qui s'efforcent de ne point maculer leurs bottes\r\nsoigneusement cirées."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il s'inclina en passant près des dames, et regarda\r\ndédaigneusement les\r\nhommes qui eurent, du reste, la dignité de ne point se\r\ndécouvrir, bien\r\nque Loiseau ébauchât un geste pour retirer sa coiffure."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif était devenue rouge jusqu'aux oreilles; et les\r\ntrois\r\nfemmes mariées ressentaient une grande humiliation d'être\r\nainsi\r\nrencontrées par ce soldat, dans la compagnie de cette fille\r\nqu'il avait\r\nsi cavalièrement traitée."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors on parla de lui, de sa tournure, de son visage. Mme\r\nCarré-Lamadon,\r\nqui avait connu beaucoup d'officiers et qui les jugeait en connaisseur,\r\ntrouvait celui-là pas mal du tout; elle regrettait même\r\nqu'il ne fût pas\r\nFrançais, parce qu'il ferait un fort joli hussard dont toutes\r\nles femmes\r\nassurément raffoleraient."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Une fois rentrés, on ne sut plus que faire. Des paroles\r\naigres furent\r\nmême échangées à propos de choses\r\ninsignifiantes. Le dîner, silencieux,\r\ndura peu, et chacun monta se coucher, espérant dormir pour tuer\r\nle\r\ntemps."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On descendit le lendemain avec des visages fatigués et des\r\ncoeurs\r\nexaspérés. Les femmes parlaient à peine à\r\nBoule de Suif."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Une cloche tinta. C'était pour un baptême. La grosse\r\nfille avait un\r\nenfant élevé chez des paysans d'Yvetot. Elle ne le voyait\r\npas une fois\r\nl'an, et n'y songeait jamais; mais la pensée de celui qu'on\r\nallait\r\nbaptiser lui jeta au coeur une tendresse subite et violente pour le\r\nsien, et elle voulut absolument assister à la\r\ncérémonie."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Aussitôt qu'elle fut partie, tout le monde se regarda, puis on\r\nrapprocha\r\nles chaises, car on sentait bien qu'à la fin il fallait\r\ndécider quelque\r\nchose. Loiseau eut une inspiration: il était d'avis de proposer\r\nà\r\nl'officier de garder Boule de Suif toute seule, et de laisser partir\r\nles autres. M. Follenvie se chargea encore de la commission, mais il\r\nredescendit presque aussitôt. L'Allemand, qui connaissait la\r\nnature\r\nhumaine, l'avait mis à la porte. Il prétendait retenir\r\ntout le monde\r\ntant que son désir ne serait pas satisfait."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors le tempérament populacier de Mme Loiseau\r\néclata:—« Nous n'allons\r\npourtant pas mourir de vieillesse ici. Puisque c'est son métier,\r\nà cette\r\ngueuse, de faire ça avec tous les hommes, je trouve qu'elle n'a\r\npas le\r\ndroit de refuser l'un plutôt que l'autre. Je vous demande un peu,\r\nça a\r\npris tout ce qu'elle a trouvé dans Rouen, même des\r\ncochers! oui, madame,\r\nle cocher de la préfecture! Je le sais bien, moi, il\r\nachète son vin à la\r\nmaison. Et aujourd'hui qu'il s'agit de nous tirer d'embarras, elle fait\r\nla mijaurée, cette morveuse!... Moi, je trouve qu'il se conduit\r\ntrès\r\nbien, cet officier. Il est peut-être privé depuis\r\nlongtemps; et nous\r\nétions là trois qu'il aurait sans doute\r\npréférées. Mais non, il se\r\ncontente de celle à tout le monde. Il respecte les femmes\r\nmariées.\r\nSongez donc, il est le maître. Il n'avait qu'à dire:\r\n«Je\r\nveux», et il\r\npouvait nous prendre de force avec ses soldats.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les deux femmes eurent un petit frisson. Les yeux de la jolie Mme\r\nCarré-Lamadon brillaient, et elle était un peu\r\npâle, comme si elle se\r\nsentait déjà prise de force par l'officier."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les hommes, qui discutaient à l'écart, se\r\nrapprochèrent. Loiseau,\r\nfuribond, voulait livrer «cette misérable» pieds et\r\npoings\r\nliés, à\r\nl'ennemi. Mais le comte, issu de trois générations\r\nd'ambassadeurs, et\r\ndoué d'un physique de diplomate, était partisan de\r\nl'habileté: «Il\r\nfaudrait la décider »,—dit-il."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors on conspira."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les femmes se serrèrent, le ton de la voix fut baissé,\r\net la discussion\r\ndevint générale, chacun donnant son avis. C'était\r\nfort convenable du\r\nreste. Ces dames surtout trouvaient des délicatesses de\r\ntournures, des\r\nsubtilités d'expression charmantes, pour dire les choses les\r\nplus\r\nscabreuses. Un étranger n'aurait rien compris, tant les\r\nprécautions du\r\nlangage étaient observées. Mais la légère\r\ntranche de pudeur dont est\r\nbardée toute femme du monde ne recouvrant que la surface, elles\r\ns'épanouissaient dans cette aventure polissonne, s'amusaient\r\nfollement\r\nau fond, se sentant dans leur élément, tripotant de\r\nl'amour avec la\r\nsensualité d'un cuisinier gourmand qui prépare le souper\r\nd'un autre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La gaieté revenait d'elle-même, tant l'histoire leur\r\nsemblait drôle à la\r\nfin. Le comte trouva des plaisanteries un peu risquées, mais si\r\nbien\r\ndites qu'elles faisaient sourire. A son tour Loiseau lâcha\r\nquelques\r\ngrivoiseries plus raides dont on ne se blessa point; et la\r\npensée\r\nbrutalement exprimée par sa femme dominait tous les esprits:\r\n«Puisque\r\nc'est son métier à cette fille, pourquoi refuserait-elle\r\ncelui-là plus\r\nqu'un autre?» La gentille Mme Carré-Lamadon semblait\r\nmême\r\npenser qu'à\r\nsa place elle refuserait celui-là moins qu'un autre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On prépara longuement le blocus, comme pour une forteresse\r\ninvestie.\r\nChacun convint du rôle qu'il jouerait, des arguments dont il\r\ns'appuierait, des manoeuvres qu'il devrait exécuter. On\r\nrégla le plan\r\ndes attaques, les ruses à employer, et les surprises de\r\nl'assaut, pour\r\nforcer cette citadelle vivante à recevoir l'ennemi dans la place."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cornudet cependant restait à l'écart,\r\ncomplètement étranger à cette\r\naffaire."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Une attention si profonde tendait les esprits, qu'on n'entendit\r\npoint\r\nrentrer Boule de Suif. Mais le comte souffla un léger:\r\n«Chut!»\r\nqui fit\r\nrelever tous les yeux. Elle était là. On se tut\r\nbrusquement et un\r\ncertain embarras empêcha d'abord de lui parler. La comtesse, plus\r\nassouplie que les autres aux duplicités des salons,\r\nl'interrogea: «Etait-ce amusant, ce baptême?»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La grosse fille, encore émue, raconta tout, et les figures,\r\net les\r\nattitudes, et l'aspect même de l'église. Elle ajouta:\r\n«C'est si bon de\r\nprier quelquefois.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cependant, jusqu'au déjeuner, ces dames se\r\ncontentèrent d'être aimables\r\navec elle, pour augmenter sa confiance et sa docilité à\r\nleurs conseils."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Aussitôt à table, on commença les approches. Ce\r\nfut d'abord une\r\nconversation vague sur le dévouement. On cita des exemples\r\nanciens:\r\nJudith et Holopherne, puis, sans aucune raison, Lucrèce avec\r\nSextus,\r\nCléopâtre faisant passer par sa couche tous les\r\ngénéraux ennemis, et les\r\nréduisant à des servilités d'esclave. Alors se\r\ndéroula une histoire\r\nfantaisiste, éclose dans l'imagination de ces millionnaires\r\nignorants,\r\noù les citoyennes de Rome allaient endormir à Capoue\r\nAnnibal entre leurs\r\nbras, et, avec lui, ses lieutenants, et les phalanges des mercenaires.\r\nOn cita toutes les femmes qui ont arrêté des\r\nconquérants, fait de leur\r\ncorps un champ de bataille, un moyen de dominer, une arme, qui ont\r\nvaincu par leurs caresses héroïques des êtres hideux\r\nou détestés, et\r\nsacrifié leur chasteté à la vengeance et au\r\ndévouement."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On parla même en termes voilés de cette Anglaise de\r\ngrande famille qui\r\ns'était laissé inoculer une horrible et contagieuse\r\nmaladie pour la\r\ntransmettre à Bonaparte sauvé miraculeusement, par une\r\nfaiblesse subite,\r\nà l'heure du rendez-vous fatal."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et tout cela s'était raconté d'une façon\r\nconvenable et modérée, où\r\nparfois éclatait un enthousiasme voulu propre à exciter\r\nl'émulation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On aurait pu croire, à la fin, que le seul rôle de la\r\nfemme, ici-bas,\r\nétait un perpétuel sacrifice de sa personne, un abandon\r\ncontinu aux\r\ncaprices des soldatesques. Les deux bonnes soeurs ne semblaient point\r\nentendre, perdues en des pensées profondes, Boule de Suif ne\r\ndisait\r\nrien."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Pendant tout l'après-midi, on la laissa\r\nréfléchir. Mais, au lieu de\r\nl'appeler «madame» comme on avait fait jusque-là, on\r\nlui disait\r\nsimplement «mademoiselle», sans que personne sût bien\r\npourquoi,\r\ncomme\r\nsi l'on avait voulu la faire descendre d'un degré dans l'estime\r\nqu'elle\r\navait escaladée, lui faire sentir sa situation honteuse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Au moment où l'on servit le potage, M. Follenvie reparut,\r\nrépétant sa\r\nphrase de la veille: «L'officier prussien fait demander à\r\nMlle\r\nElisabeth Rousset si elle n'a point encore changé d'avis.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif répondit sèchement: «Non,\r\nmonsieur.»\r\nMais au dîner la\r\ncoalition faiblit. Loiseau eut trois phrases malheureuses. Chacun se\r\nbattait les flancs pour découvrir des exemples nouveaux et ne\r\ntrouvait\r\nrien, quand la comtesse, sans préméditation\r\npeut-être, éprouvant un\r\nvague besoin de rendre hommage à la Religion, interrogea la plus\r\nâgée\r\ndes bonnes soeurs sur les grands faits de la vie des saints. Or,\r\nbeaucoup avaient commis des actes qui seraient des crimes à nos\r\nyeux;\r\nmais l'Église absout sans peine ces forfaits quand ils sont\r\naccomplis\r\npour la gloire de Dieu, ou pour le bien du prochain. C'était un\r\nargument\r\npuissant: la comtesse en profita. Alors, soit par une de ces ententes\r\ntacites, de ces complaisances voilées, où excelle\r\nquiconque porte un\r\nhabit ecclésiastique, soit simplement par l'effet d'une\r\ninintelligence\r\nheureuse, d'une secourable bêtise, la vieille religieuse apporta\r\nà la\r\nconspiration un formidable appui. On la croyait timide, elle se montra\r\nhardie, verbeuse, violente. Celle-là n'était pas\r\ntroublée par les\r\ntâtonnements de la casuistique; sa doctrine semblait une barre de\r\nfer;\r\nsa foi n'hésitait jamais; sa conscience n'avait point de\r\nscrupules."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle trouvait tout simple le sacrifice d'Abraham, car elle aurait\r\nimmédiatement tué père et mère sur un ordre\r\nvenu d'En Haut; et rien, à\r\nson avis, ne pouvait déplaire au Seigneur quand l'intention\r\nétait\r\nlouable. La comtesse, mettant à profit l'autorité\r\nsacrée de sa complice\r\ninattendue, lui fit faire comme une paraphrase édifiante de cet\r\naxiome\r\nde morale: «La fin justifie les moyens.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle l'interrogeait."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Alors, ma soeur, vous pensez que Dieu accepte toutes les voies, et\r\npardonne le fait quand le motif est pur?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Qui pourrait en douter, madame? Une action blâmable en soi\r\ndevient\r\nsouvent méritoire par la pensée qui l'inspire."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et elles continuaient ainsi, démêlant les\r\nvolontés de Dieu, prévoyant\r\nses décisions, le faisant s'intéresser à des\r\nchoses qui, vraiment, ne le\r\nregardaient guère."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tout cela était enveloppé, habile, discret. Mais\r\nchaque parole de la\r\nsainte fille en cornette faisait brèche dans la\r\nrésistance indignée de\r\nla courtisane. Puis, la conversation se détournant un peu, la\r\nfemme aux\r\nchapelets pendants parla des maisons de son ordre, de sa\r\nsupérieure,\r\nd'elle-même, et de sa mignonne voisine, la chère soeur\r\nSaint-Nicéphore.\r\nOn les avait demandées au Havre pour soigner dans les\r\nhôpitaux des\r\ncentaines de soldats atteints de la petite vérole. Elle les\r\ndépeignit,\r\nces misérables, détailla leur maladie. Et tandis qu'elles\r\nétaient\r\narrêtées en route par les caprices de ce Prussien, un\r\ngrand nombre de\r\nFrançais pouvaient mourir qu'elles auraient sauvés\r\npeut-être! C'était sa\r\nspécialité, à elle, de soigner les militaires;\r\nelle avait été en Crimée,\r\nen Italie, en Autriche, et, racontant ses campagnes, elle se\r\nrévéla tout\r\nà coup une de ces religieuses à tambours et à\r\ntrompettes qui semblent\r\nfaites pour suivre les camps, ramasser des blessés dans des\r\nremous des\r\nbatailles, et, mieux qu'un chef, dompter d'un mot les grands soudards\r\nindisciplinés; une vraie bonne soeur Ran-tan-plan dont la figure\r\nravagée, crevée de trous sans nombre, paraissait une\r\nimage des\r\ndévastations de la guerre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Personne ne dit rien après elle, tant l'effet semblait\r\nexcellent."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Aussitôt le repas terminé, on remonta bien vite dans\r\nles chambres pour\r\nne descendre, le lendemain, qu'assez tard dans la matinée."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le déjeuner fut tranquille. On donnait à la graine\r\nsemée la veille le\r\ntemps de germer et de pousser ses fruits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La comtesse proposa de faire une promenade dans l'après-midi;\r\nalors le\r\ncomte, comme il était convenu, prit le bras de Boule de Suif, et\r\ndemeura\r\nderrière les autres, avec elle."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il lui parla de ce ton familier, paternel, un peu dédaigneux,\r\nque les\r\nhommes posés emploient avec les filles, l'appelant: «ma\r\nchère enfant»,\r\nla traitant du haut de sa position sociale, de son honorabilité\r\nindiscutée. Il pénétra tout de suite au vif de la\r\nquestion:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Donc, vous préférez nous laisser ici, exposés\r\ncomme vous-même à toutes\r\nles violences qui suivraient un échec des troupes prussiennes,\r\nplutôt\r\nque de consentir à une de ces complaisances que vous avez eues\r\nsi\r\nsouvent en votre vie?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif ne répondit rien."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Il la prit par la douceur, par le raisonnement, par les sentiments.\r\nIl\r\nsut rester «monsieur le comte», tout en se montrant galant\r\nquand il le\r\nfallut, complimenteur, aimable enfin. Il exalta le service qu'elle leur\r\nrendrait, parla de leur reconnaissance; puis soudain, la tutoyant\r\ngaiement: «Et tu sais, ma chère, il pourrait se vanter\r\nd'avoir\r\ngoûté\r\nd'une jolie fille comme il n'en trouvera pas beaucoup dans son\r\npays.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif ne répondit pas et rejoignit la\r\nsociété. Aussitôt rentrée,\r\nelle monta chez elle et ne reparut plus. L'inquiétude\r\nétait extrême.\r\nQu'allait-elle faire? Si elle résistait, quel embarras!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "L'heure du dîner sonna; on l'attendit en vain. M. Follenvie,\r\nentrant\r\nalors, annonça que Mlle Rousset se sentait indisposée, et\r\nqu'on pouvait\r\nse mettre à table. Tout le monde dressa l'oreille. Le comte\r\ns'approcha\r\nde l'aubergiste, et, tout bas: «Ça y est?—Oui.» Par\r\nconvenance,\r\nil ne\r\ndit rien à ses compagnons, mais il leur fit seulement un\r\nléger signe de\r\nla tête. Aussitôt un grand soupir de soulagement sortit de\r\ntoutes les\r\npoitrines, une allégresse parut sur les visages. Loiseau cria:\r\n«Saperlipopette! je paye du Champagne si l'on en trouve dans\r\nl'établissement»; et Mme Loiseau eut une angoisse lorsque\r\nle\r\npatron\r\nrevint avec quatre bouteilles aux mains. Chacun était devenu\r\nsubitement\r\ncommunicatif et bruyant; une joie égrillarde emplissait les\r\ncoeurs. Le\r\ncomte parut s'apercevoir que Mme Carré-Lamadon était\r\ncharmante, le\r\nmanufacturier fit des compliments à la comtesse. La conversation\r\nfut\r\nvive, enjouée, pleine de traits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tout à coup, Loiseau, la face anxieuse et levant les bras,\r\nhurla: «Silence!» Tout le monde se tut, surpris, presque\r\neffrayé\r\ndéjà. Alors il\r\ntendit l'oreille en faisant «Chut!» des deux mains, leva\r\nles yeux vers\r\nle plafond, écouta de nouveau, et reprit, de sa voix naturelle:\r\n«Rassurez-vous, tout va bien.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On hésitait à comprendre, mais bientôt un\r\nsourire passa."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Au bout d'un quart d'heure il recommença la même farce,\r\nla renouvela\r\nsouvent dans la soirée; et il faisait semblant d'interpeller\r\nquelqu'un\r\nà l'étage au-dessus, en lui donnant des conseils à\r\ndouble sens puisés\r\ndans son esprit de commis voyageur. Par moments il prenait un air\r\ntriste\r\npour soupirer: «Pauvre fille;» ou bien il murmurait entre\r\nses dents\r\nd'un air rageur: «Gueux de Prussien, va!» Quelquefois, au\r\nmoment\r\noù\r\nl'on n'y songeait plus, il poussait, d'une voix vibrante,\r\nplusieurs:«Assez!\r\nassez!» et ajoutait, comme se parlant à lui-même:\r\n«Pourvu\r\nque\r\nnous la revoyions; qu'il ne l'en fasse pas mourir, le\r\nmisérable!»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Bien que ces plaisanteries fussent d'un goût\r\ndéplorable, elles amusaient\r\net ne blessaient personne, car l'indignation dépend des milieux\r\ncomme le\r\nreste, et l'atmosphère qui s'était peu à peu\r\ncréée autour d'eux était\r\nchargée de pensées grivoises."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Au dessert, les femmes elles-mêmes firent des allusions\r\nspirituelles et\r\ndiscrètes. Les regards luisaient; on avait bu beaucoup. Le\r\ncomte, qui\r\nconservait, même en ses écarts, sa grande apparence de\r\ngravité, trouva\r\nune comparaison fort goûtée sur la fin des hivernages au\r\npôle et la joie\r\ndes naufragés qui voient s'ouvrir une route vers le sud."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau, lancé, se leva, un verre de Champagne à la\r\nmain: «Je bois à\r\nnotre délivrance!» Tout le monde fut debout; on\r\nl'acclamait. Les\r\ndeux\r\nbonnes soeurs, elles-mêmes, sollicitées par ces dames,\r\nconsentirent à\r\ntremper leurs lèvres dans ce vin mousseux dont elles n'avaient\r\njamais\r\ngoûté. Elles déclarèrent que cela\r\nressemblait à la limonade gazeuse,\r\nmais que c'était plus fin cependant."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau résuma la situation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—C'est malheureux de ne pas avoir de piano parce qu'on pourrait\r\npincer\r\nun quadrille."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cornudet n'avait pas dit un mot, pas fait un geste; il paraissait\r\nmême\r\nplongé dans des pensées très graves, et tirait\r\nparfois, d'un geste\r\nfurieux, sa grande barbe qu'il semblait vouloir allonger encore. Enfin,\r\nvers minuit, comme on allait se séparer, Loiseau, qui titubait,\r\nlui tapa\r\nsoudain sur le ventre et lui dit en bredouillant: «Vous\r\nn'êtes\r\npas\r\nfarce, vous, ce soir; vous ne dites rien, citoyen?» Mais Cornudet\r\nreleva brusquement la tête, et, parcourant la\r\nsociété d'un regard\r\nluisant et terrible: «Je vous dis à tous que vous venez de\r\nfaire\r\nune\r\ninfamie!» Il se leva, gagna la porte, répéta encore\r\nune\r\nfois: «Une\r\ninfamie!» et disparut."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cela jeta un froid d'abord. Loiseau, interloqué, restait\r\nbête; mais il\r\nreprit son aplomb, puis, tout à coup, se tordit en\r\nrépétant: «Ils sont\r\ntrop verts, mon vieux, ils sont trop verts.» Comme on ne\r\ncomprenait\r\npas, il raconta les «mystères du corridor». Alors il\r\ny eut une\r\nreprise\r\nde gaieté formidable. Ces dames s'amusaient comme des folles. Le\r\ncomte\r\net M. Carré-Lamadon pleuraient à force de rire. Ils ne\r\npouvaient croire."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Comment! vous êtes sûr? Il voulait...."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Je vous dis que je l'ai vu."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Et, elle a refusé...."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Parce que le Prussien était dans la chambre à\r\ncôté."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pas possible?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Je vous le jure."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le comte étouffait. L'industriel se comprimait le ventre\r\nà deux mains.\r\nLoiseau continuait:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Et, vous comprenez, ce soir, il ne la trouve pas drôle, mais\r\npas du\r\ntout."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et tous les trois repartaient, malades, essoufflés."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On se sépara là-dessus. Mais Mme Loiseau, qui\r\nétait de la nature des\r\norties, fit remarquer à son mari, au moment où ils se\r\ncouchaient, que «cette chipie» de petite\r\nCarré-Lamadon avait ri jaune toute la\r\nsoirée: «Tu sais, les femmes, quand ça en tient\r\npour l'uniforme, qu'il\r\nsoit\r\nFrançais ou bien Prussien, ça leur est, ma foi, bien\r\négal. Si ce n'est\r\npas une pitié, Seigneur Dieu!»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et toute la nuit, dans l'obscurité du corridor coururent\r\ncomme des\r\nfrémissements, des bruits légers, à peine\r\nsensibles, pareils à des\r\nsouffles, des effleurements de pieds nus, d'imperceptibles craquements.\r\nEt l'on ne dormit que très tard, assurément, car des\r\nfilets de lumière\r\nglissèrent longtemps sous les portes. Le champagne a de ces\r\neffets-là;\r\nil trouble, dit-on, le sommeil."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le lendemain, un clair soleil d'hiver rendait la neige\r\néblouissante. La\r\ndiligence, attelée enfin, attendait devant la porte, tandis\r\nqu'une armée\r\nde pigeons blancs, rengorgés dans leurs plumes épaisses,\r\navec un oeil\r\nrosé, taché, au milieu, d'un point noir, se promenaient\r\ngravement entre\r\nles jambes des six chevaux, et cherchaient leur vie dans le crottin\r\nfumant qu'ils éparpillaient."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le cocher, enveloppé dans sa peau de mouton, grillait une\r\npipe sur le\r\nsiège, et tous les voyageurs radieux faisaient rapidement\r\nempaqueter des\r\nprovisions pour le reste du voyage."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On n'attendait plus que Boule de Suif. Elle parut."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Elle semblait un peu troublée, honteuse; et elle\r\ns'avança timidement\r\nvers ses compagnons, qui, tous, d'un même mouvement, se\r\ndétournèrent\r\ncomme s'ils ne l'avaient pas aperçue. Le comte prit avec\r\ndignité le bras\r\nde sa femme et l'éloigna de ce contact impur."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La grosse fille s'arrêta, stupéfaite; alors, ramassant\r\ntout son courage,\r\nelle aborda la femme du manufacturier d'un «bonjour,\r\nmadame» humblement\r\nmurmuré. L'autre fit de la tête seule un petit salut\r\nimpertinent qu'elle\r\naccompagna d'un regard de vertu outragée. Tout le monde semblait\r\naffairé, et l'on se tenait loin d'elle comme si elle eût\r\napporté une\r\ninfection dans ses jupes. Puis on se précipita vers la voiture\r\noù elle\r\narriva seule, la dernière, et reprit en silence la place qu'elle\r\navait\r\noccupée pendant la première partie de la route."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On semblait ne pas la voir, ne pas la connaître; mais Mme\r\nLoiseau, la\r\nconsidérant de loin avec indignation, dit à mi-voix\r\nà son mari: «Heureusement que je ne suis pas à\r\ncôté d'elle.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La lourde voiture s'ébranla, et le voyage recommença.\r\nOn ne parla point\r\nd'abord. Boule de Suif n'osait pas lever les yeux. Elle se sentait en\r\nmême temps indignée contre tous ses voisins, et\r\nhumiliée d'avoir cédé,\r\nsouillée par les baisers de ce Prussien entre les bras duquel on\r\nl'avait\r\nhypocritement jetée."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais la comtesse, se tournant vers Mme Carré-Lamadon, rompit\r\nbientôt ce\r\npénible silence."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Vous connaissez, je crois, Mme d'Étrelles?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Oui, c'est une de mes amies."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Quelle charmante femme!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ravissante! Une vraie nature d'élite, fort instruite\r\nd'ailleurs, et\r\nartiste jusqu'au bout des doigts; elle chante à ravir et dessine\r\ndans la\r\nperfection."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Le manufacturier causait avec le comte, et au milieu du fracas des\r\nvitres un mot parfois jaillissait:\r\n«Coupon—échéance—prime—à terme.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Loiseau, qui avait chipé le vieux jeu de cartes de l'auberge,\r\nengraissé\r\npar cinq ans de frottement sur les tables mal essuyées, attaqua\r\nun\r\nbésigue avec sa femme."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les bonnes soeurs prirent à leur ceinture le long rosaire qui\r\npendait,\r\nfirent ensemble le signe de la croix, et tout à coup leurs\r\nlèvres se\r\nmirent à remuer vivement, se hâtant de plus en plus,\r\nprécipitant leur\r\nvague murmure comme pour une course d'"
+          },
+          {
+            "text": "oremus",
+            "italic": true
+          },
+          {
+            "text": "; et de temps en\r\ntemps\r\nelle baisaient une médaille, se signaient de nouveau, puis\r\nrecommençaient leur marmottement rapide et continu."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cornudet songeait, immobile."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Au bout de trois heures de route, Loiseau ramassa ses cartes:\r\n«Il\r\nfait\r\nfaim», dit-il."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors sa femme atteignit un paquet ficelé d'où elle\r\nfit sortir un\r\nmorceau de veau froid. Elle le découpa proprement par tranches\r\nminces et\r\nfermes, et tous deux se mirent à manger."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Si nous en faisions autant, dit la comtesse. On y consentit et elle\r\ndéballa les provisions préparées pour les deux\r\nménages. C'était, dans un\r\nde ces vases allongés dont le couvercle porte un lièvre\r\nen faïence, pour\r\nindiquer qu'un lièvre en pâté gît au-dessous,\r\nune charcuterie\r\nsucculente, où de blanches rivières de lard traversaient\r\nla chair brune\r\ndu gibier, mêlée à d'autres viandes hachées\r\nfin. Un beau carré de\r\ngruyère, apporté dans un journal, gardait imprimé:\r\n«faits divers» sur sa\r\npâte onctueuse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les deux bonnes soeurs développèrent un rond de\r\nsaucisson qui sentait\r\nl'ail; et Cornudet, plongeant les deux mains en même temps dans\r\nles\r\nvastes poches de son paletot sac, tira de l'une quatre oeufs durs et de\r\nl'autre le croûton d'un pain. Il détacha la coque, la jeta\r\nsous ses\r\npieds dans la paille et se mit à mordre à même les\r\noeufs, faisant tomber\r\nsur sa vaste barbe des parcelles de jaune clair qui semblaient,\r\nlà\r\ndedans, des étoiles."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Boule de Suif, dans la hâte et l'effarement de son lever,\r\nn'avait pu\r\nsonger à rien; et elle regardait, exaspérée,\r\nsuffoquant de rage, tous\r\nces gens qui mangeaient placidement. Une colère tumultueuse la\r\ncrispa\r\nd'abord, et elle ouvrit la bouche pour leur crier leur fait avec un\r\nflot\r\nd'injures qui lui montait aux lèvres; mais elle ne pouvait pas\r\nparler\r\ntant l'exaspération l'étranglait."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Personne ne la regardait, ne songeait à elle. Elle se sentait\r\nnoyée dans\r\nle mépris de ces gredins honnêtes qui l'avaient\r\nsacrifiée d'abord,\r\nrejetée ensuite, comme une chose malpropre et inutile. Alors\r\nelle songea\r\nà son grand panier tout plein de bonnes choses qu'ils avaient\r\ngoulûment\r\ndévorées, à ses deux poulets luisants de\r\ngelée, à ses pâtés, à ses\r\npoires, à ses quatre bouteilles de Bordeaux; et sa fureur\r\ntombant\r\nsoudain, comme une corde trop tendue qui casse, elle se sentit\r\nprête à\r\npleurer. Elle fit des efforts terribles, se raidit, avala ses sanglots\r\ncomme les enfants, mais les pleurs montaient, luisaient au bord de ses\r\npaupières, et bientôt deux grosses larmes, se\r\ndétachant des yeux,\r\nroulèrent lentement sur ses joues. D'autres les suivirent plus\r\nrapides,\r\ncoulant comme des gouttes d'eau qui filtrent d'une roche, et tombant\r\nrégulièrement sur la courbe rebondie de sa poitrine. Elle\r\nrestait\r\ndroite, le regard fixe, la face rigide et pâle, espérant\r\nqu'on ne la\r\nverrait pas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mais la comtesse s'en aperçut et prévint son mari d'un\r\nsigne. Il haussa\r\nles épaules comme pour dire: «Que voulez-vous, ce n'est\r\npas ma\r\nfaute.»\r\nMme Loiseau eut un rire muet de triomphe et murmura: «Elle pleure\r\nsa\r\nhonte.»"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Les deux bonnes soeurs s'étaient remises à prier,\r\naprès avoir roulé dans\r\nun papier le reste de leur saucisson."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alors Cornudet, qui digérait ses oeufs, étendit ses\r\nlongues jambes sous\r\nla banquette d'en face, se renversa, croisa ses bras, sourit comme un\r\nhomme qui vient de trouver une bonne farce, et se mit à\r\nsiffloter la\r\n"
+          },
+          {
+            "text": "Marseillaise",
+            "italic": true
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Toutes les figures se rembrunirent. Le chant populaire,\r\nassurément, ne\r\nplaisait point à ses voisins. Ils devinrent nerveux,\r\nagacés, et avaient\r\nl'air prêts à hurler comme des chiens qui entendent un\r\norgue de\r\nbarbarie. Il s'en aperçut, ne s'arrêta plus. Parfois\r\nmême il fredonnait\r\nles paroles:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Amour sacré de la patrie,\n\r\nConduis, soutiens, nos bras vengeurs,\n\r\nLiberté, liberté chérie,\n\r\nCombats avec tes défenseurs!\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "On fuyait plus vite, la neige étant plus dure; et\r\njusqu'à Dieppe,\r\npendant les longues heures mornes du voyage, à travers les\r\ncahots du\r\nchemin, par la nuit tombante, puis dans l'obscurité profonde de\r\nla\r\nvoiture, il continua, avec une obstination féroce, son\r\nsifflement\r\nvengeur et monotone, contraignant les esprits las et\r\nexaspérés à suivre\r\nle chant d'un bout à l'autre, à se rappeler chaque parole\r\nqu'ils\r\nappliquaient sur chaque mesure."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Et Boule de Suif pleurait toujours; et parfois un sanglot, qu'elle\r\nn'avait pu retenir, passait, entre deux couplets, dans les\r\nténèbres."
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      }
+    ]
+  }
+}

@@ -89,6 +89,89 @@ pub struct PageMetadata {
 
 pub type BookMetadata = PageMetadata;
 
+/// Canonical, renderer-ready representation of a Curated V1 page.
+///
+/// This is intentionally distinct from `Page::content`: the latter remains a
+/// legacy plain-text/search fallback for alpha rows while `content_v2` keeps
+/// the semantic V2 JSON losslessly (including block order and span flags).
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct PageContentV2 {
+    pub blocks: Vec<BlockV2>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct BlockV2 {
+    #[serde(rename = "type")]
+    pub block_type: BlockTypeV2,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub level: Option<u8>,
+    #[serde(default)]
+    pub spans: Vec<SpanV2>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum BlockTypeV2 {
+    Paragraph,
+    Heading,
+    SceneBreak,
+    Blockquote,
+    Verse,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct SpanV2 {
+    pub text: String,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub italic: Option<bool>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub bold: Option<bool>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub small_caps: Option<bool>,
+}
+
+impl PageContentV2 {
+    /// Compatibility text for legacy readers/search only; never use this to
+    /// reconstruct V2 blocks.
+    pub fn legacy_text(&self) -> String {
+        self.blocks
+            .iter()
+            .map(|block| block.spans.iter().map(|span| span.text.as_str()).collect::<String>())
+            .filter(|text| !text.trim().is_empty())
+            .collect::<Vec<_>>()
+            .join("\n\n")
+    }
+}
+
+#[cfg(test)]
+mod page_content_v2_tests {
+    use super::PageContentV2;
+
+    #[test]
+    fn v2_page_content_round_trips_without_losing_semantics() {
+        let source = r#"{
+          "blocks":[
+            {"type":"heading","level":2,"spans":[{"text":"Chapitre I","small_caps":true}]},
+            {"type":"paragraph","spans":[{"text":"Une phrase en français, English y español.","italic":true},{"text":" suite","bold":true}]},
+            {"type":"scene_break","spans":[{"text":"* * *"}]},
+            {"type":"blockquote","spans":[{"text":"Citation"}]},
+            {"type":"verse","spans":[{"text":"Premier vers\nSecond vers"}]}
+          ]
+        }"#;
+        let parsed: PageContentV2 = serde_json::from_str(source).expect("V2 fixture parses");
+        let db_json = serde_json::to_value(&parsed).expect("V2 serializes for JSONB");
+        let api_json = serde_json::to_string(&parsed).expect("V2 serializes for API");
+        let returned: PageContentV2 = serde_json::from_str(&api_json).expect("API V2 parses");
+
+        assert_eq!(parsed, returned);
+        assert_eq!(db_json["blocks"][0]["type"], "heading");
+        assert_eq!(db_json["blocks"][2]["type"], "scene_break");
+        assert_eq!(db_json["blocks"][1]["spans"][0]["italic"], true);
+        assert_eq!(db_json["blocks"][1]["spans"][1]["bold"], true);
+        assert_eq!(parsed.legacy_text(), "Chapitre I\n\nUne phrase en français, English y español. suite\n\n* * *\n\nCitation\n\nPremier vers\nSecond vers");
+    }
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Page {
     pub id: Uuid,
@@ -98,6 +181,7 @@ pub struct Page {
     /// Numéro ou libellé de page optionnel provenant de la pagination de la source physique/numérique (ex: "42", "XII")
     pub source_page_number: Option<String>,
     pub content: String,
+    pub content_v2: Option<PageContentV2>,
     /// Hash SHA-256 du texte normalisé servant à l'intégrité et à l'idempotence d'import dans la source
     pub content_hash: String,
     pub language_tag: LanguageTag,
@@ -139,6 +223,7 @@ impl Page {
             page_number,
             source_page_number,
             content: content_str,
+            content_v2: None,
             content_hash,
             language_tag: lang,
             token_count,

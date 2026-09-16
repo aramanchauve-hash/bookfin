@@ -1,0 +1,37 @@
+{
+  "work_id": "es-valle-inclan-sonata-primavera",
+  "author": "Ramón del Valle-Inclán",
+  "title": "Sonata de primavera",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 70,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 70,
+      "character_length": 1157,
+      "blocks_count": 1,
+      "preview": "Anochecía cuando la silla de posta traspuso la Puerta Salaria y comenzamos a cruzar la campiña llena de misterio y de rumores lejanos. Era la campiña clásica de las vides y de los olivos, con sus acueductos ruinosos, y sus colinas que tienen la graciosa ondulación de los senos femeninos. La silla de posta caminaba por una vieja calzada: Las mulas del tiro sacudían pesadamente las colleras, y el go...",
+      "content_hash": "1f6b926057e38f74970d35269d1e1ae8b02fae02c26785bb14aecbfa864a3d46"
+    },
+    "middle": {
+      "label": "Milieu (Page 35)",
+      "page_sequence_number": 35,
+      "total_pages": 70,
+      "character_length": 1772,
+      "blocks_count": 18,
+      "preview": "Pasé la noche en vela, sin conseguir conciliar el sueño. Al rayar el alba en las ventanas de mi alcoba, y sólo entonces, en medio del alegre voltear de un esquilón que tocaba a misa, me dormí. Al despertarme, ya muy entrado el día, supe con profundo reconocimiento cuánto por la salud de mi alma se interesaba la Princesa Gaetani. La noble señora estaba muy afligida porque yo había perdido el Oficio...",
+      "content_hash": "2e952339403c29ce4906a325801b5973bd5275fc6f20236cc76a0bcd97b6a616"
+    },
+    "end": {
+      "label": "Fin (Page 70)",
+      "page_sequence_number": 70,
+      "total_pages": 70,
+      "character_length": 1400,
+      "blocks_count": 3,
+      "preview": "La cabellera de oro, aquella cabellera fluida como la luz, olorosa como un huerto, estaba negra de sangre. Yo la sentí pesar sobre mi hombro semejante a la fatalidad en un destino trágico. Con la niña en brazos subí la escalinata. En lo alto salió a mi encuentro el coro angustiado de las hermanas. Yo escuché su llanto y sus gritos, yo sentí la muda interrogación de aquellos rostros pálidos que ten...",
+      "content_hash": "0306b5150fec00d230255080e7b99d50f69820336dfad7ec87b2b0d9d54d0b62"
+    }
+  }
+}

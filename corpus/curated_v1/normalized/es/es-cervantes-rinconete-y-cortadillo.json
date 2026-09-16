@@ -1,0 +1,2365 @@
+{
+  "work_id": "es-cervantes-rinconete-y-cortadillo",
+  "author": "Miguel de Cervantes",
+  "title": "Rinconete y Cortadillo",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "document_sha256": "b0c3c393afcc894761578b6ef6379ffc19a18bdbbf12d05afc04ad5ce96fa8f8",
+  "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+  "document": {
+    "format": "bookfin.document.v1",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "spans": [
+          {
+            "text": "RINCONETE Y CORTADILLO."
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En la venta del Molinillo, que está puesta en los fines de los\nfamosos campos de Alcudia, como vamos de Castilla á la Andalucía, un\ndia de los calorosos del verano se hallaron en ella acaso dos muchachos\nde hasta edad de catorce á quince años el uno, y el otro no pasaba\nde diez y siete: ambos de buena gracia, pero muy descosidos, rotos y\nmaltratados: capa no la tenian, los calzones eran de lienzo, y las\nmedias de carne; bien es verdad que lo enmendaban los zapatos, porque\nlos del uno eran alpargates tan traidos como llevados, y los del otro\npicados y sin suelas, de manera que mas le servian de cormas, que de\nzapatos: traia el uno montera verde de cazador, el otro un sombrero sin\ntoquilla, bajo de copa y ancho de falda: á la espalda, y ceñida por los\npechos, traia uno una camisa de color de camuza, encerrada y recogida\ntoda en una manga: el otro venia escueto y sin alforjas, puesto que\nen el seno se le parecia un gran bulto, que á lo que despues pareció,\nera un cuello de los que llaman valonas almidonadas, almidonado con\ngrasa, y tan deshilado de roto, que todo parecia hilachas: venian\nen él envueltos y guardados unos naipes de figura ovada, porque de\nejercitarlos, se les habian gastado las puntas, y porque durasen\nmas, se las cercenaron y los dejaron de aquel talle: estaban los dos\nquemados del sol, las uñas caireladas, y las manos no muy limpias: el\nuno tenia una media espada, y el otro un cuchillo de cachas amarillas,\nque los suelen llamar vaqueros."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Saliéronse los dos á sestear en un portal ó cobertizo que delante\nde la venta se hace, y sentándose frontero el uno del otro, el que parecia de mas edad\ndijo al mas pequeño:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿De qué tierra es vuesa merced, señor gentilhombre, y para dónde\nbueno camina?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Mi tierra, señor caballero, respondió el preguntado, no la sé, ni\npara dónde camino tampoco."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues en verdad, dijo el mayor, que no parece vuesa merced del\ncielo, y que este no es lugar para hacer su asiento en él, que por\nfuerza se ha de pasar adelante."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Así es, respondió el mediano; pero yo he dicho verdad en lo que\nhe dicho, porque mi tierra no es mia, pues no tengo en ella mas de\nun padre que no me tiene por hijo, y una madrastra que me trata como\nalnado: el camino que llevo es á la ventura, y allí le daria fin donde\nhallase quien me diese lo necesario para pasar esta miserable vida."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Y ¿sabe vuesa merced algun oficio?, preguntó el grande."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y el menor respondió:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No sé otro sino que corro como una liebre, y salto como un gamo, y\ncorto de tijera muy delicadamente."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Todo eso es muy bueno, útil y provechoso, dijo el grande, porque\nhabrá sacristan que le dé á vuesa merced la ofrenda de Todos Santos,\nporque para el Juéves Santo le corte florones de papel para el\nmonumento."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No es mi corte desa manera, respondió el menor, sino que mi padre\npor la misericordia del cielo es sastre y calcetero, y me enseñó á\ncortar antiparas, que como vuesa merced bien sabe, son medias calzas\ncon avanpiés, que por su propio nombre se suelen llamar polainas; y\ncórtolas tan bien, que en verdad que me podria examinar de maestro, si\nno que la corta suerte me tiene arrinconado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Todo eso y mas acontece por los buenos, respondió el grande, y\nsiempre he oido decir que las buenas habilidades son las mas perdidas,\npero aun edad tiene vuesa merced para enmendar su ventura: mas si yo\nno me engaño y el ojo no me miente, otras gracias tiene vuesa merced\nsecretas, y no las quiere manifestar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sí tengo, respondió el pequeño; pero no son para en público, como\nvuesa merced ha muy bien apuntado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á lo cual replicó el grande:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues yo le sé decir que soy uno de los mas secretos mozos que\nen grande parte se pueden hallar; y para obligar á vuesa merced que\ndescubra su pecho y descanse conmigo, le quiero obligar con descubrirle\nel mio primero, porque imagino que no sin misterio nos ha juntado aquí\nla suerte, y pienso que habemos de ser, deste hasta el último dia de\nnuestra vida, verdaderos amigos. Yo, señor hidalgo, soy natural de la\nFuenfrida, lugar conocido y famoso por los ilustres pasajeros que por\nél de contino pasan: mi nombre es Pedro del Rincon, mi padre es persona\nde calidad, porque es ministro de la Santa Cruzada, quiero decir, que\nes bulero ó buldero, como los llama el vulgo: algunos dias le acompañé\nen el oficio, y le aprendí de manera, que no daria ventaja en echar\nlas bulas al que mas\npresumiese en ello; pero habiéndome un dia aficionado mas al dinero\nde las bulas, que á las mismas bulas, me abracé con un talego, y di\nconmigo y con él en Madrid, donde con las comodidades que allí de\nordinario se ofrecen, en pocos dias saqué las entrañas al talego, y le\ndejé con mas dobleces que pañizuelo de desposado: vino el que tenia á\ncargo el dinero tras mí, prendiéronme, tuve poco favor, aunque viendo\naquellos señores mi poca edad se contentaron con que me arrimasen al\naldabilla, y me mosqueasen las espaldas por un rato, y con que saliese\ndesterrado por cuatro años de la corte: tuve paciencia, encogí los\nhombros, sufrí la tanda y mosqueo, y salí á cumplir mi destierro con\ntanta priesa, que no tuve lugar de buscar cabalgaduras: tomé de mis\nalhajas las que pude y las que me parecieron mas necesarias, y entre\nellas saqué estos naipes (y á este tiempo descubrió los que se han\ndicho, que en el cuello traia), con los cuales he ganado mi vida por\nlos mesones y ventas que hay desde Madrid aquí, jugando á la veintiuna;\ny aunque vuesa merced los ve tan astrosos y maltratados, usan de una\nmaravillosa virtud con quien los entiende, que no alzará que no quede\nun as debajo, y si vuesa merced es versado en este juego, verá cuánta\nventaja lleva el que sabe que tiene cierto un as á la primera carta,\nque le puede servir de un punto y de once; que con esta ventaja, siendo\nla veintiuna envidada, el dinero se queda en casa: fuera desto aprendí\nde un cocinero de un embajador ciertas tretas de quínolas y del parar,\ná quien tambien llaman el andaboba; que así como vuesa merced se puede\nexaminar en la corte de sus antiparas, así puedo yo ser maestro en la\nciencia villanesca: con esto voy seguro de no morir de hambre, porque\naunque llegue á un cortijo, hay quien quiera pasar tiempo jugando un\nrato, y desto hemos de hacer luego la esperiencia los dos: armemos la\nred, y veamos si cae algun pájaro destos arrieros que aquí hay, quiero\ndecir, que juguemos los dos á la veintiuna como si fuese de veras,\nque si alguno quisiere ser tercero, él será el primero que deje la\npecunia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sea en buen hora, dijo el otro, y en merced muy grande tengo la\nque vuesa merced me ha hecho en darme cuenta de su vida, con que me ha\nobligado á que yo no le encubra la mia, que diciéndola mas breve, es\nesta: Yo nací en el Pedroso, lugar puesto entre Salamanca y Medina del\nCampo: mi padre es sastre, enseñóme su oficio, y de corte de tijera con\nmi buen ingenio salté á cortar bolsas: enfadóme la vida estrecha de\nla aldea y el desamorado trato de mi madrastra: dejé mi pueblo, vine\ná Toledo á ejercitar mi oficio, y en él he hecho maravillas; porque\nno pende relicario de toca, ni hay faldriquera tan escondida, que mis\ndedos no visiten, ni mis tijeras no corten, aunque le estén guardando con los ojos de\nArgos: y en cuatro meses que estuve en aquella ciudad, nunca fuí cogido\nentre puertas, ni sobresaltado ni corrido de corchetes, ni soplado de\nningun cañuto; bien es verdad que habrá ocho dias que una espía doble\ndió noticia de mi habilidad al corregidor, el cual aficionado á mis\nbuenas partes quisiera verme; mas yo que por ser humilde no quiero\ntratar con personas tan graves, procuré de no verme con él, y así salí\nde la ciudad con tanta priesa, que no tuve lugar de acomodarme de\ncabalgaduras, ni blancas, ni de algun coche de retorno, ó por lo ménos\nde un carro."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso se borre, dijo Rincon, y pues ya nos conocemos, no hay para qué\naquesas grandezas ni altiveces: confesemos llanamente que no tenemos\nblanca ni aun zapatos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sea así, respondió Diego Cortado (que así dijo el menor que se\nllamaba), y pues nuestra amistad, como vuesa merced, señor Rincon,\nha dicho, ha de ser perpetua, comencémosla con santas y loables\nceremonias."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y levantándose Diego Cortado abrazó á Rincon, y Rincon á él tierna y\nestrechamente, y luego se pusieron los dos á jugar á la veintiuna con\nlos ya referidos naipes, limpios de polvo y de paja, mas no de grasa y\nmalicia: y á pocas manos alzaba tan bien por el as Cortado, como Rincon\nsu maestro."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Salió en esto un arriero á refrescarse al portal, y pidió que queria\nhacer tercio: acogiéronle de buena gana, y en ménos de media hora le\nganaron doce reales y veinte y dos maravedises, que fué darle doce\nlanzadas y veinte y dos mil pesadumbres: y creyendo el arriero que\npor ser muchachos no se lo defenderian, quiso quitarles el dinero;\nmas ellos poniendo el uno mano á su media espada, y el otro al de\nlas cachas amarillas, le dieron tanto que hacer, que á no salir sus\ncompañeros, sin duda lo pasara harto mal."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á esta sazon pasaron acaso por el camino una tropa de caminantes\ná caballo, que iban á sestear á la venta del Alcalde, que está media\nlegua mas adelante, los cuales viendo la pendencia del arriero con\nlos dos muchachos, los apaciguaron y les dijeron que si acaso iban á\nSevilla que se viniesen con ellos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Allá vamos, dijo Rincon, y serviremos á vuesas mercedes en todo\ncuanto nos mandaren."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y sin mas detenerse saltaron delante de las mulas, y se fueron\ncon ellos, dejando al arriero agraviado y enojado, y á la ventera\nadmirada de la buena crianza de los pícaros, que les habia estado\noyendo su plática, sin que ellos advirtiesen en ello; y cuando dijo\nal arriero que les habia oido decir que los naipes que traian eran\nfalsos, se pelaba las barbas, y queria ir á la venta tras ellos á\ncobrar su hacienda, porque decia que era grandísima afrenta y caso de\nménos valer, que dos muchachos hubiesen engañado á un hombrazo tan\ngrande como él: sus compañeros le detuvieron y aconsejaron que no fuese, siquiera por no\npublicar su inhabilidad y simpleza. En fin tales razones le dijeron,\nque aunque no le consolaron, le obligaron á quedarse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En esto Cortado y Rincon se dieron tan buena maña en servir á los\ncaminantes, que lo mas del camino los llevaban á las ancas; y aunque\nse les ofrecian algunas ocasiones de tentar las balijas de sus medios\namos, no las admitieron por no perder la ocasion tan buena del viaje de\nSevilla, donde ellos tenian grande deseo de verse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Con todo esto á la entrada de la ciudad, que fué á la oracion y por\nla puerta de la Aduana á causa del registro y almojarifazgo que se\npaga, no se pudo contener Cortado de no cortar la balija ó maleta que á\nlas ancas traia un frances de la camarada, y así con el de sus cachas\nle dió tan larga y profunda herida, que se parecian patentemente las\nentrañas, y sutilmente le sacó dos camisas buenas, un reloj de sol, y\nun libro de memoria, cosas que cuando las vieron, no les dieron mucho\ngusto; y pensando que pues el frances llevaba á las ancas aquella\nmaleta, no la habia de haber ocupado con tan poco peso como era el que\ntenian aquellas preseas, quisieran volver á darle otro tiento; pero no\nlo hicieron, imaginando que ya lo habrian echado ménos, y puesto en\nrecaudo lo que quedaba."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Habíanse despedido ántes que el salto hiciesen, de los que hasta\nallí los habian sustentado; y otro dia vendieron las camisas en el\nmalbaratillo que se hace fuera de la puerta del Arenal, y dellas\nhicieron veinte reales. Hecho esto se fueron á ver la ciudad, y\nadmiróles la grandeza y suntuosidad de su mayor iglesia, el gran\nconcurso de gente del rio, porque era en tiempo de cargazon de flota, y\nhabia en él seis galeras, cuya vista les hizo suspirar y aun temer el\ndia que sus culpas les habian de traer á morar en ellas de por vida:\necharon de ver los muchos muchachos de la esportilla que por allí\nandaban; informáronse de uno dellos qué oficio era aquel, y si era de\nmucho trabajo y de qué ganancia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Un muchacho asturiano, que fué á quien hicieron la pregunta,\nrespondió que el oficio era descansado, y de que no se pagaba alcabala,\ny que algunos dias salia con cinco y con seis reales de ganancia, con\nque comia y bebia, y triunfaba como cuerpo de rey, libre de buscar amo\ná quien dar fianzas, y seguro de comer á la hora que quisiese, pues á\ntodas lo hallaba en el mas mínimo bodegon de toda la ciudad, en la cual\nhabia tantos y tan buenos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "No les pareció mal á los dos amigos la relacion del asturianillo,\nni les descontentó el oficio, por parecerles que venia como de molde\npara poder usar el suyo con cubierta y seguridad, por la comodidad que\nofrecia de entrar en todas las casas; y luego determinaron de comprar\nlos instrumentos necesarios para usalle, pues lo podian usar sin exámen: y preguntándole al\nasturiano qué habian de comprar, les respondió que sendos costales\npequeños, limpios, ó nuevos, y cada uno tres espuertas de palma, dos\ngrandes y una pequeña, en las cuales se repartia la carne, pescado y\nfruta, en el costal el pan, y él les guió donde lo vendian, y ellos\ndel dinero de la galima del frances lo compraron todo; y dentro de dos\nhoras pudieran estar graduados en el nuevo oficio segun les ensayaban\nlas esportillas, y asentaban los costales; avisóles su adalid de los\npuestos donde habian de acudir: por las mañanas á la carnicería y á\nla plaza de San Salvador, los dias de pescado á la Pescadería y á la\nCostanilla, todas las tardes al rio, los juéves á la feria."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Toda esta leccion tomaron bien de memoria, y otro dia bien de mañana\nse plantaron en la plaza de San Salvador, y apénas hubieron llegado,\ncuando los rodearon otros mozos del oficio, que por lo flamante de\nlos costales y espuertas vieron ser nuevos en la plaza; hiciéronles\nmil preguntas, y á todas respondian con discrecion y mesura: en esto\nllegaron un medio estudiante y un soldado, y convidados de la limpieza\nde las espuertas de los dos novatos, el que parecia estudiante llamó á\nCortado, y el soldado á Rincon."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—En nombre sea de Dios, dijeron ambos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Para bien se comience el oficio, dijo Rincon, que vuesa merced me\nestrena, señor mio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á lo cual respondió el soldado:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—La estrena no será mala, porque estoy de ganancia, y soy enamorado,\ny tengo de hacer hoy banquete á unas amigas de mi señora."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues cargue vuesa merced á su gusto, que ánimo tengo y fuerzas para\nllevarme toda esta plaza, y aun si fuere menester que ayude á guisallo,\nlo haré de muy buena voluntad."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Contentóse el soldado de la buena gracia del mozo, y díjole que si\nqueria servir, que él le sacaria de aquel abatido oficio: á lo cual\nrespondió Rincon que por ser aquel el dia primero que le usaba, no le\nqueria dejar tan presto hasta ver á lo ménos lo que tenia de malo ó\nbueno; y cuando no le contentase, él daba su palabra de servirle á él,\ny ántes que á un canónigo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Rióse el soldado, cargóle muy bien, mostróle la casa de su dama para\nque la supiese de allí adelante, y él no tuviese necesidad, cuando\notra vez le enviase, de acompañarle. Rincon prometió fidelidad y buen\ntrato: dióle el soldado tres cuartos, y en un vuelo volvió á la plaza\npor no perder coyuntura; porque tambien desta diligencia les advirtió\nel asturiano, y de que cuando llevasen pescado menudo, conviene á\nsaber, albures, ó sardinas, ó acedías, bien podian tomar algunas, y\nhacerlas la salva, siquiera para el gasto de aquel dia; pero que esto\nhabia de ser con toda sagacidad y advertimiento, porque no se perdiese\nel crédito, que era lo que mas importaba en aquel ejercicio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Por presto que volvió Rincon, ya halló en el mismo puesto á Cortado.\nLlegóse Cortado á Rincon, y preguntóle que cómo le habia ido. Rincon\nabrió la mano, y mostróle los tres cuartos. Cortado entró la suya en\nel seno, y sacó una bolsilla que mostraba haber sido de ámbar en los\npasados tiempos; venia algo hinchada, y dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Con esta me pagó su reverencia del estudiante y con dos cuartos\nmas; tomadla vos, Rincon, por lo que puede suceder."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y habiéndosela ya dado secretamente, veis aquí do vuelve el\nestudiante trasudando y turbado de muerte, y viendo á Cortado le\ndijo si acaso habia visto una bolsa de tales y tales señas, que con\nquince escudos de oro en oro, y con tres reales de á dos, y tantos\nmaravedís en cuartos y en ochavos le faltaba, y que le dijese si la\nhabia tomado en el entre tanto que con él habia andado comprando. Á lo\ncual con estraño disimulo, sin alterarse ni mudarse en nada, respondió\nCortado:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Lo que yo sabré decir desa bolsa es que no debe de estar perdida,\nsi ya no es que vuesa merced la puso á mal recaudo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso es ello, pecador de mí, respondió el estudiante, que la debí de\nponer á mal recaudo, pues me la hurtaron."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Lo mismo digo yo, dijo Cortado: pero para todo hay remedio, si no\nes para la muerte, y el que vuesa merced podrá tomar es lo primero y\nprincipal tener paciencia, que de ménos nos hizo Dios, y un dia viene\ntras otro dia, y donde las dan las toman, y podria ser que con el\ntiempo el que llevó la bolsa se viniese á arrepentir, y se la volviese\ná vuestra merced sahumada."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—El sahumerio le perdonaríamos, respondió el estudiante."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y Cortado prosiguió diciendo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Cuanto mas que cartas de descomunion hay paulinas, y buena\ndiligencia, que es madre de la buenaventura, aunque á la verdad no\nquisiera yo ser el llevador de la bolsa, porque si es que vuesa merced\ntiene alguna órden sacra, parecermeia á mí que habia cometido algun\ngrande incesto ó sacrilegio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Y ¿cómo que ha cometido sacrilegio? dijo á esto adolorido el\nestudiante; que puesto caso que yo no soy sacerdote sino sacristan de\nunas monjas, el dinero de la bolsa era del tercio de una capellanía\nque me dió á cobrar un sacerdote amigo mio, y es dinero sagrado y\nbendito."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Con su pan se lo coma, dijo Rincon á este punto, no le arriendo\nla ganancia, dia de juicio hay donde todo saldrá, como dicen, en la\ncolada, y entónces se verá quién fué Callejas, y el atrevido que se\natrevió á tomar, hurtar y menoscabar el tercio de la capellanía: y\n¿cuánto renta cada año, dígame, señor sacristan, por su vida?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Renta la puta que me parió; y ¡estoy yo agora para decir lo que\nrenta! respondió el sacristan con algun tanto de demasiada cólera:\ndecidme, hermano, si sabeis algo, si no quedad con Dios, que yo la\nquiero hacer pregonar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No me parece mal remedio ese, dijo Cortado, pero advierta vuesa merced no se le\nolviden las señas de la bolsa, ni la cantidad puntualmente del dinero\nque va en ella, que si yerra en un ardite, no parecerá en dias del\nmundo, y esto le doy por hado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No hay que temer deso, respondió el sacristan, que lo tengo mas en\nla memoria que el tocar de las campanas: no me erraré en un átomo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Sacó en esto de la faldriquera un pañuelo randado para limpiarse\nel sudor que llovia de su rostro como de alquitara; y apénas le hubo\nvisto Cortado, cuando le marcó por suyo: y habiéndose ido el sacristan,\nCortado le siguió y le alcanzó en las gradas, donde le llamó y le\nretiró á una parte, y allí le comenzó á decir tantos disparates al modo\nde lo que llaman bernardinas, cerca del hurto y hallazgo de su bolsa,\ndándole buenas esperanzas, sin concluir jamas razon que comenzase, que\nel pobre sacristan estaba embelesado escuchándole; y como no acababa de\nentender lo que le decia, hacia que le repitiese la razon dos y tres\nveces."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Estábale mirando Cortado á la cara atentamente, y no quitaba los\nojos de sus ojos: el sacristan le miraba de la misma manera, estando\ncolgado de sus palabras: este tan grande embelesamiento dió lugar á\nCortado que concluyese su obra, y sutilmente le sacó el pañuelo de la\nfaldriquera, y despidiéndose dél, le dijo que á la tarde procurase de\nverle en aquel mismo lugar, porque él traia entre ojos que un muchacho\nde su mismo oficio y de su mismo tamaño, que era algo ladroncillo, le\nhabia tomado la bolsa, y que él se obligaba á saberlo dentro de pocos ó\nde muchos dias."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Con esto se consoló algo el sacristan, y se despidió de Cortado,\nel cual se vino donde estaba Rincon, que todo lo habia visto un poco\napartado dél, y mas abajo estaba otro mozo de la esportilla que vió\ntodo lo que habia pasado, y cómo Cortado daba el pañuelo á Rincon; y\nllegándose á ellos les dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Díganme, señores galanes, ¿voacedes son de mala entrada, ó no?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No entendemos esa razon, señor galan, respondió Rincon."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Qué, no entrevan, señores murcios? respondió el otro."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No somos de Teba ni de Murcia, dijo Cortado; si otra cosa quiere,\ndígala; si no, váyase con Dios."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿No lo entienden? dijo el mozo, pues yo se lo daré á entender\ny á beber con una cuchara de plata: quiero decir, señores ¿si son\nvuesas mercedes ladrones? mas no sé para qué les pregunto esto, pues\nsé ya que lo son; mas díganme, ¿cómo no han ido á la aduana del señor\nMonipodio?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Págase en esta tierra almojarifazgo de ladrones, señor galan? dijo\nRincon."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Si no se paga, respondió el mozo, á lo ménos regístranse ante\nel señor Monipodio, que es su padre, su maestro y su amparo; y así\nles aconsejo que vengan conmigo á darle la obediencia, ó si no no se\natrevan á hurtar sin su señal, que les costará caro."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo pensé, dijo\nCortado, que el hurtar era oficio libre, horro de pecho y alcabala, y\nque si se paga es por junto, dando por fiadores á la garganta y á las\nespaldas; pero pues así es, y en cada tierra hay su uso, guardemos\nnosotros el desta, que por ser la mas principal del mundo, será el\nmas acertado de todo él; y así puede vuesa merced guiarnos donde está\nese caballero que dice, que ya yo tengo barruntos, segun lo que he\noido decir, que es muy calificado y generoso, y ademas hábil en el\noficio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Y ¿cómo que es calificado, hábil y suficiente? respondió el mozo:\neslo tanto, que en cuatro años que ha que tiene el cargo de ser nuestro\nmayor y padre, no han padecido sino cuatro en el finibusterre, y obra\nde treinta embesados, y de sesenta y dos en gurapas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—En verdad, señor, dijo Rincon, que así entendemos esos nombres como\nvolar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Comencemos á andar, que yo los iré declarando por el camino,\nrespondió el mozo, con otros algunos que así les conviene saberlos como\nel pan de la boca."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y así les fué diciendo y declarando otros nombres, de los que ellos\nllaman germanescos ó de la germania, en el discurso de su plática, que\nno fué corta, porque el camino era largo, en el cual dijo Rincon á su\nguia:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Es vuesa merced por ventura ladron?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sí, respondió él, para servir á Dios y á la buena gente, aunque no\nde los muy cursados, que todavía estoy en el año del noviciado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á lo cual respondió Cortado:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Cosa nueva es para mí, que haya ladrones en el mundo para servir á\nDios y á la buena gente."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á lo cual respondió el mozo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Señor, yo no me meto en teologías; lo que sé es que cada uno en su\noficio puede alabar á Dios, y mas con la órden que tiene dada Monipodio\ná todos sus ahijados."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sin duda, dijo Rincon, debe de ser buena y santa, pues hace que los\nladrones sirvan á Dios."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Es tan santa y buena, replicó el mozo, que no sé yo si se podrá\nmejorar en nuestro arte. Él tiene ordenado que de lo que hurtáremos\ndemos alguna cosa ó limosna para el aceite de la lámpara de una imágen\nmuy devota que está en esta ciudad, y en verdad que hemos visto grandes\ncosas por esta buena obra; porque los dias pasados dieron tres ansias\ná un cuatrero que habia murciado dos roznos, y con estar flaco y\ncuartanario, así los sufrió sin cantar, como si fueran nada; y esto\natribuimos los del arte á su buena devocion, porque sus fuerzas no eran\nbastantes para sufrir el primer desconcierto del verdugo: y porque sé\nque me han de preguntar algunos vocablos de los que he dicho, quiero\ncurarme en salud y decírselo ántes que me lo pregunten: sepan voacedes\nque cuatrero es ladron de bestias: ansia es el tormento: roznos los\nasnos, hablando con perdon: primer desconcierto es las primeras\nvueltas de cordel que da el verdugo: tenemos mas, que rezamos nuestro\nrosario repartido en\ntoda la semana, y algunos de nosotros no hurtamos el dia del viérnes,\nni tenemos conversacion con mujer que se llame María, el dia del\nsábado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—De perlas me parece todo eso, dijo Cortado; pero dígame vuesa\nmerced, ¿hácese otra restitucion, ó otra penitencia mas de la dicha?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—En esto de restituir no hay que hablar, respondió el mozo, porque\nes cosa imposible por las muchas partes en que se divide lo hurtado,\nllevando cada uno de los ministros y contrayentes la suya, y así el\nprimer hurtador no puede restituir nada; cuanto mas, que no hay quien\nnos mande hacer esta diligencia á causa que nunca nos confesamos, y si\nsacan cartas de descomunion, jamas llegan á nuestra noticia, porque\njamas vamos á la iglesia al tiempo que se leen, sino es los dias\nde jubileo, por la ganancia que nos ofrece el concurso de la mucha\ngente."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Y con solo eso que hacen, dicen esos señores, dijo Cortado, que su\nvida es santa y buena?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues ¿qué tiene de mala? replicó el mozo: ¿no es peor ser hereje, ó\nrenegado, ó matar á su padre y madre, ó ser solomico?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sodomita querrá decir vuesa merced, respondió Rincon."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso digo, dijo el mozo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Todo es malo, replicó Cortado; pero pues nuestra suerte ha querido\nque entremos en esta cofradía, vuesa merced alargue el paso, que\nmuero por verme con el señor Monipodio, de quien tantas virtudes se\ncuentan."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Presto se les cumplirá su deseo, dijo el mozo, que ya desde aquí se\ndescubre su casa: vuesas mercedes se queden á la puerta, que yo entraré\ná ver si está desocupado, porque estas son las horas cuando él suele\ndar audiencia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—En buena sea, dijo Rincon."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y adelantándose un poco el mozo, entró en una casa no muy buena,\nsino de muy mala apariencia; y los dos se quedaron esperando á la\npuerta: él salió luego y los llamó, y ellos entraron, y su guia les\nmandó esperar en un pequeño patio ladrillado que de puro limpio y\naljofifado parecia que vertia carmin de lo mas fino: al un lado estaba\nun banco de tres piés, y al otro un cántaro desbocado, con un jarrillo\nencima no ménos falto que el cántaro: á otra parte estaba una estera\nde enea, y en el medio un tiesto, que en Sevilla llaman maceta de\nalbahaca."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Miraban los mozos atentamente las alhajas de la casa, en tanto que\nbajaba el señor Monipodio, y viendo que tardaba, se atrevió Rincon á\nentrar en una sala baja de dos pequeñas que en el patio estaban, y vió\nen ella dos espadas de esgrima y dos broqueles de corcho pendientes de\ncuatro clavos, y una arca grande sin tapa ni cosa que la cubriese, y\notras tres esteras de enea tendidas por el suelo: en la pared frontera\nestaba pegada á la pared una imágen de nuestra Señora, destas de mala\nestampa, y mas abajo pendia una esportilla de palma, y encajada en la\npared una almofia blanca, por do coligió Rincon que la esportilla servia de cepo para limosna,\ny la almofia de tener agua bendita; y así era la verdad."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Estando en esto entraron en la casa dos mozos de hasta veinte\naños cada uno, vestidos de estudiantes, y de allí á poco dos de la\nesportilla y un ciego, y sin hablar palabra ninguna, se comenzaron\ná pasear por el patio: no tardó mucho cuando entraron dos viejos de\nbayeta con antojos que los hacian graves y dignos de ser respetados,\ncon sendos rosarios de sonadoras cuentas en las manos: tras ellos\nentró una vieja halduda, y sin decir nada se fué á la sala, y habiendo\ntomado agua bendita con grandísima devocion, se puso de rodillas ante\nla imágen, y al cabo de una buena pieza, habiendo primero besado tres\nveces el suelo, y levantado los brazos y los ojos al cielo otras\ntantas, se levantó y echó su limosna en la esportilla, y se salió\ncon los demas al patio. En resolucion, en poco espacio se juntaron\nen el patio hasta catorce personas de diferentes trajes y oficios:\nllegaron tambien de los postreros dos bravos y bizarros mozos, de\nbigotes largos, sombreros de grande falda, cuellos á la valona, medias\nde color, ligas de gran balumba, espadas de mas de marca, sendos\npistoletes cada uno en lugar de dagas, y sus broqueles pendientes de\nla pretina: los cuales así como entraron, pusieron los ojos al traves\nen Rincon y Cortado á modo de que los estrañaban y no conocian, y\nllegándose á ellos les preguntaron si eran de la cofradía. Rincon\nrespondió que sí, y muy servidores de sus mercedes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Llegóse en esto la sazon y punto en que bajó el señor Monipodio, tan\nesperado como bien visto de toda aquella virtuosa compañía: parecia de\nedad de cuarenta y cinco á cuarenta y seis años, alto de cuerpo, moreno\nde rostro, cejijunto, barbinegro y muy espeso, los ojos hundidos: venia\nen camisa, y por la abertura de delante descubria un bosque, tanto\nera el vello que tenia en el pecho: traia cubierta una capa de bayeta\ncasi hasta los piés, en los cuales traia unos zapatos enchancletados;\ncubríanle las piernas unos zaragüelles de lienzo anchos y largos hasta\nlos tobillos, el sombrero era de los de la ampa, campanudo de copa\ny tendido de falda; atravesábale un tahalí por espalda y pechos, á\ndo colgaba una espada ancha y corta, á modo de las del perrillo; las\nmanos eran cortas y pelosas, los dedos gordos, y las uñas hembras\ny remachadas; las piernas no se le parecian, pero los piés eran\ndescomunales de anchos y juanetudos. En efecto, él representaba el mas\nrústico y disforme bárbaro del mundo. Bajó con él la guia de los dos, y\ntrabándoles de las manos, los presentó ante Monipodio, diciéndole:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Estos son los dos buenos mancebos que á vuesa merced dije,\nmi señor Monipodio;\nvuesa merced los desamine y verá cómo son dignos de entrar en nuestra\ncongregacion."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso haré yo de muy buena gana, respondió Monipodio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Olvidábaseme de decir que así como Monipodio bajó, al punto todos\nlos que aguardándole estaban, le hicieron una profunda y larga\nreverencia, escepto los dos bravos, que á medio mogate, como entre\nellos se dice, le quitaron los capelos, y luego volvieron á su paseo.\nPor una parte del patio y por la otra se paseaba Monipodio, el cual\npreguntó á los nuevos el ejercicio, la patria y padres."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á lo cual Rincon respondió:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—El ejercicio ya está dicho, pues venimos ante vuesa merced; la\npatria no me parece de mucha importancia decirla, ni los padres\ntampoco, pues no se ha de hacer informacion para recebir algun hábito\nhonroso."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á lo cual respondió Monipodio:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Vos, hijo mio, estais en lo cierto, y es cosa muy acertada encubrir\neso que decís, porque si la suerte no corriere como debe, no es bien\nque quede asentado debajo de signo de escribano ni en el libro de las\nentradas: fulano, hijo de fulano, vecino de tal parte, tal dia le\nahorcaron, ó le azotaron, ó otra cosa semejante, que por lo ménos suena\nmal á los buenos oidos; y así torno á decir que es provechoso documento\ncallar la patria, encubrir los padres y mudar los propios nombres;\naunque para entre nosotros no ha de haber nada encubierto, y solo ahora\nquiero saber los nombres de los dos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Rincon dijo el suyo, y Cortado tambien."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues de aquí adelante, respondió Monipodio, quiero y es mi voluntad\nque vos, Rincon, os llameis Rinconete, y vos, Cortado, Cortadillo, que\nson nombres que asientan como de molde á vuestra edad y á nuestras\nordenanzas, debajo de las cuales cae tener necesidad de saber el nombre\nde los padres de nuestros cofrades, porque tenemos de costumbre de\nhacer decir cada año ciertas misas por las ánimas de nuestros difuntos\ny bienhechores, sacando el estupendo para la limosna de quien las\ndice, de alguna parte de lo que se garbea; y estas tales misas, así\ndichas como pagadas, dicen que aprovechan á las tales ánimas por via de\nnaufragio: y caen debajo de nuestros bienhechores el procurador que nos\ndefiende, el guro que nos avisa, el verdugo que nos tiene lástima, el\nque cuando alguno de nosotros va huyendo por la calle, y detras le van\ndando voces: al ladron, al ladron, deténganle, deténganle, uno se pone\nen medio, y se opone al raudal de los que le siguen, diciendo: déjenle\nal cuitado, que harta mala ventura lleva, allá se lo haya, castíguele\nsu pecado; son tambien bienhechoras nuestras las socorridas, que de su\nsudor nos socorren así en la trena como en las guras; y tambien lo son\nnuestros padres y madres que nos echan al mundo, y el escribano que\nsi anda de buena, no hay delito que sea culpa, ni culpa á quien se dé\nmucha pena; y por todos\nestos que he dicho, hace nuestra hermandad cada año su adversario con\nla mayor popa y soledad que podemos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Por cierto, dijo Rinconete (ya confirmado con este nombre) que es\nobra digna del altísimo y profundísimo ingenio que hemos oido decir que\nvuesa merced, señor Monipodio, tiene; pero nuestros padres aun gozan\nde la vida; si en ella les alcanzáremos, daremos luego noticia á esta\nfelicísima y abonada confraternidad para que por sus almas se les haga\nese naufragio ó tormenta, ó ese adversario que vuesa merced dice, con\nla solenidad y pompa acostumbrada; si ya no es que se hace con popa y\nsoledad, como tambien apuntó vuesa merced en sus razones."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Así se hará, ó no quedará de mí pedazo, replicó Monipodio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y llamando á la guia, le dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ven acá, Ganchuelo, ¿están puestas las postas?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sí, dijo la guia, que Ganchuelo era su nombre, tres centinelas\nquedan avizorando, y no hay que temer que nos cojan de sobresalto."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Volviendo pues á nuestro propósito, dijo Monipodio, querria saber,\nhijos, lo que sabeis, para daros el oficio y ejercicio conforme á\nvuestra inclinacion y habilidad."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo, respondió Rinconete, sé un poquito de floreo de villano;\nentiéndeseme el reten: tengo buena vista para el humillo; juego bien\nde la sola, de las cuatro y de las ocho; no se me va por piés el\nraspadillo, berrugueta y el colmillo; éntrome por la boca de lobo como\npor mi casa, y atreveríame á hacer un tercio de chanza mejor que un\ntercio de Nápoles, y á dar un astillazo al mas pintado, mejor que dos\nreales prestados."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Principios son, dijo Monipodio; pero todas esas son flores de\ncantueso, viejas y tan usadas, que no hay principiante que no las sepa,\ny solo sirven para alguno que sea tan blanco que se deje matar de media\nnoche abajo; pero andará el tiempo, y vernos hemos, que asentando sobre\nese fundamento media docena de liciones, yo espero en Dios que habeis\nde salir oficial famoso, y aun quizá maestro."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Todo se hará para servir á vuesa merced y á los señores cofrades,\nrespondió Rinconete."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Y vos, Cortadillo, ¿qué sabeis? preguntó Monipodio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo, respondió Cortadillo, sé la treta que dicen mete dos y saca\ncinco, y sé dar tiento á una faldriquera con mucha puntualidad y\ndestreza."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Sabeis mas? dijo Monipodio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No, por mis grandes pecados, respondió Cortadillo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No os aflijais, hijo, replicó Monipodio, que á puerto y á escuela\nhabeis llegado, donde ni os anegaréis, ni dejaréis de salir muy bien\naprovechado en todo aquello que mas os conviniere; y en esto del ánimo,\n¿cómo os va, hijos?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Cómo nos ha de ir, respondió Rinconete, sino muy bien? ánimo\ntenemos para acometer cualquiera empresa de las que tocaren á nuestro\narte y ejercicio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Está bien, replicó Monipodio; pero querria yo que tambien le\ntuviésedes para sufrir si fuese menester media docena de ansias, sin desplegar los\nlabios, y sin decir esta boca es mia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ya sabemos aquí, dijo Cortadillo, señor Monipodio, qué quiere decir\nansias, y para todo tenemos ánimos, porque no somos tan ignorantes,\nque no se nos alcance que lo que dice la lengua paga la gorja, y harta\nmerced le hace el cielo al hombre atrevido, por no darle otro título,\nque le deja en su lengua su vida ó su muerte, como si tuviese mas\nletras un no que un sí."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Alto, no es menester mas, dijo á esta sazon Monipodio: digo que\nsola esta razon me convence, me obliga, me persuade y me fuerza á que\ndesde luego asenteis por cofrades mayores, y que se os sobrelleve el\naño del noviciado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo soy dese parecer, dijo uno de los bravos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y á una voz lo confirmaron todos los presentes, que toda la plática\nhabian estado escuchando, y pidieron á Monipodio que desde luego les\nconcediese y permitiese gozar de las inmunidades de su cofradía, porque\nsu presencia agradable y su buena plática lo merecia todo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Él respondió que por dallos contento á todos desde aquel punto\nse las concedia, advirtiéndoles que las estimasen en mucho, porque\nera no pagar media anata del primer hurto que hiciesen; no hacer\noficios menores en todo aquel año, conviene á saber, no llevar recaudo\nde ningun hermano mayor á la cárcel ni á la casa de parte de sus\ncontribuyentes; piar el turco puro; hacer banquete cuando, como y\nadonde quisieren, sin pedir licencia á su mayoral; entrar á la parte\ndesde luego con lo que entrujasen los hermanos mayores, como uno\ndellos, y otras cosas que ellos tuvieron por merced señaladísima, y los\ndemas con palabras muy comedidas las agradecieron mucho."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Estando en esto, entró un muchacho corriendo y desalentado, y\ndijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—El alguacil de los vagamundos viene encaminado á esta casa; pero no\ntrae consigo gurullada."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Nadie se alborote, dijo Monipodio, que es amigo, y nunca viene por\nnuestro daño: sosiéguense, que yo le saldré á hablar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Todos se sosegaron, que ya estaban algo sobresaltados, y Monipodio\nsalió á la puerta, donde halló al alguacil, con el cual estuvo hablando\nun rato, y luego volvió á entrar Monipodio, y preguntó:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Á quién le cupo hoy la plaza de San Salvador?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Á mí, dijo el de la guia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues ¿cómo, dijo Monipodio, no se me ha manifestado una bolsilla de\námbar, que esta mañana en aquel mismo paraje dió al traste con quince\nescudos de oro y dos reales de á dos, y no sé cuántos cuartos?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Verdad es, dijo la guia, que hoy faltó esa bolsa; pero yo no la he\ntomado, ni puedo imaginar quién la tomase."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No hay levas conmigo, replicó Monipodio, la bolsa ha de parecer,\nporque la pide el alguacil, que es amigo, y nos hace mil placeres al\naño."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tornó á jurar el mozo que no sabia della: comenzóse á encolerizar\nMonipodio de manera, que parecia que fuego vivo lanzaba por los ojos, diciendo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Nadie se burle con quebrantar la mas mínima cosa de nuestra órden,\nque le costará la vida: manifiéstese la cica, y si se encubre por no\npagar los derechos, yo le daré enteramente lo que le toca, y pondré\nlo demas de mi casa, porque en todas maneras ha de ir contento el\nalguacil."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tornó de nuevo á jurar el mozo, y á maldecirse, diciendo que él\nno habia tomado tal bolsa, ni vístola de sus ojos: todo lo cual fué\nponer mas fuego á la cólera de Monipodio, y dar ocasion á que toda\nla junta se alborotase, viendo que se rompian sus estatutos y buenas\nordenanzas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Viendo Rinconete pues tanta disension y alboroto, parecióle que\nseria bien sosegalle y dar contento á su mayor, que reventaba de rabia,\ny aconsejándose con su amigo Cortadillo, con parecer de entrambos sacó\nla bolsa del sacristan, y dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Cese toda cuestion, mis señores, que esta es la bolsa, sin faltarle\nnada de lo que el alguacil manifiesta, que hoy mi camarada Cortadillo\nle dió alcance con un pañuelo que al mismo dueño se le quitó por\nañadidura."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Luego sacó Cortadillo el pañizuelo y lo puso de manifiesto. Viendo\nlo cual Monipodio, dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Cortadillo el bueno (que con este título y renombre ha de quedar\nde aquí adelante) se quede con el pañuelo, y á mi cuenta se queda la\nsatisfaccion deste servicio, y la bolsa se ha de llevar el alguacil,\nque es de un sacristan pariente suyo, y conviene que se cumpla aquel\nrefran que dice: no es mucho que á quien te da la gallina entera, tú\ndés una pierna della; mas disimula este buen alguacil en un dia, que\nnosotros le podemos ni solemos dar en ciento."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "De comun consentimiento aprobaron todos la hidalguía de los dos\nmodernos, y la sentencia y parecer de su mayoral, el cual salió á dar\nla bolsa al alguacil, y Cortadillo se quedó confirmado con el renombre\nde bueno, bien como si fuera D. Alonso Perez de Guzman el Bueno, que\narrojó el cuchillo por los muros de Tarifa para degollar á su único\nhijo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Al volver que volvió Monipodio, entraron con él dos mozas,\nafeitados los rostros, llenos de color los labios y de albayalde los\npechos, cubiertas con medios mantos de añascote, llenas de desenfado\ny desvergüenza: señales claras por donde en viéndolas Rinconete y\nCortadillo conocieron que eran de la casa llana, y no se engañaron en\nnada; y así como entraron se fueron con los brazos abiertos la una á\nChiquiznaque y la otra á Maniferro, que estos eran los nombres de los\ndos bravos; y el de Maniferro era porque traia una mano de hierro en\nlugar de otra que le habian cortado por justicia: ellos las abrazaron\ncon grande regocijo, y les preguntaron si traian algo con que mojar la\ncanal maestra."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues ¿habia de faltar, diestro mio? respondió la una, que se\nllamaba la Gananciosa: no tardará mucho á venir Silbatillo tu trainel\ncon la canasta de\ncolar atestada de lo que Dios ha sido servido."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y así fué verdad, porque al instante entró un muchacho con una\ncanasta de colar cubierta con una sábana."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Alegráronse todos con la entrada de Silbato, y al momento mandó\nsacar Monipodio una de las esteras de enea que estaban en el aposento,\ny tenderla en medio del patio; y ordenó asimismo que todos se sentasen\ná la redonda; porque en cortando la cólera se trataria de lo que mas\nconviniese. Á esto dijo la vieja que habia rezado á la imágen:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Hijo Monipodio, yo no estoy para fiestas, porque tengo un vaguido\nde cabeza dos dias ha que me trae loca, y mas, que ántes que sea\nmediodía tengo de ir á cumplir mis devociones, y poner mis candelicas\ná nuestra Señora de las Aguas, y al santo Crucifijo de santo Agustin,\nque no lo dejaria de hacer, si nevase y ventiscase: á lo que he venido\nes que anoche el Renegado y Centopiés llevaron á mi casa una canasta de\ncolar algo mayor que la presente, llena de ropa blanca, y en Dios y en\nmi ánima que venia con su cernada y todo, que los pobretes no debieron\nde tener lugar de quitalla, y venian sudando la gota tan gorda, que era\nuna compasion verlos entrar jadeando y corriendo agua de sus rostros,\nque parecian unos angelicos: dijéronme que iban en seguimiento de un\nganadero que habia pesado ciertos carneros en la carnicería, por ver si\nle podian dar un tiento en un grandísimo gato de reales que llevaba:\nno desembanastaron ni contaron la ropa, fiados en la entereza de mi\nconciencia, y así me cumpla Dios mis buenos deseos y nos libre á todos\nde poder de justicia, que no he tocado la canasta, y que se está tan\nentera como cuando nació."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Todo se le cree, señora madre, respondió Monipodio, y estése así la\ncanasta, que yo iré allá á boca de sorna, y haré cala y cata de lo que\ntiene, y daré á cada uno lo que le tocare, bien y fielmente, como tengo\nde costumbre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sea como vos lo ordenáredes, hijo, respondió la vieja, y porque\nse me hace tarde, dadme un traguillo si teneis, para consolar este\nestómago, que tan desmayado anda de contino."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Y ¿qué tal lo beberéis, madre mia? dijo á esta sazon la Escalanta,\nque así se llamaba la compañera de la Gananciosa."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y descubriendo la canasta, se manifestó una bota á modo de\ncuero, con hasta dos arrobas de vino, y un corcho que podria caber\nsosegadamente y sin apremio hasta una azumbre, y llevándole la\nEscalanta, se le puso en las manos á la devotísima vieja, la cual\ntomándole con ambas manos, y habiéndole soplado un poco de espuma,\ndijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Mucho echaste, hija Escalanta, pero Dios dará fuerzas para todo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y aplicándosele á los labios, de un tiron y sin tomar aliento lo\ntrasegó del corcho al estómago, y acabó diciendo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—De Guadalcanal es, y aun tiene un es no es de yeso el señorico;\nDios te consuele, hija, que así me has consolado, sino que temo que me ha de hacer mal,\nporque no me he desayunado."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No hará, madre, respondió Monipodio, porque es trasañejo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Así lo espero yo en la Vírgen, respondió la vieja."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y añadió:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Mirad, niñas, si teneis acaso algun cuarto para comprar las\ncandelicas de mi devocion, porque con la priesa y gana que tenia\nde venir á traer las nuevas de la canasta, se me olvidó en casa la\nescarcela."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo sí tengo, señora Pipota, que este era el nombre de la buena\nvieja, respondió la Gananciosa, tome, ahí le doy dos cuartos; del uno\nle ruego que compre una para mí, y se la ponga al señor S. Miguel,\ny si puede comprar dos, ponga la otra al señor S. Blas, que son mis\nabogados: quisiera que pusiera otra á la señora Sta. Lucía (que por lo\nde los ojos tambien la tengo devocion), pero no tengo trocado, mas otro\ndia habrá donde se cumpla con todo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Muy bien harás, hija, y mira no seas miserable, que es de mucha\nimportancia llevar la persona las candelas delante de sí ántes que se\nmuera, y no aguardar á que las pongan los herederos ó albaceas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Bien dice la madre Pipota, dijo la Escalanta."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y echando mano á la bolsa, le dió otro cuarto, y le encargó que\npusiese otras dos candelicas á los santos que á ella le pareciesen que\neran de los mas aprovechados y agradecidos. Con esto se fué la Pipota,\ndiciéndoles:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Holgáos, hijos, ahora que teneis tiempo; que vendrá la vejez y\nlloraréis en ella los ratos que perdisteis en la mocedad como yo los\nlloro, y encomendadme á Dios en vuestras oraciones, que yo voy á hacer\nlo mismo por mí y por vosotros, porque él nos libre y conserve en\nnuestro trato peligroso, sin sobresaltos de justicia."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y con esto se fué."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Ida la vieja, se sentaron todos al rededor de la estera, y la\nGananciosa tendió la sábana por manteles; y lo primero que sacó de\nla cesta fué un gran haz de rábanos y hasta dos docenas de naranjas\ny limones, y luego una cazuela grande llena de tajadas de bacallao\nfrito: manifestó luego medio queso de Flándes, y una olla de famosas\naceitunas, y un plato de camarones, y gran cantidad de cangrejos con\nsu llamativo de alcaparrones ahogados en pimientos, y tres hogazas\nblanquísimas de Gandul: serian los del almuerzo hasta catorce, y\nninguno dellos dejó de sacar su cuchillo de cachas amarillas, si no fué\nRinconete, que sacó su media espada; á los dos viejos de bayeta y á\nla guia tocó el escanciar con el corcho de colmena. Mas apénas habian\ncomenzado á dar asalto á las naranjas, cuando les dió á todos gran\nsobresalto los golpes que dieron á la puerta: mandóles Monipodio que\nse sosegasen, y entrando en la sala baja, y descolgando un broquel,\npuesto mano á la espada, llegó á la puerta, y con voz hueca y espantosa\npreguntó:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Quién llama?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Respondieron de fuera:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo soy, que no es nadie, señor Monipodio: Tagarote soy, centinela desta mañana, y\nvengo á decir que viene aquí Juliana la Cariharta, toda desgreñada y\nllorosa, que parece haberle sucedido algun desastre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En esto llegó la que decia, sollozando, y sintiéndola Monipodio,\nabrió la puerta, y mandó á Tagarote que se volviese á su posta, y que\nde allí adelante avisase lo que viese, con ménos estruendo y ruido: él\ndijo que así lo haria. Entró la Cariharta, que era una moza del jaez\nde las otras y del mismo oficio: venia descabellada, y la cara llena\nde tolondrones, y así como entró en el patio, se cayó en el suelo\ndesmayada: acudieron á socorrerla la Gananciosa y la Escalanta, y\ndesabrochándole el pecho, la hallaron toda denegrida y como magullada.\nEcháronle agua en el rostro, y ella volvió en sí diciendo á voces:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—La justicia de Dios y del rey venga sobre aquel ladron\ndesuellacaras, sobre aquel cobarde bajamanero, sobre aquel pícaro\nlendroso, que le he quitado mas veces de la horca que tiene pelos en\nlas barbas: desdichada de mí, mirad por quién he perdido y gastado\nmi mocedad y la flor de mis años, sino por un bellaco desalmado,\nfacinoroso é incorregible."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sosiégate, Cariharta, dijo á esta sazon Monipodio, que aquí estoy\nyo que te haré justicia; cuéntanos tu agravio, que mas estarás tú en\ncontarle que yo en hacerte vengada; díme si has habido algo con tu\nrespeto; que si así es, y quieres venganza, no has menester mas que\nboquear."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Qué respeto? respondió Juliana: respetada me vea yo en los\ninfiernos, si mas lo fuere de aquel leon con las ovejas, y cordero con\nlos hombres: ¿con aquel habia yo de comer mas pan á manteles, ni yacer\nen uno? primero me vea yo comida de adivas estas carnes, que me ha\nparado de la manera que ahora veréis."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y alzándose al instante las faldas hasta la rodilla y aun un poco\nmas, las descubrió llenas de cardenales:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Desta manera, prosiguió, me ha parado aquel ingrato del Repolido,\ndebiéndome mas que á la madre que le parió: y ¿por qué pensais que lo\nha hecho? montas que le di yo ocasion para ello: no por cierto, no lo\nhizo mas sino porque estando jugando y perdiendo, me envió á pedir con\nCabrillas, su trainel, treinta reales, y no le envié mas de veinte y\ncuatro, que el trabajo y afan con que yo los habia ganado, ruego yo\ná los cielos que vaya en descuento de mis pecados; y en pago desta\ncortesía y buena obra, creyendo él que yo le sisaba algo de la cuenta\nque él allá en su imaginacion habia hecho de lo que yo podria tener,\nesta mañana me sacó al campo detras de la huerta del Rey, y allí entre\nunos olivares me desnudó, y con la pretina, sin escusar ni recoger\nlos hierros, que en malos grillos y hierros le vea yo, me dió tantos\nazotes, que me dejó por muerta: de la cual verdadera historia son\nbuenos testigos estos cardenales que mirais."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Aquí tornó á\nlevantar las voces, aquí volvió á pedir justicia, y aquí se la prometió\nde nuevo Monipodio y todos los bravos que allí estaban. La Gananciosa\ntomó la mano á consolalla, diciéndole que ella diera de muy buena gana\nuna de las mejores preseas que tenia, porque le hubiera pasado otro\ntanto con su querido."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Porque quiero, dijo, que sepas, hermana Cariharta, si no lo sabes,\nque á lo que se quiere bien se castiga, y cuando estos bellacones nos\ndan, y azotan y acocean, entónces nos adoran; si no, confiésame una\nverdad por tu vida: despues que te hubo Repolido castigado y brumado,\n¿no te hizo alguna caricia?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Cómo una? respondió la llorosa, cien mil me hizo, y diera él un\ndedo de la mano porque me fuera con él á su posada, y aun me parece\nque casi se le saltaron las lágrimas de los ojos despues de haberme\nmolido."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No hay dudar en eso, replicó la Gananciosa, y lloraria él de pena\nde ver cuál te habia puesto, que en estos tales hombres y en tales\ncasos no han cometido la culpa, cuando les viene el arrepentimiento: y\ntú verás, hermana, si no viene á buscarte ántes que de aquí nos vamos,\ny á pedirte perdon de todo lo pasado, rindiéndosete como un cordero."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—En verdad, respondió Monipodio, que no ha de entrar por estas\npuertas el cobarde embesado, si primero no hace una manifiesta\npenitencia del cometido delito: ¿las manos habia él de ser osado\nponerlas en el rostro de la Cariharta ni en sus carnes, siendo persona\nque puede competir en limpieza y ganancia con la misma Gananciosa que\nestá delante, que no lo puedo mas encarecer?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¡Ay! dijo á esta sazon la Juliana, no diga vuesa merced, señor\nMonipodio, mal de aquel maldito, que con cuan malo es, le quiero mas\nque á las telas de mi corazon, y hanme vuelto el alma al cuerpo las\nrazones que en su abono ha dicho mi amiga la Gananciosa, y en verdad\nque estoy por ir á buscarle."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso no harás tú por mi consejo, replicó la Gananciosa, porque se\nestenderá y ensanchará, y hará tretas en tí como en cuerpo muerto.\nSosiégate, hermana, que ántes de mucho le verás venir tan arrepentido\ncomo he dicho, y si no viniere, escribirémosle un papel en coplas que\nle amargue."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso sí, dijo la Cariharta, que tengo mil cosas que escribirle."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo seré el secretario cuando sea menester, dijo Monipodio; y aunque\nno soy nada poeta, todavía, si el hombre se arremanga, se atreverá á\nhacer dos millares de coplas en daca las pajas, y cuando no salieren\ncomo deben, yo tengo un barbero amigo, gran poeta, que nos henchirá\nlas medidas á todas horas, y en la de agora acabemos lo que teníamos\ncomenzado del almuerzo, que despues todo se andará."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Fué contenta la Juliana de obedecer á su mayor, y así todos\nvolvieron á su "
+          },
+          {
+            "text": "gaudeamus",
+            "italic": true
+          },
+          {
+            "text": ", y en poco\nespacio vieron el fondo de la canasta y las heces del cuero: los viejos bebieron "
+          },
+          {
+            "text": "sine fine",
+            "italic": true
+          },
+          {
+            "text": ", los mozos adunia, las señoras\nlos quiries: los viejos pidieron licencia para irse, diósela luego\nMonipodio, encargándoles viniesen á dar noticia con toda puntualidad\nde todo aquello que viesen ser útil y conveniente á la comunidad:\nrespondieron que ellos se lo tenian bien en cuidado, y fuéronse."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Rinconete, que de suyo era curioso, pidiendo primero perdon y\nlicencia, preguntó á Monipodio que ¿de qué servian en la cofradía dos\npersonajes tan canos, tan graves y apersonados? á lo cual respondió\nMonipodio que aquellos en su germania y manera de hablar se llamaban\nabispones, y que servian de andar de dia por toda la ciudad, abispando\nen qué casa se podia dar tiento de noche, y en seguir los que sacaban\ndinero de la Contratacion ó casa de la moneda, para ver dónde lo\nllevaban, y aun dónde lo ponian; y en sabiéndolo, tanteaban la groseza\ndel muro de la tal casa, y deseñaban el lugar mas conveniente para\nhacer los guzpataros (que son agujeros) para facilitar la entrada: en\nresolucion dijo que era la gente de mas ó de tanto provecho que habia\nen su hermandad, y que de todo aquello que por su industria se hurtaba\nllevaban el quinto, como su Majestad de los tesoros, y que con todo\nesto eran hombres de mucha verdad, y muy honrados, y de buena vida y\nfama, temerosos de Dios y de sus conciencias, que cada dia oian misa\ncon estraña devocion."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Y hay dellos tan comedidos, especialmente estos dos que de aquí\nse van agora, que se contentan con mucho ménos de lo que por nuestros\naranceles les toca: otros dos hay, que son palanquines, los cuales como\npor momentos mudan casas, saben las entradas y salidas de todas las de\nla ciudad, y cuáles pueden ser de provecho, y cuáles no."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Todo me parece de perlas, dijo Rinconete, y querria ser de algun\nprovecho á tan famosa cofradía."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Siempre favorece el cielo á los buenos deseos, dijo Monipodio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Estando en esta plática llamaron á la puerta; salió Monipodio á ver\nquién era, y preguntándolo, respondieron:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Abra voacé, señor Monipodio, que el Repolido soy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Oyó esta voz Cariharta, y alzando al cielo la suya, dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No le abra vuesa merced, señor Monipodio, no le abra á ese marinero\nde Tarpeya, á ese tigre de Ocaña."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "No dejó por esto Monipodio de abrir á Repolido; pero viendo la\nCariharta que le abria, se levantó corriendo y se entró en la sala de\nlos broqueles, y cerrando tras sí la puerta, desde dentro á grandes\nvoces decia:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Quítenmelo de delante á ese gesto de por demas, á ese verdugo de\ninocentes, asombrador de palomas duendas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Maniferro y Chiquiznaque tenian á Repolido, que en todas maneras\nqueria entrar donde la Cariharta estaba; pero como no le dejaban, decia\ndesde afuera:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No haya mas, enojada mia; por tu vida que te sosiegues, ansí te veas\ncasada."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Casada yo, malino? respondió la Cariharta; mira en qué tecla toca;\nya quisieras tú que lo fuera contigo, y ántes lo seria yo con una\nnotomía de muerte, que contigo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ea, boba, replicó Repolido, acabemos ya, que es tarde, y mire no\nse ensanche por verme hablar tan manso, y venir tan rendido, porque\nvive el dador, si se me sube la cólera al campanario, que sea peor la\nrecaida que la caida; humíllese, y humillémonos todos, y no demos de\ncomer al diablo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Y aun de cenar le daria yo, dijo la Cariharta, porque te llevase\ndonde nunca mas mis ojos te viesen."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿No os digo yo? dijo Repolido; por Dios, que voy oliendo, señora\ntrinquete, que lo tengo de echar todo á doce, aunque nunca se venda."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á esto dijo Monipodio:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—En mi presencia no ha de haber demasías: la Cariharta saldrá, no\npor amenazas, sino por amor mio, y todo se hará bien; que las riñas\nentre los que bien se quieren, son causa de mayor gusto cuando se hacen\nlas paces: ¡ah, Juliana, ah niña, ah Cariharta mia! Sal acá fuera por\nmi amor, que yo haré que el Repolido te pida perdon de rodillas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Como él eso haga, dijo la Escalanta, todas seremos en su favor y en\nrogar á Juliana salga acá fuera."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Si esto ha de ir por via de rendimiento que güela á menoscabo de\nla persona, dijo el Repolido, no me rendiré á un ejército formado de\nesguízaros; mas si es por via de que la Cariharta gusta dello, no digo\nyo hincarme de rodillas, pero un clavo me hincaré por la frente en su\nservicio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Riéronse desto Chiquiznaque y Maniferro, de lo cual se enojó tanto\nel Repolido, pensando que hacian burla dél, que dijo con muestras de\ninfinita cólera:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Cualquiera que se riere ó se pensase reir de lo que la Cariharta\ncontra mí, ó yo contra ella, hemos dicho ó dijéremos, digo que miente y\nmentirá todas las veces que se riere ó lo pensare, como ya he dicho."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Miráronse Chiquiznaque y Maniferro de tan mal garbo y talle, que\nadvirtió Monipodio que pararia en un gran mal, si no lo remediaba; y\nasí poniéndose luego en medio dellos, dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No pasen mas adelante, caballeros, cesen aquí palabras mayores, y\ndesháganse entre los dientes; y pues las que se han dicho no llegan á\nla cintura, nadie las tome por sí."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Bien seguros estamos, respondió Chiquiznaque, que no se dijeron ni\ndirán semejantes monitorios por nosotros; que si se hubiera imaginado\nque se decian, en manos estaba el pandero que lo supieran bien\ntañer."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Tambien tenemos acá pandero, seor Chiquiznaque, replicó el\nRepolido, y tambien si fuere menester sabremos tocar los cascabeles, y\nya he dicho que el que se huelga, miente; y quien otra cosa pensare,\nsígame, que con un palmo de espada ménos hará el hombre que sea lo\ndicho dicho."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y diciendo esto, se iba á salir por la puerta afuera."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Estábalo escuchando la Cariharta, y cuando sintió que se iba\nenojado, salió diciendo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ténganle, no se vaya, que hará de las suyas: ¿no ven que va\nenojado, y es un Júdas Macarelo en esto de la valentía? vuelve acá,\nvalenton del mundo y de mis ojos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y cerrando con él le asió fuertemente de la capa, y acudiendo\ntambien Monipodio le detuvieron."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Chiquiznaque y Maniferro no sabian si enojarse, ó si no, y\nestuviéronse quedos esperando lo que Repolido haria; el cual viéndose\nrogar de la Cariharta y de Monipodio, volvió diciendo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Nunca los amigos han de dar enojo á los amigos, ni hacer burla de\nlos amigos, y mas cuando ven que se enojan los amigos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No hay aquí amigo, respondió Maniferro, que quiera enojar ni hacer\nburla de otro amigo; y pues todos somos amigos, dénse las manos los\namigos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Á esto dijo Monipodio:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Todos voacedes han hablado como buenos amigos, y como tales amigos\nse den las manos de amigos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Diéronselas luego; y la Escalanta quitándose\nun chapin comenzó á tañer en él como en un pandero; la Gananciosa\ntomó una escoba de palma nueva, que allí se halló acaso, y rasgándola\nhizo un son, que aunque ronco y áspero, se concertaba con el del\nchapin. Monipodio rompió un plato, y hizo dos tejoletas que puestas\nentre dos dedos y repicadas con gran lijereza, llevaba el contrapunto\nal chapin y á la escoba."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Espantáronse Rinconete y Cortadillo de la nueva invencion de\nla escoba, porque hasta entónces nunca la habian visto. Conociólo\nManiferro, y díjoles:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Admíranse de la escoba? pues bien hacen: pues música mas presta y\nmas sin pesadumbre, ni mas barata, no se ha inventado en el mundo: en\nverdad que oí decir el otro dia á un estudiante, que ni el Negrofeo que\nsacó á la Arauz del infierno, ni Marion, que subió sobre el delfin, y\nsalió del mar como si viniera caballero sobre una mula de alquiler, ni\nel otro gran músico que hizo una ciudad que tenia cien puertas y otros\ntantos postigos, nunca inventaron mejor género de música tan fácil de\ndeprender, tan mañera de tocar, tan sin trastes, clavijas ni cuerdas,\ny tan sin necesidad de templarse, y aun voto á tal, que dice que la\ninventó un galan desta ciudad, que se pica de ser un Héctor en la\nmúsica."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso creo yo muy bien, respondió Rinconete, pero escuchemos lo\nque quieren cantar nuestros músicos, que parece que la Gananciosa ha\nescupido, señal de que quiere cantar."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y así era la verdad, porque Monipodio le habia rogado que cantase\nalgunas seguidillas de las que se usaban; mas la que comenzó primero\nfué la Escalanta, y con voz sutil y quebradiza cantó lo siguiente:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Por un sevillano, rufo á lo valon,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Tengo socarrado todo el corazon."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Siguió la\nGananciosa cantando:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Por un morenico de color verde"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "¿Cuál es la fogosa que no se pierde?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y luego Monipodio, dándose gran priesa al meneo de sus tejoletas,\ndijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Riñen dos amantes, hácese la paz,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Si el enojo es grande, es el gusto mas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "No quiso la Cariharta pasar su gusto en silencio, porque tomando\notro chapin, se metió en danza, y acompañó á las demas, diciendo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Detente, enojado, no me azotes mas,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Que si bien lo miras, á tus carnes das."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Cántese á lo llano, dijo á esta sazon Repolido, y no se toquen\nhistorias pasadas, que no hay para qué: lo pasado sea pasado, y tómese\notra vereda, y basta."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Talle llevaban de no acabar tan presto el comenzado cántico, si no\nsintieran que llamaban á la puerta apriesa, y con ella salió Monipodio\ná ver quién era, y la centinela le dijo como al cabo de la calle\nhabia asomado el alcalde de la justicia, y que delante dél venian el\nTordillo y el Cernícalo, corchetes neutrales. Oyéronlo los de dentro,\ny alborotáronse todos, de manera que la Cariharta y la Escalanta se\ncalzaron sus chapines al reves: dejó la escoba la Gananciosa, Monipodio\nsus tejoletas, y quedó en turbado silencio toda la música: enmudeció\nChiquiznaque, pasmóse el Repolido, y suspendióse Maniferro, y todos,\ncuál por una y cuál por otra parte, desaparecieron, subiéndose á las\nazoteas y tejados para escaparse y pasar por ellos á otra calle. Nunca\ndisparado arcabuz á deshora, ni trueno repentino espantó así á banda\nde descuidadas palomas, como puso en alboroto y espanto á toda aquella\nrecogida compañía y buena gente la nueva de la venida del alcalde de la\njusticia y su corchetada: los dos novicios Rinconete y Cortadillo no\nsabian qué hacerse, y estuviéronse quedos, esperando ver en qué paraba\naquella repentina borrasca, que no paró en mas de volver la centinela\ná decir que el alcalde se habia pasado de largo, sin dar muestra ni\nresabio de mala sospecha alguna."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y estando diciendo esto á Monipodio, llegó un caballero mozo á la\npuerta, vestido, como se suele decir, de barrio: Monipodio le entró\nconsigo, y mandó llamar á Chiquiznaque, á Maniferro y al Repolido,\ny que de los demas no bajase alguno: como se habian quedado en el\npatio Rinconete y Cortadillo pudieron oir toda la plática que pasó\nMonipodio con el caballero recien venido, el cual dijo á Monipodio,\nque por qué se habia hecho tan mal lo que le habia encomendado. Monipodio respondió que aun\nno sabia lo que se habia hecho, pero que allí estaba el oficial á cuyo\ncargo estaba su negocio, y que él daria muy buena cuenta de sí."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Bajó en esto Chiquiznaque, y preguntóle Monipodio si habia cumplido\ncon la obra que se le encomendó de la cuchillada de á catorce."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Cuál, respondió Chiquiznaque: es la de aquel mercader de la\nencrucijada?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Esa es, dijo el caballero."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues lo que en eso pasa, respondió Chiquiznaque, es que yo le\naguardé anoche á la puerta de su casa, y él vino ántes de la oracion:\nlleguéme cerca dél, marquéle el rostro con la vista, y vi que le\ntenia tan pequeño que era imposible de toda imposibilidad caber en él\ncuchillada de catorce puntos; y hallándome imposibilitado de poder\ncumplir lo prometido, y de hacer lo que llevaba en mi destruicion..."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Instruccion querrá vuesa merced decir, dijo el caballero, que no\ndestruicion."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso quise decir, respondió Chiquiznaque: digo que viendo que en\nla estrecheza y poca cantidad de aquel rostro no cabian los puntos\npropuestos, porque no fuese mi ida en balde, di la cuchillada á un\nlacayo suyo, que á buen seguro que la pueden poner por mayor de\nmarca."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Mas quisiera, dijo el caballero, que se le hubiera dado al amo\nuna de á siete, que al criado la de catorce: en efeto conmigo no se\nha cumplido, como era razon, pero no importa; poca mella me harán los\ntreinta ducados que dejé en señal: beso á vuesas mercedes las manos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y diciendo esto, se quitó el sombrero, y volvió las espaldas para\nirse; pero Monipodio le asió de la capa de mezcla que traia puesta,\ndiciéndole:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Voacé se detenga, y cumpla su palabra, pues nosotros hemos cumplido\nla nuestra con mucha honra y con mucha ventaja: veinte ducados faltan,\ny no ha de salir de aquí voacé sin darlos, ó prendas que lo valgan."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues ¿á esto llama vuesa merced cumplimiento de palabra, respondió\nel caballero, dar la cuchillada al mozo, habiéndose de dar al amo?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¡Qué bien está en la cuenta el señor! dijo Chiquiznaque; bien\nparece que no se acuerda de aquel refran que dice: Quien bien quiere á\nBeltran, bien quiere á su can."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues ¿en qué modo puede venir aquí á propósito este refran? replicó\nel caballero."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Pues no es lo mismo, prosiguió Chiquiznaque, decir: quien mal\nquiere á Beltran, mal quiere á su can? y así Beltran es el mercader,\nvoacé le quiere mal, su lacayo es su can, y dando al can se da á\nBeltran, y la deuda queda líquida, y trae aparejada ejecucion: por eso\nno hay mas sino pagar luego sin apercebimiento de remate."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso juro yo bien, añadió Monipodio, y de la boca me quitaste,\nChiquiznaque amigo, todo cuanto aquí has dicho: y así voacé, señor\ngalan, no se meta en puntillos con sus servidores y amigos, sino tome\nmi consejo y pague luego lo trabajado, y si fuere servido que se le\ndé otra al amo, de\nla cantidad que pueda llevar su rostro, haga cuenta que ya se la está\ncurando."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Como eso sea, respondió el galan, de muy entera voluntad y gana\npagaré la una y la otra por entero."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No dude en esto, dijo Monipodio, mas que en ser cristiano, que\nChiquiznaque se la dará pintiparada, de manera que parezca que allí se\nle nació."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues con esa seguridad y promesa, respondió el caballero, recíbase\nesta cadena en prendas de los veinte ducados atrasados y de cuarenta\nque ofrezco por la venidera cuchillada: pesa mil reales, y podria ser\nque se quedase rematada, porque traigo entre ojos que serán menester\notros catorce puntos ántes de mucho."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Quitóse en esto una cadena de vueltas menudas del cuello, y diósela\ná Monipodio, que al tocar y al peso bien vió que no era de alquimia.\nMonipodio la recebió con mucho contento y cortesía, porque era en\nestremo bien criado: la ejecucion quedó á cargo de Chiquiznaque, que\nsolo tomó término de aquella noche. Fuése muy satisfecho el caballero,\ny luego Monipodio llamó á todos los ausentes y azorados: bajaron todos,\ny poniéndose Monipodio en medio dellos, sacó un libro de memoria que\ntraia en la capilla de la capa, y diósele á Rinconete que leyese,\nporque él no sabia leer. Abriólo Rinconete, y en la primera hoja vió\nque decia:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "MEMORIA DE LAS CUCHILLADAS QUE SE HAN DE DAR ESTA\nSEMANA."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La primera al mercader de la encrucijada: vale\ncincuenta escudos: están recebidos treinta á buena cuenta. Secutor,\nChiquiznaque.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No creo que haya otra, hijo, dijo Monipodio: pasa adelante, y mira\ndonde dice: "
+          },
+          {
+            "text": "Memoria de palos",
+            "italic": true
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Volvió la hoja Rinconete, y vió que en otra estaba escrito: "
+          },
+          {
+            "text": "Memoria\nde palos",
+            "italic": true
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Y mas abajo decia:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Al bodegonero de la Alfalfa doce palos de mayor cuantía, á escudo\ncada uno: están dados á buena cuenta ocho: el término seis dias.\nSecutor, Maniferro.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Bien podia borrarse esa partida, dijo Maniferro, porque esta noche\ntraeré finiquito della."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Hay mas, hijo? dijo Monipodio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Sí, otra, respondió Rinconete, que dice así:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Al sastre corcobado, que por mal nombre se llama el Silguero, seis\npalos de mayor cuantía á pedimento de la dama que dejó la gargantilla.\nSecutor, el Desmochado.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Maravillado estoy, dijo Monipodio, cómo todavía está esa partida en\nser; sin duda alguna debe de estar mal dispuesto el Desmochado, pues\nson dos dias pasados del término, y no ha dado puntada en esta obra."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Yo le topé ayer, dijo Maniferro, y me dijo que por haber estado retirado por\nenfermo el corcobado, no habia cumplido con su débito."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Eso creo yo bien, dijo Monipodio, porque tengo por tan buen oficial\nal Desmochado, que si no fuera por tan justo impedimento, ya él hubiera\ndado al cabo con mayores empresas. ¿Hay mas, mocito?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No, señor, respondió Rinconete."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues pasad adelante, dijo Monipodio, y mirad donde dice: "
+          },
+          {
+            "text": "Memorial\nde agravios comunes",
+            "italic": true
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Pasó adelante Rinconete, y en otra hoja halló escrito:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Memorial de agravios comunes, conviene á saber: redomazos, untos de\nmiera, clavazon de sambenitos y cuernos, matracas, espantos, alborotos\ny cuchilladas fingidas, publicacion de nibelos",
+            "italic": true
+          },
+          {
+            "text": ", etc."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—¿Qué dice mas abajo? dijo Monipodio."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Dice, dijo Rinconete, "
+          },
+          {
+            "text": "unto de miera en la casa",
+            "italic": true
+          },
+          {
+            "text": "..."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No se lea la casa, que ya yo sé dónde es, respondió Monipodio, y yo\nsoy el tuautem y esecutor de esa niñería, y están dados á buena cuenta\ncuatro escudos, y el principal es ocho."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Así es la verdad, dijo Rinconete, que todo eso está aquí escrito; y\naun mas abajo dice: "
+          },
+          {
+            "text": "clavazon de cuernos",
+            "italic": true
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Tampoco se lea, dijo Monipodio, la casa, ni adónde, que basta que\nse les haga el agravio, sin que se diga en público, que es gran cargo\nde conciencia: á lo ménos mas querria yo clavar cien cuernos y otros\ntantos sambenitos, como se me pagase mi trabajo, que decillo sola una\nvez, aunque fuese á la madre que me parió."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—El esecutor desto es, dijo Rinconete, el Narigueta."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ya está eso hecho y pagado, dijo Monipodio; mirad si hay mas, que\nsi mal no me acuerdo, ha de haber ahí un espanto de veinte escudos:\nestá dada la mitad, y el esecutor es la comunidad toda, y el término es\ntodo el mes en que estamos, y cumpliráse al pié de la letra, sin que\nfalte un tilde, y será una de las mejores cosas que hayan sucedido en\nesta ciudad de muchos tiempos á esta parte: dadme el libro, mancebo,\nque yo sé que no hay mas, y sé tambien que anda muy flaco el oficio;\npero tras este tiempo vendrá otro, y habrá que hacer mas de lo que\nquisiéremos; que no se mueve la hoja sin la voluntad de Dios, y no\nhemos de hacer nosotros que se vengue nadie por fuerza; cuanto mas, que\ncada uno en su causa suele ser valiente, y no quiere pagar las hechuras\nde la obra que él se puede hacer por sus manos."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Así es, dijo á esto el Repolido. Pero mire vuesa merced, señor\nMonipodio, lo que nos ordena y manda, que se va haciendo tarde, y va\nentrando el calor mas que de paso."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Lo que se ha de hacer, respondió Monipodio, es que todos se vayan\ná sus puestos, y nadie se mude hasta el domingo, que nos juntaremos\nen este mismo lugar, y se repartirá todo lo que hubiere caido, sin agraviar á nadie.\nÁ Rinconete el bueno y á Cortadillo se les da por distrito hasta el\ndomingo, desde la torre del Oro por defuera de la ciudad, hasta el\npostigo del Alcázar, donde se puede trabajar á sentadillas con sus\nflores: que yo he visto á otros de ménos habilidad que ellos salir cada\ndia con mas de veinte reales en menudos, amen de la plata, con una\nbaraja sola, y esa con cuatro naipes ménos: este distrito os enseñará\nGanchoso; y aunque os estendais hasta San Sebastian y Santelmo,\nimporta poco, puesto que es justicia mera mista, que nadie se entre en\npertenencia de nadie."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Besáronle la mano los dos por la merced que se les hacia, y\nofreciéronse á hacer su oficio bien y fielmente, con toda diligencia y\nrecato."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Sacó en esto Monipodio un papel doblado de la capilla de la capa,\ndonde estaba la lista de los cofrades, y dijo á Rinconete que pusiese\nallí su nombre y el de Cortadillo; mas porque no habia tintero le dió\nel papel para que lo llevase, y en el primer boticario los escribiese,\nponiendo: Rinconete y Cortadillo cofrades: noviciado ninguno: Rinconete\nfloreo, Cortadillo bajon, y el dia, mes y año, callando padres y\npatria."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Estando en esto entró uno de los viejos abispones, y dijo:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Vengo á decir á vuesas mercedes como agora topé en Gradas á Lobillo\nel de Málaga, y díceme que viene mejorado en su arte de tal manera, que\ncon naipe limpio quitará el dinero al mismo Satanas, y que por venir\nmaltratado no viene luego á registrarse, y á dar la sólita obediencia;\npero que el domingo será aquí sin falta."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Siempre se me asentó á mí, dijo Monipodio, que este Lobillo habia\nde ser único en su arte, porque tiene las mejores y mas acomodadas\nmanos para ello, que se pueden desear; que para ser uno buen oficial\nen su oficio, tanto ha menester los buenos instrumentos con que le\nejercita, como el ingenio con que le aprende."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Tambien topé, dijo el viejo, en una casa de posadas en la calle de\nTintores, al judío en hábito de clérigo, que se ha ido á posar allí,\npor tener noticia que dos peruleros viven en la misma casa, y querria\nver si pudiese trabar juego con ellos, aunque fuese de poca cantidad,\nque de allí podria venir á mucha: dice tambien que el domingo no\nfaltará de la junta y dará cuenta de su persona."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Ese judío tambien, dijo Monipodio, es gran sacre, y tiene gran\nconocimiento; dias ha que no le he visto, y no lo hace bien; pues á fe\nque si no se enmienda, que yo le deshaga la corona, que no tiene mas\nórdenes el ladron, que las que tiene el turco, ni sabe mas latin que mi\nmadre: ¿hay mas de nuevo?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No, dijo el viejo, á lo ménos que yo sepa."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—Pues sea en buen hora, dijo Monipodio; voacedes tomen esta miseria,\ny repartió entre todos hasta cuarenta reales, y el domingo no falte nadie, que no\nfaltará nada de lo corrido."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Todos le volvieron las gracias: tornáronse á abrazar Repolido\ny la Cariharta: la Escalanta con Maniferro, y la Gananciosa con\nChiquiznaque, concertando que aquella noche despues de haber alzado de\nobra en la casa, se viesen en la de la Pipota, donde tambien dijo que\niria Monipodio al registro de la canasta de colar, y que luego habia de\nir á cumplir y borrar la partida de la miera: abrazó á Rinconete y á\nCortadillo, y echándoles su bendicion los despidió, encargándoles que\nno tuviesen jamas posada cierta, ni de asiento, porque así convenia á\nla salud de todos. Acompañólos Ganchoso hasta enseñarles sus puestos,\nacordándoles que no faltasen el domingo, porque á lo que creia y\npensaba, Monipodio habia de leer una licion de oposicion acerca de\nlas cosas concernientes á su arte. Con esto se fué, dejando á los dos\ncompañeros admirados de lo que habian visto."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Era Rinconete, aunque muchacho, de muy buen entendimiento, y tenia\nun buen natural, y como habia andado con su padre en el ejercicio de\nlas bulas, sabia algo de buen lenguaje, y dábale gran risa pensar\nen los vocablos que habia oido á Monipodio y á los demas de su\ncompañía y bendita comunidad; y mas cuando por decir "
+          },
+          {
+            "text": "per modum suffragii",
+            "italic": true
+          },
+          {
+            "text": ", habia dicho por modo de naufragio; y\nque sacaban el estupendo, por decir estipendio, de lo que se garbeaba;\ny cuando la Cariharta dijo que era Repolido como un marinero de Tarpeya\ny un tigre de Ocaña, por decir Hircania, con otras mil impertinencias:\nespecialmente le cayó en gracia cuando dijo que el trabajo que habia\npasado en ganar los veinte y cuatro reales, lo recebiese el cielo en\ndescuento de sus pecados; y sobre todo le admiraba la seguridad que\ntenian y la confianza de irse al cielo con no faltar á sus devociones,\nestando tan llenos de hurtos, y de homicidios y ofensas de Dios: y\nreíase de la otra buena vieja de la Pipota, que dejaba la canasta de\ncolar hurtada, guardada en su casa, y se iba á poner las candelillas\nde cera á las imágenes, y con ello pensaba irse al cielo calzada y\nvestida: no ménos le suspendia la obediencia y respeto que todos tenian\ná Monipodio, siendo un hombre bárbaro, rústico y desalmado: consideraba\nlo que habia leido en su libro de memoria, y los ejercicios en que\ntodos se ocupaban: finalmente, exageraba cuán descuidada justicia habia\nen aquella tan famosa ciudad de Sevilla, pues casi al descubierto vivia\nen ella gente tan perniciosa y tan contraria á la misma naturaleza; y\npropuso en sí de aconsejar á su compañero no durase mucho en aquella\nvida tan perdida y tan mala, tan inquieta y tan libre y disoluta; pero\ncon todo esto, llevado de sus pocos años y de su poca esperiencia,\npasó con ella\nadelante algunos meses, en los cuales le sucedieron cosas que piden\nmas larga escritura, y así se deja para otra ocasion contar su vida y\nmilagros, con los de su maestro Monipodio, y otros sucesos de aquellos\nde la infame academia, que todos serán de grande consideracion, y que\npodrán servir de ejemplo y aviso á los que los leyeren."
+          }
+        ]
+      },
+      {
+        "type": "scene_break"
+      }
+    ]
+  }
+}

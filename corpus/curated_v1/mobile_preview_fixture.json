@@ -1,0 +1,981 @@
+{
+  "manifest_version": "2.0-multilingual",
+  "description": "Bookfin Corpus V2 balanced multilingual typography fixture for mobile render engine validation (EN, FR, ES)",
+  "sample_count": 8,
+  "coverage": {
+    "en": [
+      "prose",
+      "heading",
+      "italic",
+      "dialogue",
+      "scene_break"
+    ],
+    "fr": [
+      "prose",
+      "dialogue (tiret cadratin)",
+      "accents (é, è, ê, à, ç)",
+      "italic",
+      "scene_break"
+    ],
+    "es": [
+      "prose",
+      "punctuation (¿, ¡)",
+      "characters (ñ, tildes)",
+      "italic",
+      "heading",
+      "didascalies"
+    ]
+  },
+  "samples": [
+    {
+      "id": "fixture-en-01-heading-italic-scene-break",
+      "language": "en",
+      "work_id": "en-austen-pride-prejudice",
+      "author": "Jane Austen",
+      "title": "Pride and Prejudice",
+      "page_sequence_number": 1,
+      "typographical_features": [
+        "heading_h1",
+        "heading_h2",
+        "heading_h3",
+        "scene_break",
+        "italic",
+        "standard_prose"
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "PRIDE & PREJUDICE."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER I."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It is a truth universally acknowledged, that a single man in possession\r\nof a good fortune, must be in want of a wife."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "However little known the feelings or views of such a man may be on his\r\nfirst entering a neighbourhood, this truth is so well fixed in the minds\r\nof the surrounding families, that he is considered as the rightful\r\nproperty of some one or other of their daughters."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that\r\nNetherfield Park is let at last?\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mr. Bennet replied that he had not."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"But it is,\" returned she; \"for Mrs. Long has just been here, and she\r\ntold me all about it.\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mr. Bennet made no answer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"Do not you want to know who has taken it?\" cried his wife impatiently."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\""
+            },
+            {
+              "text": "You",
+              "italic": true
+            },
+            {
+              "text": " want to tell me, and I have no objection to hearing it.\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "This was invitation enough."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"Why, my dear, you must know, Mrs. Long says that Netherfield is taken\r\nby a young man of large fortune from the north of England; that he came\r\ndown on Monday in a chaise and four to see the place, and was so much\r\ndelighted with it that he agreed with Mr. Morris immediately; that he is\r\nto take possession before Michaelmas, and some of his servants are to be\r\nin the house by the end of next week.\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"What is his name?\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"Bingley.\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"Is he married or single?\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"Oh! single, my dear, to be sure! A single man of large fortune; four\r\nor five thousand a year. What a fine thing for our girls!\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"How so? how can it affect them?\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"My dear Mr. Bennet,\" replied his wife, \"how can you be so tiresome! You\r\nmust know that I am thinking of his marrying one of them.\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"Is that his design in settling here?\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\"Design! nonsense, how can you talk so! But it is very likely that he\r\n"
+            },
+            {
+              "text": "may",
+              "italic": true
+            },
+            {
+              "text": " fall in love with one of them, and therefore you must visit him as\r\nsoon as he comes.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixture-en-02-dialogue-prose-rich-italic",
+      "language": "en",
+      "work_id": "en-wilde-dorian-gray",
+      "author": "Oscar Wilde",
+      "title": "The Picture of Dorian Gray",
+      "page_sequence_number": 2,
+      "typographical_features": [
+        "dialogue",
+        "italic",
+        "long_paragraph",
+        "short_paragraph"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Thought and language are to the artist\r\ninstruments of an art. Vice and virtue are to the artist materials for an art.\r\nFrom the point of view of form, the type of all the arts is the art of the\r\nmusician. From the point of view of feeling, the actor’s craft is the\r\ntype. All art is at once surface and symbol. Those who go beneath the surface\r\ndo so at their peril. Those who read the symbol do so at their peril. It is the\r\nspectator, and not life, that art really mirrors. Diversity of opinion about a\r\nwork of art shows that the work is new, complex, and vital. When critics\r\ndisagree, the artist is in accord with himself. We can forgive a man for making\r\na useful thing as long as he does not admire it. The only excuse for making a\r\nuseless thing is that one admires it intensely.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nAll art is quite useless.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nOSCAR WILDE\r\n"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER I."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nThe studio was filled with the rich odour of roses, and when the light summer\r\nwind stirred amidst the trees of the garden, there came through the open door\r\nthe heavy scent of the lilac, or the more delicate perfume of the\r\npink-flowering thorn.\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nFrom the corner of the divan of Persian saddle-bags on which he was lying,\r\nsmoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could\r\njust catch the gleam of the honey-sweet and honey-coloured blossoms of a\r\nlaburnum, whose tremulous branches seemed hardly able to bear the burden of a\r\nbeauty so flamelike as theirs; and now and then the fantastic shadows of birds\r\nin flight flitted across the long tussore-silk curtains that were stretched in\r\nfront of the huge window, producing a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixture-fr-01-heading-accents-dialogue",
+      "language": "fr",
+      "work_id": "fr-maupassant-bel-ami",
+      "author": "Guy de Maupassant",
+      "title": "Bel-Ami",
+      "page_sequence_number": 1,
+      "typographical_features": [
+        "heading_h2",
+        "heading_h3",
+        "french_accents",
+        "dialogue_cadratin",
+        "standard_prose"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "PREMIÈRE PARTIE",
+              "bold": true
+            },
+            {
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": " I"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Comme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire, un de ces regards de joli garçon, qui s’étendent comme des coups d’épervier.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Les femmes avaient levé la tête vers lui, trois petites ouvrières, une maîtresse de musique entre deux âges, mal peignée, négligée, coiffée d’un chapeau toujours poussiéreux et vêtue toujours d’une robe de travers, et deux bourgeoises avec leurs maris, habituées de cette gargote à prix fixe. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Lorsqu’il fut sur le trottoir, il demeura un instant immobile, se demandant ce qu’il allait faire. On était au 28 juin, et il lui restait juste en poche trois francs quarante pour finir le mois. Cela représentait deux dîners sans déjeuners, ou deux déjeuners sans dîners, au choix. Il réfléchit que les repas du matin étant de vingt-deux sous, au lieu de trente que coûtaient ceux du soir, il lui resterait, en se contentant des déjeuners, un franc vingt centimes de boni, ce qui représentait encore deux collations au pain et au saucisson, plus deux bocks sur le boulevard. C’était là sa grande dépense et son grand plaisir des nuits ; et il se mit à descendre la rue Notre-Dame-de-Lorette.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixture-fr-02-dialogue-vif-italique-philosophique",
+      "language": "fr",
+      "work_id": "fr-diderot-jacques-le-fataliste",
+      "author": "Denis Diderot",
+      "title": "Jacques le fataliste et son maître",
+      "page_sequence_number": 2,
+      "typographical_features": [
+        "dialogue_theatral",
+        "italic",
+        "short_paragraphs",
+        "french_accents"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et le moment d’apprendre ces amours est-il venu ? "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Jacques."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Qui le sait ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le maître."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "À tout hasard, commence toujours…\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Jacques commença l’histoire de ses amours. C’était l’après-dîner : il faisait un temps lourd ; son maître s’endormit. La nuit les surprit au milieu des champs ; les voilà fourvoyés. Voilà le maître dans une colère terrible et tombant à grands coups de fouet sur son valet, et le pauvre diable disant à chaque coup : « Celui-là était apparemment encore écrit là-haut… »\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Vous voyez, lecteur, que je suis en beau chemin, et qu’il ne tiendrait qu’à moi de vous faire attendre un an, deux ans, trois ans, le récit des amours de Jacques, en le séparant de son maître et en leur faisant courir à chacun tous les hasards qu’il me plairait. Qu’est-ce qui m’empêcherait de marier le maître et de le faire cocu ? d’embarquer Jacques pour les îles ? d’y conduire son maître ? de les ramener tous les deux en France sur le même vaisseau ? Qu’il est facile de faire des contes ! Mais ils en seront quittes l’un et l’autre pour une mauvaise nuit, et vous pour ce délai. \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’aube du jour parut. Les voilà remontés sur leurs bêtes et poursuivant leur chemin. — Et où allaient-ils ? — Voilà la seconde fois que vous me faites cette question, et la seconde fois que je vous réponds : Qu’est-ce que cela vous fait ? Si j’entame le sujet de leur voyage, adieu les amours de Jacques… Ils allèrent quelque temps en silence. Lorsque chacun fut un peu remis de son chagrin, le maître dit à son valet : Eh bien, Jacques, où en étions-nous de tes amours ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Jacques."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixture-fr-03-heading-scene-break-short-novella",
+      "language": "fr",
+      "work_id": "fr-maupassant-la-parure",
+      "author": "Guy de Maupassant",
+      "title": "La Parure",
+      "page_sequence_number": 1,
+      "typographical_features": [
+        "heading_h2",
+        "scene_break",
+        "french_accents",
+        "descriptive_prose"
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "spans": [
+            {
+              "text": " LA PARURE"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "C’était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l’instruction publique.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle fut simple ne pouvant être parée, mais malheureuse comme une déclassée ; car les femmes n’ont point de caste ni de race, leur beauté, leur grâce et leur charme leur servant de naissance et de famille. Leur finesse native, leur instinct d’élégance, leur souplesse d’esprit, sont leur seule hiérarchie, et font des filles du peuple les égales des plus grandes dames.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle souffrait sans cesse, se sentant née pour toutes les délicatesses et tous les luxes. Elle souffrait de la pauvreté de son logement, de la misère des murs, de l’usure des sièges, de la laideur des étoffes. Toutes ces choses, dont une autre femme de sa caste ne se serait même pas aperçue, la torturaient et l’indignaient. La vue de la petite Bretonne qui faisait son humble ménage éveillait en elle des regrets désolés et des rêves éperdus. Elle songeait aux antichambres muettes, capitonnées avec des tentures orientales, éclairées par de hautes torchères de bronze, et aux deux grands valets en culotte courte qui dorment dans les larges fauteuils, assoupis par la chaleur lourde du calorifère. Elle songeait aux grands salons vêtus de soie ancienne, aux meubles fins portant des bibelots inestimables, et aux petits salons coquets, parfumés, faits pour la causerie de cinq heures avec les amis les plus intimes, les hommes connus et recherchés dont toutes les femmes envient et désirent l’attention.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixture-es-01-cervantes-prose-accents-heading",
+      "language": "es",
+      "work_id": "es-cervantes-quijote",
+      "author": "Miguel de Cervantes",
+      "title": "Don Quijote de la Mancha",
+      "page_sequence_number": 3,
+      "typographical_features": [
+        "heading_h3",
+        "spanish_accents",
+        "archaic_orthography",
+        "long_paragraph"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " gracioso artificio y orden que se tuvo\r\nen sacar a nuestro enamorado caballero de la asperísima penitencia en\r\nque se había puestoDe los sabrosos razonamientos que pasaron entre don\r\nQuijote y Sancho Panza, su escudero, con otros sucesosQue trata de lo que sucedió en la venta a toda la\r\ncuadrilla de don QuijoteDonde se cuenta la novela del Curioso\r\nimpertinenteDonde se prosigue la novela del Curioso\r\nimpertinenteDonde se da fin a la novela del Curioso\r\nimpertinenteQue trata de la brava y descomunal batalla que don\r\nQuijote tuvo con unos cueros de vino tinto, con otros raros sucesos\r\nque en la venta le sucedieronQue prosigue la historia de la famosa infanta\r\nMicomicona, con otras graciosas aventurasQue trata del curioso discurso que hizo don\r\nQuijote de las armas y las letrasDonde el cautivo cuenta su vida y sucesosDonde se prosigue la historia del cautivoDonde todavía prosigue el cautivo su sucesoQue trata de lo que más sucedió en la venta y de\r\notras muchas cosas dignas de saberseDonde se cuenta la agradable historia del mozo de\r\nmulas, con otros estraños acaecimientos en la venta sucedidos]Donde se prosiguen los inauditos sucesos de la\r\nventaDonde se acaba de averiguar la duda del yelmo de\r\nMambrino y de la albarda, y otras aventuras sucedidas, con toda\r\nverdadDe la notable aventura de los cuadrilleros, y la\r\ngran ferocidad de nuestro buen caballero don QuijoteDel estraño modo con que fue encantado don Quijote\r\nde la Mancha, con otros famosos sucesosDonde prosigue el canónigo la materia de los\r\nlibros de caballerías, con otras cosas dignas de su ingenioDonde se trata del"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixture-es-02-spanish-inverted-punctuation-dialogue",
+      "language": "es",
+      "work_id": "es-unamuno-niebla",
+      "author": "Miguel de Unamuno",
+      "title": "Niebla",
+      "page_sequence_number": 7,
+      "typographical_features": [
+        "spanish_inverted_punctuation_¿¡",
+        "spanish_enie_ñ",
+        "spanish_accents",
+        "dialogue",
+        "italic"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Todo lo cual le lleva a una tarea muy desagradable y poco agradecida,\r\nde la que dice que no es sino un masaje de la ingenuidad pública,\r\na ver si el ingenio colectivo de nuestro[Pg 13] pueblo se va agilizando\r\ny sutilizando poco a poco. Porque le saca de sus casillas el que\r\ndigan que nuestro pueblo, sobre todo el meridional, es ingenioso.\r\n«Pueblo que se recrea en las corridas de toros y halla variedad y\r\namenidad en ese espectáculo sencillísimo, está juzgado en cuanto a\r\nmentalidad», dice. Y agrega que no puede haber mentalidad más simple\r\ny más córnea que la de un aficionado. ¡Vaya usted con paradojas más\r\no menos humorísticas al que acaba de entusiasmarse con una estocada\r\nde Vicente Pastor! Y abomina del género festivo de los revisteros\r\nde toros, sacerdotes del juego de vocablos y de toda la bazofia del\r\ningenio de puchero."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Si a esto se añade los juegos de conceptos metafísicos en que se\r\ncomplace, se comprenderá que haya muchas gentes que se aparten con\r\ndisgusto de su lectura, los unos porque tales cosas les levantan\r\ndolor de cabeza, y los otros porque, atentos a lo de que "
+            },
+            {
+              "text": "sancta\r\nsancte tractanda sunt",
+              "italic": true
+            },
+            {
+              "text": ", lo santo ha de tratarse santamente, estiman\r\nque esos conceptos no deben dar materia para burlas y jugueteos. Mas\r\nél dice a esto que no sabe por qué han de pretender que se trate en\r\nserio ciertas cosas los hijos espirituales de quienes se burlaron\r\nde las más santas, es decir, de las más consoladoras creencias y\r\nesperanzas de sus hermanos. Si ha habido quien se ha burlado de Dios,\r\n¿por[Pg 14] qué no hemos de burlarnos de la Razón, de la Ciencia y hasta\r\nde la Verdad? Y si nos han arrebatado nuestra más cara y más íntima\r\nesperanza vital, ¿por qué no hemos de confundirlo todo para matar el\r\ntiempo y la eternidad y para vengarnos?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixture-es-03-theatrical-esperpento-didascalies",
+      "language": "es",
+      "work_id": "es-valle-inclan-luces-de-bohemia",
+      "author": "Ramón del Valle-Inclán",
+      "title": "Luces de bohemia (esperpento)",
+      "page_sequence_number": 2,
+      "typographical_features": [
+        "didascalies_italic",
+        "character_cues_bold",
+        "dialogue",
+        "spanish_punctuation"
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "ESCENA PRIMERA"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "HORA CREPUSCULAR. Un guardillón con ventano angosto,\r\nlleno de sol. Retratos, grabados, autógrafos repartidos por las\r\nparedes, sujetos con chinches de dibujante. Conversación lánguida de un\r\nhombre ciego y una mujer pelirrubia, triste y fatigada. El hombre ciego\r\nes un hiperbólico andaluz, poeta de odas y madrigales, Máximo Estrella.\r\nA la pelirrubia, por ser francesa, le dicen en la vecindad Madama\r\nCollet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "p. 14MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Vuelve a leerme la carta del Buey Apis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ten paciencia, Max."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pudo esperar a que me enterrasen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le toca ir delante."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Collet, mal vamos a vernos sin esas cuatro crónicas! ¿Dónde gano yo\r\nveinte duros, Collet?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otra puerta se abrirá."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La de la muerte. Podemos suicidarnos colectivamente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "p. 15 MADAMA\r\nCOLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "A mí la muerte no me asusta. ¡Pero tenemos una hija, Max!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¿Y si Claudinita estuviese conforme con mi proyecto de suicidio\r\ncolectivo?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Es muy joven!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "También se matan los jóvenes, Collet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "No por cansancio de la vida. Los jóvenes se matan por\r\nromanticismo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Entonces, se matan por amar demasiado la vida. Es una lástima\r\nla obcecación dep. 16\r\nClaudinita. Con cuatro perras de carbón, podíamos hacer el viaje\r\neterno."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "No desesperes. Otra puerta se abrirá."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¿En qué redacción me admiten ciego?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Escribes una novela."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y no hallo editor."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Oh! No te pongas a gatas, Max. Todos reconocen tu talento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Estoy olvidado! Léeme la carta del Buey Apis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "p. 17MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "No tomes ese caso por ejemplo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Lee."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Es un infierno de letra."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Lee despacio."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Madama Collet, el gesto abatido y resignado, deletrea\r\nen voz baja la carta. Se oye fuera una escoba retozona. Suena la\r\ncampanilla de la escalera."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

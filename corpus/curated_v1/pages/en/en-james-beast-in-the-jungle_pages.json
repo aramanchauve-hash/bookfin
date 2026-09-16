@@ -1,0 +1,3526 @@
+{
+  "work_id": "en-james-beast-in-the-jungle",
+  "author": "Henry James",
+  "title": "The Beast in the Jungle",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "650d521f7efb0a94b692ef8bc47b7d8de6d7388e6cbe579dcf26a8a4e9ced547",
+  "document_sha256": "ab8f704917fec79c74361512aa89f53e37a254d2599808d72de3719c678999bb",
+  "pages_count": 65,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "3c10c844306f05094b7313014b68cef9760b3bc099df74d2b0e7b9610d0a3a75",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Transcribed from the 1915 Martin Secker edition by David Price, email\r\nccx074@coventry.ac.uk"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "spans": [
+            {
+              "text": "THE BEAST IN THE JUNGLE"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER I"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "What determined the speech that startled him in the course of their\r\nencounter scarcely matters, being probably but some words spoken by\r\nhimself quite without intention—spoken as they lingered and slowly\r\nmoved together after their renewal of acquaintance.  He had been\r\nconveyed by friends an hour or two before to the house at which she\r\nwas staying; the party of visitors at the other house, of whom he was\r\none, and thanks to whom it was his theory, as always, that he was lost\r\nin the crowd, had been invited over to luncheon.  There had been\r\nafter luncheon much dispersal, all in the interest of the original motive,\r\na view of Weatherend itself and the fine things, intrinsic features,\r\npictures, heirlooms, treasures of all the arts, that made the place\r\nalmost famous; and the great rooms were so numerous that guests could\r\nwander at their will, hang back from the principal group and in cases\r\nwhere they took such matters with the last seriousness give themselves\r\nup to mysterious appreciations and measurements.  There were persons\r\nto be observed, singly or in couples, bending toward objects in out-of-the-way\r\ncorners with their hands on their knees and their heads nodding quite\r\nas with the emphasis of an excited sense of smell.  When they were\r\ntwo they either mingled their sounds of ecstasy or melted into silences\r\nof even deeper import, so that there were aspects of the occasion that\r\ngave it for Marcher much the air of the “look round,”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f81ff8837cf9fcc836854fa56b3a0791cd86bafaf9678f22c2f3e2bfada7cba0",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " previous\r\nto a sale highly advertised, that excites or quenches, as may be, the\r\ndream of acquisition.  The dream of acquisition at Weatherend would\r\nhave had to be wild indeed, and John Marcher found himself, among such\r\nsuggestions, disconcerted almost equally by the presence of those who\r\nknew too much and by that of those who knew nothing.  The great\r\nrooms caused so much poetry and history to press upon him that he needed\r\nsome straying apart to feel in a proper relation with them, though this\r\nimpulse was not, as happened, like the gloating of some of his companions,\r\nto be compared to the movements of a dog sniffing a cupboard. \r\nIt had an issue promptly enough in a direction that was not to have\r\nbeen calculated."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It led, briefly, in the course of the October afternoon, to his closer\r\nmeeting with May Bartram, whose face, a reminder, yet not quite a remembrance,\r\nas they sat much separated at a very long table, had begun merely by\r\ntroubling him rather pleasantly.  It affected him as the sequel\r\nof something of which he had lost the beginning.  He knew it, and\r\nfor the time quite welcomed it, as a continuation, but didn’t\r\nknow what it continued, which was an interest or an amusement the greater\r\nas he was also somehow aware—yet without a direct sign from her—that\r\nthe young woman herself hadn’t lost the thread.  She hadn’t\r\nlost it, but she wouldn’t give it back to him, he saw, without\r\nsome putting forth of his hand for it; and he not only saw that, but\r\nsaw several things more, things odd enough in the light of the fact\r\nthat at the moment some accident of grouping"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "d776d8eae8ea987ce8ca0389a26e32d35289e814c11a2bbc7361f46eaa899dd3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " brought them face to face\r\nhe was still merely fumbling with the idea that any contact between\r\nthem in the past would have had no importance.  If it had had no\r\nimportance he scarcely knew why his actual impression of her should\r\nso seem to have so much; the answer to which, however, was that in such\r\na life as they all appeared to be leading for the moment one could but\r\ntake things as they came.  He was satisfied, without in the least\r\nbeing able to say why, that this young lady might roughly have ranked\r\nin the house as a poor relation; satisfied also that she was not there\r\non a brief visit, but was more or less a part of the establishment—almost\r\na working, a remunerated part.  Didn’t she enjoy at periods\r\na protection that she paid for by helping, among other services, to\r\nshow the place and explain it, deal with the tiresome people, answer\r\nquestions about the dates of the building, the styles of the furniture,\r\nthe authorship of the pictures, the favourite haunts of the ghost? \r\nIt wasn’t that she looked as if you could have given her shillings—it\r\nwas impossible to look less so.  Yet when she finally drifted toward\r\nhim, distinctly handsome, though ever so much older—older than\r\nwhen he had seen her before—it might have been as an effect of\r\nher guessing that he had, within the couple of hours, devoted more imagination\r\nto her than to all the others put together, and had thereby penetrated\r\nto a kind of truth that the others were too stupid for.  She "
+            },
+            {
+              "text": "was",
+              "italic": true
+            },
+            {
+              "text": "\r\nthere on harder terms than any one; she was there as a consequence of\r\nthings suffered, one way and another, in the interval of years; and\r\nshe remembered him very much as she was remembered—only a good\r\ndeal better."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "59e3556a63b529dda41f854b37b422447903f0f2c91d01e2c700f8e09a7b6ba4",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "By the time they at last thus came to speech they were alone in one\r\nof the rooms—remarkable for a fine portrait over the chimney-place—out\r\nof which their friends had passed, and the charm of it was that even\r\nbefore they had spoken they had practically arranged with each other\r\nto stay behind for talk.  The charm, happily, was in other things\r\ntoo—partly in there being scarce a spot at Weatherend without\r\nsomething to stay behind for.  It was in the way the autumn day\r\nlooked into the high windows as it waned; the way the red light, breaking\r\nat the close from under a low sombre sky, reached out in a long shaft\r\nand played over old wainscots, old tapestry, old gold, old colour. \r\nIt was most of all perhaps in the way she came to him as if, since she\r\nhad been turned on to deal with the simpler sort, he might, should he\r\nchoose to keep the whole thing down, just take her mild attention for\r\na part of her general business.  As soon as he heard her voice,\r\nhowever, the gap was filled up and the missing link supplied; the slight\r\nirony he divined in her attitude lost its advantage.  He almost\r\njumped at it to get there before her.  “I met you years and\r\nyears ago in Rome.  I remember all about it.”  She confessed\r\nto disappointment—she had been so sure he didn’t; and to\r\nprove how well he did he began to pour forth the particular recollections\r\nthat popped up as he called for them.  Her face and her voice,\r\nall at his service now, worked the miracle—the impression operating\r\nlike the torch of a lamplighter who touches into flame, one by one,\r\na long row of gas-jets.  Marcher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "1fc76131827a485129391a0f14086046eaed841171768fb5580b32d106d55977",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " flattered himself the illumination\r\nwas brilliant, yet he was really still more pleased on her showing him,\r\nwith amusement, that in his haste to make everything right he had got\r\nmost things rather wrong.  It hadn’t been at Rome—it\r\nhad been at Naples; and it hadn’t been eight years before—it\r\nhad been more nearly ten.  She hadn’t been, either, with\r\nher uncle and aunt, but with her mother and brother; in addition to\r\nwhich it was not with the Pembles "
+            },
+            {
+              "text": "he",
+              "italic": true
+            },
+            {
+              "text": " had been, but with the Boyers,\r\ncoming down in their company from Rome—a point on which she insisted,\r\na little to his confusion, and as to which she had her evidence in hand. \r\nThe Boyers she had known, but didn’t know the Pembles, though\r\nshe had heard of them, and it was the people he was with who had made\r\nthem acquainted.  The incident of the thunderstorm that had raged\r\nround them with such violence as to drive them for refuge into an excavation—this\r\nincident had not occurred at the Palace of the Caesars, but at Pompeii,\r\non an occasion when they had been present there at an important find."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He accepted her amendments, he enjoyed her corrections, though the\r\nmoral of them was, she pointed out, that he "
+            },
+            {
+              "text": "really",
+              "italic": true
+            },
+            {
+              "text": " didn’t\r\nremember the least thing about her; and he only felt it as a drawback\r\nthat when all was made strictly historic there didn’t appear much\r\nof anything left.  They lingered together still, she neglecting\r\nher office—for from the moment he was so clever she had no proper\r\nright to him—and both neglecting the house, just waiting as to\r\nsee if a memory or two more wouldn’t again breathe on them. \r\nIt hadn’t"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 6,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "d7b0f0d21b57e4b302f8718103e30e5145763e6b31bc36034ef25c41312fc35a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " taken them many minutes, after all, to put down on the\r\ntable, like the cards of a pack, those that constituted their respective\r\nhands; only what came out was that the pack was unfortunately not perfect—that\r\nthe past, invoked, invited, encouraged, could give them, naturally,\r\nno more than it had.  It had made them anciently meet—her\r\nat twenty, him at twenty-five; but nothing was so strange, they seemed\r\nto say to each other, as that, while so occupied, it hadn’t done\r\na little more for them.  They looked at each other as with the\r\nfeeling of an occasion missed; the present would have been so much better\r\nif the other, in the far distance, in the foreign land, hadn’t\r\nbeen so stupidly meagre.  There weren’t, apparently, all\r\ncounted, more than a dozen little old things that had succeeded in coming\r\nto pass between them; trivialities of youth, simplicities of freshness,\r\nstupidities of ignorance, small possible germs, but too deeply buried—too\r\ndeeply (didn’t it seem?) to sprout after so many years. \r\nMarcher could only feel he ought to have rendered her some service—saved\r\nher from a capsized boat in the bay or at least recovered her dressing-bag,\r\nfilched from her cab in the streets of Naples by a lazzarone with a\r\nstiletto.  Or it would have been nice if he could have been taken\r\nwith fever all alone at his hotel, and she could have come to look after\r\nhim, to write to his people, to drive him out in convalescence. \r\n"
+            },
+            {
+              "text": "Then",
+              "italic": true
+            },
+            {
+              "text": " they would be in possession of the something or other that\r\ntheir actual show seemed to lack.  It yet somehow presented itself,\r\nthis show, as too good"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 7,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8df52891375776eef24d35976834056893a7f72afe1fd67e947f9678668a8855",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " to be spoiled; so that they were reduced for\r\na few minutes more to wondering a little helplessly why—since\r\nthey seemed to know a certain number of the same people—their\r\nreunion had been so long averted.  They didn’t use that name\r\nfor it, but their delay from minute to minute to join the others was\r\na kind of confession that they didn’t quite want it to be a failure. \r\nTheir attempted supposition of reasons for their not having met but\r\nshowed how little they knew of each other.  There came in fact\r\na moment when Marcher felt a positive pang.  It was vain to pretend\r\nshe was an old friend, for all the communities were wanting, in spite\r\nof which it was as an old friend that he saw she would have suited him. \r\nHe had new ones enough—was surrounded with them for instance on\r\nthe stage of the other house; as a new one he probably wouldn’t\r\nhave so much as noticed her.  He would have liked to invent something,\r\nget her to make-believe with him that some passage of a romantic or\r\ncritical kind "
+            },
+            {
+              "text": "had",
+              "italic": true
+            },
+            {
+              "text": " originally occurred.  He was really almost\r\nreaching out in imagination—as against time—for something\r\nthat would do, and saying to himself that if it didn’t come this\r\nsketch of a fresh start would show for quite awkwardly bungled. \r\nThey would separate, and now for no second or no third chance. \r\nThey would have tried and not succeeded.  Then it was, just at\r\nthe turn, as he afterwards made it out to himself, that, everything\r\nelse failing, she herself decided to take up the case and, as it were,\r\nsave the situation.  He felt as soon as she spoke that she had\r\nbeen consciously"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 8,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "0b936e0b0185cabf7db59387651f5aeb249fe009429401918b2b353249091082",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " keeping back what she said and hoping to get on without\r\nit; a scruple in her that immensely touched him when, by the end of\r\nthree or four minutes more, he was able to measure it.  What she\r\nbrought out, at any rate, quite cleared the air and supplied the link—the\r\nlink it was so odd he should frivolously have managed to lose."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“You know you told me something I’ve never forgotten\r\nand that again and again has made me think of you since; it was that\r\ntremendously hot day when we went to Sorrento, across the bay, for the\r\nbreeze.  What I allude to was what you said to me, on the way back,\r\nas we sat under the awning of the boat enjoying the cool.  Have\r\nyou forgotten?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He had forgotten, and was even more surprised than ashamed. \r\nBut the great thing was that he saw in this no vulgar reminder of any\r\n“sweet” speech.  The vanity of women had long memories,\r\nbut she was making no claim on him of a compliment or a mistake. \r\nWith another woman, a totally different one, he might have feared the\r\nrecall possibly even some imbecile “offer.”  So, in\r\nhaving to say that he had indeed forgotten, he was conscious rather\r\nof a loss than of a gain; he already saw an interest in the matter of\r\nher mention.  “I try to think—but I give it up. \r\nYet I remember the Sorrento day.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I’m not very sure you do,” May Bartram after a\r\nmoment said; “and I’m not very sure I ought to want you\r\nto.  It’s dreadful to bring a person back at any time to\r\nwhat he was ten years before.  If you’ve lived away from\r\nit,” she smiled, “so much the better.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Ah if "
+            },
+            {
+              "text": "you",
+              "italic": true
+            },
+            {
+              "text": " haven’t why should I?” he asked."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Lived away, you mean, from what I myself was?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 9,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8ef2452601939c48c0faeca7226963c586e22d5abce17b67413e08ae7c119439",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“From what "
+            },
+            {
+              "text": "I",
+              "italic": true
+            },
+            {
+              "text": " was.  I was of course an ass,”\r\nMarcher went on; “but I would rather know from you just the sort\r\nof ass I was than—from the moment you have something in your mind—not\r\nknow anything.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Still, however, she hesitated.  “But if you’ve completely\r\nceased to be that sort—?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Why I can then all the more bear to know.  Besides, perhaps\r\nI haven’t.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Perhaps.  Yet if you haven’t,” she added,\r\n“I should suppose you’d remember.  Not indeed that\r\n"
+            },
+            {
+              "text": "I",
+              "italic": true
+            },
+            {
+              "text": " in the least connect with my impression the invidious name\r\nyou use.  If I had only thought you foolish,” she explained,\r\n“the thing I speak of wouldn’t so have remained with me. \r\nIt was about yourself.”  She waited as if it might come to\r\nhim; but as, only meeting her eyes in wonder, he gave no sign, she burnt\r\nher ships.  “Has it ever happened?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Then it was that, while he continued to stare, a light broke for\r\nhim and the blood slowly came to his face, which began to burn with\r\nrecognition."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Do you mean I told you—?”  But he faltered,\r\nlest what came to him shouldn’t be right, lest he should only\r\ngive himself away."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It was something about yourself that it was natural one shouldn’t\r\nforget—that is if one remembered you at all.  That’s\r\nwhy I ask you,” she smiled, “if the thing you then spoke\r\nof has ever come to pass?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 10,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "4b8245c5941797f1dbe3efa6a22949b8a460d3b8e0edfa844bd4b72c6bc4e21d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Oh then he saw, but he was lost in wonder and found himself embarrassed. \r\nThis, he also saw, made her sorry for him, as if her allusion had been\r\na mistake.  It took him but a moment, however, to feel it hadn’t\r\nbeen, much as it had been a surprise.  After the first little shock\r\nof it her knowledge on the contrary began, even if rather strangely,\r\nto taste sweet to him.  She was the only other person in the world\r\nthen who would have it, and she had had it all these years, while the\r\nfact of his having so breathed his secret had unaccountably faded from\r\nhim.  No wonder they couldn’t have met as if nothing had\r\nhappened.  “I judge,” he finally said, “that\r\nI know what you mean.  Only I had strangely enough lost any sense\r\nof having taken you so far into my confidence.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Is it because you’ve taken so many others as well?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I’ve taken nobody.  Not a creature since then.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“So that I’m the only person who knows?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“The only person in the world.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well,” she quickly replied, “I myself have never\r\nspoken.  I’ve never, never repeated of you what you told\r\nme.”  She looked at him so that he perfectly believed her. \r\nTheir eyes met over it in such a way that he was without a doubt. \r\n“And I never will.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She spoke with an earnestness that, as if almost excessive, put him\r\nat ease about her possible derision.  Somehow the whole question\r\nwas a new luxury to him—that is from the moment she was in possession. \r\nIf she didn’t take the sarcastic view she clearly took the sympathetic,\r\nand that was what he had had, in all the long time, from no one whomsoever. \r\nWhat he felt was that he couldn’t at present have begun to tell\r\nher, and yet could profit perhaps exquisitely by the accident of having\r\ndone so of old.  “Please don’t then.  We’re\r\njust right as it is.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 11,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "6d236a7a3f2968afcf09901d0e8347db07c5cbd9539c8cecab30705eeed780cf",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh I am,” she laughed, “if you are!” \r\nTo which she added: “Then you do still feel in the same way?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It was impossible he shouldn’t take to himself that she was\r\nreally interested, though it all kept coming as a perfect surprise. \r\nHe had thought of himself so long as abominably alone, and lo he wasn’t\r\nalone a bit.  He hadn’t been, it appeared, for an hour—since\r\nthose moments on the Sorrento boat.  It was she who had been, he\r\nseemed to see as he looked at her—she who had been made so by\r\nthe graceless fact of his lapse of fidelity.  To tell her what\r\nhe had told her—what had it been but to ask something of her?\r\nsomething that she had given, in her charity, without his having, by\r\na remembrance, by a return of the spirit, failing another encounter,\r\nso much as thanked her.  What he had asked of her had been simply\r\nat first not to laugh at him.  She had beautifully not done so\r\nfor ten years, and she was not doing so now.  So he had endless\r\ngratitude to make up.  Only for that he must see just how he had\r\nfigured to her.  “What, exactly, was the account I gave—?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Of the way you did feel?  Well, it was very simple. \r\nYou said you had had from your earliest time, as the deepest thing within\r\nyou, the sense of being kept for something rare and strange, possibly\r\nprodigious and terrible, that was sooner or later to happen to you,\r\nthat you had in your bones the foreboding and the conviction of, and\r\nthat would perhaps overwhelm you.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Do you call that very simple?” John Marcher asked."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She thought a moment.  “It was perhaps because I seemed,\r\nas you spoke, to understand it.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“You do understand it?” he eagerly asked."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Again she kept her kind eyes on him.  “You still have\r\nthe belief?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh!” he exclaimed helplessly.  There was too much\r\nto say."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 12,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "c32e6ca0c6d5eef1469f9d7841e01f98c5a3d1c9d42af8f0cd4edf18296a50ba",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Whatever it’s to be,” she clearly made out, “it\r\nhasn’t yet come.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He shook his head in complete surrender now.  “It hasn’t\r\nyet come.  Only, you know, it isn’t anything I’m to\r\ndo, to achieve in the world, to be distinguished or admired for. \r\nI’m not such an ass as "
+            },
+            {
+              "text": "that",
+              "italic": true
+            },
+            {
+              "text": ".  It would be much better,\r\nno doubt, if I were.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It’s to be something you’re merely to suffer?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well, say to wait for—to have to meet, to face, to see\r\nsuddenly break out in my life; possibly destroying all further consciousness,\r\npossibly annihilating me; possibly, on the other hand, only altering\r\neverything, striking at the root of all my world and leaving me to the\r\nconsequences, however they shape themselves.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She took this in, but the light in her eyes continued for him not\r\nto be that of mockery.  “Isn’t what you describe perhaps\r\nbut the expectation—or at any rate the sense of danger, familiar\r\nto so many people—of falling in love?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "John Marcher thought.  “Did you ask me that before?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“No—I wasn’t so free-and-easy then.  But it’s\r\nwhat strikes me now.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Of course,” he said after a moment, “it strikes\r\nyou.  Of course it strikes "
+            },
+            {
+              "text": "me",
+              "italic": true
+            },
+            {
+              "text": ".  Of course what’s\r\nin store for me may be no more than that.  The only thing is,”\r\nhe went on, “that I think if it had been that I should by this\r\ntime know.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Do you mean because you’ve "
+            },
+            {
+              "text": "been",
+              "italic": true
+            },
+            {
+              "text": " in love?” \r\nAnd then as he but looked at her in silence: “You’ve been\r\nin love, and it hasn’t meant such a cataclysm, hasn’t proved\r\nthe great affair?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Here I am, you see.  It hasn’t been overwhelming.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then it hasn’t been love,” said May Bartram."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well, I at least thought it was.  I took it for that—I’ve\r\ntaken it till now.  It was agreeable, it was delightful, it was\r\nmiserable,” he explained.  “But it wasn’t strange. \r\nIt wasn’t what my affair’s to be.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 13,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "102987c2782fd2283b5ece4e704e6f30131cc6a130ef903ebaf21f854905c2bb",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“You want something all to yourself—something that nobody\r\nelse knows or "
+            },
+            {
+              "text": "has",
+              "italic": true
+            },
+            {
+              "text": " known?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It isn’t a question of what I ‘want’—God\r\nknows I don’t want anything.  It’s only a question\r\nof the apprehension that haunts me—that I live with day by day.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He said this so lucidly and consistently that he could see it further\r\nimpose itself.  If she hadn’t been interested before she’d\r\nhave been interested now."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Is it a sense of coming violence?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Evidently now too again he liked to talk of it.  “I don’t\r\nthink of it as—when it does come—necessarily violent. \r\nI only think of it as natural and as of course above all unmistakeable. \r\nI think of it simply as "
+            },
+            {
+              "text": "the",
+              "italic": true
+            },
+            {
+              "text": " thing.  "
+            },
+            {
+              "text": "The",
+              "italic": true
+            },
+            {
+              "text": " thing will\r\nof itself appear natural.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then how will it appear strange?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Marcher bethought himself.  “It won’t—to "
+            },
+            {
+              "text": "me",
+              "italic": true
+            },
+            {
+              "text": ".”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“To whom then?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well,” he replied, smiling at last, “say to you.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh then I’m to be present?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Why you are present—since you know.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I see.”  She turned it over.  “But I\r\nmean at the catastrophe.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "At this, for a minute, their lightness gave way to their gravity;\r\nit was as if the long look they exchanged held them together. \r\n“It will only depend on yourself—if you’ll watch with\r\nme.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Are you afraid?” she asked."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Don’t leave me now,” he went on."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Are you afraid?” she repeated."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Do you think me simply out of my mind?” he pursued instead\r\nof answering.  “Do I merely strike you as a harmless lunatic?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“No,” said May Bartram.  “I understand you. \r\nI believe you.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“You mean you feel how my obsession—poor old thing—may\r\ncorrespond to some possible reality?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“To some possible reality.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then you "
+            },
+            {
+              "text": "will",
+              "italic": true
+            },
+            {
+              "text": " watch with me?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She hesitated, then for the third time put her question.  “Are\r\nyou afraid?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Did I tell you I was—at Naples?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“No, you said nothing about it.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 14,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "998d31261e5c5bf44184d75882812d8d2a6fd57ae07662f80dd573b78c4f4dda",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then I don’t know.  And I should like to know,”\r\nsaid John Marcher.  “You’ll tell me yourself whether\r\nyou think so.  If you’ll watch with me you’ll see.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Very good then.”  They had been moving by this\r\ntime across the room, and at the door, before passing out, they paused\r\nas for the full wind-up of their understanding.  “I’ll\r\nwatch with you,” said May Bartram."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER II"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "The fact that she “knew”—knew and yet neither chaffed\r\nhim nor betrayed him—had in a short time begun to constitute between\r\nthem a goodly bond, which became more marked when, within the year that\r\nfollowed their afternoon at Weatherend, the opportunities for meeting\r\nmultiplied.  The event that thus promoted these occasions was the\r\ndeath of the ancient lady her great-aunt, under whose wing, since losing\r\nher mother, she had to such an extent found shelter, and who, though\r\nbut the widowed mother of the new successor to the property, had succeeded—thanks\r\nto a high tone and a high temper—in not forfeiting the supreme\r\nposition at the great house.  The deposition of this personage\r\narrived but with her death, which, followed by many changes, made in\r\nparticular a difference for the young woman in whom Marcher’s\r\nexpert attention had recognised from the first a dependent with a pride\r\nthat might ache though it didn’t bristle.  Nothing for a\r\nlong time had made him easier than the thought that the aching must\r\nhave been much soothed by Miss Bartram’s now finding herself able\r\nto set up a small home in London.  She had acquired property, to\r\nan amount that made that luxury just possible, under her aunt’s\r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 15,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "552bca279dc4d9953c9855406e666e742f64957789ba60ebfc384a903fed4b3e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nextremely complicated will, and when the whole matter began to be straightened\r\nout, which indeed took time, she let him know that the happy issue was\r\nat last in view.  He had seen her again before that day, both because\r\nshe had more than once accompanied the ancient lady to town and because\r\nhe had paid another visit to the friends who so conveniently made of\r\nWeatherend one of the charms of their own hospitality.  These friends\r\nhad taken him back there; he had achieved there again with Miss Bartram\r\nsome quiet detachment; and he had in London succeeded in persuading\r\nher to more than one brief absence from her aunt.  They went together,\r\non these latter occasions, to the National Gallery and the South Kensington\r\nMuseum, where, among vivid reminders, they talked of Italy at large—not\r\nnow attempting to recover, as at first, the taste of their youth and\r\ntheir ignorance.  That recovery, the first day at Weatherend, had\r\nserved its purpose well, had given them quite enough; so that they were,\r\nto Marcher’s sense, no longer hovering about the head-waters of\r\ntheir stream, but had felt their boat pushed sharply off and down the\r\ncurrent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 16,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "31ac9bb9fd5bbffc5d5bc394ce110e6e266cf69867ba7ecf337a977ee37ebe22",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "They were literally afloat together; for our gentleman this was marked,\r\nquite as marked as that the fortunate cause of it was just the buried\r\ntreasure of her knowledge.  He had with his own hands dug up this\r\nlittle hoard, brought to light—that is to within reach of the\r\ndim day constituted by their discretions and privacies—the object\r\nof value the hiding-place of which he had, after putting it into the\r\nground himself, so strangely, so long forgotten.  The rare luck\r\nof his having again just stumbled on the spot made him indifferent to\r\nany other question; he would doubtless have devoted more time to the\r\nodd accident of his lapse of memory if he hadn’t been moved to\r\ndevote so much to the sweetness, the comfort, as he felt, for the future,\r\nthat this accident itself had helped to keep fresh.  It had never\r\nentered into his plan that any one should “know”, and mainly\r\nfor the reason that it wasn’t in him to tell any one.  That\r\nwould have been impossible, for nothing but the amusement of a cold\r\nworld would have waited on it.  Since, however, a mysterious fate\r\nhad opened his mouth betimes, in spite of him, he would count that a\r\ncompensation and profit by it to the utmost.  That the right person\r\n"
+            },
+            {
+              "text": "should",
+              "italic": true
+            },
+            {
+              "text": " know tempered the asperity of his secret more even than\r\nhis shyness had permitted him to imagine; and May Bartram was clearly\r\nright, because—well, because there she was.  Her knowledge\r\nsimply settled it; he would have been sure enough by this time had she\r\nbeen wrong.  There was that in his situation, no doubt, that disposed\r\nhim too much to see her as a mere confidant,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 17,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "63840ba449f9559ecf5b750f1d5a8f7bd25b4283967c154c75aee01e12683b0a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " taking all her light for\r\nhim from the fact—the fact only—of her interest in his predicament;\r\nfrom her mercy, sympathy, seriousness, her consent not to regard him\r\nas the funniest of the funny.  Aware, in fine, that her price for\r\nhim was just in her giving him this constant sense of his being admirably\r\nspared, he was careful to remember that she had also a life of her own,\r\nwith things that might happen to "
+            },
+            {
+              "text": "her",
+              "italic": true
+            },
+            {
+              "text": ", things that in friendship\r\none should likewise take account of.  Something fairly remarkable\r\ncame to pass with him, for that matter, in this connexion—something\r\nrepresented by a certain passage of his consciousness, in the suddenest\r\nway, from one extreme to the other."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He had thought himself, so long as nobody knew, the most disinterested\r\nperson in the world, carrying his concentrated burden, his perpetual\r\nsuspense, ever so quietly, holding his tongue about it, giving others\r\nno glimpse of it nor of its effect upon his life, asking of them no\r\nallowance and only making on his side all those that were asked. \r\nHe hadn’t disturbed people with the queerness of their having\r\nto know a haunted man, though he had had moments of rather special temptation\r\non hearing them say they were forsooth “unsettled.” \r\nIf they were as unsettled as he was—he who had never been settled\r\nfor an hour in his life—they would know what it meant.  Yet\r\nit wasn’t, all the same, for him to make them, and he listened\r\nto them civilly enough.  This was why he had such good—though\r\npossibly such rather colourless—manners; this was why, above all,\r\nhe could regard himself, in a greedy world,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 18,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "fa7b4f4766cb2b02a2c685c07ce7b7b727463390b481ea03623dcd4e64beb9e3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " as decently—as in\r\nfact perhaps even a little sublimely—unselfish.  Our point\r\nis accordingly that he valued this character quite sufficiently to measure\r\nhis present danger of letting it lapse, against which he promised himself\r\nto be much on his guard.  He was quite ready, none the less, to\r\nbe selfish just a little, since surely no more charming occasion for\r\nit had come to him.  “Just a little,” in a word, was\r\njust as much as Miss Bartram, taking one day with another, would let\r\nhim.  He never would be in the least coercive, and would keep well\r\nbefore him the lines on which consideration for her—the very highest—ought\r\nto proceed.  He would thoroughly establish the heads under which\r\nher affairs, her requirements, her peculiarities—he went so far\r\nas to give them the latitude of that name—would come into their\r\nintercourse.  All this naturally was a sign of how much he took\r\nthe intercourse itself for granted.  There was nothing more to\r\nbe done about that.  It simply existed; had sprung into being with\r\nher first penetrating question to him in the autumn light there at Weatherend. \r\nThe real form it should have taken on the basis that stood out large\r\nwas the form of their marrying.  But the devil in this was that\r\nthe very basis itself put marrying out of the question.  His conviction,\r\nhis apprehension, his obsession, in short, wasn’t a privilege\r\nhe could invite a woman to share; and that consequence of it was precisely\r\nwhat was the matter with him.  Something or other lay in wait for\r\nhim, amid the twists and the turns of the months and the years, like\r\na crouching"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 19,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "9f6ebd22d69a36581ff80295e25a843d4274c64dfc630c49877c8b4ccbb37e40",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Beast in the Jungle.  It signified little whether the\r\ncrouching Beast were destined to slay him or to be slain.  The\r\ndefinite point was the inevitable spring of the creature; and the definite\r\nlesson from that was that a man of feeling didn’t cause himself\r\nto be accompanied by a lady on a tiger-hunt.  Such was the image\r\nunder which he had ended by figuring his life."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "They had at first, none the less, in the scattered hours spent together,\r\nmade no allusion to that view of it; which was a sign he was handsomely\r\nalert to give that he didn’t expect, that he in fact didn’t\r\ncare, always to be talking about it.  Such a feature in one’s\r\noutlook was really like a hump on one’s back.  The difference\r\nit made every minute of the day existed quite independently of discussion. \r\nOne discussed of course "
+            },
+            {
+              "text": "like",
+              "italic": true
+            },
+            {
+              "text": " a hunchback, for there was always,\r\nif nothing else, the hunchback face.  That remained, and she was\r\nwatching him; but people watched best, as a general thing, in silence,\r\nso that such would be predominantly the manner of their vigil. \r\nYet he didn’t want, at the same time, to be tense and solemn;\r\ntense and solemn was what he imagined he too much showed for with other\r\npeople.  The thing to be, with the one person who knew, was easy\r\nand natural—to make the reference rather than be seeming to avoid\r\nit, to avoid it rather than be seeming to make it, and to keep it, in\r\nany case, familiar, facetious even, rather than pedantic and portentous. \r\nSome such consideration as the latter was doubtless in his mind for\r\ninstance when he wrote pleasantly to Miss Bartram that perhaps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 20,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "554bbf64a6f877115e0c5c44456224aff4cb75191eb2bb165d2ffe7d647c4a6c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " the great\r\nthing he had so long felt as in the lap of the gods was no more than\r\nthis circumstance, which touched him so nearly, of her acquiring a house\r\nin London.  It was the first allusion they had yet again made,\r\nneeding any other hitherto so little; but when she replied, after having\r\ngiven him the news, that she was by no means satisfied with such a trifle\r\nas the climax to so special a suspense, she almost set him wondering\r\nif she hadn’t even a larger conception of singularity for him\r\nthan he had for himself.  He was at all events destined to become\r\naware little by little, as time went by, that she was all the while\r\nlooking at his life, judging it, measuring it, in the light of the thing\r\nshe knew, which grew to be at last, with the consecration of the years,\r\nnever mentioned between them save as “the real truth” about\r\nhim.  That had always been his own form of reference to it, but\r\nshe adopted the form so quietly that, looking back at the end of a period,\r\nhe knew there was no moment at which it was traceable that she had,\r\nas he might say, got inside his idea, or exchanged the attitude of beautifully\r\nindulging for that of still more beautifully believing him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 21,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "adf8aa4494e0499d09fe47b5000b34f744672d31f7d768bef3da7879aefba8df",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It was always open to him to accuse her of seeing him but as the\r\nmost harmless of maniacs, and this, in the long run—since it covered\r\nso much ground—was his easiest description of their friendship. \r\nHe had a screw loose for her but she liked him in spite of it and was\r\npractically, against the rest of the world, his kind wise keeper, unremunerated\r\nbut fairly amused and, in the absence of other near ties, not disreputably\r\noccupied.  The rest of the world of course thought him queer, but\r\nshe, she only, knew how, and above all why, queer; which was precisely\r\nwhat enabled her to dispose the concealing veil in the right folds. \r\nShe took his gaiety from him—since it had to pass with them for\r\ngaiety—as she took everything else; but she certainly so far justified\r\nby her unerring touch his finer sense of the degree to which he had\r\nended by convincing her.  "
+            },
+            {
+              "text": "She",
+              "italic": true
+            },
+            {
+              "text": " at least never spoke of the\r\nsecret of his life except as “the real truth about you,”\r\nand she had in fact a wonderful way of making it seem, as such, the\r\nsecret of her own life too.  That was in fine how he so constantly\r\nfelt her as allowing for him; he couldn’t on the whole call it\r\nanything else.  He allowed for himself, but she, exactly, allowed\r\nstill more; partly because, better placed for a sight of the matter,\r\nshe traced his unhappy perversion through reaches of its course into\r\nwhich he could scarce follow it.  He knew how he felt, but, besides\r\nknowing that, she knew how he looked as well; he knew each of the things\r\nof importance he was insidiously kept from doing, but she could add\r\nup the amount they"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 22,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "bd608c5b529c023ebe467f580d1e67bb7b06123aa86b0824b117d2cde9120173",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " made, understand how much, with a lighter weight\r\non his spirit, he might have done, and thereby establish how, clever\r\nas he was, he fell short.  Above all she was in the secret of the\r\ndifference between the forms he went through—those of his little\r\noffice under Government, those of caring for his modest patrimony, for\r\nhis library, for his garden in the country, for the people in London\r\nwhose invitations he accepted and repaid—and the detachment that\r\nreigned beneath them and that made of all behaviour, all that could\r\nin the least be called behaviour, a long act of dissimulation. \r\nWhat it had come to was that he wore a mask painted with the social\r\nsimper, out of the eye-holes of which there looked eyes of an expression\r\nnot in the least matching the other features.  This the stupid\r\nworld, even after years, had never more than half discovered. \r\nIt was only May Bartram who had, and she achieved, by an art indescribable,\r\nthe feat of at once—or perhaps it was only alternately—meeting\r\nthe eyes from in front and mingling her own vision, as from over his\r\nshoulder, with their peep through the apertures."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "So while they grew older together she did watch with him, and so\r\nshe let this association give shape and colour to her own existence. \r\nBeneath "
+            },
+            {
+              "text": "her",
+              "italic": true
+            },
+            {
+              "text": " forms as well detachment had learned to sit, and\r\nbehaviour had become for her, in the social sense, a false account of\r\nherself.  There was but one account of her that would have been\r\ntrue all the while and that she could give straight to nobody, least\r\nof all to John Marcher.  Her whole attitude was a virtual statement,\r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 23,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "ee708a18de94fc176cc31b6b1f770bd193227c9f11b2a63df8c51f034c0a45b7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nbut the perception of that only seemed called to take its place for\r\nhim as one of the many things necessarily crowded out of his consciousness. \r\nIf she had moreover, like himself, to make sacrifices to their real\r\ntruth, it was to be granted that her compensation might have affected\r\nher as more prompt and more natural.  They had long periods, in\r\nthis London time, during which, when they were together, a stranger\r\nmight have listened to them without in the least pricking up his ears;\r\non the other hand the real truth was equally liable at any moment to\r\nrise to the surface, and the auditor would then have wondered indeed\r\nwhat they were talking about.  They had from an early hour made\r\nup their mind that society was, luckily, unintelligent, and the margin\r\nallowed them by this had fairly become one of their commonplaces. \r\nYet there were still moments when the situation turned almost fresh—usually\r\nunder the effect of some expression drawn from herself.  Her expressions\r\ndoubtless repeated themselves, but her intervals were generous. \r\n“What saves us, you know, is that we answer so completely to so\r\nusual an appearance: that of the man and woman whose friendship has\r\nbecome such a daily habit—or almost—as to be at last indispensable.” \r\nThat for instance was a remark she had frequently enough had occasion\r\nto make, though she had given it at different times different developments. \r\nWhat we are especially concerned with is the turn it happened to take\r\nfrom her one afternoon when he had come to see her in honour of her\r\nbirthday.  This anniversary had fallen on a Sunday,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 24,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "c770c4de2a4960623fb3252a38d63f9072647a08e8055f71392e9834e4c67d1d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " at a season\r\nof thick fog and general outward gloom; but he had brought her his customary\r\noffering, having known her now long enough to have established a hundred\r\nsmall traditions.  It was one of his proofs to himself, the present\r\nhe made her on her birthday, that he hadn’t sunk into real selfishness. \r\nIt was mostly nothing more than a small trinket, but it was always fine\r\nof its kind, and he was regularly careful to pay for it more than he\r\nthought he could afford.  “Our habit saves you, at least,\r\ndon’t you see? because it makes you, after all, for the vulgar,\r\nindistinguishable from other men.  What’s the most inveterate\r\nmark of men in general?  Why the capacity to spend endless time\r\nwith dull women—to spend it I won’t say without being bored,\r\nbut without minding that they are, without being driven off at a tangent\r\nby it; which comes to the same thing.  I’m your dull woman,\r\na part of the daily bread for which you pray at church.  That covers\r\nyour tracks more than anything.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“And what covers yours?” asked Marcher, whom his dull\r\nwoman could mostly to this extent amuse.  “I see of course\r\nwhat you mean by your saving me, in this way and that, so far as other\r\npeople are concerned—I’ve seen it all along.  Only\r\nwhat is it that saves "
+            },
+            {
+              "text": "you",
+              "italic": true
+            },
+            {
+              "text": "?  I often think, you know, of\r\nthat.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She looked as if she sometimes thought of that too, but rather in\r\na different way.  “Where other people, you mean, are concerned?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 25,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "95c179253b51f17c997d5149fd256a33d1ee2f0361160737d44ecc6a08721863",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well, you’re really so in with me, you know—as\r\na sort of result of my being so in with yourself.  I mean of my\r\nhaving such an immense regard for you, being so tremendously mindful\r\nof all you’ve done for me.  I sometimes ask myself if it’s\r\nquite fair.  Fair I mean to have so involved and—since one\r\nmay say it—interested you.  I almost feel as if you hadn’t\r\nreally had time to do anything else.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Anything else but be interested?” she asked.  “Ah\r\nwhat else does one ever want to be?  If I’ve been ‘watching’\r\nwith you, as we long ago agreed I was to do, watching’s always\r\nin itself an absorption.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh certainly,” John Marcher said, “if you hadn’t\r\nhad your curiosity—!  Only doesn’t it sometimes come\r\nto you as time goes on that your curiosity isn’t being particularly\r\nrepaid?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "May Bartram had a pause.  “Do you ask that, by any chance,\r\nbecause you feel at all that yours isn’t?  I mean because\r\nyou have to wait so long.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Oh he understood what she meant!  “For the thing to happen\r\nthat never does happen?  For the Beast to jump out?  No, I’m\r\njust where I was about it.  It isn’t a matter as to which\r\nI can "
+            },
+            {
+              "text": "choose",
+              "italic": true
+            },
+            {
+              "text": ", I can decide for a change.  It isn’t\r\none as to which there "
+            },
+            {
+              "text": "can",
+              "italic": true
+            },
+            {
+              "text": " be a change.  It’s in the\r\nlap of the gods.  One’s in the hands of one’s law—there\r\none is.  As to the form the law will take, the way it will operate,\r\nthat’s its own affair.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Yes,” Miss Bartram replied; “of course one’s\r\nfate’s coming, of course it "
+            },
+            {
+              "text": "has",
+              "italic": true
+            },
+            {
+              "text": " come in its own form and\r\nits own way, all the while.  Only, you know, the form and the way\r\nin your case were to have been—well, something so exceptional\r\nand, as one may say, so particularly "
+            },
+            {
+              "text": "your",
+              "italic": true
+            },
+            {
+              "text": " own.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Something in this made him look at her with suspicion.  “You\r\nsay ‘were to "
+            },
+            {
+              "text": "have",
+              "italic": true
+            },
+            {
+              "text": " been,’ as if in your heart you\r\nhad begun to doubt.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 26,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "19da51eb4d47f1c7daef27cb0336766fd8ffdee293f976387991212012caf3a5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh!” she vaguely protested."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“As if you believed,” he went on, “that nothing\r\nwill now take place.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She shook her head slowly but rather inscrutably.  “You’re\r\nfar from my thought.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He continued to look at her.  “What then is the matter\r\nwith you?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well,” she said after another wait, “the matter\r\nwith me is simply that I’m more sure than ever my curiosity, as\r\nyou call it, will be but too well repaid.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "They were frankly grave now; he had got up from his seat, had turned\r\nonce more about the little drawing-room to which, year after year, he\r\nbrought his inevitable topic; in which he had, as he might have said,\r\ntasted their intimate community with every sauce, where every object\r\nwas as familiar to him as the things of his own house and the very carpets\r\nwere worn with his fitful walk very much as the desks in old counting-houses\r\nare worn by the elbows of generations of clerks.  The generations\r\nof his nervous moods had been at work there, and the place was the written\r\nhistory of his whole middle life.  Under the impression of what\r\nhis friend had just said he knew himself, for some reason, more aware\r\nof these things; which made him, after a moment, stop again before her. \r\n“Is it possibly that you’ve grown afraid?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Afraid?”  He thought, as she repeated the word,\r\nthat his question had made her, a little, change colour; so that, lest\r\nhe should have touched on a truth, he explained very kindly: “You\r\nremember that that was what you asked "
+            },
+            {
+              "text": "me",
+              "italic": true
+            },
+            {
+              "text": " long ago—that\r\nfirst day at Weatherend.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh yes, and you told me you didn’t know—that I\r\nwas to see for myself.  We’ve said little about it since,\r\neven in so long a time.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 27,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "7649c937d1b24afe95069b8f0fd7558ed0199b5d1880d8f67348f78a0e500847",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Precisely,” Marcher interposed—“quite as\r\nif it were too delicate a matter for us to make free with.  Quite\r\nas if we might find, on pressure, that I "
+            },
+            {
+              "text": "am",
+              "italic": true
+            },
+            {
+              "text": " afraid.  For\r\nthen,” he said, “we shouldn’t, should we? quite know\r\nwhat to do.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She had for the time no answer to this question.  “There\r\nhave been days when I thought you were.  Only, of course,”\r\nshe added, “there have been days when we have thought almost anything.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Everything.  Oh!” Marcher softly groaned, as with\r\na gasp, half spent, at the face, more uncovered just then than it had\r\nbeen for a long while, of the imagination always with them.  It\r\nhad always had it’s incalculable moments of glaring out, quite\r\nas with the very eyes of the very Beast, and, used as he was to them,\r\nthey could still draw from him the tribute of a sigh that rose from\r\nthe depths of his being.  All they had thought, first and last,\r\nrolled over him; the past seemed to have been reduced to mere barren\r\nspeculation.  This in fact was what the place had just struck him\r\nas so full of—the simplification of everything but the state of\r\nsuspense.  That remained only by seeming to hang in the void surrounding\r\nit.  Even his original fear, if fear it as had been, had lost itself\r\nin the desert.  “I judge, however,” he continued, “that\r\nyou see I’m not afraid now.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“What I see, as I make it out, is that you’ve achieved\r\nsomething almost unprecedented in the way of getting used to danger. \r\nLiving with it so long and so closely you’ve lost your sense of\r\nit; you know it’s there, but you’re indifferent, and you\r\ncease even, as of old, to have to whistle in the dark.  Considering\r\nwhat the danger is,” May Bartram wound up, “I’m bound\r\nto say I don’t think your attitude could well be surpassed.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 28,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "6697deb13f6e117bcd25eb047361e1e1fa3b43a39171410df17eabdab0f5131f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "John Marcher faintly smiled.  “It’s heroic?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Certainly—call it that.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It was what he would have liked indeed to call it.  “I\r\n"
+            },
+            {
+              "text": "am",
+              "italic": true
+            },
+            {
+              "text": " then a man of courage?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“That’s what you were to show me.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He still, however, wondered.  “But doesn’t the man\r\nof courage know what he’s afraid of—or not afraid of? \r\nI don’t know "
+            },
+            {
+              "text": "that",
+              "italic": true
+            },
+            {
+              "text": ", you see.  I don’t focus it. \r\nI can’t name it.  I only know I’m exposed.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Yes, but exposed—how shall I say?—so directly. \r\nSo intimately.  That’s surely enough.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Enough to make you feel then—as what we may call the\r\nend and the upshot of our watch—that I’m not afraid?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“You’re not afraid.  But it isn’t,”\r\nshe said, “the end of our watch.  That is it isn’t\r\nthe end of yours.  You’ve everything still to see.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then why haven’t you?” he asked.  He had\r\nhad, all along, to-day, the sense of her keeping something back, and\r\nhe still had it.  As this was his first impression of that it quite\r\nmade a date.  The case was the more marked as she didn’t\r\nat first answer; which in turn made him go on.  “You know\r\nsomething I don’t.”  Then his voice, for that of a\r\nman of courage, trembled a little.  “You know what’s\r\nto happen.”  Her silence, with the face she showed, was almost\r\na confession—it made him sure.  “You know, and you’re\r\nafraid to tell me.  It’s so bad that you’re afraid\r\nI’ll find out.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "All this might be true, for she did look as if, unexpectedly to her,\r\nhe had crossed some mystic line that she had secretly drawn round her. \r\nYet she might, after all, not have worried; and the real climax was\r\nthat he himself, at all events, needn’t.  “You’ll\r\nnever find out.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 29,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "123c2defcd55dcb427ada334f667ccc0f1c21a03dc2802c1c4b6d3b6505636c1",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER III"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It was all to have made, none the less, as I have said, a date; which\r\ncame out in the fact that again and again, even after long intervals,\r\nother things that passed between them were in relation to this hour\r\nbut the character of recalls and results.  Its immediate effect\r\nhad been indeed rather to lighten insistence—almost to provoke\r\na reaction; as if their topic had dropped by its own weight and as if\r\nmoreover, for that matter, Marcher had been visited by one of his occasional\r\nwarnings against egotism.  He had kept up, he felt, and very decently\r\non the whole, his consciousness of the importance of not being selfish,\r\nand it was true that he had never sinned in that direction without promptly\r\nenough trying to press the scales the other way.  He often repaired\r\nhis fault, the season permitting, by inviting his friend to accompany\r\nhim to the opera; and it not infrequently thus happened that, to show\r\nhe didn’t wish her to have but one sort of food for her mind,\r\nhe was the cause of her appearing there with him a dozen nights in the\r\nmonth.  It even happened that, seeing her home at such times, he\r\noccasionally went in with her to finish, as he called it, the evening,\r\nand, the better to make his point, sat down to the frugal but always\r\ncareful little supper that awaited his pleasure.  His point was\r\nmade, he thought, by his not eternally insisting with her on himself;\r\nmade for instance, at such hours, when it befell that, her piano at\r\nhand and each of them familiar with it, they went over passages of the\r\nopera together.  It chanced to be on one of these"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 30,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "e8f5cb43ab3b136babb025f917a5016bbc615533125f406ac6d517120c44d43c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " occasions, however,\r\nthat he reminded her of her not having answered a certain question he\r\nhad put to her during the talk that had taken place between them on\r\nher last birthday.  “What is it that saves "
+            },
+            {
+              "text": "you",
+              "italic": true
+            },
+            {
+              "text": "?”—saved\r\nher, he meant, from that appearance of variation from the usual human\r\ntype.  If he had practically escaped remark, as she pretended,\r\nby doing, in the most important particular, what most men do—find\r\nthe answer to life in patching up an alliance of a sort with a woman\r\nno better than himself—how had she escaped it, and how could the\r\nalliance, such as it was, since they must suppose it had been more or\r\nless noticed, have failed to make her rather positively talked about?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I never said,” May Bartram replied, “that it hadn’t\r\nmade me a good deal talked about.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Ah well then you’re not ‘saved.’”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It hasn’t been a question for me.  If you’ve\r\nhad your woman I’ve had,” she said, “my man.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“And you mean that makes you all right?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Oh it was always as if there were so much to say!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I don’t know why it shouldn’t make me—humanly,\r\nwhich is what we’re speaking of—as right as it makes you.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I see,” Marcher returned.  “‘Humanly,’\r\nno doubt, as showing that you’re living for something.  Not,\r\nthat is, just for me and my secret.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "May Bartram smiled.  “I don’t pretend it exactly\r\nshows that I’m not living for you.  It’s my intimacy\r\nwith you that’s in question.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He laughed as he saw what she meant.  “Yes, but since,\r\nas you say, I’m only, so far as people make out, ordinary, you’re—aren’t\r\nyou? no more than ordinary either.  You help me to pass for a man\r\nlike another.  So if I "
+            },
+            {
+              "text": "am",
+              "italic": true
+            },
+            {
+              "text": ", as I understand you, you’re\r\nnot compromised.  Is that it?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 31,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "6532855a2553d4f5b1af3720e1d87b2c7da8fa53f6505478c756d3cd16a576e7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She had another of her waits, but she spoke clearly enough. \r\n“That’s it.  It’s all that concerns me—to\r\nhelp you to pass for a man like another.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He was careful to acknowledge the remark handsomely.  “How\r\nkind, how beautiful, you are to me!  How shall I ever repay you?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She had her last grave pause, as if there might be a choice of ways. \r\nBut she chose.  “By going on as you are.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It was into this going on as he was that they relapsed, and really\r\nfor so long a time that the day inevitably came for a further sounding\r\nof their depths.  These depths, constantly bridged over by a structure\r\nfirm enough in spite of its lightness and of its occasional oscillation\r\nin the somewhat vertiginous air, invited on occasion, in the interest\r\nof their nerves, a dropping of the plummet and a measurement of the\r\nabyss.  A difference had been made moreover, once for all, by the\r\nfact that she had all the while not appeared to feel the need of rebutting\r\nhis charge of an idea within her that she didn’t dare to express—a\r\ncharge uttered just before one of the fullest of their later discussions\r\nended.  It had come up for him then that she “knew”\r\nsomething and that what she knew was bad—too bad to tell him. \r\nWhen he had spoken of it as visibly so bad that she was afraid he might\r\nfind it out, her reply had left the matter too equivocal to be let alone\r\nand yet, for Marcher’s special sensibility, almost too formidable\r\nagain to touch.  He circled about it at a distance that alternately\r\nnarrowed and widened and that still wasn’t much affected by the\r\nconsciousness in him that there was nothing she could “know,”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 32,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "5593ffa98d61e6493354b44ff974b62bce25aa91457436e692c545e8445ce40c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\nafter all, any better than he did.  She had no source of knowledge\r\nhe hadn’t equally—except of course that she might have finer\r\nnerves.  That was what women had where they were interested; they\r\nmade out things, where people were concerned, that the people often\r\ncouldn’t have made out for themselves.  Their nerves, their\r\nsensibility, their imagination, were conductors and revealers, and the\r\nbeauty of May Bartram was in particular that she had given herself so\r\nto his case.  He felt in these days what, oddly enough, he had\r\nnever felt before, the growth of a dread of losing her by some catastrophe—some\r\ncatastrophe that yet wouldn’t at all be the catastrophe: partly\r\nbecause she had almost of a sudden begun to strike him as more useful\r\nto him than ever yet, and partly by reason of an appearance of uncertainty\r\nin her health, co-incident and equally new.  It was characteristic\r\nof the inner detachment he had hitherto so successfully cultivated and\r\nto which our whole account of him is a reference, it was characteristic\r\nthat his complications, such as they were, had never yet seemed so as\r\nat this crisis to thicken about him, even to the point of making him\r\nask himself if he were, by any chance, of a truth, within sight or sound,\r\nwithin touch or reach, within the immediate jurisdiction, of the thing\r\nthat waited."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 33,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "34b980cf132efa72e272aa469b857ffb18e127a3e897011b15a8749d690494a3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "When the day came, as come it had to, that his friend confessed to\r\nhim her fear of a deep disorder in her blood, he felt somehow the shadow\r\nof a change and the chill of a shock.  He immediately began to\r\nimagine aggravations and disasters, and above all to think of her peril\r\nas the direct menace for himself of personal privation.  This indeed\r\ngave him one of those partial recoveries of equanimity that were agreeable\r\nto him—it showed him that what was still first in his mind was\r\nthe loss she herself might suffer.  “What if she should have\r\nto die before knowing, before seeing—?”  It would have\r\nbeen brutal, in the early stages of her trouble, to put that question\r\nto her; but it had immediately sounded for him to his own concern, and\r\nthe possibility was what most made him sorry for her.  If she did\r\n“know,” moreover, in the sense of her having had some—what\r\nshould he think?—mystical irresistible light, this would make\r\nthe matter not better, but worse, inasmuch as her original adoption\r\nof his own curiosity had quite become the basis of her life.  She\r\nhad been living to see what would "
+            },
+            {
+              "text": "be",
+              "italic": true
+            },
+            {
+              "text": " to be seen, and it would\r\nquite lacerate her to have to give up before the accomplishment of the\r\nvision.  These reflexions, as I say, quickened his generosity;\r\nyet, make them as he might, he saw himself, with the lapse of the period,\r\nmore and more disconcerted.  It lapsed for him with a strange steady\r\nsweep, and the oddest oddity was that it gave him, independently of\r\nthe threat of much inconvenience, almost the only positive surprise\r\nhis career, if career it could be called,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 34,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "40170fe57d18b2b5fa0950e590a2cebad819cde50cb9fe8108fe5aae9ea8213d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " had yet offered him. \r\nShe kept the house as she had never done; he had to go to her to see\r\nher—she could meet him nowhere now, though there was scarce a\r\ncorner of their loved old London in which she hadn’t in the past,\r\nat one time or another, done so; and he found her always seated by her\r\nfire in the deep old-fashioned chair she was less and less able to leave. \r\nHe had been struck one day, after an absence exceeding his usual measure,\r\nwith her suddenly looking much older to him than he had ever thought\r\nof her being; then he recognised that the suddenness was all on his\r\nside—he had just simply and suddenly noticed.  She looked\r\nolder because inevitably, after so many years, she "
+            },
+            {
+              "text": "was",
+              "italic": true
+            },
+            {
+              "text": " old, or\r\nalmost; which was of course true in still greater measure of her companion. \r\nIf she was old, or almost, John Marcher assuredly was, and yet it was\r\nher showing of the lesson, not his own, that brought the truth home\r\nto him.  His surprises began here; when once they had begun they\r\nmultiplied; they came rather with a rush: it was as if, in the oddest\r\nway in the world, they had all been kept back, sown in a thick cluster,\r\nfor the late afternoon of life, the time at which for people in general\r\nthe unexpected has died out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 35,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f7630d9b421a46fe2bb2147e20b364cd188cbd1b8642c12cce3fe606ce5a66ac",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "One of them was that he should have caught himself—for he "
+            },
+            {
+              "text": "had",
+              "italic": true
+            },
+            {
+              "text": "\r\nso done—"
+            },
+            {
+              "text": "really",
+              "italic": true
+            },
+            {
+              "text": " wondering if the great accident would take\r\nform now as nothing more than his being condemned to see this charming\r\nwoman, this admirable friend, pass away from him.  He had never\r\nso unreservedly qualified her as while confronted in thought with such\r\na possibility; in spite of which there was small doubt for him that\r\nas an answer to his long riddle the mere effacement of even so fine\r\na feature of his situation would be an abject anticlimax.  It would\r\nrepresent, as connected with his past attitude, a drop of dignity under\r\nthe shadow of which his existence could only become the most grotesques\r\nof failures.  He had been far from holding it a failure—long\r\nas he had waited for the appearance that was to make it a success. \r\nHe had waited for quite another thing, not for such a thing as that. \r\nThe breath of his good faith came short, however, as he recognised how\r\nlong he had waited, or how long at least his companion had.  That\r\nshe, at all events, might be recorded as having waited in vain—this\r\naffected him sharply, and all the more because of his at first having\r\ndone little more than amuse himself with the idea.  It grew more\r\ngrave as the gravity of her condition grew, and the state of mind it\r\nproduced in him, which he himself ended by watching as if it had been\r\nsome definite disfigurement of his outer person, may pass for another\r\nof his surprises.  This conjoined itself still with another, the\r\nreally stupefying consciousness of a question that he would have allowed\r\nto shape itself"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 36,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "3019a5c844825dc70d3bf8507099ee8cd332bfe97adda13dd595f1dcb91ced24",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " had he dared.  What did everything mean—what,\r\nthat is, did "
+            },
+            {
+              "text": "she",
+              "italic": true
+            },
+            {
+              "text": " mean, she and her vain waiting and her probable\r\ndeath and the soundless admonition of it all—unless that, at this\r\ntime of day, it was simply, it was overwhelmingly too late?  He\r\nhad never at any stage of his queer consciousness admitted the whisper\r\nof such a correction; he had never till within these last few months\r\nbeen so false to his conviction as not to hold that what was to come\r\nto him had time, whether "
+            },
+            {
+              "text": "he",
+              "italic": true
+            },
+            {
+              "text": " struck himself as having it or not. \r\nThat at last, at last, he certainly hadn’t it, to speak of, or\r\nhad it but in the scantiest measure—such, soon enough, as things\r\nwent with him, became the inference with which his old obsession had\r\nto reckon: and this it was not helped to do by the more and more confirmed\r\nappearance that the great vagueness casting the long shadow in which\r\nhe had lived had, to attest itself, almost no margin left.  Since\r\nit was in Time that he was to have met his fate, so it was in Time that\r\nhis fate was to have acted; and as he waked up to the sense of no longer\r\nbeing young, which was exactly the sense of being stale, just as that,\r\nin turn, was the sense of being weak, he waked up to another matter\r\nbeside.  It all hung together; they were subject, he and the great\r\nvagueness, to an equal and indivisible law.  When the possibilities\r\nthemselves had accordingly turned stale, when the secret of the gods\r\nhad grown faint, had perhaps even quite evaporated, that, and that only,\r\nwas failure.  It wouldn’t have been failure to be bankrupt,\r\ndishonoured, pilloried, hanged; it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 37,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "bf2ca62982e5c42f047b1694ad3bbe8d395d3e3c1a5754a325b058495e8cb469",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " was failure not to be anything. \r\nAnd so, in the dark valley into which his path had taken its unlooked-for\r\ntwist, he wondered not a little as he groped.  He didn’t\r\ncare what awful crash might overtake him, with what ignominy or what\r\nmonstrosity he might yet be associated—since he wasn’t after\r\nall too utterly old to suffer—if it would only be decently proportionate\r\nto the posture he had kept, all his life, in the threatened presence\r\nof it.  He had but one desire left—that he shouldn’t\r\nhave been “sold.”"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER IV"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Then it was that, one afternoon, while the spring of the year was\r\nyoung and new she met all in her own way his frankest betrayal of these\r\nalarms.  He had gone in late to see her, but evening hadn’t\r\nsettled and she was presented to him in that long fresh light of waning\r\nApril days which affects us often with a sadness sharper than the greyest\r\nhours of autumn.  The week had been warm, the spring was supposed\r\nto have begun early, and May Bartram sat, for the first time in the\r\nyear, without a fire; a fact that, to Marcher’s sense, gave the\r\nscene of which she formed part a smooth and ultimate look, an air of\r\nknowing, in its immaculate order and cold meaningless cheer, that it\r\nwould never see a fire again.  Her own aspect—he could scarce\r\nhave said why—intensified this note.  Almost as white as\r\nwax, with the marks and signs in her face as numerous and as fine as\r\nif they had been etched by a needle, with soft white draperies relieved\r\nby a faded green scarf on the delicate tone of which the years had further\r\nrefined, she was the picture of a serene and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 38,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "9c936b2501825645df31e74ff85ad858bf0b39b9ac2dc2d09ffdf37936fdd6d6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " exquisite but impenetrable\r\nsphinx, whose head, or indeed all whose person, might have been powdered\r\nwith silver.  She was a sphinx, yet with her white petals and green\r\nfronds she might have been a lily too—only an artificial lily,\r\nwonderfully imitated and constantly kept, without dust or stain, though\r\nnot exempt from a slight droop and a complexity of faint creases, under\r\nsome clear glass bell.  The perfection of household care, of high\r\npolish and finish, always reigned in her rooms, but they now looked\r\nmost as if everything had been wound up, tucked in, put away, so that\r\nshe might sit with folded hands and with nothing more to do.  She\r\nwas “out of it,” to Marcher’s vision; her work was\r\nover; she communicated with him as across some gulf or from some island\r\nof rest that she had already reached, and it made him feel strangely\r\nabandoned.  Was it—or rather wasn’t it—that if\r\nfor so long she had been watching with him the answer to their question\r\nmust have swum into her ken and taken on its name, so that her occupation\r\nwas verily gone?  He had as much as charged her with this in saying\r\nto her, many months before, that she even then knew something she was\r\nkeeping from him.  It was a point he had never since ventured to\r\npress, vaguely fearing as he did that it might become a difference,\r\nperhaps a disagreement, between them.  He had in this later time\r\nturned nervous, which was what he in all the other years had never been;\r\nand the oddity was that his nervousness should have waited till he had\r\nbegun to doubt, should have held off so long as he was sure.  There\r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 39,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "cffbc849e14ce5a415b3e92974421ae9d306c58ef2c447d94352bba31419e035",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nwas something, it seemed to him, that the wrong word would bring down\r\non his head, something that would so at least ease off his tension. \r\nBut he wanted not to speak the wrong word; that would make everything\r\nugly.  He wanted the knowledge he lacked to drop on him, if drop\r\nit could, by its own august weight.  If she was to forsake him\r\nit was surely for her to take leave.  This was why he didn’t\r\ndirectly ask her again what she knew; but it was also why, approaching\r\nthe matter from another side, he said to her in the course of his visit:\r\n“What do you regard as the very worst that at this time of day\r\n"
+            },
+            {
+              "text": "can",
+              "italic": true
+            },
+            {
+              "text": " happen to me?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He had asked her that in the past often enough; they had, with the\r\nodd irregular rhythm of their intensities and avoidances, exchanged\r\nideas about it and then had seen the ideas washed away by cool intervals,\r\nwashed like figures traced in sea-sand.  It had ever been the mark\r\nof their talk that the oldest allusions in it required but a little\r\ndismissal and reaction to come out again, sounding for the hour as new. \r\nShe could thus at present meet his enquiry quite freshly and patiently. \r\n“Oh yes, I’ve repeatedly thought, only it always seemed\r\nto me of old that I couldn’t quite make up my mind.  I thought\r\nof dreadful things, between which it was difficult to choose; and so\r\nmust you have done.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Rather!  I feel now as if I had scarce done anything\r\nelse.  I appear to myself to have spent my life in thinking of\r\nnothing but dreadful things.  A great many of them I’ve at\r\ndifferent times named to you, but there were others I couldn’t\r\nname.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“They were too, too dreadful?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Too, too dreadful—some of them.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 40,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "8d7c43209e7383e10a9863bdce94cede26da160f93e6cf520c15b6d266ce027f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She looked at him a minute, and there came to him as he met it, an\r\ninconsequent sense that her eyes, when one got their full clearness,\r\nwere still as beautiful as they had been in youth, only beautiful with\r\na strange cold light—a light that somehow was a part of the effect,\r\nif it wasn’t rather a part of the cause, of the pale hard sweetness\r\nof the season and the hour.  “And yet,” she said at\r\nlast, “there are horrors we’ve mentioned.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It deepened the strangeness to see her, as such a figure in such\r\na picture, talk of “horrors,” but she was to do in a few\r\nminutes something stranger yet—though even of this he was to take\r\nthe full measure but afterwards—and the note of it already trembled. \r\nIt was, for the matter of that, one of the signs that her eyes were\r\nhaving again the high flicker of their prime.  He had to admit,\r\nhowever, what she said.  “Oh yes, there were times when we\r\ndid go far.”  He caught himself in the act of speaking as\r\nif it all were over.  Well, he wished it were; and the consummation\r\ndepended for him clearly more and more on his friend."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "But she had now a soft smile.  “Oh far—!”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It was oddly ironic.  “Do you mean you’re prepared\r\nto go further?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She was frail and ancient and charming as she continued to look at\r\nhim, yet it was rather as if she had lost the thread.  “Do\r\nyou consider that we went far?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Why I thought it the point you were just making—that\r\nwe "
+            },
+            {
+              "text": "had",
+              "italic": true
+            },
+            {
+              "text": " looked most things in the face.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Including each other?”  She still smiled. \r\n“But you’re quite right.  We’ve had together\r\ngreat imaginations, often great fears; but some of them have been unspoken.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 41,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "e4e89f84bf6272c2da6ceacb6550656b3681324a1ea5795f7536768d6da1cc20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then the worst—we haven’t faced that.  I\r\n"
+            },
+            {
+              "text": "could",
+              "italic": true
+            },
+            {
+              "text": " face it, I believe, if I knew what you think it. \r\nI feel,” he explained, “as if I had lost my power to conceive\r\nsuch things.”  And he wondered if he looked as blank as he\r\nsounded.  “It’s spent.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then why do you assume,” she asked, “that mine\r\nisn’t?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Because you’ve given me signs to the contrary. \r\nIt isn’t a question for you of conceiving, imagining, comparing. \r\nIt isn’t a question now of choosing.”  At last he came\r\nout with it.  “You know something I don’t.  You’ve\r\nshown me that before.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "These last words had affected her, he made out in a moment, exceedingly,\r\nand she spoke with firmness.  “I’ve shown you, my dear,\r\nnothing.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He shook his head.  “You can’t hide it.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh, oh!” May Bartram sounded over what she couldn’t\r\nhide.  It was almost a smothered groan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“You admitted it months ago, when I spoke of it to you as of\r\nsomething you were afraid I should find out.  Your answer was that\r\nI couldn’t, that I wouldn’t, and I don’t pretend I\r\nhave.  But you had something therefore in mind, and I see now how\r\nit must have been, how it still is, the possibility that, of all possibilities,\r\nhas settled itself for you as the worst.  This,” he went\r\non, “is why I appeal to you.  I’m only afraid of ignorance\r\nto-day—I’m not afraid of knowledge.”  And then\r\nas for a while she said nothing: “What makes me sure is that I\r\nsee in your face and feel here, in this air and amid these appearances,\r\nthat you’re out of it.  You’ve done.  You’ve\r\nhad your experience.  You leave me to my fate.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 42,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "33914b6b899b5347fd6c3e9e7de7e3f26c8705d72a737c7c8392a0dc60762ae5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Well, she listened, motionless and white in her chair, as on a decision\r\nto be made, so that her manner was fairly an avowal, though still, with\r\na small fine inner stiffness, an imperfect surrender.  “It\r\n"
+            },
+            {
+              "text": "would",
+              "italic": true
+            },
+            {
+              "text": " be the worst,” she finally let herself say. \r\n“I mean the thing I’ve never said.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It hushed him a moment.  “More monstrous than all the\r\nmonstrosities we’ve named?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“More monstrous.  Isn’t that what you sufficiently\r\nexpress,” she asked, “in calling it the worst?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Marcher thought.  “Assuredly—if you mean, as I do,\r\nsomething that includes all the loss and all the shame that are thinkable.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It would if it "
+            },
+            {
+              "text": "should",
+              "italic": true
+            },
+            {
+              "text": " happen,” said May Bartram. \r\n“What we’re speaking of, remember, is only my idea.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It’s your belief,” Marcher returned.  “That’s\r\nenough for me.  I feel your beliefs are right.  Therefore\r\nif, having this one, you give me no more light on it, you abandon me.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“No, no!” she repeated.  “I’m with you—don’t\r\nyou see?—still.”  And as to make it more vivid to him\r\nshe rose from her chair—a movement she seldom risked in these\r\ndays—and showed herself, all draped and all soft, in her fairness\r\nand slimness.  “I haven’t forsaken you.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 43,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "0d304e5331d78f67820f1bdb556e8df1e3afa34bb00626ce33c1147f08521428",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It was really, in its effort against weakness, a generous assurance,\r\nand had the success of the impulse not, happily, been great, it would\r\nhave touched him to pain more than to pleasure.  But the cold charm\r\nin her eyes had spread, as she hovered before him, to all the rest of\r\nher person, so that it was for the minute almost a recovery of youth. \r\nHe couldn’t pity her for that; he could only take her as she showed—as\r\ncapable even yet of helping him.  It was as if, at the same time,\r\nher light might at any instant go out; wherefore he must make the most\r\nof it.  There passed before him with intensity the three or four\r\nthings he wanted most to know; but the question that came of itself\r\nto his lips really covered the others.  “Then tell me if\r\nI shall consciously suffer.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She promptly shook her head.  “Never!”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It confirmed the authority he imputed to her, and it produced on\r\nhim an extraordinary effect.  “Well, what’s better\r\nthan that?  Do you call that the worst?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“You think nothing is better?” she asked."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She seemed to mean something so special that he again sharply wondered,\r\nthough still with the dawn of a prospect of relief.  “Why\r\nnot, if one doesn’t "
+            },
+            {
+              "text": "know",
+              "italic": true
+            },
+            {
+              "text": "?”  After which, as\r\ntheir eyes, over his question, met in a silence, the dawn deepened,\r\nand something to his purpose came prodigiously out of her very face. \r\nHis own, as he took it in, suddenly flushed to the forehead, and he\r\ngasped with the force of a perception to which, on the instant, everything\r\nfitted.  The sound of his gasp filled the air; then he became articulate. \r\n“I see—if I don’t suffer!”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "In her own look, however, was doubt.  “You see what?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Why what you mean—what you’ve always meant.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She again shook her head.  “What I mean isn’t what\r\nI’ve always meant.  It’s different.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 44,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "3765cfe9edea9511198cf825bcb32cdd1765b28113662be050f82948eb925c39",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It’s something new?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She hung back from it a little.  “Something new. \r\nIt’s not what you think.  I see what you think.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "His divination drew breath then; only her correction might be wrong. \r\n“It isn’t that I "
+            },
+            {
+              "text": "am",
+              "italic": true
+            },
+            {
+              "text": " a blockhead?” he asked\r\nbetween faintness and grimness.  “It isn’t that it’s\r\nall a mistake?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“A mistake?” she pityingly echoed.  "
+            },
+            {
+              "text": "That",
+              "italic": true
+            },
+            {
+              "text": "\r\npossibility, for her, he saw, would be monstrous; and if she guaranteed\r\nhim the immunity from pain it would accordingly not be what she had\r\nin mind.  “Oh no,” she declared; “it’s\r\nnothing of that sort.  You’ve been right.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Yet he couldn’t help asking himself if she weren’t, thus\r\npressed, speaking but to save him.  It seemed to him he should\r\nbe most in a hole if his history should prove all a platitude. \r\n“Are you telling me the truth, so that I shan’t have been\r\na bigger idiot than I can bear to know?  I "
+            },
+            {
+              "text": "haven’t",
+              "italic": true
+            },
+            {
+              "text": "\r\nlived with a vain imagination, in the most besotted illusion? \r\nI haven’t waited but to see the door shut in my face?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She shook her head again.  “However the case stands "
+            },
+            {
+              "text": "that",
+              "italic": true
+            },
+            {
+              "text": "\r\nisn’t the truth.  Whatever the reality, it "
+            },
+            {
+              "text": "is",
+              "italic": true
+            },
+            {
+              "text": " a reality. \r\nThe door isn’t shut.  The door’s open,” said\r\nMay Bartram."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Then something’s to come?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 45,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f412ca0b2a1e83fb5517073547ac358a3a89e6b41c735dc7b1a803f122801c3a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She waited once again, always with her cold sweet eyes on him. \r\n“It’s never too late.”  She had, with her gliding\r\nstep, diminished the distance between them, and she stood nearer to\r\nhim, close to him, a minute, as if still charged with the unspoken. \r\nHer movement might have been for some finer emphasis of what she was\r\nat once hesitating and deciding to say.  He had been standing by\r\nthe chimney-piece, fireless and sparely adorned, a small perfect old\r\nFrench clock and two morsels of rosy Dresden constituting all its furniture;\r\nand her hand grasped the shelf while she kept him waiting, grasped it\r\na little as for support and encouragement.  She only kept him waiting,\r\nhowever; that is he only waited.  It had become suddenly, from\r\nher movement and attitude, beautiful and vivid to him that she had something\r\nmore to give him; her wasted face delicately shone with it—it\r\nglittered almost as with the white lustre of silver in her expression. \r\nShe was right, incontestably, for what he saw in her face was the truth,\r\nand strangely, without consequence, while their talk of it as dreadful\r\nwas still in the air, she appeared to present it as inordinately soft. \r\nThis, prompting bewilderment, made him but gape the more gratefully\r\nfor her revelation, so that they continued for some minutes silent,\r\nher face shining at him, her contact imponderably pressing, and his\r\nstare all kind but all expectant.  The end, none the less, was\r\nthat what he had expected failed to come to him.  Something else\r\ntook place instead, which seemed to consist at first in the mere closing\r\nof her eyes. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 46,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "032b586f5a58995d666065a39aec3044d40ec3db81ce76f8334fdfa786f073f5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " She gave way at the same instant to a slow fine shudder,\r\nand though he remained staring—though he stared in fact but the\r\nharder—turned off and regained her chair.  It was the end\r\nof what she had been intending, but it left him thinking only of that."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well, you don’t say—?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She had touched in her passage a bell near the chimney and had sunk\r\nback strangely pale.  “I’m afraid I’m too ill.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Too ill to tell me?” it sprang up sharp to him, and\r\nalmost to his lips, the fear she might die without giving him light. \r\nHe checked himself in time from so expressing his question, but she\r\nanswered as if she had heard the words."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Don’t you know—now?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“‘Now’—?”   She had spoken\r\nas if some difference had been made within the moment.  But her\r\nmaid, quickly obedient to her bell, was already with them.  “I\r\nknow nothing.”  And he was afterwards to say to himself that\r\nhe must have spoken with odious impatience, such an impatience as to\r\nshow that, supremely disconcerted, he washed his hands of the whole\r\nquestion."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh!” said May Bartram."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Are you in pain?” he asked as the woman went to her."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“No,” said May Bartram."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Her maid, who had put an arm round her as if to take her to her room,\r\nfixed on him eyes that appealingly contradicted her; in spite of which,\r\nhowever, he showed once more his mystification."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“What then has happened?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She was once more, with her companion’s help, on her feet,\r\nand, feeling withdrawal imposed on him, he had blankly found his hat\r\nand gloves and had reached the door.  Yet he waited for her answer. \r\n“What "
+            },
+            {
+              "text": "was",
+              "italic": true
+            },
+            {
+              "text": " to,” she said."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 47,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "c6f1e2c9f0df39b3531f141de77c3696691ae8e1d2f3cdd1196885865ebd7aae",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER V"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He came back the next day, but she was then unable to see him, and\r\nas it was literally the first time this had occurred in the long stretch\r\nof their acquaintance he turned away, defeated and sore, almost angry—or\r\nfeeling at least that such a break in their custom was really the beginning\r\nof the end—and wandered alone with his thoughts, especially with\r\nthe one he was least able to keep down.  She was dying and he would\r\nlose her; she was dying and his life would end.  He stopped in\r\nthe Park, into which he had passed, and stared before him at his recurrent\r\ndoubt.  Away from her the doubt pressed again; in her presence\r\nhe had believed her, but as he felt his forlornness he threw himself\r\ninto the explanation that, nearest at hand, had most of a miserable\r\nwarmth for him and least of a cold torment.  She had deceived him\r\nto save him—to put him off with something in which he should be\r\nable to rest.  What could the thing that was to happen to him be,\r\nafter all, but just this thing that had began to happen?  Her dying,\r\nher death, his consequent solitude—that was what he had figured\r\nas the Beast in the Jungle, that was what had been in the lap of the\r\ngods.  He had had her word for it as he left her—what else\r\non earth could she have meant?  It wasn’t a thing of a monstrous\r\norder; not a fate rare and distinguished; not a stroke of fortune that\r\noverwhelmed and immortalised; it had only the stamp of the common doom. \r\nBut poor Marcher at this hour judged the common doom sufficient. \r\nIt would serve his turn, and even as the consummation of infinite waiting\r\nhe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 48,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "c9aadf9cd35957960fdba95ecab9f33f8b9235aa576c3f2eb7c81bd9b2bbd587",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " would bend his pride to accept it.  He sat down on a bench in\r\nthe twilight.  He hadn’t been a fool.  Something had\r\n"
+            },
+            {
+              "text": "been",
+              "italic": true
+            },
+            {
+              "text": ", as she had said, to come.  Before he rose indeed it\r\nhad quite struck him that the final fact really matched with the long\r\navenue through which he had had to reach it.  As sharing his suspense\r\nand as giving herself all, giving her life, to bring it to an end, she\r\nhad come with him every step of the way.  He had lived by her aid,\r\nand to leave her behind would be cruelly, damnably to miss her. \r\nWhat could be more overwhelming than that?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Well, he was to know within the week, for though she kept him a while\r\nat bay, left him restless and wretched during a series of days on each\r\nof which he asked about her only again to have to turn away, she ended\r\nhis trial by receiving him where she had always received him. \r\nYet she had been brought out at some hazard into the presence of so\r\nmany of the things that were, consciously, vainly, half their past,\r\nand there was scant service left in the gentleness of her mere desire,\r\nall too visible, to check his obsession and wind up his long trouble. \r\nThat was clearly what she wanted; the one thing more for her own peace\r\nwhile she could still put out her hand.  He was so affected by\r\nher state that, once seated by her chair, he was moved to let everything\r\ngo; it was she herself therefore who brought him back, took up again,\r\nbefore she dismissed him, her last word of the other time.  She\r\nshowed how she wished to leave their business in order.  “I’m\r\nnot sure you understood.  You’ve nothing to wait for more. \r\nIt "
+            },
+            {
+              "text": "has",
+              "italic": true
+            },
+            {
+              "text": " come.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Oh how he looked at her!  “Really?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Really.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“The thing that, as you said, "
+            },
+            {
+              "text": "was",
+              "italic": true
+            },
+            {
+              "text": " to?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“The thing that we began in our youth to watch for.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 49,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "2250037cfc736d671d1286a845ec577fb180a022b366de43be9248ddadbe8773",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Face to face with her once more he believed her; it was a claim to\r\nwhich he had so abjectly little to oppose.  “You mean that\r\nit has come as a positive definite occurrence, with a name and a date?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Positive.  Definite.  I don’t know about the\r\n‘name,’ but, oh with a date!”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He found himself again too helplessly at sea.  “But come\r\nin the night—come and passed me by?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "May Bartram had her strange faint smile.  “Oh no, it hasn’t\r\npassed you by!”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“But if I haven’t been aware of it and it hasn’t\r\ntouched me—?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Ah your not being aware of it”—and she seemed\r\nto hesitate an instant to deal with this—“your not being\r\naware of it is the strangeness in the strangeness.  It’s\r\nthe wonder "
+            },
+            {
+              "text": "of",
+              "italic": true
+            },
+            {
+              "text": " the wonder.”  She spoke as with the\r\nsoftness almost of a sick child, yet now at last, at the end of all,\r\nwith the perfect straightness of a sibyl.  She visibly knew that\r\nshe knew, and the effect on him was of something co-ordinate, in its\r\nhigh character, with the law that had ruled him.  It was the true\r\nvoice of the law; so on her lips would the law itself have sounded. \r\n“It "
+            },
+            {
+              "text": "has",
+              "italic": true
+            },
+            {
+              "text": " touched you,” she went on.  “It\r\nhas done its office.  It has made you all its own.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“So utterly without my knowing it?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“So utterly without your knowing it.”  His hand,\r\nas he leaned to her, was on the arm of her chair, and, dimly smiling\r\nalways now, she placed her own on it.  “It’s enough\r\nif "
+            },
+            {
+              "text": "I",
+              "italic": true
+            },
+            {
+              "text": " know it.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh!” he confusedly breathed, as she herself of late\r\nso often had done."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“What I long ago said is true.  You’ll never know\r\nnow, and I think you ought to be content.  You’ve "
+            },
+            {
+              "text": "had",
+              "italic": true
+            },
+            {
+              "text": "\r\nit,” said May Bartram."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“But had what?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Why what was to have marked you out.  The proof of your\r\nlaw.  It has acted.  I’m too glad,” she then bravely\r\nadded, “to have been able to see what it’s "
+            },
+            {
+              "text": "not",
+              "italic": true
+            },
+            {
+              "text": ".”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 50,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "9941815ffdfd2681645710232a3ba8af890890e5c1f0095da3eeb9ad425181b3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He continued to attach his eyes to her, and with the sense that it\r\nwas all beyond him, and that "
+            },
+            {
+              "text": "she",
+              "italic": true
+            },
+            {
+              "text": " was too, he would still have\r\nsharply challenged her hadn’t he so felt it an abuse of her weakness\r\nto do more than take devoutly what she gave him, take it hushed as to\r\na revelation.  If he did speak, it was out of the foreknowledge\r\nof his loneliness to come.  “If you’re glad of what\r\nit’s ‘not’ it might then have been worse?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She turned her eyes away, she looked straight before her; with which\r\nafter a moment: “Well, you know our fears.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He wondered.  “It’s something then we never feared?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "On this slowly she turned to him.  “Did we ever dream,\r\nwith all our dreams, that we should sit and talk of it thus?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He tried for a little to make out that they had; but it was as if\r\ntheir dreams, numberless enough, were in solution in some thick cold\r\nmist through which thought lost itself.  “It might have been\r\nthat we couldn’t talk.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Well”—she did her best for him—“not\r\nfrom this side.  This, you see,” she said, “is the\r\n"
+            },
+            {
+              "text": "other",
+              "italic": true
+            },
+            {
+              "text": " side.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I think,” poor Marcher returned, “that all sides\r\nare the same to me.”  Then, however, as she gently shook\r\nher head in correction: “We mightn’t, as it were, have got\r\nacross—?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“To where we are—no.  We’re "
+            },
+            {
+              "text": "here",
+              "italic": true
+            },
+            {
+              "text": "”—she\r\nmade her weak emphasis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“And much good does it do us!” was her friend’s\r\nfrank comment."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“It does us the good it can.  It does us the good that\r\n"
+            },
+            {
+              "text": "it",
+              "italic": true
+            },
+            {
+              "text": " isn’t here.  It’s past.  It’s\r\nbehind,” said May Bartram.  “Before—” but\r\nher voice dropped."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He had got up, not to tire her, but it was hard to combat his yearning. \r\nShe after all told him nothing but that his light had failed—which\r\nhe knew well enough without her.  “Before—?”\r\nhe blankly echoed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Before you see, it was always to "
+            },
+            {
+              "text": "come",
+              "italic": true
+            },
+            {
+              "text": ".  That kept\r\nit present.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 51,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "ec91ea5ea7298d6ebdc84bbc3151d201484b49de69709073fd6a7935594a891e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh I don’t care what comes now!  Besides,”\r\nMarcher added, “it seems to me I liked it better present, as you\r\nsay, than I can like it absent with "
+            },
+            {
+              "text": "your",
+              "italic": true
+            },
+            {
+              "text": " absence.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Oh mine!”—and her pale hands made light of it."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“With the absence of everything.”  He had a dreadful\r\nsense of standing there before her for—so far as anything but\r\nthis proved, this bottomless drop was concerned—the last time\r\nof their life.  It rested on him with a weight he felt he could\r\nscarce bear, and this weight it apparently was that still pressed out\r\nwhat remained in him of speakable protest.  “I believe you;\r\nbut I can’t begin to pretend I understand.  "
+            },
+            {
+              "text": "Nothing",
+              "italic": true
+            },
+            {
+              "text": ",\r\nfor me, is past; nothing "
+            },
+            {
+              "text": "will",
+              "italic": true
+            },
+            {
+              "text": " pass till I pass myself, which\r\nI pray my stars may be as soon as possible.  Say, however,”\r\nhe added, “that I’ve eaten my cake, as you contend, to the\r\nlast crumb—how can the thing I’ve never felt at all be the\r\nthing I was marked out to feel?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She met him perhaps less directly, but she met him unperturbed. \r\n“You take your ‘feelings’ for granted.  You were\r\nto suffer your fate.  That was not necessarily to know it.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“How in the world—when what is such knowledge but suffering?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She looked up at him a while in silence.  “No—you\r\ndon’t understand.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“I suffer,” said John Marcher."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Don’t, don’t!”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“How can I help at least "
+            },
+            {
+              "text": "that",
+              "italic": true
+            },
+            {
+              "text": "?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“"
+            },
+            {
+              "text": "Don’t",
+              "italic": true
+            },
+            {
+              "text": "!” May Bartram repeated."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She spoke it in a tone so special, in spite of her weakness, that\r\nhe stared an instant—stared as if some light, hitherto hidden,\r\nhad shimmered across his vision.  Darkness again closed over it,\r\nbut the gleam had already become for him an idea.  “Because\r\nI haven’t the right—?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Don’t "
+            },
+            {
+              "text": "know",
+              "italic": true
+            },
+            {
+              "text": "—when you needn’t,”\r\nshe mercifully urged.  “You needn’t—for we shouldn’t.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Shouldn’t?”  If he could but know what she\r\nmeant!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“No— it’s too much.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 52,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "e7eaea9c4ef9f5457d64a3ceb4967e0b00e0ed2793b3c05da50dcf17e1e2f69d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "“Too much?” he still asked but with a mystification that\r\nwas the next moment of a sudden to give way.  Her words, if they\r\nmeant something, affected him in this light—the light also of\r\nher wasted face—as meaning "
+            },
+            {
+              "text": "all",
+              "italic": true
+            },
+            {
+              "text": ", and the sense of what knowledge\r\nhad been for herself came over him with a rush which broke through into\r\na question.  “Is it of that then you’re dying?”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She but watched him, gravely at first, as to see, with this, where\r\nhe was, and she might have seen something or feared something that moved\r\nher sympathy.  “I would live for you still—if I could.” \r\nHer eyes closed for a little, as if, withdrawn into herself, she were\r\nfor a last time trying.  “But I can’t!” she said\r\nas she raised them again to take leave of him."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "She couldn’t indeed, as but too promptly and sharply appeared,\r\nand he had no vision of her after this that was anything but darkness\r\nand doom.  They had parted for ever in that strange talk; access\r\nto her chamber of pain, rigidly guarded, was almost wholly forbidden\r\nhim; he was feeling now moreover, in the face of doctors, nurses, the\r\ntwo or three relatives attracted doubtless by the presumption of what\r\nshe had to “leave,” how few were the rights, as they were\r\ncalled in such cases, that he had to put forward, and how odd it might\r\neven seem that their intimacy shouldn’t have given him more of\r\nthem.  The stupidest fourth cousin had more, even though she had\r\nbeen nothing in such a person’s life.  She had been a feature\r\nof features in "
+            },
+            {
+              "text": "his",
+              "italic": true
+            },
+            {
+              "text": ", for what else was it to have been so indispensable? \r\nStrange beyond saying were the ways of existence,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 53,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "ae2ca9562433f574bd15d08881ced66bf0359766bf6e8abe84b2ecd7b9947ec4",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " baffling for him the\r\nanomaly of his lack, as he felt it to be, of producible claim. \r\nA woman might have been, as it were, everything to him, and it might\r\nyet present him, in no connexion that any one seemed held to recognise. \r\nIf this was the case in these closing weeks it was the case more sharply\r\non the occasion of the last offices rendered, in the great grey London\r\ncemetery, to what had been mortal, to what had been precious, in his\r\nfriend.  The concourse at her grave was not numerous, but he saw\r\nhimself treated as scarce more nearly concerned with it than if there\r\nhad been a thousand others.  He was in short from this moment face\r\nto face with the fact that he was to profit extraordinarily little by\r\nthe interest May Bartram had taken in him.  He couldn’t quite\r\nhave said what he expected, but he hadn’t surely expected this\r\napproach to a double privation.  Not only had her interest failed\r\nhim, but he seemed to feel himself unattended—and for a reason\r\nhe couldn’t seize—by the distinction, the dignity, the propriety,\r\nif nothing else, of the man markedly bereaved.  It was as if, in\r\nthe view of society he had not "
+            },
+            {
+              "text": "been",
+              "italic": true
+            },
+            {
+              "text": " markedly bereaved, as if\r\nthere still failed some sign or proof of it, and as if none the less\r\nhis character could never be affirmed nor the deficiency ever made up. \r\nThere were moments as the weeks went by when he would have liked, by\r\nsome almost aggressive act, to take his stand on the intimacy of his\r\nloss, in order that it "
+            },
+            {
+              "text": "might",
+              "italic": true
+            },
+            {
+              "text": " be questioned and his retort, to\r\nthe relief of his spirit, so recorded; but the moments of an irritation\r\nmore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 54,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "db422992c29673b40ac7442bffd1ae1b0914c3b3d371d4942e17ffc101af622e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " helpless followed fast on these, the moments during which, turning\r\nthings over with a good conscience but with a bare horizon, he found\r\nhimself wondering if he oughtn’t to have begun, so to speak, further\r\nback."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He found himself wondering indeed at many things, and this last speculation\r\nhad others to keep it company.  What could he have done, after\r\nall, in her lifetime, without giving them both, as it were, away? \r\nHe couldn’t have made known she was watching him, for that would\r\nhave published the superstition of the Beast.  This was what closed\r\nhis mouth now—now that the Jungle had been thrashed to vacancy\r\nand that the Beast had stolen away.  It sounded too foolish and\r\ntoo flat; the difference for him in this particular, the extinction\r\nin his life of the element of suspense, was such as in fact to surprise\r\nhim.  He could scarce have said what the effect resembled; the\r\nabrupt cessation, the positive prohibition, of music perhaps, more than\r\nanything else, in some place all adjusted and all accustomed to sonority\r\nand to attention.  If he could at any rate have conceived lifting\r\nthe veil from his image at some moment of the past (what had he done,\r\nafter all, if not lift it to "
+            },
+            {
+              "text": "her",
+              "italic": true
+            },
+            {
+              "text": "?) so to do this to-day, to talk\r\nto people at large of the Jungle cleared and confide to them that he\r\nnow felt it as safe, would have been not only to see them listen as\r\nto a goodwife’s tale, but really to hear himself tell one. \r\nWhat it presently came to in truth was that poor Marcher waded through\r\nhis beaten grass, where no life stirred, where no breath sounded, where\r\nno evil eye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 55,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "f38fcaccfd62476c48f924ac59a233470866bf481a88363a0e76144dcaacb60c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " seemed to gleam from a possible lair, very much as if vaguely\r\nlooking for the Beast, and still more as if acutely missing it. \r\nHe walked about in an existence that had grown strangely more spacious,\r\nand, stopping fitfully in places where the undergrowth of life struck\r\nhim as closer, asked himself yearningly, wondered secretly and sorely,\r\nif it would have lurked here or there.  It would have at all events\r\nsprung; what was at least complete was his belief in the truth itself\r\nof the assurance given him.  The change from his old sense to his\r\nnew was absolute and final: what was to happen had so absolutely and\r\nfinally happened that he was as little able to know a fear for his future\r\nas to know a hope; so absent in short was any question of anything still\r\nto come.  He was to live entirely with the other question, that\r\nof his unidentified past, that of his having to see his fortune impenetrably\r\nmuffled and masked."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "The torment of this vision became then his occupation; he couldn’t\r\nperhaps have consented to live but for the possibility of guessing. \r\nShe had told him, his friend, not to guess; she had forbidden him, so\r\nfar as he might, to know, and she had even in a sort denied the power\r\nin him to learn: which were so many things, precisely, to deprive him\r\nof rest.  It wasn’t that he wanted, he argued for fairness,\r\nthat anything past and done should repeat itself; it was only that he\r\nshouldn’t, as an anticlimax, have been taken sleeping so sound\r\nas not to be able to win back by an effort of thought the lost stuff\r\nof consciousness.  He declared to himself at moments"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 56,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "ba6f04640f435036c1a07ff983d09fe3e508347a5463f8600d41aea3574ef37b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " that he would\r\neither win it back or have done with consciousness for ever; he made\r\nthis idea his one motive in fine, made it so much his passion that none\r\nother, to compare with it, seemed ever to have touched him.  The\r\nlost stuff of consciousness became thus for him as a strayed or stolen\r\nchild to an unappeasable father; he hunted it up and down very much\r\nas if he were knocking at doors and enquiring of the police.  This\r\nwas the spirit in which, inevitably, he set himself to travel; he started\r\non a journey that was to be as long as he could make it; it danced before\r\nhim that, as the other side of the globe couldn’t possibly have\r\nless to say to him, it might, by a possibility of suggestion, have more. \r\nBefore he quitted London, however, he made a pilgrimage to May Bartram’s\r\ngrave, took his way to it through the endless avenues of the grim suburban\r\nnecropolis, sought it out in the wilderness of tombs, and, though he\r\nhad come but for the renewal of the act of farewell, found himself,\r\nwhen he had at last stood by it, beguiled into long intensities. \r\nHe stood for an hour, powerless to turn away and yet powerless to penetrate\r\nthe darkness of death; fixing with his eyes her inscribed name and date,\r\nbeating his forehead against the fact of the secret they kept, drawing\r\nhis breath, while he waited, as if some sense would in pity of him rise\r\nfrom the stones.  He kneeled on the stones, however, in vain; they\r\nkept what they concealed; and if the face of the tomb did become a face\r\nfor him it was because her two names became a pair of eyes that didn’t\r\nknow him.  He gave them a last long look, but no palest light broke."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 57,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "4e366c857ca2c39cee88d347926789c94f7fc3015ab768f004f1ff0e52828e48",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CHAPTER VI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "He stayed away, after this, for a year; he visited the depths of\r\nAsia, spending himself on scenes of romantic interest, of superlative\r\nsanctity; but what was present to him everywhere was that for a man\r\nwho had known what "
+            },
+            {
+              "text": "he",
+              "italic": true
+            },
+            {
+              "text": " had known the world was vulgar and vain. \r\nThe state of mind in which he had lived for so many years shone out\r\nto him, in reflexion, as a light that coloured and refined, a light\r\nbeside which the glow of the East was garish cheap and thin.  The\r\nterrible truth was that he had lost—with everything else—a\r\ndistinction as well; the things he saw couldn’t help being common\r\nwhen he had become common to look at them.  He was simply now one\r\nof them himself—he was in the dust, without a peg for the sense\r\nof difference; and there were hours when, before the temples of gods\r\nand the sepulchres of kings, his spirit turned for nobleness of association\r\nto the barely discriminated slab in the London suburb.  That had\r\nbecome for him, and more intensely with time and distance, his one witness\r\nof a past glory.  It was all that was left to him for proof or\r\npride, yet the past glories of Pharaohs were nothing to him as he thought\r\nof it.  Small wonder then that he came back to it on the morrow\r\nof his return.  He was drawn there this time as irresistibly as\r\nthe other, yet with a confidence, almost, that was doubtless the effect\r\nof the many months that had elapsed.  He had lived, in spite of\r\nhimself, into his change of feeling, and in wandering over the earth\r\nhad wandered, as might be said, from the circumference to the centre\r\nof his desert.  He"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 58,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "637975ab054754d2293776c4b14476696772edca9d25f0401dc7938bd7c793cb",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " had settled to his safety and accepted perforce\r\nhis extinction; figuring to himself, with some colour, in the likeness\r\nof certain little old men he remembered to have seen, of whom, all meagre\r\nand wizened as they might look, it was related that they had in their\r\ntime fought twenty duels or been loved by ten princesses.  They\r\nindeed had been wondrous for others while he was but wondrous for himself;\r\nwhich, however, was exactly the cause of his haste to renew the wonder\r\nby getting back, as he might put it, into his own presence.  That\r\nhad quickened his steps and checked his delay.  If his visit was\r\nprompt it was because he had been separated so long from the part of\r\nhimself that alone he now valued."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It’s accordingly not false to say that he reached his goal\r\nwith a certain elation and stood there again with a certain assurance. \r\nThe creature beneath the sod knew of his rare experience, so that, strangely\r\nnow, the place had lost for him its mere blankness of expression. \r\nIt met him in mildness—not, as before, in mockery; it wore for\r\nhim the air of conscious greeting that we find, after absence, in things\r\nthat have closely belonged to us and which seem to confess of themselves\r\nto the connexion.  The plot of ground, the graven tablet, the tended\r\nflowers affected him so as belonging to him that he resembled for the\r\nhour a contented landlord reviewing a piece of property.  Whatever\r\nhad happened—well, had happened.  He had not come back this\r\ntime with the vanity of that question, his former worrying “What,\r\n"
+            },
+            {
+              "text": "what",
+              "italic": true
+            },
+            {
+              "text": "?”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 59,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "d0c7926d821bbaf75b295f61c9ef84cd93d58f0a3ec9df081fcc7aeee9aa012f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " now practically so spent.  Yet he would none\r\nthe less never again so cut himself off from the spot; he would come\r\nback to it every month, for if he did nothing else by its aid he at\r\nleast held up his head.  It thus grew for him, in the oddest way,\r\na positive resource; he carried out his idea of periodical returns,\r\nwhich took their place at last among the most inveterate of his habits. \r\nWhat it all amounted to, oddly enough, was that in his finally so simplified\r\nworld this garden of death gave him the few square feet of earth on\r\nwhich he could still most live.  It was as if, being nothing anywhere\r\nelse for any one, nothing even for himself, he were just everything\r\nhere, and if not for a crowd of witnesses or indeed for any witness\r\nbut John Marcher, then by clear right of the register that he could\r\nscan like an open page.  The open page was the tomb of his friend,\r\nand there were the facts of the past, there the truth of his life, there\r\nthe backward reaches in which he could lose himself.  He did this\r\nfrom time to time with such effect that he seemed to wander through\r\nthe old years with his hand in the arm of a companion who was, in the\r\nmost extraordinary manner, his other, his younger self; and to wander,\r\nwhich was more extraordinary yet, round and round a third presence—not\r\nwandering she, but stationary, still, whose eyes, turning with his revolution,\r\nnever ceased to follow him, and whose seat was his point, so to speak,\r\nof orientation.  Thus in short he settled to live—feeding\r\nall on the sense that he once "
+            },
+            {
+              "text": "had",
+              "italic": true
+            },
+            {
+              "text": " lived, and dependent on it\r\nnot alone for a support but for an identity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 60,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "b439db9a8b27b21a62194ecaee10f8164f1bfa512e66cc0ebe14b77f6e9b1556",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "It sufficed him in its way for months and the year elapsed; it would\r\ndoubtless even have carried him further but for an accident, superficially\r\nslight, which moved him, quite in another direction, with a force beyond\r\nany of his impressions of Egypt or of India.  It was a thing of\r\nthe merest chance—the turn, as he afterwards felt, of a hair,\r\nthough he was indeed to live to believe that if light hadn’t come\r\nto him in this particular fashion it would still have come in another. \r\nHe was to live to believe this, I say, though he was not to live, I\r\nmay not less definitely mention, to do much else.  We allow him\r\nat any rate the benefit of the conviction, struggling up for him at\r\nthe end, that, whatever might have happened or not happened, he would\r\nhave come round of himself to the light.  The incident of an autumn\r\nday had put the match to the train laid from of old by his misery. \r\nWith the light before him he knew that even of late his ache had only\r\nbeen smothered.  It was strangely drugged, but it throbbed; at\r\nthe touch it began to bleed.  And the touch, in the event, was\r\nthe face of a fellow-mortal.  This face, one grey afternoon when\r\nthe leaves were thick in the alleys, looked into Marcher’s own,\r\nat the cemetery, with an expression like the cut of a blade.  He\r\nfelt it, that is, so deep down that he winced at the steady thrust. \r\nThe person who so mutely assaulted him was a figure he had noticed,\r\non reaching his own goal, absorbed by a grave a short distance away,\r\na grave apparently fresh, so that the emotion of the visitor would probably\r\nmatch it for"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 61,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "ae3ece376c1b6040fb62698a7aba2179a4b8543a7bc7f7f289145c1481703e93",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " frankness.  This fact alone forbade further attention,\r\nthough during the time he stayed he remained vaguely conscious of his\r\nneighbour, a middle-aged man apparently, in mourning, whose bowed back,\r\namong the clustered monuments and mortuary yews, was constantly presented. \r\nMarcher’s theory that these were elements in contact with which\r\nhe himself revived, had suffered, on this occasion, it may be granted,\r\na marked, an excessive check.  The autumn day was dire for him\r\nas none had recently been, and he rested with a heaviness he had not\r\nyet known on the low stone table that bore May Bartram’s name. \r\nHe rested without power to move, as if some spring in him, some spell\r\nvouchsafed, had suddenly been broken for ever.  If he could have\r\ndone that moment as he wanted he would simply have stretched himself\r\non the slab that was ready to take him, treating it as a place prepared\r\nto receive his last sleep.  What in all the wide world had he now\r\nto keep awake for?  He stared before him with the question, and\r\nit was then that, as one of the cemetery walks passed near him, he caught\r\nthe shock of the face."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "His neighbour at the other grave had withdrawn, as he himself, with\r\nforce enough in him, would have done by now, and was advancing along\r\nthe path on his way to one of the gates.  This brought him close,\r\nand his pace, was slow, so that—and all the more as there was\r\na kind of hunger in his look—the two men were for a minute directly\r\nconfronted.  Marcher knew him at once for one of the deeply stricken—a\r\nperception so sharp that nothing else in the picture comparatively"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 62,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "18a3d5090d5966e7c669acf88a2a7fb01f7ef9813b661270ca4591211ca411e2",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " lived,\r\nneither his dress, his age, nor his presumable character and class;\r\nnothing lived but the deep ravage of the features that he showed. \r\nHe "
+            },
+            {
+              "text": "showed",
+              "italic": true
+            },
+            {
+              "text": " them—that was the point; he was moved, as he\r\npassed, by some impulse that was either a signal for sympathy or, more\r\npossibly, a challenge to an opposed sorrow.  He might already have\r\nbeen aware of our friend, might at some previous hour have noticed in\r\nhim the smooth habit of the scene, with which the state of his own senses\r\nso scantly consorted, and might thereby have been stirred as by an overt\r\ndiscord.  What Marcher was at all events conscious of was in the\r\nfirst place that the image of scarred passion presented to him was conscious\r\ntoo—of something that profaned the air; and in the second that,\r\nroused, startled, shocked, he was yet the next moment looking after\r\nit, as it went, with envy.  The most extraordinary thing that had\r\nhappened to him—though he had given that name to other matters\r\nas well—took place, after his immediate vague stare, as a consequence\r\nof this impression.  The stranger passed, but the raw glare of\r\nhis grief remained, making our friend wonder in pity what wrong, what\r\nwound it expressed, what injury not to be healed.  What had the\r\nman "
+            },
+            {
+              "text": "had",
+              "italic": true
+            },
+            {
+              "text": ", to make him by the loss of it so bleed and yet live?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 63,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "848eb001b758892f0e3bdbef22b22adca1541ff527c0246d4a93c2f4d0fe58f8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Something—and this reached him with a pang—that "
+            },
+            {
+              "text": "he",
+              "italic": true
+            },
+            {
+              "text": ",\r\nJohn Marcher, hadn’t; the proof of which was precisely John Marcher’s\r\narid end.  No passion had ever touched him, for this was what passion\r\nmeant; he had survived and maundered and pined, but where had been "
+            },
+            {
+              "text": "his",
+              "italic": true
+            },
+            {
+              "text": "\r\ndeep ravage?  The extraordinary thing we speak of was the sudden\r\nrush of the result of this question.  The sight that had just met\r\nhis eyes named to him, as in letters of quick flame, something he had\r\nutterly, insanely missed, and what he had missed made these things a\r\ntrain of fire, made them mark themselves in an anguish of inward throbs. \r\nHe had seen "
+            },
+            {
+              "text": "outside",
+              "italic": true
+            },
+            {
+              "text": " of his life, not learned it within, the way\r\na woman was mourned when she had been loved for herself: such was the\r\nforce of his conviction of the meaning of the stranger’s face,\r\nwhich still flared for him as a smoky torch.  It hadn’t come\r\nto him, the knowledge, on the wings of experience; it had brushed him,\r\njostled him, upset him, with the disrespect of chance, the insolence\r\nof accident.  Now that the illumination had begun, however, it\r\nblazed to the zenith, and what he presently stood there gazing at was\r\nthe sounded void of his life.  He gazed, he drew breath, in pain;\r\nhe turned in his dismay, and, turning, he had before him in sharper\r\nincision than ever the open page of his story.  The name on the\r\ntable smote him as the passage of his neighbour had done, and what it\r\nsaid to him, full in the face, was that she was what he had missed. \r\nThis was the awful thought, the answer to all the past, the vision at\r\nthe dread clearness of which he"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 64,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "a60d7e942100cc798b097d2c44812a2629929a765b2e28c7b91b64c54578609e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " turned as cold as the stone beneath\r\nhim.  Everything fell together, confessed, explained, overwhelmed;\r\nleaving him most of all stupefied at the blindness he had cherished. \r\nThe fate he had been marked for he had met with a vengeance—he\r\nhad emptied the cup to the lees; he had been the man of his time, "
+            },
+            {
+              "text": "the",
+              "italic": true
+            },
+            {
+              "text": "\r\nman, to whom nothing on earth was to have happened.  That was the\r\nrare stroke—that was his visitation.  So he saw it, as we\r\nsay, in pale horror, while the pieces fitted and fitted.  So "
+            },
+            {
+              "text": "she",
+              "italic": true
+            },
+            {
+              "text": "\r\nhad seen it while he didn’t, and so she served at this hour to\r\ndrive the truth home.  It was the truth, vivid and monstrous, that\r\nall the while he had waited the wait was itself his portion.  This\r\nthe companion of his vigil had at a given moment made out, and she had\r\nthen offered him the chance to baffle his doom.  One’s doom,\r\nhowever, was never baffled, and on the day she told him his own had\r\ncome down she had seen him but stupidly stare at the escape she offered\r\nhim."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "The escape would have been to love her; then, "
+            },
+            {
+              "text": "then",
+              "italic": true
+            },
+            {
+              "text": " he would\r\nhave lived.  "
+            },
+            {
+              "text": "She",
+              "italic": true
+            },
+            {
+              "text": " had lived—who could say now with\r\nwhat passion?—since she had loved him for himself; whereas he\r\nhad never thought of her (ah how it hugely glared at him!) but in the\r\nchill of his egotism and the light of her use.  Her spoken words\r\ncame back to him—the chain stretched and stretched.  The\r\nBeast had lurked indeed, and the Beast, at its hour, had sprung; it\r\nhad sprung in that twilight of the cold April when, pale, ill, wasted,\r\nbut all beautiful, and perhaps even then recoverable, she had risen\r\nfrom her chair to stand before him"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-james-beast-in-the-jungle",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 65,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "332d8a6d6bc962fa7e34aa123ce861b606aca10870af683259e3e284f0bd3449",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " and let him imaginably guess. \r\nIt had sprung as he didn’t guess; it had sprung as she hopelessly\r\nturned from him, and the mark, by the time he left her, had fallen where\r\nit "
+            },
+            {
+              "text": "was",
+              "italic": true
+            },
+            {
+              "text": " to fall.  He had justified his fear and achieved\r\nhis fate; he had failed, with the last exactitude, of all he was to\r\nfail of; and a moan now rose to his lips as he remembered she had prayed\r\nhe mightn’t know.  This horror of waking—"
+            },
+            {
+              "text": "this",
+              "italic": true
+            },
+            {
+              "text": "\r\nwas knowledge, knowledge under the breath of which the very tears in\r\nhis eyes seemed to freeze.  Through them, none the less, he tried\r\nto fix it and hold it; he kept it there before him so that he might\r\nfeel the pain.  That at least, belated and bitter, had something\r\nof the taste of life.  But the bitterness suddenly sickened him,\r\nand it was as if, horribly, he saw, in the truth, in the cruelty of\r\nhis image, what had been appointed and done.  He saw the Jungle\r\nof his life and saw the lurking Beast; then, while he looked, perceived\r\nit, as by a stir of the air, rise, huge and hideous, for the leap that\r\nwas to settle him.  His eyes darkened—it was close; and,\r\ninstinctively turning, in his hallucination, to avoid it, he flung himself,\r\nface down, on the tomb."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

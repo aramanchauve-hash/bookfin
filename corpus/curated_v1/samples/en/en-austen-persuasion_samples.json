@@ -1,0 +1,55 @@
+{
+  "work_id": "en-austen-persuasion",
+  "author": "Jane Austen",
+  "title": "Persuasion",
+  "language": "en",
+  "work_kind": "LONG_FORM",
+  "total_pages": 305,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 305,
+      "character_length": 1383,
+      "blocks_count": 9,
+      "preview": "Persuasionby Jane Austen(1818)ContentsCHAPTER I.CHAPTER II.CHAPTER III.CHAPTER IV.CHAPTER V.CHAPTER VI.CHAPTER VII.CHAPTER VIII.CHAPTER IX.CHAPTER X.CHAPTER XI.CHAPTER XII.CHAPTER XIII.CHAPTER XIV.CHAPTER XV.CHAPTER XVI.CHAPTER XVII.CHAPTER XVIII.CHAPTER XIX.CHAPTER XX.CHAPTER XXI.CHAPTER XXII.CHAPTER XXIII.CHAPTER XXIV.CHAPTER I. Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man wh...",
+      "content_hash": "adf553924928004995969c3bf7d0fd7670c81e8cc66ced211ef05d5768257ac0"
+    },
+    "25pct": {
+      "label": "25% (Page 76)",
+      "page_sequence_number": 76,
+      "total_pages": 305,
+      "character_length": 1691,
+      "blocks_count": 8,
+      "preview": "“Ah! Miss Anne, if it had pleased Heaven to spare my poor son, I dare say he would have been just such another by this time.” Anne suppressed a smile, and listened kindly, while Mrs Musgrove relieved her heart a little more; and for a few minutes, therefore, could not keep pace with the conversation of the others. When she could let her attention take its natural course again, she found the Miss M...",
+      "content_hash": "76f6f3ad6f0eff7c67fe7a1cabd0563e54fae51055976ff63a9f0968d591446e"
+    },
+    "50pct": {
+      "label": "50% (Page 152)",
+      "page_sequence_number": 152,
+      "total_pages": 305,
+      "character_length": 1775,
+      "blocks_count": 3,
+      "preview": "Mary had had her evils; but upon the whole, as was evident by her staying so long, she had found more to enjoy than to suffer. Charles Hayter had been at Lyme oftener than suited her; and when they dined with the Harvilles there had been only a maid-servant to wait, and at first Mrs Harville had always given Mrs Musgrove precedence; but then, she had received so very handsome an apology from her o...",
+      "content_hash": "a939a3bf3cf32b67c7ccc81c89d8e6416934268a64e05e086adad32bcc4fc7ae"
+    },
+    "75pct": {
+      "label": "75% (Page 229)",
+      "page_sequence_number": 229,
+      "total_pages": 305,
+      "character_length": 1592,
+      "blocks_count": 4,
+      "preview": "Jealousy of Mr Elliot! It was the only intelligible motive. Captain Wentworth jealous of her affection! Could she have believed it a week ago; three hours ago! For a moment the gratification was exquisite. But, alas! there were very different thoughts to succeed. How was such jealousy to be quieted? How was the truth to reach him? How, in all the peculiar disadvantages of their respective situatio...",
+      "content_hash": "8cc750fb250e14abc486e425dee1d9958da90fdedc6221958ef8733c1a1319df"
+    },
+    "end": {
+      "label": "Fin (Page 305)",
+      "page_sequence_number": 305,
+      "total_pages": 305,
+      "character_length": 1572,
+      "blocks_count": 3,
+      "preview": "Her recent good offices by Anne had been enough in themselves, and their marriage, instead of depriving her of one friend, secured her two. She was their earliest visitor in their settled life; and Captain Wentworth, by putting her in the way of recovering her husband’s property in the West Indies, by writing for her, acting for her, and seeing her through all the petty difficulties of the case wi...",
+      "content_hash": "a5959b03571f405537d7832c6575ddb3ca300e65de0ab9b16f375975f6c5bd32"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "en-melville-bartleby",
+  "author": "Herman Melville",
+  "title": "Bartleby, the Scrivener",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 53,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 53,
+      "character_length": 1530,
+      "blocks_count": 6,
+      "preview": "Bartleby, The ScrivenerA STORY OF WALL-STREET.by Herman Melville I am a rather elderly man. The nature of my avocations for the last thirty years has brought me into more than ordinary contact with what would seem an interesting and somewhat singular set of men, of whom as yet nothing that I know of has ever been written:—I mean the law-copyists or scriveners. I have known very many of them, profe...",
+      "content_hash": "0795d3d321d2df485c9b3f3bebc50200d619bb19c0d388aac5e72fdca43dcb38"
+    },
+    "middle": {
+      "label": "Milieu (Page 26)",
+      "page_sequence_number": 26,
+      "total_pages": 53,
+      "character_length": 1601,
+      "blocks_count": 2,
+      "preview": "I mean no mischief, seek the gratification of no heartless curiosity, thought I; besides, the desk is mine, and its contents too, so I will make bold to look within. Every thing was methodically arranged, the papers smoothly placed. The pigeon holes were deep, and removing the files of documents, I groped into their recesses. Presently I felt something there, and dragged it out. It was an old band...",
+      "content_hash": "2604e9dc76f1b9e7d9314508014ce9e8557f82b4873b23c8e48c636599021716"
+    },
+    "end": {
+      "label": "Fin (Page 53)",
+      "page_sequence_number": 53,
+      "total_pages": 53,
+      "character_length": 1024,
+      "blocks_count": 2,
+      "preview": "The report was this: that Bartleby had been a subordinate clerk in the Dead Letter Office at Washington, from which he had been suddenly removed by a change in the administration. When I think over this rumor, I cannot adequately express the emotions which seize me. Dead letters! does it not sound like dead men? Conceive a man by nature and misfortune prone to a pallid hopelessness, can any busine...",
+      "content_hash": "f2e913be2b4535068f1a9d6cdf429def2b55bea795334d05559ff2dcf5f67300"
+    }
+  }
+}

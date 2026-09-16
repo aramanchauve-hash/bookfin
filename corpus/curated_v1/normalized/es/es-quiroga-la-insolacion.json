@@ -1,0 +1,704 @@
+{
+  "work_id": "es-quiroga-la-insolacion",
+  "author": "Horacio Quiroga",
+  "title": "La insolación",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "wikisource",
+  "document_sha256": "e64fa25483979dde3f757a29b6623691fe7853c420dcb289aefaf357bb076c25",
+  "source_sha256": "31ef6129447db40acbaa8b622c49d4463c002b32fbb7e6a98a22dbb1d6abf843",
+  "document": {
+    "format": "bookfin.document.v1",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "El cachorro "
+          },
+          {
+            "text": "Old",
+            "italic": true
+          },
+          {
+            "text": " salió por la puerta y atravesó el patio con paso recto y perezoso. Se detuvo en la linde del pasto, estiró al monte, entrecerrando los ojos, la nariz vibrátil, y se sentó tranquilo. Veía la monótona llanura del Chaco, con sus alternativas de campo y monte, monte y campo, sin más color que el crema del pasto y el negro del monte. Este cerraba el horizonte, a doscientos metros, por tres lados de la chacra. Hacia el Oeste, el campo se ensanchaba y extendía en abra, pero que la ineludible línea sombría enmarcaba a lo lejos.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "A esa hora temprana, el confín, ofuscante de luz a mediodía, adquiría reposada nitidez. No había una nube ni un soplo de viento. Bajo la calma del cielo plateado el campo emanaba tónica frescura que traía al alma pensativa, ante la certeza de otro día de seca, melancolías de mejor compensado trabajo.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Milk",
+            "italic": true
+          },
+          {
+            "text": ", el padre del cachorro, cruzó a la vez el patio y se sentó al lado de aquél, con perezoso quejido de bienestar. Ambos permanecían inmóviles, pues aún no había moscas.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Old",
+            "italic": true
+          },
+          {
+            "text": ", que miraba, hacía rato a la vera del monte, observó:\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— La mañana es fresca.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Milk",
+            "italic": true
+          },
+          {
+            "text": " siguió la mirada del cachorro y quedó con la vista fija, parpadeando distraído. Después de un rato dijo:\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— En aquel árbol hay dos halcones.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Volvieron la vista indiferente a un buey que pasaba y continuaron mirando por costumbre las cosas.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Entretanto, el oriente comenzaba a empurpurarse en abanico, y el horizonte había perdido ya su matinal precisión. "
+          },
+          {
+            "text": "Milk",
+            "italic": true
+          },
+          {
+            "text": " cruzó las patas delanteras y al hacerlo sintió un leve dolor. Miró sus dedos sin moverse, decidiéndose por fin a olfatearlos. El día anterior se había sacado un pique, y en recuerdo de lo que había sufrido lamió extensamente el dedo enfermo.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— No podía caminar — exclamó en conclusión.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Old",
+            "italic": true
+          },
+          {
+            "text": " no comprendió a qué se refería. "
+          },
+          {
+            "text": "Milk",
+            "italic": true
+          },
+          {
+            "text": " agregó:\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Hay muchos piques.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Esta vez el cachorro comprendió. Y repuso por su cuenta, después de largo rato:\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Hay muchos piques.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Uno y otro callaron de nuevo, convencidos.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "El sol salió, y en el primer baño de su luz, las pavas del monte lanzaron al aire puro el tumultuoso trompeteo de su charanga. Los perros, dorados al sol oblicuo, entornaron los ojos, dulcificando su molicie en beato pestañeo. Poco a poco la pareja aumentó con la llegada de los otros compañeros: "
+          },
+          {
+            "text": "Dick",
+            "italic": true
+          },
+          {
+            "text": ", el taciturno preferido; "
+          },
+          {
+            "text": "Prince",
+            "italic": true
+          },
+          {
+            "text": ", cuyo labio superior, partido por un coatí, dejaba ver los dientes, e "
+          },
+          {
+            "text": "Isondú",
+            "italic": true
+          },
+          {
+            "text": ", de nombre indígena. Los cinco "
+          },
+          {
+            "text": "fox-terriers",
+            "italic": true
+          },
+          {
+            "text": ", tendidos y beatos de bienestar, durmieron.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Al cabo de una hora irguieron la cabeza; por el lado opuesto del bizarro rancho de dos pisos —el inferior de barro y el alto de madera, con corredores y baranda de "
+          },
+          {
+            "text": "chalet",
+            "italic": true
+          },
+          {
+            "text": "—, habían sentido los pasos de su dueño, que se detuvo un momento en la esquina del rancho y miró el sol, alto ya. Tenía aún la mirada muerta y el labio pendiente tras su solitaria velada de "
+          },
+          {
+            "text": "whisky",
+            "italic": true
+          },
+          {
+            "text": ", más prolongada que las habituales.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Mientras se lavaba, los perros se acercaron y le olfatearon las botas, meneando con pereza el rabo. Como las fieras amaestradas, los perros conocen el menor indicio de borrachera en su amo. Alejáronse con lentitud a echarse de nuevo al sol. Pero el calor creciente les hizo presto abandonar aquél, por la sombra de los corredores.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "El día avanzaba igual a los precedentes de todo ese mes: seco, límpido, con catorce horas de sol calcinante que parecía mantener el cielo en fusión, y que en un instante resquebrajaba la tierra mojada en costras blanquecinas. Míster Jones fue a la chacra, miró el trabajo del día anterior y retornó al rancho. En toda esa mañana no hizo nada. Almorzó y subió a dormir la siesta.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Los peones volvieron a las dos a la carpición, no obstante la hora de fuego, pues los yuyos no dejaban el algodonal. Tras ellos fueron los perros muy amigos del cultivo desde que el invierno pasado hubieron aprendido a disputar a los halcones los gusanos blancos que levantaba el arado. Cada perro se echó bajo un algodonero, acompañando con su jadeo los golpes sordos de la azada.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Entretanto el calor crecía. En el paisaje silencioso y encegueciente de sol, el aire vibraba a todos lados, dañando la vista. La tierra removida exhalaba vaho de horno, que los peones soportaban sobre la cabeza, envuelta hasta las orejas en el flotante pañuelo, con el mutismo de sus trabajos de chacra. Los perros cambiaban a cada rato de planta, en procura de más fresca sombra. Tendíanse a lo largo, pero la fatiga los obligaba a sentarse sobre las patas traseras, para respirar mejor.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Reverberaba ahora adelante de ellos un pequeño páramo de greda que ni siquiera se había intentado arar. Allí, el cachorro vio de pronto a Míster Jones sentado sobre un tronco, que lo miraba fijamente. "
+          },
+          {
+            "text": "Old",
+            "italic": true
+          },
+          {
+            "text": " se puso en pie meneando el rabo. Los otros levantáronse también, pero erizados.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Es el patrón —exclamó el cachorro sorprendido de la actitud de aquellos.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "—No, no es él —replicó "
+          },
+          {
+            "text": "Dick",
+            "italic": true
+          },
+          {
+            "text": ".\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Los cuatro perros estaban apiñados gruñendo sordamente, sin apartar los ojos de míster Jones, que continuaba inmóvil, mirándolos. El cachorro, incrédulo, fue a avanzar, pero "
+          },
+          {
+            "text": "Prince",
+            "italic": true
+          },
+          {
+            "text": " le mostró los dientes:\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— No es él, es la "
+          },
+          {
+            "text": "Muerte",
+            "italic": true
+          },
+          {
+            "text": ".\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "El cachorro se erizó de miedo y retrocedió al grupo.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— ¿Es el patrón muerto? —preguntó ansiosamente. \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Los otros, sin responderle, rompieron a ladrar con furia, siempre en actitud temerosa. Pero míster Jones se desvanecía ya en el aire ondulante.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Al oír los ladridos, los peones habían levantado la vista, sin distinguir nada. Giraron la cabeza para ver si había entrado algún caballo en la chacra, y se doblaron de nuevo.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Los "
+          },
+          {
+            "text": "fox-terriers",
+            "italic": true
+          },
+          {
+            "text": " volvieron al paso al rancho. El cachorro, erizado aún, se adelantaba y retrocedía con cortos trotes nerviosos, y supo de la experiencia de sus compañeros que cuando una cosa va a morir, aparece antes.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— ¿Y cómo saben que ése que vimos no era el patrón vivo? —preguntó.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Porque no era él —le respondieron displicentes.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "¡Luego la muerte, y con ella el cambio de dueño, las miserias, las patadas, estaba sobre ellos! Pasaron el resto de la tarde al lado de su patrón, sombríos y alerta. Al menor ruido gruñían, sin saber hacia dónde. Míster Jones sentíase satisfecho de su guardiana inquietud. \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Por fin el sol se hundió tras el negro palmar del arroyo, y en la calma de la noche plateada los perros se estacionaron alrededor del rancho, en cuyo piso alto míster Jones recomenzaba su velada de "
+          },
+          {
+            "text": "whisky",
+            "italic": true
+          },
+          {
+            "text": ". A medianoche oyeron sus pasos, luego la caída de las botas en el piso de tablas, y la luz se apagó. Los perros, entonces, sintieron más próximo el cambio de dueño, y solos al pie de la casa dormida, comenzaron a llorar. Lloraban en coro, volcando sus sollozos convulsivos y secos, como masticados, en un aullido de desolación, que la voz cazadora de "
+          },
+          {
+            "text": "Prince",
+            "italic": true
+          },
+          {
+            "text": " sostenía, mientras los otros tomaban el sollozo de nuevo. El cachorro solo podía ladrar. La noche avanzaba, y los cuatro perros de edad, agrupados a la luz de la luna, el hocico extendido e hinchado de lamentos —bien alimentados y acariciados por el dueño que iban a perder—, continuaban llorando a lo alto su doméstica miseria.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "A la mañana siguiente míster Jones fue él mismo a buscar las mulas y las unció a la carpidora, trabajando hasta las nueve. No estaba satisfecho, sin embargo. Fuera de que la tierra no había sido nunca bien rastreada, las cuchillas no tenían filo, y con el paso rápido de las mulas, la carpidora saltaba. Volvió con ésta y afiló sus rejas; pero un tornillo en que ya al comprar la máquina había notado una falla, se rompió al armarla. Mandó un peón al obraje próximo, recomendándole cuidara del caballo, un buen animal, pero asoleado. Alzó la cabeza al sol fundente de mediodía, e insistió en que no galopara ni un momento. Almorzó en seguida y subió. Los perros, que en la mañana no habían dejado un segundo a su patrón, se quedaron en los corredores.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "La siesta pesaba, agobiada de luz y silencio. Todo el contorno estaba brumoso por las quemazones. Alrededor del rancho la tierra blancuzca del patio, deslumbraba por el sol a plomo, parecía deformarse en trémulo hervor, que adormecía los ojos parpadeantes de los "
+          },
+          {
+            "text": "fox-terriers",
+            "italic": true
+          },
+          {
+            "text": ".\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— No ha aparecido más —dijo "
+          },
+          {
+            "text": "Milk",
+            "italic": true
+          },
+          {
+            "text": ".\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Old",
+            "italic": true
+          },
+          {
+            "text": ", al oír "
+          },
+          {
+            "text": "aparecido",
+            "italic": true
+          },
+          {
+            "text": ", levantó vivamente las orejas. \n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Incitado por la evocación el cachorro se puso en pie y ladró, buscando aquél. Al rato calló, entregándose con sus compañeros a su defensiva cacería de moscas.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— No vino más —agregó "
+          },
+          {
+            "text": "Isondú",
+            "italic": true
+          },
+          {
+            "text": ".\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— Había una lagartija bajo el raigón —recordó por primera vez "
+          },
+          {
+            "text": "Prince",
+            "italic": true
+          },
+          {
+            "text": ".\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Una gallina, el pico abierto y las alas apartadas del cuerpo, cruzó el patio incandescente con su pesado trote de calor. "
+          },
+          {
+            "text": "Prince",
+            "italic": true
+          },
+          {
+            "text": " la siguió perezosamente con la vista y saltó de golpe.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— ¡Viene otra vez! —gritó.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Por el norte del patio avanzaba solo el caballo en que había ido el peón. Los perros se arquearon sobre las patas, ladrando con furia a la "
+          },
+          {
+            "text": "Muerte",
+            "italic": true
+          },
+          {
+            "text": ", que se acercaba. El caballo caminaba con la cabeza baja, aparentemente indeciso sobre el rumbo que debía seguir. Al pasar frente al rancho dio unos cuantos pasos en dirección al pozo, y se desvaneció progresivamente en la cruda luz.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Míster Jones bajó; no tenía sueño. Disponíase a proseguir el montaje de la carpidora, cuando vio llegar inesperadamente al peón a caballo. A pesar de su orden, tenía que haber galopado para volver a esa hora. Apenas libre y concluida su misión, el pobre caballo, en cuyos ijares era imposible contar los latidos, tembló agachando la cabeza, y cayó de costado. Míster Jones mandó al peón a la chacra, con el rebenque aún en la mano, para echarlo si continuaba oyendo sus jesuísticas disculpas.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Pero los perros estaban contentos. La Muerte, que buscaba a su patrón, se había conformado con el caballo. Sentíanse alegres, libres de preocupación, y en consecuencia disponíanse a ir a la chacra tras el peón, cuando oyeron a míster Jones que le gritaba pidiéndole el tornillo. No había tornillo: el almacén estaba cerrado, el encargado dormía, etc. Míster Jones, sin replicar, descolgó su casco y salió él mismo en busca del utensilio. Resistía el sol como un peón, y el paseo era maravilloso contra su mal humor.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Los perros salieron con él, pero se detuvieron a la sombra del primer algarrobo; hacía demasiado calor. Desde allí, firmes en las patas, el ceño contraído y atento, lo veían alejarse. Al fin el temor a la soledad pudo más, y con agobiado trote siguieron tras él.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Míster Jones obtuvo su tornillo y volvió. Para acortar distancia, desde luego, evitando la polvorienta curva del camino, marchó en línea recta a su chacra. Llegó al riacho y se internó en el pajonal, el diluviano pajonal del Saladito, que ha crecido, secado y retoñado desde que hay paja en el mundo, sin conocer fuego. Las matas, arqueadas en bóveda a la altura del pecho, se entrelazan en bloques macizos. La tarea de cruzarlo, sería ya en día fresco, era muy dura a esa hora. Míster Jones lo atravesó, sin embargo, braceando entre la paja restallante y polvorienta por el barro que dejaban las crecientes, ahogado de fatiga y acres vahos de nitrato.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Salió por fin y se detuvo en la linde; pero era imposible permanecer quieto bajo ese sol y ese cansancio. Marchó de nuevo. Al calor quemante que crecía sin cesar desde tres días atrás, agregábase ahora el sofocamiento del tiempo descompuesto. El cielo estaba blanco y no se sentía un soplo de viento. El aire faltaba, con angustia cardíaca, que no permitía concluir la respiración.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Míster Jones adquirió el convencimiento de que había traspasado su límite de resistencia. Desde hacía rato le golpeaba en los oídos el latido de las carótidas. Sentíase en el aire, como si de dentro de la cabeza le empujaran el cráneo hacia arriba. Se mareaba mirando el pasto. Apresuró la marcha para acabar con eso de una vez... Y de pronto volvió en sí y se halló en distinto paraje: había caminado media cuadra sin darse cuenta de nada. Miró atrás, y la cabeza se le fue en un nuevo vértigo.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Entretanto, los perros seguían tras él, trotando con toda la lengua afuera. A veces, asfixiados, deteníanse en la sombra de un espartillo; se sentaban, precipitando su jadeo, para volver en seguida al tormento del sol. Al fin, como la casa estaba ya próxima, apuraron el trote.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Fue en ese momento cuando "
+          },
+          {
+            "text": "Old",
+            "italic": true
+          },
+          {
+            "text": ", que iba adelante, vio tras el alambrado de la chacra a míster Jones, vestido de blanco, que caminaba hacia ellos. El cachorro, con súbito recuerdo, volvió la cabeza a su patrón, y confrontó.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— ¡La "
+          },
+          {
+            "text": "Muerte",
+            "italic": true
+          },
+          {
+            "text": ", la "
+          },
+          {
+            "text": "Muerte",
+            "italic": true
+          },
+          {
+            "text": "! —aulló.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Los otros lo habían visto también, y ladraban erizados. Vieron que míster Jones atravesaba el alambrado, y por un instante creyeron que se iba a equivocar; pero al llegar a cien metros se detuvo, miró el grupo con sus ojos celestes, y marchó adelante.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— ¡Que no camine ligero el patrón! —exclamó "
+          },
+          {
+            "text": "Prince",
+            "italic": true
+          },
+          {
+            "text": ".\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "— ¡Va a tropezar con él! —aullaron todos.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "En efecto, el otro, tras breve hesitación, había avanzado, pero no directamente sobre ellos como antes, sino en línea oblicua y en apariencia errónea, pero que debía llevarlo justo al encuentro de míster Jones. Los perros comprendieron que esta vez todo concluía, porque su patrón continuaba caminando a igual paso como un autómata, sin darse cuenta de nada. El otro llegaba ya. Los perros hundieron el rabo y corrieron de costado, aullando. Pasó un segundo, y el encuentro se produjo. Míster Jones se detuvo, giró sobre sí mismo y se desplomó.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "Los peones, que lo vieron caer, lo llevaron a prisa al rancho, pero fue inútil toda el agua; murió sin volver en sí. Míster Moore, su hermano materno, fue allá desde Buenos Aires, estuvo una hora en la chacra, y en cuatro días liquidó todo, volviéndose en seguida al Sur. Los indios se repartieron los perros, que vivieron en adelante flacos y sarnosos, e iban todas las noches con hambriento sigilo a robar espigas de maíz en las chacras ajenas.\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "spans": [
+          {
+            "text": "\nRegresar a Cuentos de amor, de locura y de muerte"
+          }
+        ]
+      }
+    ]
+  }
+}

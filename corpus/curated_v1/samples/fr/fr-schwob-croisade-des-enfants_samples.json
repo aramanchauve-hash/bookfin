@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-schwob-croisade-des-enfants",
+  "author": "Marcel Schwob",
+  "title": "La Croisade des enfants",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 23,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 23,
+      "character_length": 1736,
+      "blocks_count": 4,
+      "preview": "LA CROISADE DES ENFANTS (1896)Circa idem tempus pueri sine rectore sine duce de universis omnium regionum villis et civitatibus versus transmarinas partes avidis gressibus cucurrerunt, et dum quaereretur ab ipsis quo currerent, responderunt : Versus Jherusalem, quaerere terram sanctam… Adhuc quo devenerint ignoratur. Sed plurimi redierunt, a quibus dum quaereretur causa cursus, dixerunt se nescire...",
+      "content_hash": "76fb55f50c6f2f578c16dbdbb0fe302a6fb9b0456216995c42a71694c5735eef"
+    },
+    "middle": {
+      "label": "Milieu (Page 12)",
+      "page_sequence_number": 12,
+      "total_pages": 23,
+      "character_length": 1592,
+      "blocks_count": 2,
+      "preview": "Sur la terre il y a des forêts épaisses, et des rivières, et des montagnes, et des sentiers pleins de ronces. Et au bout de la terre se trouve la mer que nous allons traverser bientôt. Et au bout de la mer se trouve Jérusalem. Nous n’avons ni gouvernants ni guides. Mais toutes les routes nous sont bonnes. Quoique ne sachant point parler, Nicolas marche comme nous, Alain et Denis, et toutes les ter...",
+      "content_hash": "4d88a091f3aabc9e110f265c1c49b1ceae501768bc89355b6b70a27afe7251f9"
+    },
+    "end": {
+      "label": "Fin (Page 23)",
+      "page_sequence_number": 23,
+      "total_pages": 23,
+      "character_length": 1099,
+      "blocks_count": 2,
+      "preview": "Tu te confesses incessamment sur la grève par tes mille lèvres gémissantes, et je me confesse à toi, grande mer sacrée, par mes lèvres flétries. Nous nous confessons l’un à l’autre. Absous-moi et je t’absous. Retournons dans l’ignorance et la candeur. Ainsi soit-il. Que ferai-je sur la terre ? Il y aura un monument expiatoire, un monument pour la foi qui ne sait pas. Les âges qui viendront doivent...",
+      "content_hash": "4cf5969dab9b2c6aea059985cace8b5bbd6b49e3b90ac13c2b552738b28ba262"
+    }
+  }
+}

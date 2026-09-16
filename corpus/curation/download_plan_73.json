@@ -1,0 +1,659 @@
+[
+  {
+    "id": "en-austen-pride-prejudice",
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/42671",
+    "download_url": "https://www.gutenberg.org/ebooks/42671.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-austen-persuasion",
+    "author": "Jane Austen",
+    "title": "Persuasion",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/105",
+    "download_url": "https://www.gutenberg.org/ebooks/105.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-johnson-rasselas",
+    "author": "Samuel Johnson",
+    "title": "The History of Rasselas, Prince of Abissinia",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/652",
+    "download_url": "https://www.gutenberg.org/ebooks/652.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-sterne-sentimental-journey",
+    "author": "Laurence Sterne",
+    "title": "A Sentimental Journey Through France and Italy",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/107",
+    "download_url": "https://www.gutenberg.org/ebooks/107.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-browne-religio-medici",
+    "author": "Sir Thomas Browne",
+    "title": "Religio Medici",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/586",
+    "download_url": "https://www.gutenberg.org/ebooks/586.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-browne-hydriotaphia",
+    "author": "Sir Thomas Browne",
+    "title": "Hydriotaphia, Urn Burial",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/32643",
+    "download_url": "https://www.gutenberg.org/ebooks/32643.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-hazlitt-table-talk",
+    "author": "William Hazlitt",
+    "title": "Table-Talk",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/4335",
+    "download_url": "https://www.gutenberg.org/ebooks/4335.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-gissing-henry-ryecroft",
+    "author": "George Gissing",
+    "title": "The Private Papers of Henry Ryecroft",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/2304",
+    "download_url": "https://www.gutenberg.org/ebooks/2304.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-james-portrait-of-a-lady",
+    "author": "Henry James",
+    "title": "The Portrait of a Lady",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/2833",
+    "download_url": "https://www.gutenberg.org/ebooks/2833.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-james-turn-of-the-screw",
+    "author": "Henry James",
+    "title": "The Turn of the Screw",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/209",
+    "download_url": "https://www.gutenberg.org/ebooks/209.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-james-daisy-miller",
+    "author": "Henry James",
+    "title": "Daisy Miller",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/208",
+    "download_url": "https://www.gutenberg.org/ebooks/208.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-james-beast-in-the-jungle",
+    "author": "Henry James",
+    "title": "The Beast in the Jungle",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/1093",
+    "download_url": "https://www.gutenberg.org/ebooks/1093.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-james-aspern-papers",
+    "author": "Henry James",
+    "title": "The Aspern Papers",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/211",
+    "download_url": "https://www.gutenberg.org/ebooks/211.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "fr-mirbeau-journal-femme-chambre",
+    "author": "Octave Mirbeau",
+    "title": "Le Journal d'une femme de chambre",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Le_Journal_d%E2%80%99une_femme_de_chambre",
+    "download_url": "https://fr.wikisource.org/wiki/Le_Journal_d%E2%80%99une_femme_de_chambre",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-bel-ami",
+    "author": "Guy de Maupassant",
+    "title": "Bel-Ami",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Bel-Ami",
+    "download_url": "https://fr.wikisource.org/wiki/Bel-Ami",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-pierre-et-jean",
+    "author": "Guy de Maupassant",
+    "title": "Pierre et Jean",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Pierre_et_Jean",
+    "download_url": "https://fr.wikisource.org/wiki/Pierre_et_Jean",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-la-parure",
+    "author": "Guy de Maupassant",
+    "title": "La Parure",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure",
+    "download_url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-la-ficelle",
+    "author": "Guy de Maupassant",
+    "title": "La Ficelle",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Miss_Harriet_(recueil)/La_Ficelle",
+    "download_url": "https://fr.wikisource.org/wiki/Miss_Harriet_(recueil)/La_Ficelle",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-deux-amis",
+    "author": "Guy de Maupassant",
+    "title": "Deux amis",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Mademoiselle_Fifi_(recueil,_Ollendorff_1898)/Deux_amis",
+    "download_url": "https://fr.wikisource.org/wiki/Mademoiselle_Fifi_(recueil,_Ollendorff_1898)/Deux_amis",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-le-horla",
+    "author": "Guy de Maupassant",
+    "title": "Le Horla",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Le_Horla_(recueil,_Ollendorff_1895)/Le_Horla",
+    "download_url": "https://fr.wikisource.org/wiki/Le_Horla_(recueil,_Ollendorff_1895)/Le_Horla",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-boule-de-suif",
+    "author": "Guy de Maupassant",
+    "title": "Boule de Suif",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Boule_de_Suif",
+    "download_url": "https://fr.wikisource.org/wiki/Boule_de_Suif",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-maupassant-la-maison-tellier",
+    "author": "Guy de Maupassant",
+    "title": "La Maison Tellier",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/La_Maison_Tellier_(recueil)/La_Maison_Tellier",
+    "download_url": "https://fr.wikisource.org/wiki/La_Maison_Tellier_(recueil)/La_Maison_Tellier",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-schwob-vies-imaginaires",
+    "author": "Marcel Schwob",
+    "title": "Vies imaginaires",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Vies_imaginaires",
+    "download_url": "https://fr.wikisource.org/wiki/Vies_imaginaires",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-schwob-livre-de-monelle",
+    "author": "Marcel Schwob",
+    "title": "Le Livre de Monelle",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Le_Livre_de_Monelle",
+    "download_url": "https://fr.wikisource.org/wiki/Le_Livre_de_Monelle",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-schwob-croisade-des-enfants",
+    "author": "Marcel Schwob",
+    "title": "La Croisade des enfants",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/La_Croisade_des_enfants",
+    "download_url": "https://fr.wikisource.org/wiki/La_Croisade_des_enfants",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-lesage-diable-boiteux",
+    "author": "Alain-René Lesage",
+    "title": "Le Diable boiteux",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Le_Diable_boiteux",
+    "download_url": "https://fr.wikisource.org/wiki/Le_Diable_boiteux",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-cervantes-quijote",
+    "author": "Miguel de Cervantes",
+    "title": "Don Quijote de la Mancha",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Don_Quijote_de_la_Mancha",
+    "download_url": "https://es.wikisource.org/wiki/Don_Quijote_de_la_Mancha",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-cervantes-rinconete-y-cortadillo",
+    "author": "Miguel de Cervantes",
+    "title": "Rinconete y Cortadillo",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Rinconete_y_Cortadillo",
+    "download_url": "https://es.wikisource.org/wiki/Rinconete_y_Cortadillo",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-cervantes-la-gitanilla",
+    "author": "Miguel de Cervantes",
+    "title": "La gitanilla",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/La_gitanilla",
+    "download_url": "https://es.wikisource.org/wiki/La_gitanilla",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-cervantes-el-licenciado-vidriera",
+    "author": "Miguel de Cervantes",
+    "title": "El licenciado Vidriera",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/El_licenciado_Vidriera",
+    "download_url": "https://es.wikisource.org/wiki/El_licenciado_Vidriera",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-cervantes-el-celoso-extremeno",
+    "author": "Miguel de Cervantes",
+    "title": "El celoso extremeño",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/El_celoso_extreme%C3%B1o",
+    "download_url": "https://es.wikisource.org/wiki/El_celoso_extreme%C3%B1o",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-cervantes-el-coloquio-de-los-perros",
+    "author": "Miguel de Cervantes",
+    "title": "El coloquio de los perros",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/El_coloquio_de_los_perros",
+    "download_url": "https://es.wikisource.org/wiki/El_coloquio_de_los_perros",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-quiroga-a-la-deriva",
+    "author": "Horacio Quiroga",
+    "title": "A la deriva",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/A_la_deriva",
+    "download_url": "https://es.wikisource.org/wiki/A_la_deriva",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-quiroga-el-almohadon-de-plumas",
+    "author": "Horacio Quiroga",
+    "title": "El almohadón de plumas",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/El_almohad%C3%B3n_de_pluma",
+    "download_url": "https://es.wikisource.org/wiki/El_almohad%C3%B3n_de_pluma",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-quiroga-la-insolacion",
+    "author": "Horacio Quiroga",
+    "title": "La insolación",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/La_insolaci%C3%B3n",
+    "download_url": "https://es.wikisource.org/wiki/La_insolaci%C3%B3n",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-merimee-mateo-falcone",
+    "author": "Prosper Mérimée",
+    "title": "Mateo Falcone",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Mateo_Falcone",
+    "download_url": "https://fr.wikisource.org/wiki/Mateo_Falcone",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-merimee-carmen",
+    "author": "Prosper Mérimée",
+    "title": "Carmen",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Carmen",
+    "download_url": "https://fr.wikisource.org/wiki/Carmen",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-daudet-chevre-seguin",
+    "author": "Alphonse Daudet",
+    "title": "La chèvre de monsieur Seguin",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/La_ch%C3%A8vre_de_monsieur_Seguin",
+    "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/La_ch%C3%A8vre_de_monsieur_Seguin",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-daudet-secret-cornille",
+    "author": "Alphonse Daudet",
+    "title": "Le secret de maître Cornille",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Le_secret_de_ma%C3%AEtre_Cornille",
+    "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Le_secret_de_ma%C3%AEtre_Cornille",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-daudet-trois-messes-basses",
+    "author": "Alphonse Daudet",
+    "title": "Les trois messes basses",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Les_trois_messes_basses",
+    "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Les_trois_messes_basses",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-poe-tell-tale-heart",
+    "author": "Edgar Allan Poe",
+    "title": "The Tell-Tale Heart",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/Mystery_Tales_of_Edgar_Allan_Poe/The_Tell-Tale_Heart",
+    "download_url": "https://en.wikisource.org/wiki/Mystery_Tales_of_Edgar_Allan_Poe/The_Tell-Tale_Heart",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-poe-cask-amontillado",
+    "author": "Edgar Allan Poe",
+    "title": "The Cask of Amontillado",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Cask_of_Amontillado",
+    "download_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Cask_of_Amontillado",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-poe-oval-portrait",
+    "author": "Edgar Allan Poe",
+    "title": "The Oval Portrait",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Oval_Portrait",
+    "download_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Oval_Portrait",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-doyle-scandal-bohemia",
+    "author": "Arthur Conan Doyle",
+    "title": "A Scandal in Bohemia",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/1661",
+    "download_url": "https://en.wikisource.org/wiki/The_Adventures_of_Sherlock_Holmes/A_Scandal_in_Bohemia",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-doyle-red-headed-league",
+    "author": "Arthur Conan Doyle",
+    "title": "The Red-Headed League",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/1661",
+    "download_url": "https://en.wikisource.org/wiki/The_Adventures_of_Sherlock_Holmes/The_Red-Headed_League",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-london-to-build-a-fire",
+    "author": "Jack London",
+    "title": "To Build a Fire",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/Century_Magazine/Volume_76/Issue_4/To_Build_a_Fire",
+    "download_url": "https://en.wikisource.org/wiki/Century_Magazine/Volume_76/Issue_4/To_Build_a_Fire",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-henry-gift-of-the-magi",
+    "author": "O. Henry",
+    "title": "The Gift of the Magi",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/The_Gift_of_the_Magi",
+    "download_url": "https://en.wikisource.org/wiki/The_Gift_of_the_Magi",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-henry-last-leaf",
+    "author": "O. Henry",
+    "title": "The Last Leaf",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/The_Last_Leaf_(Henry)",
+    "download_url": "https://en.wikisource.org/wiki/The_Last_Leaf_(Henry)",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-saki-open-window",
+    "author": "Saki (H. H. Munro)",
+    "title": "The Open Window",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/The_Open_Window_(Saki)",
+    "download_url": "https://en.wikisource.org/wiki/The_Open_Window_(Saki)",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-chopin-story-of-an-hour",
+    "author": "Kate Chopin",
+    "title": "The Story of an Hour",
+    "language": "en",
+    "original_url": "https://en.wikisource.org/wiki/The_Story_of_an_Hour",
+    "download_url": "https://en.wikisource.org/wiki/The_Story_of_an_Hour",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "en-lamb-essays-of-elia",
+    "author": "Charles Lamb",
+    "title": "Essays of Elia",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/10343",
+    "download_url": "https://www.gutenberg.org/ebooks/10343.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-wilde-dorian-gray",
+    "author": "Oscar Wilde",
+    "title": "The Picture of Dorian Gray",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/174",
+    "download_url": "https://www.gutenberg.org/ebooks/174.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "en-melville-bartleby",
+    "author": "Herman Melville",
+    "title": "Bartleby, the Scrivener",
+    "language": "en",
+    "original_url": "https://www.gutenberg.org/ebooks/11231",
+    "download_url": "https://www.gutenberg.org/ebooks/11231.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "fr-diderot-jacques-le-fataliste",
+    "author": "Denis Diderot",
+    "title": "Jacques le fataliste et son maître",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre",
+    "download_url": "https://fr.wikisource.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-diderot-neveu-de-rameau",
+    "author": "Denis Diderot",
+    "title": "Le Neveu de Rameau",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Le_Neveu_de_Rameau",
+    "download_url": "https://fr.wikisource.org/wiki/Le_Neveu_de_Rameau",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-nerval-aurelia",
+    "author": "Gérard de Nerval",
+    "title": "Aurélia ou le Rêve et la Vie",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Aur%C3%A9lia",
+    "download_url": "https://fr.wikisource.org/wiki/Aur%C3%A9lia",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-barbey-les-diaboliques",
+    "author": "Jules Barbey d'Aurevilly",
+    "title": "Les Diaboliques",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Les_Diaboliques",
+    "download_url": "https://fr.wikisource.org/wiki/Les_Diaboliques",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-huysmans-a-rebours",
+    "author": "Joris-Karl Huysmans",
+    "title": "À rebours",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/%C3%80_rebours",
+    "download_url": "https://fr.wikisource.org/wiki/%C3%80_rebours",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-bloy-histoires-desobligeantes",
+    "author": "Léon Bloy",
+    "title": "Histoires désobligeantes",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Histoires_d%C3%A9sobligeantes",
+    "download_url": "https://fr.wikisource.org/wiki/Histoires_d%C3%A9sobligeantes",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-stendhal-chartreuse-de-parme",
+    "author": "Stendhal",
+    "title": "La Chartreuse de Parme",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/La_Chartreuse_de_Parme",
+    "download_url": "https://fr.wikisource.org/wiki/La_Chartreuse_de_Parme",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "fr-stendhal-chroniques-italiennes",
+    "author": "Stendhal",
+    "title": "Chroniques italiennes",
+    "language": "fr",
+    "original_url": "https://fr.wikisource.org/wiki/Chroniques_italiennes",
+    "download_url": "https://fr.wikisource.org/wiki/Chroniques_italiennes",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-quevedo-los-suenos",
+    "author": "Francisco de Quevedo",
+    "title": "Los sueños",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Los_sue%C3%B1os",
+    "download_url": "https://es.wikisource.org/wiki/Los_sue%C3%B1os",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-quevedo-el-buscon",
+    "author": "Francisco de Quevedo",
+    "title": "Historia de la vida del Buscón",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Historia_de_la_vida_del_Busc%C3%B3n",
+    "download_url": "https://es.wikisource.org/wiki/Historia_de_la_vida_del_Busc%C3%B3n",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-larra-el-doncel",
+    "author": "Mariano José de Larra",
+    "title": "El doncel de don Enrique el Doliente",
+    "language": "es",
+    "original_url": "https://www.gutenberg.org/ebooks/51184",
+    "download_url": "https://www.gutenberg.org/ebooks/51184.html.images",
+    "format_type": "gutenberg_html"
+  },
+  {
+    "id": "es-clarin-adios-cordera",
+    "author": "Leopoldo Alas (Clarín)",
+    "title": "¡Adiós, Cordera! y otros cuentos",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/%C2%A1Adi%C3%B3s,_Cordera!",
+    "download_url": "https://es.wikisource.org/wiki/%C2%A1Adi%C3%B3s,_Cordera!",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-pardo-bazan-los-pazos-de-ulloa",
+    "author": "Emilia Pardo Bazán",
+    "title": "Los pazos de Ulloa",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Los_pazos_de_Ulloa",
+    "download_url": "https://es.wikisource.org/wiki/Los_pazos_de_Ulloa",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-galdos-misericordia",
+    "author": "Benito Pérez Galdós",
+    "title": "Misericordia",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Misericordia",
+    "download_url": "https://es.wikisource.org/wiki/Misericordia",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-galdos-dona-perfecta",
+    "author": "Benito Pérez Galdós",
+    "title": "Doña Perfecta",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Do%C3%B1a_Perfecta",
+    "download_url": "https://es.wikisource.org/wiki/Do%C3%B1a_Perfecta",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-unamuno-niebla",
+    "author": "Miguel de Unamuno",
+    "title": "Niebla",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Niebla_(novela)",
+    "download_url": "https://es.wikisource.org/wiki/Niebla_(novela)",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-unamuno-san-manuel-bueno-martir",
+    "author": "Miguel de Unamuno",
+    "title": "San Manuel Bueno, mártir",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/San_Manuel_Bueno,_m%C3%A1rtir",
+    "download_url": "https://es.wikisource.org/wiki/San_Manuel_Bueno,_m%C3%A1rtir",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-valle-inclan-sonata-otono",
+    "author": "Ramón del Valle-Inclán",
+    "title": "Sonata de otoño (Memorias del Marqués de Bradomín)",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Sonata_de_oto%C3%B1o",
+    "download_url": "https://es.wikisource.org/wiki/Sonata_de_oto%C3%B1o",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-valle-inclan-sonata-primavera",
+    "author": "Ramón del Valle-Inclán",
+    "title": "Sonata de primavera",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Sonata_de_primavera",
+    "download_url": "https://es.wikisource.org/wiki/Sonata_de_primavera",
+    "format_type": "wikisource_html"
+  },
+  {
+    "id": "es-valle-inclan-luces-de-bohemia",
+    "author": "Ramón del Valle-Inclán",
+    "title": "Luces de bohemia (esperpento)",
+    "language": "es",
+    "original_url": "https://es.wikisource.org/wiki/Luces_de_bohemia",
+    "download_url": "https://es.wikisource.org/wiki/Luces_de_bohemia",
+    "format_type": "wikisource_html"
+  }
+]

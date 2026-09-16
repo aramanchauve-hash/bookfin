@@ -1,0 +1,55 @@
+{
+  "work_id": "es-cervantes-quijote",
+  "author": "Miguel de Cervantes",
+  "title": "Don Quijote de la Mancha",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "total_pages": 1343,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 1343,
+      "character_length": 1200,
+      "blocks_count": 10,
+      "preview": "El ingenioso hidalgo don Quijote de la Manchapor Miguel de Cervantes SaavedraEl ingenioso hidalgo don Quijote de la ManchaTASAYo, Juan Gallo de Andrada, escribano de Cámara del Rey nuestro señor, de los que residen en su Consejo, certifico y doy fe que, habiendo visto por los señores dél un libro intitulado El ingenioso hidalgo de la Mancha, compuesto por Miguel de Cervantes Saavedra, tasaron cada...",
+      "content_hash": "22b96b415695ea5763c4f2be235cd3fed17c097aee7f4d63607d1e575ef533f6"
+    },
+    "25pct": {
+      "label": "25% (Page 336)",
+      "page_sequence_number": 336,
+      "total_pages": 1343,
+      "character_length": 1536,
+      "blocks_count": 2,
+      "preview": "— Y ¿quién sois vos, hermano, que así sabéis el nombre de mi padre? Porque yo, hasta ahora, si mal no me acuerdo, en todo el discurso del cuento de mi desdicha no le he nombrado.— Soy —respondió Cardenio— aquel sin ventura que, según vos, señora, habéis dicho, Luscinda dijo que era su esposa. Soy el desdichado Cardenio, a quien el mal término de aquel que a vos os ha puesto en el que estáis me ha ...",
+      "content_hash": "1abb08606e3da9929d8615ed7d2fa85cb6d19e6be99bf9145bf39917aa6847d9"
+    },
+    "50pct": {
+      "label": "50% (Page 672)",
+      "page_sequence_number": 672,
+      "total_pages": 1343,
+      "character_length": 1496,
+      "blocks_count": 1,
+      "preview": "»El arzobispo, persuadido de muchos billetes concertados y discretos, mandó a un capellán suyo se informase del retor de la casa si era verdad lo que aquel licenciado le escribía, y que asimesmo hablase con el loco, y que si le pareciese que tenía juicio, le sacase y pusiese en libertad. Hízolo así el capellán, y el retor le dijo que aquel hombre aún se estaba loco: que, puesto que hablaba muchas ...",
+      "content_hash": "32ee77621ea3a29e235bbddbf2e8aaea7d650aa9fcda127e8895d290939bed05"
+    },
+    "75pct": {
+      "label": "75% (Page 1007)",
+      "page_sequence_number": 1007,
+      "total_pages": 1343,
+      "character_length": 1763,
+      "blocks_count": 11,
+      "preview": "— Eso —replicó la duquesa— más es darse de palmadas que de azotes. Yo tengo para mí que el sabio Merlín no estará contento con tanta blandura; menester será que el buen Sancho haga alguna diciplina de abrojos, o de las de canelones, que se dejen sentir; porque la letra con sangre entra, y no se ha de dar tan barata la libertad de una tan gran señora como lo es Dulcinea por tan poco precio; y advie...",
+      "content_hash": "fef04356a141ea32494cb152c7972ff3f047f5cba13a5ceba166bf07a9a0d523"
+    },
+    "end": {
+      "label": "Fin (Page 1343)",
+      "page_sequence_number": 1343,
+      "total_pages": 1343,
+      "character_length": 212,
+      "blocks_count": 2,
+      "preview": "en aborrecimiento de los hombres las fingidas y disparatadas historias de los libros de caballerías, que, por las de mi verdadero don Quijote, van ya tropezando, y han de caer del todo, sin duda alguna. Vale.Fin",
+      "content_hash": "8c7f2cfa0b8d6bfe3d56bcaacac2c2f667c744ae2194ec1e4750a422a77af124"
+    }
+  }
+}

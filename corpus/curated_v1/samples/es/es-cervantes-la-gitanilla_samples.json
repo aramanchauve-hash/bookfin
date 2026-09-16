@@ -1,0 +1,37 @@
+{
+  "work_id": "es-cervantes-la-gitanilla",
+  "author": "Miguel de Cervantes",
+  "title": "La gitanilla",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 81,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 81,
+      "character_length": 1566,
+      "blocks_count": 3,
+      "preview": "LA JITANILLA.Parece que los jitanos y jitanas solamente nacieron en el mundo para ser ladrones: nacen de padres ladrones, críanse con ladrones, estudian para ladrones, y finalmente salen con ser ladrones corrientes y molientes á todo ruedo; y la gana de hurtar y el hurtar son en ellos como accidentes inseparables que no se quitan sino con la muerte. Una pues de esta nacion, jitana vieja, que podia...",
+      "content_hash": "a15dfaf728f5594af1c516dee49bd57a9c4ee09c305bf98d98e333efccd8db4b"
+    },
+    "middle": {
+      "label": "Milieu (Page 40)",
+      "page_sequence_number": 40,
+      "total_pages": 81,
+      "character_length": 1599,
+      "blocks_count": 3,
+      "preview": "leyes con que ellos vivian, pues con tan alta recompensa le satisfacian el deseo de servirlos, entregándole á la divina Preciosa, por quien él dejaria coronas é imperios, y solo los desearia para servirla.Á lo cual respondió Preciosa:—Puesto que estos señores legisladores han hallado por sus leyes que soy tuya, y que por tuya te me han entregado, yo he hallado por la ley de mi voluntad, que es la ...",
+      "content_hash": "7756fcac75ead4670ef69efd54a411d57fb2d6c93fd91f528765fe4498a7754b"
+    },
+    "end": {
+      "label": "Fin (Page 81)",
+      "page_sequence_number": 81,
+      "total_pages": 81,
+      "character_length": 284,
+      "blocks_count": 2,
+      "preview": "Olvidábaseme de decir cómo la enamorada mesonera descubrió á la justicia no ser verdad lo del hurto de Andres el jitano, y confesó su amor y su culpa, á quien no respondió pena alguna, porque en la alegría del hallazgo de los desposados se enterró la venganza y resucitó la clemencia.",
+      "content_hash": "cc4f9ba373c5c9476722b66bb788b8d2bcddffc60917d389d53f42228e70b841"
+    }
+  }
+}

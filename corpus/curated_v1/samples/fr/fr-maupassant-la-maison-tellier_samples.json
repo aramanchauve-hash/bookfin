@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-maupassant-la-maison-tellier",
+  "author": "Guy de Maupassant",
+  "title": "La Maison Tellier",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 38,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 38,
+      "character_length": 1666,
+      "blocks_count": 9,
+      "preview": "LA MAISON TELLIER IOn allait là, chaque soir, vers onze heures, comme au café, simplement. Ils s’y retrouvaient à six ou huit, toujours les mêmes, non pas des noceurs, mais des hommes honorables, des commerçants, des jeunes gens de la ville ; et l’on prenait sa chartreuse en lutinant quelque peu les filles, ou bien on causait sérieusement avec Madame, que tout le monde respectait. Puis on rentrait...",
+      "content_hash": "688009160466529e150ed8fd4f661751b76c300ebad9178a609f88a951defccc"
+    },
+    "middle": {
+      "label": "Milieu (Page 19)",
+      "page_sequence_number": 19,
+      "total_pages": 38,
+      "character_length": 1399,
+      "blocks_count": 5,
+      "preview": "Les habitants venaient aux portes, les enfants arrêtaient leurs jeux, un rideau soulevé laissait entrevoir une tête coiffée d’un bonnet d’indienne ; une vieille à béquille et presque aveugle se signa comme devant une procession ; et chacun suivait longtemps du regard toutes les belles dames de la ville qui étaient venues de si loin pour la première communion de la petite à Joseph Rivet. Une immens...",
+      "content_hash": "207860d2e6c4fb37291445412f1529c81bdf10c914db78363ddb1a0141f48361"
+    },
+    "end": {
+      "label": "Fin (Page 38)",
+      "page_sequence_number": 38,
+      "total_pages": 38,
+      "character_length": 1364,
+      "blocks_count": 5,
+      "preview": "Cela s’organisait, devenait un vrai bal. De temps en temps même, Louise et Flora montaient bien vite, faisaient rapidement un tour de valse, pendant que leurs clients, en bas, s’impatientaient ; puis elles retournaient en courant à leur café, avec le cœur gonflé de regrets. À minuit, on dansait encore. Parfois une des filles disparaissait, et quand on la cherchait pour faire un vis-à-vis, on s’ape...",
+      "content_hash": "32bdeaccfbac46911402aa858a91e201f822b4c04e1bb1f077a612455e384111"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "work_id": "es-larra-el-doncel",
+  "author": "Mariano José de Larra",
+  "title": "El doncel de don Enrique el Doliente",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "total_pages": 409,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 409,
+      "character_length": 1598,
+      "blocks_count": 27,
+      "preview": "Note: Images of the original pages are available through Internet Archive. See https://archive.org/details/eldonceldedonenr01larr Project Gutenberg has the other three volumes of this work. Volume II: see http://www.gutenberg.org/files/53588/53588-h/53588-h.htm Volume III: see http://www.gutenberg.org/files/53589/53589-h/53589-h.htm Volume IV: see http://www.gutenberg.org/files/53590/53590-h/53590...",
+      "content_hash": "917c23ef2bc8025b09aac801eb197d6e8dea2fc60a91b6c4d518ccc0dfd5f615"
+    },
+    "25pct": {
+      "label": "25% (Page 102)",
+      "page_sequence_number": 102,
+      "total_pages": 409,
+      "character_length": 1736,
+      "blocks_count": 19,
+      "preview": "—Y bien, Fernan Perez, dijo éste luego que quedaron solos, supongo que habeis encontrado en completa salud á la hermosa Elvira.—Esa pregunta, señor...—¡Oh! no: haceis bien: no se puede vacilar entre el servicio de una hermosa y el de un conde. Voy viendo que os debo de armar pronto caballero, porque ya sin serlo cumplís perfectamente con la orden de caballería. ¿A qué hora habeis entrado en Madrid...",
+      "content_hash": "4e1d915bbd7e5a956bf1149e2487c7f9031f8012cb5388fc8116f970ebd53614"
+    },
+    "50pct": {
+      "label": "50% (Page 204)",
+      "page_sequence_number": 204,
+      "total_pages": 409,
+      "character_length": 1779,
+      "blocks_count": 16,
+      "preview": "—Él es, señora, él es, esclamó Macías apretando por última vez la mano de Elvira, que se desasió de él: y lanzando un ¡ay! agudo y penetrante, se dejó caer sobre el sitial que detras de si tenia.El lejano y repentino ruido de la conocida tormenta no pone mas pavor en el corazon del asustado marinero que el que produjo en el pecho del hidalgo la voz acongojada que en valde intentaba desconocer.—¡Sa...",
+      "content_hash": "647dd3248f57877cede72f30df0ad203f177480dfa81b50726b2265f8a7bab3f"
+    },
+    "75pct": {
+      "label": "75% (Page 307)",
+      "page_sequence_number": 307,
+      "total_pages": 409,
+      "character_length": 1608,
+      "blocks_count": 1,
+      "preview": "Hé aqui la causa de su odio á las mugeres: para lograr sus fines habíase dado á la mágia y á la confeccion de bebidas y filtros amorosos. Con ellos enquillotrava á las doncellas, las cuales, al punto que apuraban á poder de engaños la pócima, asi quedaban del moro enamoradas como si en el mundo no hubiera habido otro hombre ni moro ni cristiano. Entonces entraba la parte de su venganza; entonces e...",
+      "content_hash": "8f1c020c6f130ff8821348a691f7cc7d6f25b5f2848769cf58a2f3664cc64567"
+    },
+    "end": {
+      "label": "Fin (Page 409)",
+      "page_sequence_number": 409,
+      "total_pages": 409,
+      "character_length": 1373,
+      "blocks_count": 19,
+      "preview": "—Loca, le dijo dándole con el pie. ¡Pues está bueno! Esta se quedaria aqui ayer en la iglesia cuando la cerré. Vamos, buena muger ¡Estará borracha!Dábale con el pie, pero el bulto no se movia. Acercóse el sacristan, y vió que la loca tenia un hierro en la mano, con el cual habia medio escrito sobre la piedra; ¡es tarde! ¡es tarde! Pero ella estaba muerta. Sus labios frios oprimian la fria piedra d...",
+      "content_hash": "e4f79f3016c7044aebf603f361b9acbc2e8264b3aa62befaf389643c29042754"
+    }
+  }
+}

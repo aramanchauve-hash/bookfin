@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-maupassant-deux-amis",
+  "author": "Guy de Maupassant",
+  "title": "Deux amis",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 8,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 8,
+      "character_length": 1732,
+      "blocks_count": 7,
+      "preview": "DEUX AMISParis était bloqué, affamé et râlant. Les moineaux se faisaient bien rares sur les toits, et les égouts se dépeuplaient. On mangeait n’importe quoi. Comme il se promenait tristement par un clair matin de janvier le long du boulevard extérieur, les mains dans les poches de sa culotte d’uniforme et le ventre vide, M. Morissot, horloger de son état et pantouflard par occasion, s’arrêta net d...",
+      "content_hash": "7e47af0918d4d38a2bb48d39b217255c255f0190f2250da6bfebcb5ad00de417"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 8,
+      "character_length": 1592,
+      "blocks_count": 10,
+      "preview": "Une bande de terre nue restait à traverser pour gagner le bord du fleuve. Ils se mirent à courir ; et dès qu’ils eurent atteint la berge, ils se blottirent dans les roseaux secs. Morissot colla sa joue par terre pour écouter si on ne marchait pas dans les environs. Il n’entendit rien. Ils étaient bien seuls, tout seuls. Ils se rassurèrent et se mirent à pêcher. En face d’eux l’île Marante abandonn...",
+      "content_hash": "ee1193f3e42d1d275d1e736d291edda76aa8b74e48751006cc1fc816a744f42e"
+    },
+    "end": {
+      "label": "Fin (Page 8)",
+      "page_sequence_number": 8,
+      "total_pages": 8,
+      "character_length": 1162,
+      "blocks_count": 10,
+      "preview": "Ses hommes se dispersèrent, puis revinrent avec des cordes et des pierres qu’ils attachèrent aux pieds des deux morts ; puis ils les portèrent sur la berge. Le Mont-Valérien ne cessait pas de gronder, coiffé maintenant d’une montagne de fumée. Deux soldats prirent Morissot par la tête et par les jambes ; deux autres saisirent M. Sauvage de la même façon. Les corps, un instant balancés avec force, ...",
+      "content_hash": "58e85d39c600aa4d96cf3e3cea744cfe01ce289bbf82bdffe7c2986e1df9fc9d"
+    }
+  }
+}

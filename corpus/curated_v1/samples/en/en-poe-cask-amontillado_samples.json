@@ -1,0 +1,37 @@
+{
+  "work_id": "en-poe-cask-amontillado",
+  "author": "Edgar Allan Poe",
+  "title": "The Cask of Amontillado",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 8,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 8,
+      "character_length": 1456,
+      "blocks_count": 4,
+      "preview": "THE CASK OF AMONTILLADO. The thousand injuries of Fortunato I had borne as I best could; but when he ventured upon insult, I vowed revenge. You, who so well know the nature of my soul, will not suppose, however, that I gave utterance to a threat. At length I would be avenged; this was a point definitively settled—but the very definitiveness with which it was resolved, precluded the idea of risk. I...",
+      "content_hash": "1ddf037c73fccf700ce16cd199af9e7be485acde037fd54d84554ea7070e72bb"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 8,
+      "character_length": 1760,
+      "blocks_count": 19,
+      "preview": "\"Enough,\" he said; \"the cough is a mere nothing; it will not kill me. I shall not die of a cough.\" \"True—true,\" I replied; \"and, indeed, I had no intention of alarming you unnecessarily—but you should use all proper caution. A draught of this Medoc will defend us from the damps.\" Here I knocked off the neck of a bottle which I drew from a long row of its fellows that lay upon the mould. \"Drink,\" I...",
+      "content_hash": "88022dc94e1ab2a6254d306f68fd1ac7b2eccbaf131075240263dcae6661b755"
+    },
+    "end": {
+      "label": "Fin (Page 8)",
+      "page_sequence_number": 8,
+      "total_pages": 8,
+      "character_length": 1736,
+      "blocks_count": 14,
+      "preview": "It was now midnight, and my task was drawing to a close. I had completed the eighth, the ninth, and the tenth tier. I had finished a portion of the last and the eleventh; there remained but a single stone to be fitted and plastered in. I struggled with its weight; I placed it partially in its destined position. But now there came from out the niche a low laugh that erected the hairs upon my head. ...",
+      "content_hash": "163b0efd3769e67bcb89c83f72da482a3a76760c89636ddc470752210349921f"
+    }
+  }
+}

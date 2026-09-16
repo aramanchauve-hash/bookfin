@@ -1,0 +1,37 @@
+{
+  "work_id": "en-johnson-rasselas",
+  "author": "Samuel Johnson",
+  "title": "The History of Rasselas, Prince of Abissinia",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 148,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 148,
+      "character_length": 1691,
+      "blocks_count": 9,
+      "preview": "Transcribed from the 1889 Cassell & Company edition by David Price, email ccx074@pglaf.orgCASSELL’S NATIONAL LIBRARY.Rasselas PRINCE OF ABYSSINIABYSAMUEL JOHNSON, LL.D.CASSELL & COMPANY, Limited: LONDON, PARIS & MELBOURNE. 1889.p. 5INTRODUCTION.Rasselas was written by Samuel Johnson in the year 1759, when his age was fifty. He had written his London in 1738; his Vanity of Human Wishes in 1740; his...",
+      "content_hash": "2be0345afd215373ef93b8ea454419b5bbf94957dcbff569fea476cc9c5d2a64"
+    },
+    "middle": {
+      "label": "Milieu (Page 74)",
+      "page_sequence_number": 74,
+      "total_pages": 148,
+      "character_length": 1555,
+      "blocks_count": 5,
+      "preview": "however, like their joy, was transient; everything floated in their mind unconnected with the past or future, so that one desire easily gave way to another, as a second stone, cast into the water, effaces and confounds the circles of the first.With these girls she played as with inoffensive animals, and found them proud of her countenance and weary of her company.But her purpose was to examine mor...",
+      "content_hash": "0b9c644a635791b9420f4dfa9e358f64d23868f449d886f3f4a5eb47849df3a2"
+    },
+    "end": {
+      "label": "Fin (Page 148)",
+      "page_sequence_number": 148,
+      "total_pages": 148,
+      "character_length": 271,
+      "blocks_count": 2,
+      "preview": "Of those wishes that they had formed they well knew that none could be obtained. They deliberated awhile what was to be done, and resolved, when the inundation should cease, to return to Abyssinia.Printed by Cassell & Company, Limited, La Belle Sauvage, London, E.C.",
+      "content_hash": "9d920c58d2ba0a09723b840489f3ded07ee0c20a1574e1ac0c0008870322e4da"
+    }
+  }
+}

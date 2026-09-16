@@ -1,4 +1,4 @@
-import { useEffect, useRef, useCallback } from 'react';
+import { useEffect, useRef, useCallback, useState } from 'react';
 import { AppState, AppStateStatus, NativeScrollEvent, NativeSyntheticEvent } from 'react-native';
 
 export interface ReadingMetricsSnapshot {
@@ -8,6 +8,7 @@ export interface ReadingMetricsSnapshot {
   content_overflows: boolean;
   bottom_reached: boolean;
   scroll_back: boolean;
+  scroll_offset_y: number;
 }
 
 /**
@@ -95,6 +96,14 @@ export class ReadingTrackerCore {
     this.prevScrollY = currentY;
   }
 
+  public onWebViewScroll(state: { scrollTop: number; scrollHeight: number; viewportHeight: number }): void {
+    this.onScroll({ nativeEvent: {
+      contentOffset: { x: 0, y: state.scrollTop },
+      contentSize: { width: 0, height: state.scrollHeight },
+      layoutMeasurement: { width: 0, height: state.viewportHeight },
+    } } as NativeSyntheticEvent<NativeScrollEvent>);
+  }
+
   public onContentSizeChange(
     _contentWidth: number,
     contentHeight: number,
@@ -122,6 +131,7 @@ export class ReadingTrackerCore {
       content_overflows: this.contentOverflows,
       bottom_reached: this.bottomReached,
       scroll_back: this.scrollBack,
+      scroll_offset_y: this.prevScrollY,
     };
   }
 }
@@ -139,9 +149,11 @@ export function toServerScrollDepth(scrollDepthPercent: number): number {
  */
 export function useReadingTracker(pageId?: string) {
   const trackerRef = useRef<ReadingTrackerCore>(new ReadingTrackerCore());
+  const [bottomReached, setBottomReached] = useState(false);
 
   useEffect(() => {
     trackerRef.current.reset();
+    setBottomReached(false);
   }, [pageId]);
 
   useEffect(() => {
@@ -157,14 +169,21 @@ export function useReadingTracker(pageId?: string) {
 
   const onScroll = useCallback((e: NativeSyntheticEvent<NativeScrollEvent>) => {
     trackerRef.current.onScroll(e);
+    setBottomReached(trackerRef.current.getSnapshot(0).bottom_reached);
   }, []);
 
   const onContentSizeChange = useCallback(
     (w: number, h: number, containerH: number) => {
       trackerRef.current.onContentSizeChange(w, h, containerH);
+      setBottomReached(trackerRef.current.getSnapshot(0).bottom_reached);
     },
     []
   );
+
+  const onWebViewScrollState = useCallback((state: { scrollTop: number; scrollHeight: number; viewportHeight: number }) => {
+    trackerRef.current.onWebViewScroll(state);
+    setBottomReached(trackerRef.current.getSnapshot(0).bottom_reached);
+  }, []);
 
   const getSnapshot = useCallback((tokenCount: number) => {
     return trackerRef.current.getSnapshot(tokenCount);
@@ -181,9 +200,10 @@ export function useReadingTracker(pageId?: string) {
   return {
     onScroll,
     onContentSizeChange,
+    onWebViewScrollState,
     getSnapshot,
     getActiveReadingTimeMs,
     reset,
+    bottomReached,
   };
 }
-

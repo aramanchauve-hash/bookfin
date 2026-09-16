@@ -1,0 +1,37 @@
+{
+  "work_id": "en-browne-hydriotaphia",
+  "author": "Sir Thomas Browne",
+  "title": "Hydriotaphia, Urn Burial",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 58,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 58,
+      "character_length": 1590,
+      "blocks_count": 7,
+      "preview": "HYDRIOTAPHIA.URN BURIAL; OR, A DISCOURSE OF THE SEPULCHRAL URNS LATELY FOUND IN NORFOLK.TO MY WORTHY AND HONOURED FRIEND, THOMAS LE GROS, OF CROSTWICK, ESQUIRE.WHEN the general pyre was out, and the last valediction over, men took a lasting adieu of their interred friends, little expecting the curiosity of future ages should comment upon their ashes; and, having no old experience of the duration o...",
+      "content_hash": "766b24b1e9bf80a0ac618a48ba050a18e28d60edad9074b15b14d36f01f45752"
+    },
+    "middle": {
+      "label": "Milieu (Page 29)",
+      "page_sequence_number": 29,
+      "total_pages": 58,
+      "character_length": 1731,
+      "blocks_count": 3,
+      "preview": "M.[LIII.] it is obvious to meet with sacrificing pateras and vessels of libation upon old sepulchral monuments. In the Jewish hypogæum and subterranean cell at Rome, was little observable beside the variety of lamps and frequent draughts of Anthony and Jerome we meet with thigh-bones and death’s-heads; but the cemeterial cells of ancient Christians and martyrs were filled with draughts of Scriptur...",
+      "content_hash": "4ed67179f6d1ce517fa0f5b9932237da83c44189dd4db98d5e07c814f9340fe9"
+    },
+    "end": {
+      "label": "Fin (Page 58)",
+      "page_sequence_number": 58,
+      "total_pages": 58,
+      "character_length": 644,
+      "blocks_count": 2,
+      "preview": "To subsist in lasting monuments, to live in their productions, to exist in their names and predicament of chimeras, was large satisfaction unto old expectations, and made one part of their Elysiums. But all this is nothing in the metaphysicks of true belief. To live indeed, is to be again ourselves, which being not only an hope, but an evidence in noble believers, ’tis all one to lie in St Innocen...",
+      "content_hash": "ad52176b7c20867859aef86ba5be9aad1f994ec115dc84004c4d59df1cab1186"
+    }
+  }
+}

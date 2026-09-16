@@ -1,0 +1,37 @@
+{
+  "work_id": "es-quiroga-la-insolacion",
+  "author": "Horacio Quiroga",
+  "title": "La insolación",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 9,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 9,
+      "character_length": 1746,
+      "blocks_count": 10,
+      "preview": "El cachorro Old salió por la puerta y atravesó el patio con paso recto y perezoso. Se detuvo en la linde del pasto, estiró al monte, entrecerrando los ojos, la nariz vibrátil, y se sentó tranquilo. Veía la monótona llanura del Chaco, con sus alternativas de campo y monte, monte y campo, sin más color que el crema del pasto y el negro del monte. Este cerraba el horizonte, a doscientos metros, por t...",
+      "content_hash": "e0371da22eae41a794d5b6f697b8e37d205f45fc2b237859110db92470a10053"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 9,
+      "character_length": 1262,
+      "blocks_count": 10,
+      "preview": "Los cuatro perros estaban apiñados gruñendo sordamente, sin apartar los ojos de míster Jones, que continuaba inmóvil, mirándolos. El cachorro, incrédulo, fue a avanzar, pero Prince le mostró los dientes: — No es él, es la Muerte. El cachorro se erizó de miedo y retrocedió al grupo. — ¿Es el patrón muerto? —preguntó ansiosamente. Los otros, sin responderle, rompieron a ladrar con furia, siempre en ...",
+      "content_hash": "31849879c31ea9ce82b71cf5fbde4a4343ecba31769e4250eef21566c076aeb3"
+    },
+    "end": {
+      "label": "Fin (Page 9)",
+      "page_sequence_number": 9,
+      "total_pages": 9,
+      "character_length": 1042,
+      "blocks_count": 3,
+      "preview": "En efecto, el otro, tras breve hesitación, había avanzado, pero no directamente sobre ellos como antes, sino en línea oblicua y en apariencia errónea, pero que debía llevarlo justo al encuentro de míster Jones. Los perros comprendieron que esta vez todo concluía, porque su patrón continuaba caminando a igual paso como un autómata, sin darse cuenta de nada. El otro llegaba ya. Los perros hundieron ...",
+      "content_hash": "40127ff54263116673c65075ccdb0634f342bcc03faaa86964ebc14c315e053e"
+    }
+  }
+}

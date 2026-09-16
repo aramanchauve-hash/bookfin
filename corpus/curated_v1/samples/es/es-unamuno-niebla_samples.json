@@ -1,0 +1,55 @@
+{
+  "work_id": "es-unamuno-niebla",
+  "author": "Miguel de Unamuno",
+  "title": "Niebla",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "total_pages": 199,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 199,
+      "character_length": 1688,
+      "blocks_count": 20,
+      "preview": "Nota de transcripciónÍndiceNIEBLAMIGUEL DE UNAMUNO: : NIEBLA : :(NIVOLA)PRÓLOGO DEVÍCTOR GOTIRENACIMIENTOMADRIDBUENOS AIRESSAN MARCOS, 42LIBERTAD, 1721914ES PROPIEDADIMPRENTA RENACIMIENTO.—SAN MARCOS, 42.PRÓLOGOSe empeña don Miguel de Unamuno en que ponga yo un prólogo a este su libro en que se relata la tan lamentable historia de mi buen amigo Augusto Pérez y su misteriosa muerte, y yo no puedo m...",
+      "content_hash": "da04471a64802317d44b0de79737cccbdd943667e3f321e2075e2171bf773597"
+    },
+    "25pct": {
+      "label": "25% (Page 50)",
+      "page_sequence_number": 50,
+      "total_pages": 199,
+      "character_length": 1754,
+      "blocks_count": 18,
+      "preview": "—¿Y yo?—arguyó doña Ermelinda.—¡Tú, la del pasado! ¡Esta es, digo, la mujer del porvenir! ¡Claro, no en balde me ha estado oyendo disertar un día y otro sobre la sociedad futura y la mujer del porvenir; no en balde la he inculcado las emancipadoras doctrinas del anarquismo... sin bombas!—¡Pues yo creo—dijo de mal humor la tía—que esta chicuela es capaz hasta de tirar bombas!—Y aunque así fuera...—...",
+      "content_hash": "6af184e03c8c008c3d6a54988dc12755c0cfc6b556d6b7d811b4c76c2a7b43a4"
+    },
+    "50pct": {
+      "label": "50% (Page 100)",
+      "page_sequence_number": 100,
+      "total_pages": 199,
+      "character_length": 1770,
+      "blocks_count": 14,
+      "preview": "—Pues mira, un día de éstos que no sabía bien qué hacer, pero sentía ansia de hacer algo, una comezón muy íntima, un escarabajeo de la fantasía, me dije: voy a escribir una novela, pero voy a escribirla como se vive, sin saber lo que vendrá. Me senté, cojí unas cuartillas y empecé lo primero que se me ocurrió, sin saber lo que seguiría, sin plan alguno. Mis personajes se irán haciendo según obren ...",
+      "content_hash": "666c7f3b4af0c69a5ac86ce4a1490de6f70a31c6b23422701d31dbe47bbeeaa1"
+    },
+    "75pct": {
+      "label": "75% (Page 149)",
+      "page_sequence_number": 149,
+      "total_pages": 199,
+      "character_length": 1493,
+      "blocks_count": 4,
+      "preview": "Si el pobre Augusto hubiese podido entonces leer en el espíritu de Rosario habríase desesperado más. Porque la ingenua mozuela iba pensando: «Cualquier día vuelvo a darme yo un rato así a beneficio de la otra prójima...»Íbale volviendo la exaltación a Augusto. Sentía que el tiempo perdido no vuelve trayendo las ocasiones que se desperdiciaron. Entróle una rabia contra sí mismo. Sin saber qué hacía...",
+      "content_hash": "52014a8bb89fdfcba83e33b2c19969456ddd9cff120abe32125c8c685e1d6f69"
+    },
+    "end": {
+      "label": "Fin (Page 199)",
+      "page_sequence_number": 199,
+      "total_pages": 199,
+      "character_length": 370,
+      "blocks_count": 8,
+      "preview": "ÍNDICENota de transcripciónSe ha modernizado la ortografía original, pero respetando el uso unamuniano de jota en vez de ge.Los errores obvios de imprenta han sido corregidos sin avisar.Se ha añadido al final del libro un Índice del que carece el original impreso.Las páginas en blanco han sido eliminadas.En la p. 268, una línea que falta ha sido tomada de otra edición",
+      "content_hash": "2dba0f27510eff211d6651fb970859b2af8a532ff4ac8f54426c55ac6f3cae1f"
+    }
+  }
+}

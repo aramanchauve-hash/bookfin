@@ -1,0 +1,105 @@
+{
+  "work_id": "es-cervantes-quijote",
+  "author": "Miguel de Cervantes",
+  "title": "Don Quijote de la Mancha",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "1d65548d3679ef7a26aa1cd15b2b2325bd0f9c9d935326a2ba618d4ece440ae7",
+  "document_sha256": "f359e63aa7befd22dbb5d3da43e0c126abf634bf92cd5ec4e73a48465c8ccea6",
+  "pages_count": 1,
+  "source_page_sequence_number": 1,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-quijote",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "22b96b415695ea5763c4f2be235cd3fed17c097aee7f4d63607d1e575ef533f6",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "spans": [
+            {
+              "text": "El ingenioso hidalgo don Quijote de la Mancha"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "por Miguel de Cervantes Saavedra"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "El ingenioso hidalgo don Quijote de la Mancha"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "spans": [
+            {
+              "text": "TASA"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Yo, Juan Gallo de Andrada, escribano de Cámara del Rey nuestro señor, de\nlos que residen en su Consejo, certifico y doy fe que, habiendo visto por\nlos señores dél un libro intitulado El ingenioso hidalgo de la Mancha,\ncompuesto por Miguel de Cervantes Saavedra, tasaron cada pliego del dicho\nlibro a tres maravedís y medio; el cual tiene ochenta y tres pliegos, que\nal dicho precio monta el dicho libro docientos y noventa maravedís y medio,\nen que se ha de vender en papel; y dieron licencia para que a este precio\nse pueda vender, y mandaron que esta tasa se ponga al principio del dicho\nlibro, y no se pueda vender sin ella. Y, para que dello conste, di la\npresente en Valladolid, a veinte días del mes de deciembre de mil y\nseiscientos y cuatro años."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Juan Gallo de Andrada."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "spans": [
+            {
+              "text": "TESTIMONIO DE LAS ERRATAS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Este libro no tiene cosa digna que no corresponda a su original; en\ntestimonio de lo haber correcto, di esta fee. En el Colegio de la Madre de\nDios de los Teólogos de la Universidad de Alcalá, en primero de diciembre\nde 1604 años."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "El licenciado Francisco Murcia de la Llana."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

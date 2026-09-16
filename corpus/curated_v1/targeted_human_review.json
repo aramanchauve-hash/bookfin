@@ -1,0 +1,993 @@
+[
+  {
+    "work_id": "en-sterne-sentimental-journey",
+    "author": "Laurence Sterne",
+    "title": "A Sentimental Journey Through France and Italy",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "technical_status": "SOURCE_MISMATCH",
+    "status_reasons": [
+      "Wrong work: Thomas Hardy 'Far from the Madding Crowd' instead of Laurence Sterne"
+    ],
+    "priority_category": [
+      "A (>40% écart)",
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 500,
+      "estimated_range": "130-210",
+      "diff_percent": 194.1,
+      "total_chars": 788212,
+      "total_blocks": 3477,
+      "total_headings": 69
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/107/pg107-images.html",
+      "sha256": "998205da6a53dccb906c999acebc130329ac2aed746f08b70489694d11c5417a"
+    },
+    "inspection_snippets": {
+      "beginning": "There are two editions of this ebook in the Project Gutenberg collection. Various characteristics of each ebook are listed to aid in selecting the preferred file. Click on any of the filenumbers below to quickly view each ebook. 271874, First Edition; illustra",
+      "middle": "“Yes, miss, but so did you. He is a wild scamp now, and you are right to hate him.” “He’s not a wild scamp! How dare you to my face! I have no right to hate him, nor you, nor anybody. But I am a silly woman! What is it to me what he is? You know it is nothing.",
+      "end": "emendation of the unintelligible expression, “as the Devil said to the Owl,” used by the natives. [2] The local tower and churchyard do not answer precisely to the foregoing description. [3] W. Barnes Transcriber’s note: [*] Greek word meaning “it is finished”"
+    }
+  },
+  {
+    "work_id": "en-hazlitt-table-talk",
+    "author": "William Hazlitt",
+    "title": "Table-Talk",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "technical_status": "SOURCE_MISMATCH",
+    "status_reasons": [
+      "Wrong work: T.R. Malthus 'Corn Law' instead of William Hazlitt"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 40,
+      "estimated_range": "300-480",
+      "diff_percent": -89.7,
+      "total_chars": 61824,
+      "total_blocks": 114,
+      "total_headings": 6
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/4335/pg4335-images.html",
+      "sha256": "170237291b2bcb2115df9724b839ccc2fe76897a07b808ca888d4c52f71c5538"
+    },
+    "inspection_snippets": {
+      "beginning": "The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn; intended as an Appendix to \"Observations on the Corn Law\" by the Rev. T.R. Malthus, Professor of History and Political Economy in the East India College, Hertfordshire. Lon",
+      "middle": "I would not insist upon this existence as absolutely conclusive, on account of the mixture of accident in all such appeals to facts; but it certainly tends to confirm the probability of those great fluctuations which, according to all general principles, I sho",
+      "end": "nt. 19. This price seems to be pretty fairly consistent with the idea of getting rid of that part of our high prices which belongs to excessive issues of paper, and retaining only that part which belongs to great wealth, combined with a system of restrictions."
+    }
+  },
+  {
+    "work_id": "en-gissing-henry-ryecroft",
+    "author": "George Gissing",
+    "title": "The Private Papers of Henry Ryecroft",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "technical_status": "SOURCE_MISMATCH",
+    "status_reasons": [
+      "Wrong work: Adelaide Anne Procter 'Legends and Lyrics' instead of George Gissing"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 88,
+      "estimated_range": "180-280",
+      "diff_percent": -61.7,
+      "total_chars": 135212,
+      "total_blocks": 760,
+      "total_headings": 58
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/2304/pg2304-images.html",
+      "sha256": "399bcb9e65f36830bc95ff3be996aaed35ef71eb5092dc84ce583154eca9d242"
+    },
+    "inspection_snippets": {
+      "beginning": "This etext was prepared by David Price, email ccx074@coventry.ac.uk from the 1890 George Bell and Sons edition. LEGENDS AND LYRICS—SECOND SERIES by Adelaide Anne Procter Contents: A Legend of Provence Envy Over the Mountain Beyond A Warning Maximus Optimus A L",
+      "middle": "One hour of pain and dread, We killed our Love, we took its life away With the false words we said; And so we watch it, since that cruel day, Silent, and cold, and dead. We should have seen it shine Long years beside us. Time and Death might try To touch that ",
+      "end": "ghty, pure, and free. If then your future life should need A strength my Love can only gain Through suffering, or my heart be freed Only by sorrow, from some stain— Then you shall give, and I will take, this Crown of fire for Love’s dear sake. Sept. 8th, 1860."
+    }
+  },
+  {
+    "work_id": "en-james-portrait-of-a-lady",
+    "author": "Henry James",
+    "title": "The Portrait of a Lady",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "A (>40% écart)",
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 424,
+      "estimated_range": "650-950",
+      "diff_percent": -47.0,
+      "total_chars": 681465,
+      "total_blocks": 2397,
+      "total_headings": 33
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/2833/pg2833-images.html",
+      "sha256": "522caae84f1c8cb4c078a5cb1d8909b03cf54718a17156604faa3a9841b7c1b8"
+    },
+    "inspection_snippets": {
+      "beginning": "THE PORTRAIT OF A LADY VOLUME I (of II) By Henry James Contents",
+      "middle": "Isabel suppressed a start; she sat looking at her open fan. “Very good; I suppose it was natural he should tell you.” “I have his leave to let you know he has done so. He has some hope still,” said Ralph. “Still?” “He had it a few days ago.” “I don’t believe h",
+      "end": "ou want?” Ralph groaned. “Do you mean what more does she?” Ralph took him by the arm to turn him: they had to rejoin the others. “She wants nothing that we can give her.” “Ah well, if she won’t have You—!” said his lordship handsomely as they went. Next Volume"
+    }
+  },
+  {
+    "work_id": "fr-mirbeau-journal-femme-chambre",
+    "author": "Octave Mirbeau",
+    "title": "Le Journal d'une femme de chambre",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "technical_status": "SOURCE_MISMATCH",
+    "status_reasons": [
+      "Language mismatch: expected fr, detected en (e.g. English translation downloaded)",
+      "Wrong work: F.M. Peard 'Prentice Hugh' instead of Octave Mirbeau"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 231,
+      "estimated_range": "320-480",
+      "diff_percent": -42.2,
+      "total_chars": 361114,
+      "total_blocks": 1447,
+      "total_headings": 35
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/43170/pg43170-images.html",
+      "sha256": "b3d8f717835aa4d8248b3230c914591a51ccfb257f0c449f91ed3f44d0aebb9f"
+    },
+    "inspection_snippets": {
+      "beginning": "FM Peard \"Prentice Hugh\" Preface. There are differences of opinion as to Bishop Bitton’s share in the transforming of Exeter Cathedral, and I have followed that expressed by Archdeacon Freeman, who, after speaking of the prevalent idea that the present choir w",
+      "middle": "Hitherto everyone who came near Hugh had asked how he felt or what they could do. Here was a change indeed! “No.” Then with an effort—“You may stroke him, mistress.” Upon this invitation Joan advanced, stretching out two rosy fingers. But they hesitated so lon",
+      "end": "he glory of God.” | Preface | | Chapter 1 | | Chapter 2 | | Chapter 3 | | Chapter 4 | | Chapter 5 | | Chapter 6 | | Chapter 7 | | Chapter 8 | | Chapter 9 | | Chapter 10 | | Chapter 11 | | Chapter 12 | | Chapter 13 | | Chapter 14 | | Chapter 15 | | Chapter 16 |"
+    }
+  },
+  {
+    "work_id": "fr-maupassant-boule-de-suif",
+    "author": "Guy de Maupassant",
+    "title": "Boule de Suif",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "STRUCTURE_ISSUE",
+    "status_reasons": [
+      "Anthology issue: contains the complete 12-story Ollendorff recueil 'Boule de Suif' instead of the title novella alone"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 141,
+      "estimated_range": "45-70",
+      "diff_percent": 145.2,
+      "total_chars": 221954,
+      "total_blocks": 1149,
+      "total_headings": 24
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/10746/pg10746-images.html",
+      "sha256": "442ad49d7205dd1d2e7990b003acf1a952494fddb5d4d7f5d601410ccf8460b2"
+    },
+    "inspection_snippets": {
+      "beginning": "LIBRAIRIE OLLENDORFF 48, CHAUSSÉE D'ANTIN, 50 PARIS Collection des Grands Romans A 1 FRANC GUY DE MAUPASSANT Yvette. Mademoiselle Fifi. Boule de Suif.",
+      "middle": "—Comment! comment! en voilà une erreur quand il s'agit de visiter une collection rare! —En tout cas, elle ne peut y aller seule. —Et pourquoi pas? mais j'en ai reçu des multitudes de femmes seules, rien que pour ma galerie! J'en reçois tous les jours. Voulez-v",
+      "end": "e Mortemain ... de Mortemain ... de ... de ... de ... Mortemain.... Ah!... ah!... canaille!... canaille!... canaille!... TABLE Boule de Suif L'Épave Découverte Un Parricide Le Rendez-vous Bombard Le Pain Maudit Les Sabots La Bûche Magnétisme Divorce Une Soirée"
+    }
+  },
+  {
+    "work_id": "fr-lesage-diable-boiteux",
+    "author": "Alain-René Lesage",
+    "title": "Le Diable boiteux",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "technical_status": "SOURCE_MISMATCH",
+    "status_reasons": [
+      "Language mismatch: expected fr, detected en (e.g. English translation downloaded)",
+      "Wrong work: George Waring 'The Squirrels' instead of Alain-René Lesage"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 100,
+      "estimated_range": "200-320",
+      "diff_percent": -61.5,
+      "total_chars": 152864,
+      "total_blocks": 408,
+      "total_headings": 7
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/33434/pg33434-images.html",
+      "sha256": "a83d877218912408924d264f783d5d80abd5aedad0c624a53b788b17efe3d467"
+    },
+    "inspection_snippets": {
+      "beginning": "THE FOX AND THE HEDGEHOG. Page 202. THE SQUIRRELS AND OTHER ANIMALS;",
+      "middle": "9 When this was written, I was not aware that there existed in other countries a quadruped still more diminutive than our little harvest-mouse. However, as \"Minimus\" declares that he was much smaller than others of his species, the title of his history may sti",
+      "end": "rice 4s. 6d. \"Charlie's Discoveries, being set forth in a lively and attractive manner, and illustrated with beautiful wood-cuts, are calculated to make more juvenile discoveries of the wonders that are everywhere about us, though but little known.\"—Spectator."
+    }
+  },
+  {
+    "work_id": "en-lamb-essays-of-elia",
+    "author": "Charles Lamb",
+    "title": "Essays of Elia",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "technical_status": "STRUCTURE_ISSUE",
+    "status_reasons": [
+      "Over-extended: contains both Elia + Last Essays + 400 pages of scholarly notes, appendices, and index"
+    ],
+    "priority_category": [
+      "A (>40% écart)",
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 728,
+      "estimated_range": "270-420",
+      "diff_percent": 111.0,
+      "total_chars": 1121723,
+      "total_blocks": 2221,
+      "total_headings": 169
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/10343/pg10343-images.html",
+      "sha256": "d7853bd0b13372877d61535273c919930abad79701482e62213fc7edb4cfe1c3"
+    },
+    "inspection_snippets": {
+      "beginning": "THE WORKS OF CHARLES AND MARY LAMB, VOLUME 2 ELIA; and THE LAST ESSAYS OF ELIA BY CHARLES LAMB EDITED BY",
+      "middle": "H. . . . \" 32 [16] Hodges. W. . . . \" 45 [23] Dr. T——e . \" 46 [24] Dr. Trollope. Th. . . \" 47 [24] Thornton. S. . . \" 47 [24] Scott, died in Bedlam.",
+      "end": "— his theory of language, 394. —— his \"Anecdote for Fathers,\" 395. —— his \"Poet's Epitaph,\" 438. \"Work,\" Lamb's sonnet on, 419. Worthing and the Lambs, 415. Wrench, Benjamin, 191, 410. Wycherley, Lamb on, 162. Y Yet can I fancy, wandering 'mid thy towers, 346."
+    }
+  },
+  {
+    "work_id": "fr-nerval-aurelia",
+    "author": "Gérard de Nerval",
+    "title": "Aurélia ou le Rêve et la Vie",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "STRUCTURE_ISSUE",
+    "status_reasons": [
+      "Critical apparatus: includes posthumous dossier 'Les sources d'Aurélia', 'Un roman à faire', and 'Lettres à Aurélia'"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 120,
+      "estimated_range": "60-100",
+      "diff_percent": 50.0,
+      "total_chars": 183285,
+      "total_blocks": 287,
+      "total_headings": 25
+    },
+    "source_info": {
+      "provider": "Wikisource",
+      "download_url": "https://fr.wikisource.org/wiki/Aur%C3%A9lia/Texte_entier",
+      "sha256": "a92328e4ae04aa379ce97129f57ca45d216f9fa676064791e9f0b38045cd8625"
+    },
+    "inspection_snippets": {
+      "beginning": "GÉRARD DE NERVAL aurélia Lachenal & Ritter AURÉLIA GÉRARD DE NERVAL",
+      "middle": "Un de mes amis était revenu pour me chercher. Je sortis alors du parterre, et, pendant que je lui parlais, on me jeta sur les épaules une camisole de force, puis on me fit monter dans un fiacre et je fus conduit à une maison de santé située hors de Paris. Je c",
+      "end": "erval. N. d. É.↑ Lacune laissée par Nerval. N. d. É.↑ Que j’ai pleuré en relisant quelques passages de cette lettre ; c’est ma condamnation que j’écrivais d’avance. Peut-on outrager ce qu’on aime ?Peut-on chercher à le fâcher ?C’est bien en vouloir à soi-même."
+    }
+  },
+  {
+    "work_id": "es-larra-el-doncel",
+    "author": "Mariano José de Larra",
+    "title": "El doncel de don Enrique el Doliente",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "technical_status": "SOURCE_MISMATCH",
+    "status_reasons": [
+      "Language mismatch: expected es, detected en (e.g. English translation downloaded)",
+      "Wrong work: Poul Anderson 'Inside Earth' instead of Mariano José de Larra"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 61,
+      "estimated_range": "310-480",
+      "diff_percent": -84.6,
+      "total_chars": 97191,
+      "total_blocks": 473,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/51184/pg51184-images.html",
+      "sha256": "4c613808117883578dfd1c23889530c18f6c44224c16818d952bc3344f32b285"
+    },
+    "inspection_snippets": {
+      "beginning": "INSIDE EARTH By POUL ANDERSON Illustrated by DAVID STONE [Transcriber's Note: This etext was produced from Galaxy Science Fiction April 1951. Extensive research did not uncover any evidence that the U.S. copyright on this publication was renewed.]",
+      "middle": "Even when an elevator had taken us a mile down into the warmth and light of the base, we could not forget. It was a city for a million men and other beings and more than a few women and children, a city of long streets and small neat apartments, hydroponic far",
+      "end": "d and intensively educated by the foe, who was supporting and encouraging one's supposedly dangerous revolution. \"It won't be so bad as long as we're together, darling,\" I said. She smiled, misunderstanding, and kissed me defiantly before our Valgolian guards."
+    }
+  },
+  {
+    "work_id": "es-galdos-dona-perfecta",
+    "author": "Benito Pérez Galdós",
+    "title": "Doña Perfecta",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "technical_status": "STRUCTURE_ISSUE",
+    "status_reasons": [
+      "Language mismatch: expected es, detected en (e.g. English translation downloaded)",
+      "Textbook apparatus: includes 200 pages of academic notes and an English-Spanish dictionary (Vocabulary)"
+    ],
+    "priority_category": [
+      "A (>40% écart)",
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 424,
+      "estimated_range": "230-360",
+      "diff_percent": 43.7,
+      "total_chars": 690497,
+      "total_blocks": 7983,
+      "total_headings": 77
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/15725/pg15725-images.html",
+      "sha256": "385e0256bc9c747c0ed4683a204c4fcf916cbdde772ef8dfbfbc13c1dbc41bb3"
+    },
+    "inspection_snippets": {
+      "beginning": "DOÑA PERFECTA POR BENITO PÉREZ GALDÓS WITH AN INTRODUCTION AND NOTES BY A. R. MARSH",
+      "middle": "demarcart delimit, mark off, draw the line. demás other, the rest, anything else, pl anybody else; por lo—— however. demasiado too. demente demented, infatuated, daft. demonchem c (not in A.) devilkins.",
+      "end": "zorraf fox. zozobraf uneasiness, anxiety. zumbari buzz, hum. zumbidillom d ofzumbido. zumbidom buzz."
+    }
+  },
+  {
+    "work_id": "es-valle-inclan-sonata-otono",
+    "author": "Ramón del Valle-Inclán",
+    "title": "Sonata de otoño (Memorias del Marqués de Bradomín)",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "SOURCE_MISMATCH",
+    "status_reasons": [
+      "Language mismatch: expected es, detected en (e.g. English translation downloaded)",
+      "Wrong work: 'San Francisco in Ruins' photo-views instead of Ramón del Valle-Inclán"
+    ],
+    "priority_category": [
+      "A (>40% écart)"
+    ],
+    "metrics": {
+      "real_pages_v2": 28,
+      "estimated_range": "70-115",
+      "diff_percent": -69.7,
+      "total_chars": 44082,
+      "total_blocks": 467,
+      "total_headings": 0
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/37537/pg37537-images.html",
+      "sha256": "d3b6b5f32e905b89956a9d291fdf78680a8a890251346be1418582f9d49e4d63"
+    },
+    "inspection_snippets": {
+      "beginning": "SAN FRANCISCO IN RUINS A PICTORIAL HISTORY OF EIGHT SCORE PHOTO-VIEWS of the EARTHQUAKE EFFECTS FLAMES’ HAVOC RUINS EVERYWHERE RELIEF CAMPS THE PHOTOGRAPHS BY J. D. GIVENS, PRESIDIO, SAN FRANCISCO, CAL. Copyright, 1906, by A. M. Allison and J. D. Givens ENGRAV",
+      "middle": "Pine Street, Financial District, looking west, Merchants’ Exchange on left. [Pg 59] Larger Image Sacramento Street, from Kearny towards the Ferry, Pacific Mutual Building, corner Montgomery. [Pg 60]",
+      "end": "obert E. Noble, assistant surgeon.9.Lieut. James F. Hall, assistant surgeon.10.Lieut. John L. Shepard, assistant surgeon. DEPUTY SURGEON GENERAL, COMMANDING, AND THE MEDICAL STAFF OF THE UNITED STATES ARMY GENERAL HOSPITAL, PRESIDIO, SAN FRANCISCO, CALIFORNIA."
+    }
+  },
+  {
+    "work_id": "es-cervantes-quijote",
+    "author": "Miguel de Cervantes",
+    "title": "Don Quijote de la Mancha",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 1365,
+      "estimated_range": "1000-1500",
+      "diff_percent": 9.2,
+      "total_chars": 2127278,
+      "total_blocks": 5197,
+      "total_headings": 141
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/2000/pg2000-images.html",
+      "sha256": "1d65548d3679ef7a26aa1cd15b2b2325bd0f9c9d935326a2ba618d4ece440ae7"
+    },
+    "inspection_snippets": {
+      "beginning": "El ingenioso hidalgo don Quijote de la Mancha por Miguel de Cervantes Saavedra El ingenioso hidalgo don Quijote de la ManchaTasaTestimonio de las erratasEl ReyAl Duque de BéjarPrólogoAl libro de don Quijote de la ManchaQue trata de la condición y ejercicio del",
+      "middle": "— Pues ¿en qué halla vuesa merced —dijo Sancho— que ésta sea aventura? — No quiero yo decir —respondió don Quijote— que ésta sea aventura del todo, sino principio della; que por aquí se comienzan las aventuras. Pero escucha, que, a lo que parece, templando est",
+      "end": "eseaba, pues no ha sido otro mi deseo que poner en aborrecimiento de los hombres las fingidas y disparatadas historias de los libros de caballerías, que, por las de mi verdadero don Quijote, van ya tropezando, y han de caer del todo, sin duda alguna. Vale. Fin"
+    }
+  },
+  {
+    "work_id": "fr-stendhal-chartreuse-de-parme",
+    "author": "Stendhal",
+    "title": "La Chartreuse de Parme",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 684,
+      "estimated_range": "520-780",
+      "diff_percent": 5.2,
+      "total_chars": 1065061,
+      "total_blocks": 2609,
+      "total_headings": 31
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/796/pg796-images.html",
+      "sha256": "d04d664eefc1c29e0ab408ba8be6e04c8d82f9452bc513f043bd04283a1ef28d"
+    },
+    "inspection_snippets": {
+      "beginning": "LA CHARTREUSE DE PARME par Stendhal LIVRE PREMIER: PREMIER, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII. LIVRE SECOND: XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, LIVRE PREMIER",
+      "middle": "—Général Fontana, s’écria-t-il en entrouvrant la porte. Le général parut avec une figure tellement étonnée et tellement curieuse, qu’il y eut échange d’un regard gai entre la duchesse et le comte, et ce regard fit la paix. —Général Fontana, dit le prince, vous",
+      "end": "emps à Fabrice, qu’elle adorait, et qui ne passa qu’une année dans sa chartreuse. Les prisons de Parme étaient vides, le comte immensément riche, Ernest V adoré de ses sujets qui comparaient son gouvernement à celui des grands-ducs de Toscane. TO THE HAPPY FEW"
+    }
+  },
+  {
+    "work_id": "en-austen-pride-prejudice",
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 443,
+      "estimated_range": "380-560",
+      "diff_percent": -5.7,
+      "total_chars": 689641,
+      "total_blocks": 2203,
+      "total_headings": 69
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/42671/pg42671-images.html",
+      "sha256": "d5cf14a01b06801f3b5694825dcd521f3643047b83391df1102dfd67b733978e"
+    },
+    "inspection_snippets": {
+      "beginning": "PRIDE & PREJUDICE. CHAPTER I. It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this trut",
+      "middle": "\"No,\" said Colonel Fitzwilliam, \"that is an advantage which he must divide with me. I am joined with him in the guardianship of Miss Darcy.\" \"Are you, indeed? And pray what sort of guardians do you make? Does your charge give you much trouble? Young ladies of ",
+      "end": "ns who, by bringing her into Derbyshire, had been the means of uniting them. Transcriber's Note: Spelling and hyphen changes have been made so that there is consistency within the book. Any other inconsistencies with modern spellings have been left as printed."
+    }
+  },
+  {
+    "work_id": "fr-maupassant-bel-ami",
+    "author": "Guy de Maupassant",
+    "title": "Bel-Ami",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 381,
+      "estimated_range": "340-520",
+      "diff_percent": -11.4,
+      "total_chars": 620063,
+      "total_blocks": 3705,
+      "total_headings": 21
+    },
+    "source_info": {
+      "provider": "Wikisource",
+      "download_url": "https://fr.wikisource.org/wiki/Bel-Ami/%C3%89dition_Ollendorff,_1901/Texte_entier",
+      "sha256": "ca252017a868e6fa10b264f877321e83d6c992b4c298684b70ffd2e1e5719d9b"
+    },
+    "inspection_snippets": {
+      "beginning": "PREMIÈRE PARTIE I Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant. Comme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache d’un geste militaire et fa",
+      "middle": "Elle pâlissait, se sentant trembler, et elle balbutia : — Qu’est-ce qu’il y a ? Dis vite ! Il prononça d’un ton triste mais résolu, avec cet accablement feint dont on use pour annoncer les malheurs heureux : — Il y a que je me marie. Elle poussa un soupir de f",
+      "end": "Première Partie Chapitre IChapitre IIChapitre IIIChapitre IVChapitre VChapitre VIChapitre VIIChapitre VIII Deuxième Partie Chapitre IChapitre IIChapitre IIIChapitre IVChapitre VChapitre VIChapitre VIIChapitre VIIIChapitre IXChapitre X"
+    }
+  },
+  {
+    "work_id": "fr-barbey-les-diaboliques",
+    "author": "Jules Barbey d'Aurevilly",
+    "title": "Les Diaboliques",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 371,
+      "estimated_range": "280-420",
+      "diff_percent": 6.0,
+      "total_chars": 581950,
+      "total_blocks": 755,
+      "total_headings": 10
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/13848/pg13848-images.html",
+      "sha256": "fb0da74eab8c21083aafd35b675cbbd1f0b711e4a85671e92a373b7bbcb2eca1"
+    },
+    "inspection_snippets": {
+      "beginning": "Jules Amédée Barbey d'Aurevilly LES DIABOLIQUES (1850 — 1874) Table des matières Première préface aux Diaboliques Préface de la première édition Le rideau cramoisi Le plus bel amour de Don Juan I II III IV V Le bonheur dans le crime Le dessous de cartes d'une ",
+      "middle": "— Eh bien! contez, dit Mlle Sophie de Revistal, en tournant vers lui son grand oeil brun baigné de lumière, et qui est si humide encore, quoiqu'il ait pourtant diablement brillé. Tenez, voyez! ajouta-t-elle avec un geste imperceptible, nous écoutons tous. Et i",
+      "end": "rêtre, mais il respecta l'illusion de cette âme naïve. Car il savait, lui, qu'elle ne se repentait pas, et que cette touchante humilité était encore, après la mort, de la vengeance! End of Project Gutenberg's Les diaboliques, by Jules Amédée Barbey d'Aurevilly"
+    }
+  },
+  {
+    "work_id": "fr-diderot-jacques-le-fataliste",
+    "author": "Denis Diderot",
+    "title": "Jacques le fataliste et son maître",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 329,
+      "estimated_range": "260-400",
+      "diff_percent": -0.3,
+      "total_chars": 521958,
+      "total_blocks": 3822,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Wikisource / Project Gutenberg",
+      "download_url": "https://fr.wikisource.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre",
+      "sha256": "b6b483c29637d112601c7484d144db84c15b9f7f0fa6e7adf6059d7cc5184b16"
+    },
+    "inspection_snippets": {
+      "beginning": "JACQUES LE FATALISTE ET SON MAÎTRE Comment s’étaient-ils rencontrés ? Par hasard, comme tout le monde. Comment s’appelaient-ils ? Que vous importe ? D’où venaient-ils ? Du lieu le plus prochain. Où allaient-ils ? Est-ce que l’on sait où l’on va ? Que disaient-",
+      "middle": "Le marquis fut environ deux mois sans se montrer chez Mme de La Pommeraye ; et voici ses démarches dans cet intervalle. Il fit connaissance avec le confesseur de la mère et de la fille. C’était un ami du petit abbé dont je vous ai parlé. Ce prêtre, après avoir",
+      "end": "is ; il nous pille et il dit du mal de ceux qu’il vole. Cette lettre, adressée à l’abbé Raynal, est du 30 juillet 1749. (Br.)↑Comparer avec le chapitre CCLXXII de Tristram Shandy, un peu long pour être mis en note, et qui est beaucoup plus libre, à notre avis."
+    }
+  },
+  {
+    "work_id": "es-pardo-bazan-los-pazos-de-ulloa",
+    "author": "Emilia Pardo Bazán",
+    "title": "Los pazos de Ulloa",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 320,
+      "estimated_range": "300-470",
+      "diff_percent": -16.9,
+      "total_chars": 495646,
+      "total_blocks": 1361,
+      "total_headings": 34
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/18005/pg18005-images.html",
+      "sha256": "eb75f60ca40dff1b28fe597c36b22a62cc70096838b6574ce8f0f2c8e0f4baec"
+    },
+    "inspection_snippets": {
+      "beginning": "Los pazos de Ulloa Emilia Pardo Bazán Capítulos: Tomo I -I-,-II-,-III-,-IV-,-V-,-VI-,-VII-,-VIII-,-IX-,-X-,-XI- Tomo II -XII-,-XIII-,-XIV-,-XV-,-XVI-,-XVII-,-XVIII-,-XIX-,-XX-,-XXI-,-XXII-,-XXIII-,-XXIV-,-XXV-,-XXVI-,-XXVII-,-XXVIII-,-XXIX-,-XXX-",
+      "middle": "En efecto, por los desgarrones y aberturas del sucio calzón de estopa del chico hacían irrupción sus fresquísimas y lozanas carnes, cuya morbidez no alcanzaba a encubrir el fango y suciedad que les servía de vestidura, a falta de otra más decorosa. —¡Angelitos",
+      "end": "oso. Mientras el hijo de Sabel vestía ropa de buen paño, de hechura como entre aldeano acomodado y señorito, la hija de Nucha, cubierta con un traje de percal, asaz viejo, llevaba los zapatos tan rotos, que puede decirse que iba descalza. París, Marzo de 1886."
+    }
+  },
+  {
+    "work_id": "en-austen-persuasion",
+    "author": "Jane Austen",
+    "title": "Persuasion",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 305,
+      "estimated_range": "250-390",
+      "diff_percent": -4.7,
+      "total_chars": 472174,
+      "total_blocks": 1041,
+      "total_headings": 26
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/105/pg105-images.html",
+      "sha256": "cf26dc959b6fc0118f197f9621114776a44a3baf39bcf2d3240a1c8f729a1b33"
+    },
+    "inspection_snippets": {
+      "beginning": "Persuasion by Jane Austen(1818) Contents CHAPTER I.CHAPTER II.CHAPTER III.CHAPTER IV.CHAPTER V.CHAPTER VI.CHAPTER VII.CHAPTER VIII.CHAPTER IX.CHAPTER X.CHAPTER XI.CHAPTER XII.CHAPTER XIII.CHAPTER XIV.CHAPTER XV.CHAPTER XVI.CHAPTER XVII.CHAPTER XVIII.CHAPTER XI",
+      "middle": "“Any acquaintance of Anne’s will always be welcome to me,” was Lady Russell’s kind answer. “Oh! as to being Anne’s acquaintance,” said Mary, “I think he is rather my acquaintance, for I have been seeing him every day this last fortnight.” “Well, as your joint ",
+      "end": " future war all that could dim her sunshine. She gloried in being a sailor’s wife, but she must pay the tax of quick alarm for belonging to that profession which is, if possible, more distinguished in its domestic virtues than in its national importance. Finis"
+    }
+  },
+  {
+    "work_id": "es-galdos-misericordia",
+    "author": "Benito Pérez Galdós",
+    "title": "Misericordia",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 304,
+      "estimated_range": "360-550",
+      "diff_percent": -33.2,
+      "total_chars": 479693,
+      "total_blocks": 1586,
+      "total_headings": 43
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/21831/pg21831-images.html",
+      "sha256": "6d93f2a0652aed3685fe885c5e7058904cc622042632b14a43ddea2e119bc76a"
+    },
+    "inspection_snippets": {
+      "beginning": "Misericordia Benito Pérez Galdós Capítulos:I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX,",
+      "middle": "—Que os calléis... Más valdría que me ayudarais a bajarle y meterle en el coche. —Vaya que sí. Con alma y vida». De divertimiento sirvió a todas las de casa y a las de fuera. Fue una ruidosa función el acto de bajar a Frasquito, cantándole coplas en son funera",
+      "end": "ue me da es señal de que usted sabe lo que dice... Nina, Nina, es usted una santa. —Yo no soy santa. Pero tus niños están buenos y no padecen ningún mal... No llores... y ahora vete a tu casa, y no vuelvas a pecar». FIN DE LA NOVELA Madrid, Marzo-Abril de 1897"
+    }
+  },
+  {
+    "work_id": "fr-huysmans-a-rebours",
+    "author": "Joris-Karl Huysmans",
+    "title": "À rebours",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 284,
+      "estimated_range": "230-360",
+      "diff_percent": -3.7,
+      "total_chars": 438773,
+      "total_blocks": 1043,
+      "total_headings": 18
+    },
+    "source_info": {
+      "provider": "Wikisource",
+      "download_url": "https://fr.wikisource.org/wiki/%C3%80_rebours/Texte_entier",
+      "sha256": "b4b8dec6141af5bb9c9cb56c3eb8875f8c40299bf2b8dcb175fbd2895758e7d9"
+    },
+    "inspection_snippets": {
+      "beginning": "A REBOURS ‌ J.-K. HUYSMANS - A REBOURS",
+      "middle": "Alors les pas du cheval s’arrêtèrent. Il était là, derrière une lucarne ronde, dans le couloir ; plus mort que vif, des Esseintes se retourna, vit par l’œil-de-bœuf des oreilles droites, des dents jaunes, des naseaux soufflant deux jets de vapeur qui puaient l",
+      "end": "ge me fait défaut et le cœur me lève ! — Seigneur, prenez pitié du chrétien qui doute, de l’incrédule qui voudrait croire, du forçat de la vie qui s’embarque seul, dans la nuit, sous un firmament que n’éclairent plus les consolants fanaux du vieil espoir ! FIN"
+    }
+  },
+  {
+    "work_id": "fr-stendhal-chroniques-italiennes",
+    "author": "Stendhal",
+    "title": "Chroniques italiennes",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "B (Top 15 urne)"
+    ],
+    "metrics": {
+      "real_pages_v2": 279,
+      "estimated_range": "170-270",
+      "diff_percent": 26.8,
+      "total_chars": 431169,
+      "total_blocks": 985,
+      "total_headings": 10
+    },
+    "source_info": {
+      "provider": "Wikisource",
+      "download_url": "https://fr.wikisource.org/wiki/Chroniques_italiennes_(%C3%A9dition_L%C3%A9vy,_1855)",
+      "sha256": "02ac384beb443aa4925a9a119fc0523a7b5cc553287ed1888d4564d142d23dc4"
+    },
+    "inspection_snippets": {
+      "beginning": "L’ABBESSEDE CASTRO I Le mélodrame nous a montré si souvent les brigands italiens du seizième siècle, et tant de gens en ont parlé sans les connaître, que nous en avons maintenant les idées les plus fausses. On peut dire en général que ces brigands furent l’opp",
+      "middle": "Violer les lois dans la monarchie à la Louis XV, tirer un coup de fusil à un couvreur, et le faire dégringoler du haut de son toit, n’est-ce pas une preuve que l’on vit dans la société du prince, que l’on est du meilleur ton, et que l’on se moque fort du juge ",
+      "end": "r, dit Missirilli à Vanina, en lui jetant, autant que ses chaînes le lui permettaient, les limes et les diamants, et il s’éloigna rapidement. Vanina resta anéantie. Elle revint à Rome ; et le journal annonce qu’elle vient d’épouser le prince don Livio Savelli."
+    }
+  },
+  {
+    "work_id": "en-johnson-rasselas",
+    "author": "Samuel Johnson",
+    "title": "The History of Rasselas, Prince of Abissinia",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 148,
+      "estimated_range": "100-160",
+      "diff_percent": 13.8,
+      "total_chars": 221860,
+      "total_blocks": 505,
+      "total_headings": 51
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/652/pg652-images.html",
+      "sha256": "0b78993ad56bc77d8c46f8569dae783e66d1449e7d7337e2e9451ecfb8b01da1"
+    },
+    "inspection_snippets": {
+      "beginning": "Transcribed from the 1889 Cassell & Company edition by David Price, email ccx074@pglaf.org CASSELL’S NATIONAL LIBRARY. Rasselas PRINCE OF ABYSSINIA BY SAMUEL JOHNSON, LL.D.",
+      "middle": "“You are then,” said Rasselas, “not more successful in private houses than I have been in Courts.” “I have, since the last partition of our provinces,” said the Princess, “enabled myself to enter familiarly into many families, where there was the fairest show ",
+      "end": "e wishes that they had formed they well knew that none could be obtained. They deliberated awhile what was to be done, and resolved, when the inundation should cease, to return to Abyssinia. Printed by Cassell & Company, Limited, La Belle Sauvage, London, E.C."
+    }
+  },
+  {
+    "work_id": "en-browne-religio-medici",
+    "author": "Sir Thomas Browne",
+    "title": "Religio Medici",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 116,
+      "estimated_range": "110-180",
+      "diff_percent": -20.0,
+      "total_chars": 181205,
+      "total_blocks": 96,
+      "total_headings": 2
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/586/pg586-images.html",
+      "sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd"
+    },
+    "inspection_snippets": {
+      "beginning": "RELIGIO MEDICI. SECT. 1.—For my religion, though there be several circumstances that might persuade the world I have none at all,—as the general scandal of my profession,[1]—the natural course of my studies,—the indifferency of my behaviour and discourse in ma",
+      "middle": "Sect. 40.—I am naturally bashful; nor hath conversation, age, or travel, been able to effront or enharden me; yet I have one part of modesty, which I have seldom discovered in another, that is (to speak truly), I am not so much afraid of death as ashamed there",
+      "end": "are, O Lord, the humble desires of my most reasonable ambition, and all I dare call happiness on earth; wherein I set no rule or limit to thy hand or providence; dispose of me according to the wisdom of thy pleasure. Thy will be done, though in my own undoing."
+    }
+  },
+  {
+    "work_id": "en-browne-hydriotaphia",
+    "author": "Sir Thomas Browne",
+    "title": "Hydriotaphia, Urn Burial",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 58,
+      "estimated_range": "65-115",
+      "diff_percent": -35.6,
+      "total_chars": 86991,
+      "total_blocks": 132,
+      "total_headings": 6
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/586/pg586-images.html",
+      "sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd"
+    },
+    "inspection_snippets": {
+      "beginning": "HYDRIOTAPHIA. URN BURIAL; OR, A DISCOURSE OF THE SEPULCHRAL URNS LATELY FOUND IN NORFOLK. TO MY WORTHY AND HONOURED FRIEND, THOMAS LE GROS, OF CROSTWICK, ESQUIRE. WHEN the general pyre was out, and the last valediction over, men took a lasting adieu of their i",
+      "middle": "Among these urns we could obtain no good account of their coverings; only one seemed arched over with some kind of brickwork. Of those found at Buxton, some were covered with flints, some, in other parts, with tiles; those at Yarmouth Caster were closed with R",
+      "end": " one to lie in St Innocent’s[LXXVIII.] church-yard as in the sands of Egypt. Ready to be anything, in the ecstasy of being ever, and as content with six foot as the moles of Adrianus.[LXXIX.] ——“Tabésne cadavera solvat,An rogus, haud refert.”—Lucan. viii. 809."
+    }
+  },
+  {
+    "work_id": "fr-maupassant-la-parure",
+    "author": "Guy de Maupassant",
+    "title": "La Parure",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 10,
+      "estimated_range": "8-15",
+      "diff_percent": -13.0,
+      "total_chars": 16070,
+      "total_blocks": 136,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Wikisource",
+      "download_url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure",
+      "sha256": "e18a25ee46a714cdc0e287fc29fe25daa19b7447302fdc780be6a6cad7abd404"
+    },
+    "inspection_snippets": {
+      "beginning": "LA PARURE C’était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et ell",
+      "middle": "Son mari, à moitié dévêtu déjà, demanda : — Qu’est-ce que tu as ? Elle se tourna vers lui, affolée : — J’ai… j’ai… je n’ai plus la rivière de madame Forestier. Il se dressa, éperdu :",
+      "end": "t’en étais pas aperçue, hein ? Elles étaient bien pareilles. Et elle souriait d’une joie orgueilleuse et naïve. Mme Forestier, fort émue, lui prit les deux mains. — Oh ! ma pauvre Mathilde ! Mais la mienne était fausse. Elle valait au plus cinq cents francs !…"
+    }
+  },
+  {
+    "work_id": "fr-maupassant-la-ficelle",
+    "author": "Guy de Maupassant",
+    "title": "La Ficelle",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 8,
+      "estimated_range": "8-14",
+      "diff_percent": -27.3,
+      "total_chars": 13271,
+      "total_blocks": 90,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Wikisource",
+      "download_url": "https://fr.wikisource.org/wiki/Miss_Harriet_(recueil)/La_Ficelle",
+      "sha256": "8655e857a82f4b4ea7dca7b2a1918d6c228e3781c5d55e0904aceee267ff9153"
+    },
+    "inspection_snippets": {
+      "beginning": "LA FICELLE À Harry Alis. Sur toutes les routes autour de Goderville, les paysans et leurs femmes s’en venaient vers le bourg ; car c’était jour de marché. Les mâles allaient, à pas tranquilles, tout le corps en avant à chaque mouvement de leurs longues jambes ",
+      "middle": "Mais le maire, incrédule, remuait la tête. — Vous ne me ferez pas accroire, maître Hauchecorne, que M. Malandain, qui est un homme digne de foi, a pris ce fil pour un portefeuille ? Le paysan, furieux, leva la main, cracha de côté pour attester son honneur, ré",
+      "end": "re, il s’alita. Il mourut dans les premiers jours de janvier et, dans le délire de l’agonie, il attestait son innocence, répétant : — Une ’tite ficelle… une ’tite ficelle… t’nez, la voilà, m’sieu le maire. La Ficelle a paru dans le Gaulois du 25 novembre 1883."
+    }
+  },
+  {
+    "work_id": "fr-maupassant-deux-amis",
+    "author": "Guy de Maupassant",
+    "title": "Deux amis",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 8,
+      "estimated_range": "8-14",
+      "diff_percent": -27.3,
+      "total_chars": 13026,
+      "total_blocks": 91,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Wikisource",
+      "download_url": "https://fr.wikisource.org/wiki/Mademoiselle_Fifi_(recueil,_Ollendorff_1898)/Deux_amis",
+      "sha256": "14e147bd743ba39271b6fbcabdcc5b6abcc6e7ae62f0812c2bf80fbc00894b69"
+    },
+    "inspection_snippets": {
+      "beginning": "DEUX AMIS Paris était bloqué, affamé et râlant. Les moineaux se faisaient bien rares sur les toits, et les égouts se dépeuplaient. On mangeait n’importe quoi. Comme il se promenait tristement par un clair matin de janvier le long du boulevard extérieur, les ma",
+      "middle": "Morissot, qui regardait anxieusement plonger coup sur coup la plume de son flotteur, fut pris soudain d’une colère d’homme paisible contre ces enragés qui se battaient ainsi, et il grommela : « Faut-il être stupide pour se tuer comme ça. » M. Sauvage reprit : ",
+      "end": "« Wilhem ! » Un soldat accourut, en tablier blanc. Et le Prussien, lui jetant la pêche des deux fusillés, commanda : « Fais-moi frire tout de suite ces petits animaux-là pendant qu’ils sont encore vivants. Ce sera délicieux. » Puis il se remit à fumer sa pipe."
+    }
+  },
+  {
+    "work_id": "es-cervantes-rinconete-y-cortadillo",
+    "author": "Miguel de Cervantes",
+    "title": "Rinconete y Cortadillo",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 48,
+      "estimated_range": "38-60",
+      "diff_percent": -2.0,
+      "total_chars": 75953,
+      "total_blocks": 288,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "inspection_snippets": {
+      "beginning": "RINCONETE Y CORTADILLO. En la venta del Molinillo, que está puesta en los fines de los famosos campos de Alcudia, como vamos de Castilla á la Andalucía, un dia de los calorosos del verano se hallaron en ella acaso dos muchachos de hasta edad de catorce á quinc",
+      "middle": "—Y ¿qué tal lo beberéis, madre mia? dijo á esta sazon la Escalanta, que así se llamaba la compañera de la Gananciosa. Y descubriendo la canasta, se manifestó una bota á modo de cuero, con hasta dos arrobas de vino, y un corcho que podria caber sosegadamente y ",
+      "end": "ritura, y así se deja para otra ocasion contar su vida y milagros, con los de su maestro Monipodio, y otros sucesos de aquellos de la infame academia, que todos serán de grande consideracion, y que podrán servir de ejemplo y aviso á los que los leyeren. p. 116"
+    }
+  },
+  {
+    "work_id": "es-cervantes-la-gitanilla",
+    "author": "Miguel de Cervantes",
+    "title": "La gitanilla",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 81,
+      "estimated_range": "65-105",
+      "diff_percent": -4.7,
+      "total_chars": 129221,
+      "total_blocks": 756,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "inspection_snippets": {
+      "beginning": "LA JITANILLA. Parece que los jitanos y jitanas solamente nacieron en el mundo para ser ladrones: nacen de padres ladrones, críanse con ladrones, estudian para ladrones, y finalmente salen con ser ladrones corrientes y molientes á todo ruedo; y la gana de hurta",
+      "middle": "Despidiéronse las jitanas, y al irse dijo la doncella del dedal: —Preciosa, díme la buenaventura, ó vuélveme mi dedal, que no me queda con que hacer labor. —Señora doncella, respondió Preciosa, haga cuenta que se la he dicho, y provéase de otro dedal, ó no hag",
+      "end": "enamorada mesonera descubrió á la justicia no ser verdad lo del hurto de Andres el jitano, y confesó su amor y su culpa, á quien no respondió pena alguna, porque en la alegría del hallazgo de los desposados se enterró la venganza y resucitó la clemencia. p. 49"
+    }
+  },
+  {
+    "work_id": "es-cervantes-el-licenciado-vidriera",
+    "author": "Miguel de Cervantes",
+    "title": "El licenciado Vidriera",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "technical_status": "VERIFIED",
+    "status_reasons": [],
+    "priority_category": [
+      "C (Échantillon courte)"
+    ],
+    "metrics": {
+      "real_pages_v2": 34,
+      "estimated_range": "30-50",
+      "diff_percent": -15.0,
+      "total_chars": 53056,
+      "total_blocks": 194,
+      "total_headings": 1
+    },
+    "source_info": {
+      "provider": "Project Gutenberg",
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "inspection_snippets": {
+      "beginning": "EL LICENCIADO VIDRIERA. Paseándose dos caballeros estudiantes por las riberas del Tórmes, hallaron en ellas debajo de un árbol durmiendo á un muchacho de hasta edad de once años, vestido como labrador: mandaron á un criado que le despertase: despertó, y pregun",
+      "middle": "Y cuando el pregonero llegó á decir: al trasero, dijo: —Aquel por ventura debe ser el fiador de los muchachos. Un muchacho le dijo: —Hermano Vidriera, mañana sacan á azotar á una alcahueta. Respondióle:",
+      "end": " vergonzosos! Esto dijo, y se fué á Flándes, donde la vida que habia comenzado á eternizar por las letras, la acabó de eternizar por las armas en compañía de su buen amigo el capitan Valdivia, dejando fama en su muerte de prudente y valentísimo soldado. p. 169"
+    }
+  }
+]

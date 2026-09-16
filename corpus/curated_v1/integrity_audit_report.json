@@ -1,0 +1,2429 @@
+[
+  {
+    "work_id": "en-austen-pride-prejudice",
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-austen-pride-prejudice.html",
+      "bytes": 751682,
+      "useful_chars": 702793,
+      "words": 125089,
+      "paragraphs": 2075,
+      "headings": 72,
+      "download_url": "https://www.gutenberg.org/cache/epub/42671/pg42671-images.html",
+      "sha256": "d5cf14a01b06801f3b5694825dcd521f3643047b83391df1102dfd67b733978e"
+    },
+    "normalized": {
+      "chars": 689641,
+      "blocks": 2203,
+      "paragraphs": 2059,
+      "headings": 69,
+      "italic_spans": 468,
+      "pages": 443,
+      "char_ratio": 0.981
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 470.0,
+      "real_pages_v2": 443,
+      "diff_percent": -5.7
+    }
+  },
+  {
+    "work_id": "en-austen-persuasion",
+    "author": "Jane Austen",
+    "title": "Persuasion",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-austen-persuasion.html",
+      "bytes": 517141,
+      "useful_chars": 482620,
+      "words": 86413,
+      "paragraphs": 1018,
+      "headings": 28,
+      "download_url": "https://www.gutenberg.org/cache/epub/105/pg105-images.html",
+      "sha256": "cf26dc959b6fc0118f197f9621114776a44a3baf39bcf2d3240a1c8f729a1b33"
+    },
+    "normalized": {
+      "chars": 472174,
+      "blocks": 1041,
+      "paragraphs": 1014,
+      "headings": 26,
+      "italic_spans": 54,
+      "pages": 305,
+      "char_ratio": 0.978
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 320.0,
+      "real_pages_v2": 305,
+      "diff_percent": -4.7
+    }
+  },
+  {
+    "work_id": "en-johnson-rasselas",
+    "author": "Samuel Johnson",
+    "title": "The History of Rasselas, Prince of Abissinia",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-johnson-rasselas.html",
+      "bytes": 262141,
+      "useful_chars": 236982,
+      "words": 41186,
+      "paragraphs": 463,
+      "headings": 53,
+      "download_url": "https://www.gutenberg.org/cache/epub/652/pg652-images.html",
+      "sha256": "0b78993ad56bc77d8c46f8569dae783e66d1449e7d7337e2e9451ecfb8b01da1"
+    },
+    "normalized": {
+      "chars": 221860,
+      "blocks": 505,
+      "paragraphs": 454,
+      "headings": 51,
+      "italic_spans": 30,
+      "pages": 148,
+      "char_ratio": 0.936
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 130.0,
+      "real_pages_v2": 148,
+      "diff_percent": 13.8
+    }
+  },
+  {
+    "work_id": "en-sterne-sentimental-journey",
+    "author": "Laurence Sterne",
+    "title": "A Sentimental Journey Through France and Italy",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "SOURCE_MISMATCH",
+    "reasons": [
+      "Downloaded Thomas Hardy 'Far from the Madding Crowd' instead of Laurence Sterne"
+    ],
+    "source": {
+      "file": "en-sterne-sentimental-journey.html",
+      "bytes": 878598,
+      "useful_chars": 788164,
+      "words": 140243,
+      "paragraphs": 3410,
+      "headings": 71,
+      "download_url": "https://www.gutenberg.org/cache/epub/107/pg107-images.html",
+      "sha256": "998205da6a53dccb906c999acebc130329ac2aed746f08b70489694d11c5417a"
+    },
+    "normalized": {
+      "chars": 788212,
+      "blocks": 3477,
+      "paragraphs": 3407,
+      "headings": 69,
+      "italic_spans": 79,
+      "pages": 500,
+      "char_ratio": 1.0
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 170.0,
+      "real_pages_v2": 500,
+      "diff_percent": 194.1
+    }
+  },
+  {
+    "work_id": "en-browne-religio-medici",
+    "author": "Sir Thomas Browne",
+    "title": "Religio Medici",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-browne-religio-medici.html",
+      "bytes": 451264,
+      "useful_chars": 362373,
+      "words": 62876,
+      "paragraphs": 554,
+      "headings": 18,
+      "download_url": "https://www.gutenberg.org/cache/epub/586/pg586-images.html",
+      "sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd"
+    },
+    "normalized": {
+      "chars": 181205,
+      "blocks": 96,
+      "paragraphs": 94,
+      "headings": 2,
+      "italic_spans": 130,
+      "pages": 116,
+      "char_ratio": 0.5
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 145.0,
+      "real_pages_v2": 116,
+      "diff_percent": -20.0
+    }
+  },
+  {
+    "work_id": "en-browne-hydriotaphia",
+    "author": "Sir Thomas Browne",
+    "title": "Hydriotaphia, Urn Burial",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-browne-hydriotaphia.html",
+      "bytes": 451264,
+      "useful_chars": 362373,
+      "words": 62876,
+      "paragraphs": 554,
+      "headings": 18,
+      "download_url": "https://www.gutenberg.org/cache/epub/586/pg586-images.html",
+      "sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd"
+    },
+    "normalized": {
+      "chars": 86991,
+      "blocks": 132,
+      "paragraphs": 126,
+      "headings": 6,
+      "italic_spans": 27,
+      "pages": 58,
+      "char_ratio": 0.24
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 90.0,
+      "real_pages_v2": 58,
+      "diff_percent": -35.6
+    }
+  },
+  {
+    "work_id": "en-hazlitt-table-talk",
+    "author": "William Hazlitt",
+    "title": "Table-Talk",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "SOURCE_MISMATCH",
+    "reasons": [
+      "Downloaded T.R. Malthus 'Corn Law' instead of William Hazlitt"
+    ],
+    "source": {
+      "file": "en-hazlitt-table-talk.html",
+      "bytes": 90563,
+      "useful_chars": 79965,
+      "words": 13553,
+      "paragraphs": 114,
+      "headings": 8,
+      "download_url": "https://www.gutenberg.org/cache/epub/4335/pg4335-images.html",
+      "sha256": "170237291b2bcb2115df9724b839ccc2fe76897a07b808ca888d4c52f71c5538"
+    },
+    "normalized": {
+      "chars": 61824,
+      "blocks": 114,
+      "paragraphs": 108,
+      "headings": 6,
+      "italic_spans": 0,
+      "pages": 40,
+      "char_ratio": 0.773
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 390.0,
+      "real_pages_v2": 40,
+      "diff_percent": -89.7
+    }
+  },
+  {
+    "work_id": "en-gissing-henry-ryecroft",
+    "author": "George Gissing",
+    "title": "The Private Papers of Henry Ryecroft",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "SOURCE_MISMATCH",
+    "reasons": [
+      "Downloaded Adelaide Anne Procter 'Legends and Lyrics' instead of George Gissing"
+    ],
+    "source": {
+      "file": "en-gissing-henry-ryecroft.html",
+      "bytes": 178009,
+      "useful_chars": 148926,
+      "words": 27046,
+      "paragraphs": 711,
+      "headings": 60,
+      "download_url": "https://www.gutenberg.org/cache/epub/2304/pg2304-images.html",
+      "sha256": "399bcb9e65f36830bc95ff3be996aaed35ef71eb5092dc84ce583154eca9d242"
+    },
+    "normalized": {
+      "chars": 135212,
+      "blocks": 760,
+      "paragraphs": 702,
+      "headings": 58,
+      "italic_spans": 17,
+      "pages": 88,
+      "char_ratio": 0.908
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 230.0,
+      "real_pages_v2": 88,
+      "diff_percent": -61.7
+    }
+  },
+  {
+    "work_id": "en-james-portrait-of-a-lady",
+    "author": "Henry James",
+    "title": "The Portrait of a Lady",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-james-portrait-of-a-lady.html",
+      "bytes": 817572,
+      "useful_chars": 673002,
+      "words": 120075,
+      "paragraphs": 2404,
+      "headings": 35,
+      "download_url": "https://www.gutenberg.org/cache/epub/2833/pg2833-images.html",
+      "sha256": "522caae84f1c8cb4c078a5cb1d8909b03cf54718a17156604faa3a9841b7c1b8"
+    },
+    "normalized": {
+      "chars": 681465,
+      "blocks": 2397,
+      "paragraphs": 2362,
+      "headings": 33,
+      "italic_spans": 150,
+      "pages": 424,
+      "char_ratio": 1.013
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 800.0,
+      "real_pages_v2": 424,
+      "diff_percent": -47.0
+    }
+  },
+  {
+    "work_id": "en-james-turn-of-the-screw",
+    "author": "Henry James",
+    "title": "The Turn of the Screw",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-james-turn-of-the-screw.html",
+      "bytes": 278711,
+      "useful_chars": 246251,
+      "words": 45438,
+      "paragraphs": 792,
+      "headings": 30,
+      "download_url": "https://www.gutenberg.org/cache/epub/209/pg209-images.html",
+      "sha256": "5c4e034872cdf4a8d3523c533aaffd20cd891de7f69451f3ffdebe90cd604398"
+    },
+    "normalized": {
+      "chars": 232244,
+      "blocks": 816,
+      "paragraphs": 787,
+      "headings": 28,
+      "italic_spans": 225,
+      "pages": 147,
+      "char_ratio": 0.943
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 165.0,
+      "real_pages_v2": 147,
+      "diff_percent": -10.9
+    }
+  },
+  {
+    "work_id": "en-james-daisy-miller",
+    "author": "Henry James",
+    "title": "Daisy Miller",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-james-daisy-miller.html",
+      "bytes": 174894,
+      "useful_chars": 140797,
+      "words": 24394,
+      "paragraphs": 551,
+      "headings": 9,
+      "download_url": "https://www.gutenberg.org/cache/epub/208/pg208-images.html",
+      "sha256": "ea61fdd2ed7d9b2cde91d8a08cefc2e4f5236920e0138417679f40a4ece41552"
+    },
+    "normalized": {
+      "chars": 127253,
+      "blocks": 546,
+      "paragraphs": 537,
+      "headings": 7,
+      "italic_spans": 0,
+      "pages": 79,
+      "char_ratio": 0.904
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 105.0,
+      "real_pages_v2": 79,
+      "diff_percent": -24.8
+    }
+  },
+  {
+    "work_id": "en-james-beast-in-the-jungle",
+    "author": "Henry James",
+    "title": "The Beast in the Jungle",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-james-beast-in-the-jungle.html",
+      "bytes": 133449,
+      "useful_chars": 119711,
+      "words": 21660,
+      "paragraphs": 239,
+      "headings": 9,
+      "download_url": "https://www.gutenberg.org/cache/epub/1093/pg1093-images.html",
+      "sha256": "650d521f7efb0a94b692ef8bc47b7d8de6d7388e6cbe579dcf26a8a4e9ced547"
+    },
+    "normalized": {
+      "chars": 102476,
+      "blocks": 238,
+      "paragraphs": 231,
+      "headings": 7,
+      "italic_spans": 89,
+      "pages": 65,
+      "char_ratio": 0.856
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 85.0,
+      "real_pages_v2": 65,
+      "diff_percent": -23.5
+    }
+  },
+  {
+    "work_id": "en-james-aspern-papers",
+    "author": "Henry James",
+    "title": "The Aspern Papers",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-james-aspern-papers.html",
+      "bytes": 274384,
+      "useful_chars": 225153,
+      "words": 41910,
+      "paragraphs": 635,
+      "headings": 14,
+      "download_url": "https://www.gutenberg.org/cache/epub/211/pg211-images.html",
+      "sha256": "7ee0c025108ab2554821bc20c1b4eed9a948fb14e67b1cd28bad78d57b4a4dbe"
+    },
+    "normalized": {
+      "chars": 214316,
+      "blocks": 626,
+      "paragraphs": 612,
+      "headings": 12,
+      "italic_spans": 59,
+      "pages": 136,
+      "char_ratio": 0.952
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 140.0,
+      "real_pages_v2": 136,
+      "diff_percent": -2.9
+    }
+  },
+  {
+    "work_id": "fr-mirbeau-journal-femme-chambre",
+    "author": "Octave Mirbeau",
+    "title": "Le Journal d'une femme de chambre",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "SOURCE_MISMATCH",
+    "reasons": [
+      "Downloaded F.M. Peard 'Prentice Hugh' instead of Octave Mirbeau"
+    ],
+    "source": {
+      "file": "fr-mirbeau-journal-femme-chambre.html",
+      "bytes": 438973,
+      "useful_chars": 381524,
+      "words": 69414,
+      "paragraphs": 1421,
+      "headings": 37,
+      "download_url": "https://www.gutenberg.org/cache/epub/43170/pg43170-images.html",
+      "sha256": "b3d8f717835aa4d8248b3230c914591a51ccfb257f0c449f91ed3f44d0aebb9f"
+    },
+    "normalized": {
+      "chars": 361114,
+      "blocks": 1447,
+      "paragraphs": 1393,
+      "headings": 35,
+      "italic_spans": 22,
+      "pages": 231,
+      "char_ratio": 0.947
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 400.0,
+      "real_pages_v2": 231,
+      "diff_percent": -42.2
+    }
+  },
+  {
+    "work_id": "fr-maupassant-bel-ami",
+    "author": "Guy de Maupassant",
+    "title": "Bel-Ami",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-maupassant-bel-ami.html",
+      "bytes": 964041,
+      "useful_chars": 647318,
+      "words": 106021,
+      "paragraphs": 3699,
+      "headings": 22,
+      "download_url": "https://fr.wikisource.org/wiki/Bel-Ami/%C3%89dition_Ollendorff,_1901/Texte_entier",
+      "sha256": "ca252017a868e6fa10b264f877321e83d6c992b4c298684b70ffd2e1e5719d9b"
+    },
+    "normalized": {
+      "chars": 620063,
+      "blocks": 3705,
+      "paragraphs": 3683,
+      "headings": 21,
+      "italic_spans": 103,
+      "pages": 381,
+      "char_ratio": 0.958
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 430.0,
+      "real_pages_v2": 381,
+      "diff_percent": -11.4
+    }
+  },
+  {
+    "work_id": "fr-maupassant-pierre-et-jean",
+    "author": "Guy de Maupassant",
+    "title": "Pierre et Jean",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-maupassant-pierre-et-jean.html",
+      "bytes": 419237,
+      "useful_chars": 290369,
+      "words": 47866,
+      "paragraphs": 1701,
+      "headings": 12,
+      "download_url": "https://fr.wikisource.org/wiki/Pierre_et_Jean/Texte_entier",
+      "sha256": "50f14e04f7d66270177745a4900c81687bf074c46cc84a1dbf83891972ebfa62"
+    },
+    "normalized": {
+      "chars": 279194,
+      "blocks": 1697,
+      "paragraphs": 1683,
+      "headings": 11,
+      "italic_spans": 70,
+      "pages": 174,
+      "char_ratio": 0.962
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 190.0,
+      "real_pages_v2": 174,
+      "diff_percent": -8.4
+    }
+  },
+  {
+    "work_id": "fr-maupassant-la-parure",
+    "author": "Guy de Maupassant",
+    "title": "La Parure",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-maupassant-la-parure.html",
+      "bytes": 84846,
+      "useful_chars": 19186,
+      "words": 3124,
+      "paragraphs": 144,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure",
+      "sha256": "e18a25ee46a714cdc0e287fc29fe25daa19b7447302fdc780be6a6cad7abd404"
+    },
+    "normalized": {
+      "chars": 16070,
+      "blocks": 136,
+      "paragraphs": 135,
+      "headings": 1,
+      "italic_spans": 0,
+      "pages": 10,
+      "char_ratio": 0.838
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 11.5,
+      "real_pages_v2": 10,
+      "diff_percent": -13.0
+    }
+  },
+  {
+    "work_id": "fr-maupassant-la-ficelle",
+    "author": "Guy de Maupassant",
+    "title": "La Ficelle",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-maupassant-la-ficelle.html",
+      "bytes": 76343,
+      "useful_chars": 15947,
+      "words": 2566,
+      "paragraphs": 94,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Miss_Harriet_(recueil)/La_Ficelle",
+      "sha256": "8655e857a82f4b4ea7dca7b2a1918d6c228e3781c5d55e0904aceee267ff9153"
+    },
+    "normalized": {
+      "chars": 13271,
+      "blocks": 90,
+      "paragraphs": 89,
+      "headings": 1,
+      "italic_spans": 4,
+      "pages": 8,
+      "char_ratio": 0.832
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 11.0,
+      "real_pages_v2": 8,
+      "diff_percent": -27.3
+    }
+  },
+  {
+    "work_id": "fr-maupassant-deux-amis",
+    "author": "Guy de Maupassant",
+    "title": "Deux amis",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-maupassant-deux-amis.html",
+      "bytes": 76380,
+      "useful_chars": 16194,
+      "words": 2390,
+      "paragraphs": 91,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Mademoiselle_Fifi_(recueil,_Ollendorff_1898)/Deux_amis",
+      "sha256": "14e147bd743ba39271b6fbcabdcc5b6abcc6e7ae62f0812c2bf80fbc00894b69"
+    },
+    "normalized": {
+      "chars": 13026,
+      "blocks": 91,
+      "paragraphs": 90,
+      "headings": 1,
+      "italic_spans": 0,
+      "pages": 8,
+      "char_ratio": 0.804
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 11.0,
+      "real_pages_v2": 8,
+      "diff_percent": -27.3
+    }
+  },
+  {
+    "work_id": "fr-maupassant-le-horla",
+    "author": "Guy de Maupassant",
+    "title": "Le Horla",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-maupassant-le-horla.html",
+      "bytes": 126891,
+      "useful_chars": 57514,
+      "words": 9466,
+      "paragraphs": 233,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Le_Horla_(recueil,_Ollendorff_1895)/Le_Horla",
+      "sha256": "4ed9c124d7b93a1498b4f77f4973c9fc977ae7d749efb2cc5184244c82a4918a"
+    },
+    "normalized": {
+      "chars": 52749,
+      "blocks": 234,
+      "paragraphs": 232,
+      "headings": 1,
+      "italic_spans": 41,
+      "pages": 34,
+      "char_ratio": 0.917
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 40.0,
+      "real_pages_v2": 34,
+      "diff_percent": -15.0
+    }
+  },
+  {
+    "work_id": "fr-maupassant-boule-de-suif",
+    "author": "Guy de Maupassant",
+    "title": "Boule de Suif",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "STRUCTURE_ISSUE",
+    "reasons": [
+      "Contains full 12-story collection 'Boule de Suif' instead of the title story alone"
+    ],
+    "source": {
+      "file": "fr-maupassant-boule-de-suif.html",
+      "bytes": 272989,
+      "useful_chars": 237134,
+      "words": 39107,
+      "paragraphs": 1097,
+      "headings": 26,
+      "download_url": "https://www.gutenberg.org/cache/epub/10746/pg10746-images.html",
+      "sha256": "442ad49d7205dd1d2e7990b003acf1a952494fddb5d4d7f5d601410ccf8460b2"
+    },
+    "normalized": {
+      "chars": 221954,
+      "blocks": 1149,
+      "paragraphs": 1100,
+      "headings": 24,
+      "italic_spans": 48,
+      "pages": 141,
+      "char_ratio": 0.936
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 57.5,
+      "real_pages_v2": 141,
+      "diff_percent": 145.2
+    }
+  },
+  {
+    "work_id": "fr-maupassant-la-maison-tellier",
+    "author": "Guy de Maupassant",
+    "title": "La Maison Tellier",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-maupassant-la-maison-tellier.html",
+      "bytes": 134420,
+      "useful_chars": 63646,
+      "words": 10088,
+      "paragraphs": 181,
+      "headings": 5,
+      "download_url": "https://fr.wikisource.org/wiki/La_Maison_Tellier_(recueil)/La_Maison_Tellier",
+      "sha256": "bdffbd5857d4ed93d0218fdd85f3f2fdbc55dbeeb78aaab07df15753294fca4b"
+    },
+    "normalized": {
+      "chars": 60035,
+      "blocks": 170,
+      "paragraphs": 166,
+      "headings": 4,
+      "italic_spans": 21,
+      "pages": 38,
+      "char_ratio": 0.943
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 42.0,
+      "real_pages_v2": 38,
+      "diff_percent": -9.5
+    }
+  },
+  {
+    "work_id": "fr-schwob-vies-imaginaires",
+    "author": "Marcel Schwob",
+    "title": "Vies imaginaires",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-schwob-vies-imaginaires.html",
+      "bytes": 277711,
+      "useful_chars": 182196,
+      "words": 30008,
+      "paragraphs": 303,
+      "headings": 24,
+      "download_url": "https://fr.wikisource.org/wiki/Vies_imaginaires/Texte_entier",
+      "sha256": "a3a94d95a04da12ea6ba93acd70f5fa8cce5afd68368a3c7ba1b8aaa43ada27a"
+    },
+    "normalized": {
+      "chars": 176548,
+      "blocks": 327,
+      "paragraphs": 303,
+      "headings": 23,
+      "italic_spans": 71,
+      "pages": 113,
+      "char_ratio": 0.969
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 175.0,
+      "real_pages_v2": 113,
+      "diff_percent": -35.4
+    }
+  },
+  {
+    "work_id": "fr-schwob-livre-de-monelle",
+    "author": "Marcel Schwob",
+    "title": "Le Livre de Monelle",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-schwob-livre-de-monelle.html",
+      "bytes": 213131,
+      "useful_chars": 125976,
+      "words": 20973,
+      "paragraphs": 734,
+      "headings": 22,
+      "download_url": "https://fr.wikisource.org/wiki/La_Lampe_de_Psych%C3%A9/Le_Livre_de_Monelle",
+      "sha256": "dc64388a2d6f9793d8daa1742647fc7bf91b68534d56d87566815be69f3bbd0f"
+    },
+    "normalized": {
+      "chars": 119667,
+      "blocks": 719,
+      "paragraphs": 698,
+      "headings": 21,
+      "italic_spans": 5,
+      "pages": 75,
+      "char_ratio": 0.95
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 87.5,
+      "real_pages_v2": 75,
+      "diff_percent": -14.3
+    }
+  },
+  {
+    "work_id": "fr-schwob-croisade-des-enfants",
+    "author": "Marcel Schwob",
+    "title": "La Croisade des enfants",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-schwob-croisade-des-enfants.html",
+      "bytes": 101853,
+      "useful_chars": 37414,
+      "words": 6363,
+      "paragraphs": 44,
+      "headings": 10,
+      "download_url": "https://fr.wikisource.org/wiki/La_Croisade_des_enfants",
+      "sha256": "efecb258dd6f92b97cb7ae900a0e661c3e2029571371ec61f74b357379845a76"
+    },
+    "normalized": {
+      "chars": 34236,
+      "blocks": 59,
+      "paragraphs": 50,
+      "headings": 9,
+      "italic_spans": 8,
+      "pages": 23,
+      "char_ratio": 0.915
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 27.5,
+      "real_pages_v2": 23,
+      "diff_percent": -16.4
+    }
+  },
+  {
+    "work_id": "fr-lesage-diable-boiteux",
+    "author": "Alain-René Lesage",
+    "title": "Le Diable boiteux",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "SOURCE_MISMATCH",
+    "reasons": [
+      "Downloaded George Waring 'The Squirrels' instead of Alain-René Lesage"
+    ],
+    "source": {
+      "file": "fr-lesage-diable-boiteux.html",
+      "bytes": 194176,
+      "useful_chars": 170101,
+      "words": 30887,
+      "paragraphs": 373,
+      "headings": 9,
+      "download_url": "https://www.gutenberg.org/cache/epub/33434/pg33434-images.html",
+      "sha256": "a83d877218912408924d264f783d5d80abd5aedad0c624a53b788b17efe3d467"
+    },
+    "normalized": {
+      "chars": 152864,
+      "blocks": 408,
+      "paragraphs": 366,
+      "headings": 7,
+      "italic_spans": 151,
+      "pages": 100,
+      "char_ratio": 0.899
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 260.0,
+      "real_pages_v2": 100,
+      "diff_percent": -61.5
+    }
+  },
+  {
+    "work_id": "es-cervantes-quijote",
+    "author": "Miguel de Cervantes",
+    "title": "Don Quijote de la Mancha",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-cervantes-quijote.html",
+      "bytes": 2273229,
+      "useful_chars": 2124038,
+      "words": 389678,
+      "paragraphs": 5060,
+      "headings": 143,
+      "download_url": "https://www.gutenberg.org/cache/epub/2000/pg2000-images.html",
+      "sha256": "1d65548d3679ef7a26aa1cd15b2b2325bd0f9c9d935326a2ba618d4ece440ae7"
+    },
+    "normalized": {
+      "chars": 2127278,
+      "blocks": 5197,
+      "paragraphs": 5055,
+      "headings": 141,
+      "italic_spans": 0,
+      "pages": 1365,
+      "char_ratio": 1.002
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 1250.0,
+      "real_pages_v2": 1365,
+      "diff_percent": 9.2
+    }
+  },
+  {
+    "work_id": "es-cervantes-rinconete-y-cortadillo",
+    "author": "Miguel de Cervantes",
+    "title": "Rinconete y Cortadillo",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-cervantes-rinconete-y-cortadillo.html",
+      "bytes": 1160804,
+      "useful_chars": 1049238,
+      "words": 192490,
+      "paragraphs": 3076,
+      "headings": 19,
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "normalized": {
+      "chars": 75953,
+      "blocks": 288,
+      "paragraphs": 285,
+      "headings": 1,
+      "italic_spans": 12,
+      "pages": 48,
+      "char_ratio": 0.072
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 49.0,
+      "real_pages_v2": 48,
+      "diff_percent": -2.0
+    }
+  },
+  {
+    "work_id": "es-cervantes-la-gitanilla",
+    "author": "Miguel de Cervantes",
+    "title": "La gitanilla",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-cervantes-la-gitanilla.html",
+      "bytes": 1160804,
+      "useful_chars": 1049238,
+      "words": 192490,
+      "paragraphs": 3076,
+      "headings": 19,
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "normalized": {
+      "chars": 129221,
+      "blocks": 756,
+      "paragraphs": 753,
+      "headings": 1,
+      "italic_spans": 5,
+      "pages": 81,
+      "char_ratio": 0.123
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 85.0,
+      "real_pages_v2": 81,
+      "diff_percent": -4.7
+    }
+  },
+  {
+    "work_id": "es-cervantes-el-licenciado-vidriera",
+    "author": "Miguel de Cervantes",
+    "title": "El licenciado Vidriera",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-cervantes-el-licenciado-vidriera.html",
+      "bytes": 1160804,
+      "useful_chars": 1049238,
+      "words": 192490,
+      "paragraphs": 3076,
+      "headings": 19,
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "normalized": {
+      "chars": 53056,
+      "blocks": 194,
+      "paragraphs": 191,
+      "headings": 1,
+      "italic_spans": 17,
+      "pages": 34,
+      "char_ratio": 0.051
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 40.0,
+      "real_pages_v2": 34,
+      "diff_percent": -15.0
+    }
+  },
+  {
+    "work_id": "es-cervantes-el-celoso-extremeno",
+    "author": "Miguel de Cervantes",
+    "title": "El celoso extremeño",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-cervantes-el-celoso-extremeno.html",
+      "bytes": 1160804,
+      "useful_chars": 1049238,
+      "words": 192490,
+      "paragraphs": 3076,
+      "headings": 19,
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "normalized": {
+      "chars": 74599,
+      "blocks": 232,
+      "paragraphs": 229,
+      "headings": 1,
+      "italic_spans": 16,
+      "pages": 49,
+      "char_ratio": 0.071
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 45.0,
+      "real_pages_v2": 49,
+      "diff_percent": 8.9
+    }
+  },
+  {
+    "work_id": "es-cervantes-el-coloquio-de-los-perros",
+    "author": "Miguel de Cervantes",
+    "title": "El coloquio de los perros",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-cervantes-el-coloquio-de-los-perros.html",
+      "bytes": 1160804,
+      "useful_chars": 1049238,
+      "words": 192490,
+      "paragraphs": 3076,
+      "headings": 19,
+      "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+      "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9"
+    },
+    "normalized": {
+      "chars": 128373,
+      "blocks": 179,
+      "paragraphs": 177,
+      "headings": 1,
+      "italic_spans": 22,
+      "pages": 82,
+      "char_ratio": 0.122
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 65.0,
+      "real_pages_v2": 82,
+      "diff_percent": 26.2
+    }
+  },
+  {
+    "work_id": "es-quiroga-a-la-deriva",
+    "author": "Horacio Quiroga",
+    "title": "A la deriva",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-quiroga-a-la-deriva.html",
+      "bytes": 58922,
+      "useful_chars": 7879,
+      "words": 1312,
+      "paragraphs": 30,
+      "headings": 1,
+      "download_url": "https://es.wikisource.org/wiki/A_la_deriva",
+      "sha256": "61d4771a973680d227de41cdb043bd00adc0330afd4f4dc54ca0dce96f1f337d"
+    },
+    "normalized": {
+      "chars": 6148,
+      "blocks": 30,
+      "paragraphs": 30,
+      "headings": 0,
+      "italic_spans": 0,
+      "pages": 4,
+      "char_ratio": 0.78
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 6.0,
+      "real_pages_v2": 4,
+      "diff_percent": -33.3
+    }
+  },
+  {
+    "work_id": "es-quiroga-el-almohadon-de-plumas",
+    "author": "Horacio Quiroga",
+    "title": "El almohadón de plumas",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-quiroga-el-almohadon-de-plumas.html",
+      "bytes": 69739,
+      "useful_chars": 9335,
+      "words": 1510,
+      "paragraphs": 32,
+      "headings": 2,
+      "download_url": "https://es.wikisource.org/wiki/El_almohad%C3%B3n_de_pluma",
+      "sha256": "187f44a7e0252f49ce1bcf8c4b5c4e4829386dca5800ec2a7eae54b70305de0d"
+    },
+    "normalized": {
+      "chars": 7170,
+      "blocks": 32,
+      "paragraphs": 31,
+      "headings": 1,
+      "italic_spans": 0,
+      "pages": 5,
+      "char_ratio": 0.768
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 6.0,
+      "real_pages_v2": 5,
+      "diff_percent": -16.7
+    }
+  },
+  {
+    "work_id": "es-quiroga-la-insolacion",
+    "author": "Horacio Quiroga",
+    "title": "La insolación",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-quiroga-la-insolacion.html",
+      "bytes": 67885,
+      "useful_chars": 15512,
+      "words": 2654,
+      "paragraphs": 61,
+      "headings": 1,
+      "download_url": "https://es.wikisource.org/wiki/La_insolaci%C3%B3n",
+      "sha256": "31ef6129447db40acbaa8b622c49d4463c002b32fbb7e6a98a22dbb1d6abf843"
+    },
+    "normalized": {
+      "chars": 13677,
+      "blocks": 60,
+      "paragraphs": 60,
+      "headings": 0,
+      "italic_spans": 32,
+      "pages": 9,
+      "char_ratio": 0.882
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 11.5,
+      "real_pages_v2": 9,
+      "diff_percent": -21.7
+    }
+  },
+  {
+    "work_id": "fr-merimee-mateo-falcone",
+    "author": "Prosper Mérimée",
+    "title": "Mateo Falcone",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-merimee-mateo-falcone.html",
+      "bytes": 93815,
+      "useful_chars": 29214,
+      "words": 4915,
+      "paragraphs": 131,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Mateo_Falcone",
+      "sha256": "28a2af6c07cc2d2d7f10b4873c13aa39ca9a1b8f75abd39c8f1a7130251ac7e4"
+    },
+    "normalized": {
+      "chars": 25779,
+      "blocks": 133,
+      "paragraphs": 131,
+      "headings": 1,
+      "italic_spans": 19,
+      "pages": 16,
+      "char_ratio": 0.882
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 20.0,
+      "real_pages_v2": 16,
+      "diff_percent": -20.0
+    }
+  },
+  {
+    "work_id": "fr-merimee-carmen",
+    "author": "Prosper Mérimée",
+    "title": "Carmen",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-merimee-carmen.html",
+      "bytes": 181063,
+      "useful_chars": 146982,
+      "words": 27185,
+      "paragraphs": 373,
+      "headings": 10,
+      "download_url": "https://www.gutenberg.org/cache/epub/2465/pg2465-images.html",
+      "sha256": "3552a6106a435ffde6eb36e4d2e4e5d78c281e0d8adee02e14ac0020df613738"
+    },
+    "normalized": {
+      "chars": 133006,
+      "blocks": 395,
+      "paragraphs": 385,
+      "headings": 8,
+      "italic_spans": 231,
+      "pages": 85,
+      "char_ratio": 0.905
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 95.0,
+      "real_pages_v2": 85,
+      "diff_percent": -10.5
+    }
+  },
+  {
+    "work_id": "fr-daudet-chevre-seguin",
+    "author": "Alphonse Daudet",
+    "title": "La chèvre de monsieur Seguin",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-daudet-chevre-seguin.html",
+      "bytes": 75702,
+      "useful_chars": 14223,
+      "words": 2338,
+      "paragraphs": 78,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/La_ch%C3%A8vre_de_monsieur_Seguin",
+      "sha256": "5c291f456d00a4eddc0a207056adbe7187a97fc22e104589559026b0295eb22a"
+    },
+    "normalized": {
+      "chars": 11321,
+      "blocks": 75,
+      "paragraphs": 68,
+      "headings": 1,
+      "italic_spans": 5,
+      "pages": 7,
+      "char_ratio": 0.796
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 9.0,
+      "real_pages_v2": 7,
+      "diff_percent": -22.2
+    }
+  },
+  {
+    "work_id": "fr-daudet-secret-cornille",
+    "author": "Alphonse Daudet",
+    "title": "Le secret de maître Cornille",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-daudet-secret-cornille.html",
+      "bytes": 73547,
+      "useful_chars": 13997,
+      "words": 2301,
+      "paragraphs": 43,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Le_secret_de_ma%C3%AEtre_Cornille",
+      "sha256": "83f8d7e1aecf193a767441b8692d8f4ed08eda5e7a0cb79df30f83fb0e6668f3"
+    },
+    "normalized": {
+      "chars": 11280,
+      "blocks": 40,
+      "paragraphs": 37,
+      "headings": 1,
+      "italic_spans": 8,
+      "pages": 8,
+      "char_ratio": 0.806
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 9.0,
+      "real_pages_v2": 8,
+      "diff_percent": -11.1
+    }
+  },
+  {
+    "work_id": "fr-daudet-trois-messes-basses",
+    "author": "Alphonse Daudet",
+    "title": "Les trois messes basses",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-daudet-trois-messes-basses.html",
+      "bytes": 78862,
+      "useful_chars": 19062,
+      "words": 3080,
+      "paragraphs": 53,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Les_trois_messes_basses",
+      "sha256": "eeb401d45665e1c09f6c758d97db0ea51f421b1e6e439aacd5f75ff35d09a568"
+    },
+    "normalized": {
+      "chars": 16219,
+      "blocks": 51,
+      "paragraphs": 50,
+      "headings": 1,
+      "italic_spans": 12,
+      "pages": 11,
+      "char_ratio": 0.851
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 14.0,
+      "real_pages_v2": 11,
+      "diff_percent": -21.4
+    }
+  },
+  {
+    "work_id": "en-poe-tell-tale-heart",
+    "author": "Edgar Allan Poe",
+    "title": "The Tell-Tale Heart",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-poe-tell-tale-heart.html",
+      "bytes": 74692,
+      "useful_chars": 13261,
+      "words": 2410,
+      "paragraphs": 21,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/Mystery_Tales_of_Edgar_Allan_Poe/The_Tell-Tale_Heart",
+      "sha256": "f0b94636a6bd8260bd1da261d94f572d1c7b6fa792336f1cc7af5f819e186f19"
+    },
+    "normalized": {
+      "chars": 11031,
+      "blocks": 19,
+      "paragraphs": 19,
+      "headings": 0,
+      "italic_spans": 22,
+      "pages": 7,
+      "char_ratio": 0.832
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 9.0,
+      "real_pages_v2": 7,
+      "diff_percent": -22.2
+    }
+  },
+  {
+    "work_id": "en-poe-cask-amontillado",
+    "author": "Edgar Allan Poe",
+    "title": "The Cask of Amontillado",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-poe-cask-amontillado.html",
+      "bytes": 84941,
+      "useful_chars": 15493,
+      "words": 2724,
+      "paragraphs": 97,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Cask_of_Amontillado",
+      "sha256": "c79981a7b7bb7f72ae9c6e1829798ebcec7ecf4633d9272bf0a78b038ac4bd7f"
+    },
+    "normalized": {
+      "chars": 12958,
+      "blocks": 92,
+      "paragraphs": 92,
+      "headings": 0,
+      "italic_spans": 11,
+      "pages": 8,
+      "char_ratio": 0.836
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 10.5,
+      "real_pages_v2": 8,
+      "diff_percent": -23.8
+    }
+  },
+  {
+    "work_id": "en-poe-oval-portrait",
+    "author": "Edgar Allan Poe",
+    "title": "The Oval Portrait",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-poe-oval-portrait.html",
+      "bytes": 78114,
+      "useful_chars": 9791,
+      "words": 1688,
+      "paragraphs": 16,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Oval_Portrait",
+      "sha256": "8bb3cddd1541b61fec6ff1263174c97a54fe9fca6e6f806adeadbdfb44783d9d"
+    },
+    "normalized": {
+      "chars": 7324,
+      "blocks": 9,
+      "paragraphs": 9,
+      "headings": 0,
+      "italic_spans": 8,
+      "pages": 5,
+      "char_ratio": 0.748
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 6.0,
+      "real_pages_v2": 5,
+      "diff_percent": -16.7
+    }
+  },
+  {
+    "work_id": "en-doyle-scandal-bohemia",
+    "author": "Arthur Conan Doyle",
+    "title": "A Scandal in Bohemia",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-doyle-scandal-bohemia.html",
+      "bytes": 640229,
+      "useful_chars": 578374,
+      "words": 107662,
+      "paragraphs": 2529,
+      "headings": 20,
+      "download_url": "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html",
+      "sha256": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989"
+    },
+    "normalized": {
+      "chars": 47420,
+      "blocks": 260,
+      "paragraphs": 256,
+      "headings": 4,
+      "italic_spans": 6,
+      "pages": 31,
+      "char_ratio": 0.082
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 35.0,
+      "real_pages_v2": 31,
+      "diff_percent": -11.4
+    }
+  },
+  {
+    "work_id": "en-doyle-red-headed-league",
+    "author": "Arthur Conan Doyle",
+    "title": "The Red-Headed League",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-doyle-red-headed-league.html",
+      "bytes": 640229,
+      "useful_chars": 578374,
+      "words": 107662,
+      "paragraphs": 2529,
+      "headings": 20,
+      "download_url": "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html",
+      "sha256": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989"
+    },
+    "normalized": {
+      "chars": 50233,
+      "blocks": 216,
+      "paragraphs": 215,
+      "headings": 1,
+      "italic_spans": 9,
+      "pages": 33,
+      "char_ratio": 0.087
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 38.0,
+      "real_pages_v2": 33,
+      "diff_percent": -13.2
+    }
+  },
+  {
+    "work_id": "en-london-to-build-a-fire",
+    "author": "Jack London",
+    "title": "To Build a Fire",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-london-to-build-a-fire.html",
+      "bytes": 96730,
+      "useful_chars": 39901,
+      "words": 7428,
+      "paragraphs": 49,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/Century_Magazine/Volume_76/Issue_4/To_Build_a_Fire",
+      "sha256": "5cbd3ce8c025e70ee0e86053c07113493b2936b2a49dc0f4f426604189136dcf"
+    },
+    "normalized": {
+      "chars": 38094,
+      "blocks": 46,
+      "paragraphs": 46,
+      "headings": 0,
+      "italic_spans": 2,
+      "pages": 26,
+      "char_ratio": 0.955
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 29.0,
+      "real_pages_v2": 26,
+      "diff_percent": -10.3
+    }
+  },
+  {
+    "work_id": "en-henry-gift-of-the-magi",
+    "author": "O. Henry",
+    "title": "The Gift of the Magi",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-henry-gift-of-the-magi.html",
+      "bytes": 71986,
+      "useful_chars": 13253,
+      "words": 2375,
+      "paragraphs": 48,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/The_Gift_of_the_Magi",
+      "sha256": "b1a2d058824423ac0ad278e7aa26d5e6fa5a79f02bd4bf02db7c8eb683d447c8"
+    },
+    "normalized": {
+      "chars": 11212,
+      "blocks": 47,
+      "paragraphs": 47,
+      "headings": 0,
+      "italic_spans": 0,
+      "pages": 7,
+      "char_ratio": 0.846
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 9.0,
+      "real_pages_v2": 7,
+      "diff_percent": -22.2
+    }
+  },
+  {
+    "work_id": "en-henry-last-leaf",
+    "author": "O. Henry",
+    "title": "The Last Leaf",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-henry-last-leaf.html",
+      "bytes": 75064,
+      "useful_chars": 14932,
+      "words": 2664,
+      "paragraphs": 58,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/The_Last_Leaf_(Henry)",
+      "sha256": "d6e1526ad9eedb7926f62d41cfe5110d1cbda4b93af8948d077ce2f8d16735f6"
+    },
+    "normalized": {
+      "chars": 12750,
+      "blocks": 57,
+      "paragraphs": 57,
+      "headings": 0,
+      "italic_spans": 1,
+      "pages": 8,
+      "char_ratio": 0.854
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 10.0,
+      "real_pages_v2": 8,
+      "diff_percent": -20.0
+    }
+  },
+  {
+    "work_id": "en-saki-open-window",
+    "author": "Saki (H. H. Munro)",
+    "title": "The Open Window",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-saki-open-window.html",
+      "bytes": 62441,
+      "useful_chars": 8706,
+      "words": 1487,
+      "paragraphs": 31,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/The_Open_Window_(Saki)",
+      "sha256": "5e41646dfc5ec82adec811bb35a9d2a3453deabc76508599866fd40b38fc8f3d"
+    },
+    "normalized": {
+      "chars": 6815,
+      "blocks": 29,
+      "paragraphs": 29,
+      "headings": 0,
+      "italic_spans": 0,
+      "pages": 4,
+      "char_ratio": 0.783
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 6.0,
+      "real_pages_v2": 4,
+      "diff_percent": -33.3
+    }
+  },
+  {
+    "work_id": "en-chopin-story-of-an-hour",
+    "author": "Kate Chopin",
+    "title": "The Story of an Hour",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-chopin-story-of-an-hour.html",
+      "bytes": 66747,
+      "useful_chars": 7761,
+      "words": 1368,
+      "paragraphs": 25,
+      "headings": 1,
+      "download_url": "https://en.wikisource.org/wiki/The_Story_of_an_Hour",
+      "sha256": "7675278cb66d093c6f8c4d8c0a47db5cf60844551125d631383775509b3e21b5"
+    },
+    "normalized": {
+      "chars": 5860,
+      "blocks": 22,
+      "paragraphs": 21,
+      "headings": 0,
+      "italic_spans": 1,
+      "pages": 4,
+      "char_ratio": 0.755
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 4.5,
+      "real_pages_v2": 4,
+      "diff_percent": -11.1
+    }
+  },
+  {
+    "work_id": "en-lamb-essays-of-elia",
+    "author": "Charles Lamb",
+    "title": "Essays of Elia",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "STRUCTURE_ISSUE",
+    "reasons": [
+      "Contains entire Works Vol 2: Elia + Last Essays + 400 pages of scholarly notes & index"
+    ],
+    "source": {
+      "file": "en-lamb-essays-of-elia.html",
+      "bytes": 1250978,
+      "useful_chars": 1120513,
+      "words": 196061,
+      "paragraphs": 2060,
+      "headings": 171,
+      "download_url": "https://www.gutenberg.org/cache/epub/10343/pg10343-images.html",
+      "sha256": "d7853bd0b13372877d61535273c919930abad79701482e62213fc7edb4cfe1c3"
+    },
+    "normalized": {
+      "chars": 1121723,
+      "blocks": 2221,
+      "paragraphs": 2052,
+      "headings": 169,
+      "italic_spans": 1963,
+      "pages": 728,
+      "char_ratio": 1.001
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 345.0,
+      "real_pages_v2": 728,
+      "diff_percent": 111.0
+    }
+  },
+  {
+    "work_id": "en-wilde-dorian-gray",
+    "author": "Oscar Wilde",
+    "title": "The Picture of Dorian Gray",
+    "language": "en",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-wilde-dorian-gray.html",
+      "bytes": 492595,
+      "useful_chars": 446618,
+      "words": 82095,
+      "paragraphs": 1504,
+      "headings": 26,
+      "download_url": "https://www.gutenberg.org/cache/epub/174/pg174-images.html",
+      "sha256": "b121e06741dc40b1f4754db3ffc39681442f4136026756933dc730808ecc3b5f"
+    },
+    "normalized": {
+      "chars": 437042,
+      "blocks": 1524,
+      "paragraphs": 1499,
+      "headings": 24,
+      "italic_spans": 68,
+      "pages": 278,
+      "char_ratio": 0.979
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 315.0,
+      "real_pages_v2": 278,
+      "diff_percent": -11.7
+    }
+  },
+  {
+    "work_id": "en-melville-bartleby",
+    "author": "Herman Melville",
+    "title": "Bartleby, the Scrivener",
+    "language": "en",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "en-melville-bartleby.html",
+      "bytes": 113590,
+      "useful_chars": 100676,
+      "words": 17445,
+      "paragraphs": 257,
+      "headings": 5,
+      "download_url": "https://www.gutenberg.org/cache/epub/11231/pg11231-images.html",
+      "sha256": "a51dfe7737271c08eec79b4f97c1cc07825e7bf05388c0952e291a010b2045f2"
+    },
+    "normalized": {
+      "chars": 83248,
+      "blocks": 256,
+      "paragraphs": 251,
+      "headings": 3,
+      "italic_spans": 31,
+      "pages": 53,
+      "char_ratio": 0.827
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 60.0,
+      "real_pages_v2": 53,
+      "diff_percent": -11.7
+    }
+  },
+  {
+    "work_id": "fr-diderot-jacques-le-fataliste",
+    "author": "Denis Diderot",
+    "title": "Jacques le fataliste et son maître",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-diderot-jacques-le-fataliste.html",
+      "bytes": 1015890,
+      "useful_chars": 552717,
+      "words": 91463,
+      "paragraphs": 2549,
+      "headings": 2,
+      "download_url": "https://fr.wikisource.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre",
+      "sha256": "b6b483c29637d112601c7484d144db84c15b9f7f0fa6e7adf6059d7cc5184b16"
+    },
+    "normalized": {
+      "chars": 521958,
+      "blocks": 3822,
+      "paragraphs": 3819,
+      "headings": 1,
+      "italic_spans": 163,
+      "pages": 329,
+      "char_ratio": 0.944
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 330.0,
+      "real_pages_v2": 329,
+      "diff_percent": -0.3
+    }
+  },
+  {
+    "work_id": "fr-diderot-neveu-de-rameau",
+    "author": "Denis Diderot",
+    "title": "Le Neveu de Rameau",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-diderot-neveu-de-rameau.html",
+      "bytes": 222714,
+      "useful_chars": 193686,
+      "words": 34087,
+      "paragraphs": 530,
+      "headings": 4,
+      "download_url": "https://www.gutenberg.org/cache/epub/13862/pg13862-images.html",
+      "sha256": "becf079d78e3f0b6bfd2904945b9c6228d3180dad6547998bb7d077655248601"
+    },
+    "normalized": {
+      "chars": 176568,
+      "blocks": 526,
+      "paragraphs": 524,
+      "headings": 2,
+      "italic_spans": 4,
+      "pages": 112,
+      "char_ratio": 0.912
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 100.0,
+      "real_pages_v2": 112,
+      "diff_percent": 12.0
+    }
+  },
+  {
+    "work_id": "fr-nerval-aurelia",
+    "author": "Gérard de Nerval",
+    "title": "Aurélia ou le Rêve et la Vie",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-nerval-aurelia.html",
+      "bytes": 292723,
+      "useful_chars": 190667,
+      "words": 31486,
+      "paragraphs": 289,
+      "headings": 26,
+      "download_url": "https://fr.wikisource.org/wiki/Aur%C3%A9lia/Texte_entier",
+      "sha256": "a92328e4ae04aa379ce97129f57ca45d216f9fa676064791e9f0b38045cd8625"
+    },
+    "normalized": {
+      "chars": 183285,
+      "blocks": 287,
+      "paragraphs": 256,
+      "headings": 25,
+      "italic_spans": 98,
+      "pages": 120,
+      "char_ratio": 0.961
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 80.0,
+      "real_pages_v2": 120,
+      "diff_percent": 50.0
+    }
+  },
+  {
+    "work_id": "fr-barbey-les-diaboliques",
+    "author": "Jules Barbey d'Aurevilly",
+    "title": "Les Diaboliques",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-barbey-les-diaboliques.html",
+      "bytes": 648224,
+      "useful_chars": 593127,
+      "words": 101712,
+      "paragraphs": 751,
+      "headings": 12,
+      "download_url": "https://www.gutenberg.org/cache/epub/13848/pg13848-images.html",
+      "sha256": "fb0da74eab8c21083aafd35b675cbbd1f0b711e4a85671e92a373b7bbcb2eca1"
+    },
+    "normalized": {
+      "chars": 581950,
+      "blocks": 755,
+      "paragraphs": 745,
+      "headings": 10,
+      "italic_spans": 0,
+      "pages": 371,
+      "char_ratio": 0.981
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 350.0,
+      "real_pages_v2": 371,
+      "diff_percent": 6.0
+    }
+  },
+  {
+    "work_id": "fr-huysmans-a-rebours",
+    "author": "Joris-Karl Huysmans",
+    "title": "À rebours",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-huysmans-a-rebours.html",
+      "bytes": 593196,
+      "useful_chars": 449775,
+      "words": 70338,
+      "paragraphs": 1021,
+      "headings": 19,
+      "download_url": "https://fr.wikisource.org/wiki/%C3%80_rebours/Texte_entier",
+      "sha256": "b4b8dec6141af5bb9c9cb56c3eb8875f8c40299bf2b8dcb175fbd2895758e7d9"
+    },
+    "normalized": {
+      "chars": 438773,
+      "blocks": 1043,
+      "paragraphs": 1024,
+      "headings": 18,
+      "italic_spans": 168,
+      "pages": 284,
+      "char_ratio": 0.976
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 295.0,
+      "real_pages_v2": 284,
+      "diff_percent": -3.7
+    }
+  },
+  {
+    "work_id": "fr-bloy-histoires-desobligeantes",
+    "author": "Léon Bloy",
+    "title": "Histoires désobligeantes",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-bloy-histoires-desobligeantes.html",
+      "bytes": 452942,
+      "useful_chars": 315906,
+      "words": 50647,
+      "paragraphs": 1641,
+      "headings": 33,
+      "download_url": "https://fr.wikisource.org/wiki/Histoires_d%C3%A9sobligeantes/Texte_entier",
+      "sha256": "df2fbcf244c1676834db2bd485e679c1e1cb8b2018cdb7c7779e44732c7b0116"
+    },
+    "normalized": {
+      "chars": 309297,
+      "blocks": 1563,
+      "paragraphs": 1531,
+      "headings": 32,
+      "italic_spans": 237,
+      "pages": 194,
+      "char_ratio": 0.979
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 145.0,
+      "real_pages_v2": 194,
+      "diff_percent": 33.8
+    }
+  },
+  {
+    "work_id": "fr-stendhal-chartreuse-de-parme",
+    "author": "Stendhal",
+    "title": "La Chartreuse de Parme",
+    "language": "fr",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-stendhal-chartreuse-de-parme.html",
+      "bytes": 1172929,
+      "useful_chars": 1073226,
+      "words": 184630,
+      "paragraphs": 2577,
+      "headings": 33,
+      "download_url": "https://www.gutenberg.org/cache/epub/796/pg796-images.html",
+      "sha256": "d04d664eefc1c29e0ab408ba8be6e04c8d82f9452bc513f043bd04283a1ef28d"
+    },
+    "normalized": {
+      "chars": 1065061,
+      "blocks": 2609,
+      "paragraphs": 2577,
+      "headings": 31,
+      "italic_spans": 39,
+      "pages": 684,
+      "char_ratio": 0.992
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 650.0,
+      "real_pages_v2": 684,
+      "diff_percent": 5.2
+    }
+  },
+  {
+    "work_id": "fr-stendhal-chroniques-italiennes",
+    "author": "Stendhal",
+    "title": "Chroniques italiennes",
+    "language": "fr",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "fr-stendhal-chroniques-italiennes.html",
+      "bytes": 815053,
+      "useful_chars": 453435,
+      "words": 75306,
+      "paragraphs": 1007,
+      "headings": 15,
+      "download_url": "https://fr.wikisource.org/wiki/Chroniques_italiennes_(%C3%A9dition_L%C3%A9vy,_1855)",
+      "sha256": "02ac384beb443aa4925a9a119fc0523a7b5cc553287ed1888d4564d142d23dc4"
+    },
+    "normalized": {
+      "chars": 431169,
+      "blocks": 985,
+      "paragraphs": 969,
+      "headings": 10,
+      "italic_spans": 114,
+      "pages": 279,
+      "char_ratio": 0.951
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 220.0,
+      "real_pages_v2": 279,
+      "diff_percent": 26.8
+    }
+  },
+  {
+    "work_id": "es-quevedo-los-suenos",
+    "author": "Francisco de Quevedo",
+    "title": "Los sueños",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-quevedo-los-suenos.html",
+      "bytes": 632990,
+      "useful_chars": 437474,
+      "words": 78828,
+      "paragraphs": 1626,
+      "headings": 22,
+      "download_url": "https://www.gutenberg.org/cache/epub/65999/pg65999-images.html",
+      "sha256": "9517ec5a3fec05f21507be5c2351e4fede9dd47df49ef82dfe7373b2444f2cbd"
+    },
+    "normalized": {
+      "chars": 420844,
+      "blocks": 1648,
+      "paragraphs": 1621,
+      "headings": 20,
+      "italic_spans": 1821,
+      "pages": 269,
+      "char_ratio": 0.962
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 195.0,
+      "real_pages_v2": 269,
+      "diff_percent": 37.9
+    }
+  },
+  {
+    "work_id": "es-quevedo-el-buscon",
+    "author": "Francisco de Quevedo",
+    "title": "Historia de la vida del Buscón",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-quevedo-el-buscon.html",
+      "bytes": 292225,
+      "useful_chars": 252045,
+      "words": 46215,
+      "paragraphs": 801,
+      "headings": 4,
+      "download_url": "https://www.gutenberg.org/cache/epub/32315/pg32315-images.html",
+      "sha256": "e6eff6072ea06bd0eac5c221a7c96e8cffae2faf61cc9bb8bca02fd3e4e82586"
+    },
+    "normalized": {
+      "chars": 235559,
+      "blocks": 798,
+      "paragraphs": 796,
+      "headings": 2,
+      "italic_spans": 0,
+      "pages": 152,
+      "char_ratio": 0.935
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 210.0,
+      "real_pages_v2": 152,
+      "diff_percent": -27.6
+    }
+  },
+  {
+    "work_id": "es-larra-el-doncel",
+    "author": "Mariano José de Larra",
+    "title": "El doncel de don Enrique el Doliente",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "SOURCE_MISMATCH",
+    "reasons": [
+      "Downloaded Poul Anderson 'Inside Earth' instead of Mariano José de Larra"
+    ],
+    "source": {
+      "file": "es-larra-el-doncel.html",
+      "bytes": 130009,
+      "useful_chars": 115566,
+      "words": 20221,
+      "paragraphs": 424,
+      "headings": 3,
+      "download_url": "https://www.gutenberg.org/cache/epub/51184/pg51184-images.html",
+      "sha256": "4c613808117883578dfd1c23889530c18f6c44224c16818d952bc3344f32b285"
+    },
+    "normalized": {
+      "chars": 97191,
+      "blocks": 473,
+      "paragraphs": 418,
+      "headings": 1,
+      "italic_spans": 47,
+      "pages": 61,
+      "char_ratio": 0.841
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 395.0,
+      "real_pages_v2": 61,
+      "diff_percent": -84.6
+    }
+  },
+  {
+    "work_id": "es-clarin-adios-cordera",
+    "author": "Leopoldo Alas (Clarín)",
+    "title": "¡Adiós, Cordera! y otros cuentos",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-clarin-adios-cordera.html",
+      "bytes": 83397,
+      "useful_chars": 21999,
+      "words": 3788,
+      "paragraphs": 62,
+      "headings": 2,
+      "download_url": "https://es.wikisource.org/wiki/%C2%A1Adi%C3%B3s,_Cordera!",
+      "sha256": "d2e1417398dc45a66d2e482d88f23c7a199c7c7433fd6dd60cc445005a0d0073"
+    },
+    "normalized": {
+      "chars": 19839,
+      "blocks": 68,
+      "paragraphs": 65,
+      "headings": 1,
+      "italic_spans": 80,
+      "pages": 14,
+      "char_ratio": 0.902
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 14.0,
+      "real_pages_v2": 14,
+      "diff_percent": 0.0
+    }
+  },
+  {
+    "work_id": "es-pardo-bazan-los-pazos-de-ulloa",
+    "author": "Emilia Pardo Bazán",
+    "title": "Los pazos de Ulloa",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-pardo-bazan-los-pazos-de-ulloa.html",
+      "bytes": 554205,
+      "useful_chars": 509934,
+      "words": 86649,
+      "paragraphs": 1299,
+      "headings": 36,
+      "download_url": "https://www.gutenberg.org/cache/epub/18005/pg18005-images.html",
+      "sha256": "eb75f60ca40dff1b28fe597c36b22a62cc70096838b6574ce8f0f2c8e0f4baec"
+    },
+    "normalized": {
+      "chars": 495646,
+      "blocks": 1361,
+      "paragraphs": 1293,
+      "headings": 34,
+      "italic_spans": 235,
+      "pages": 320,
+      "char_ratio": 0.972
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 385.0,
+      "real_pages_v2": 320,
+      "diff_percent": -16.9
+    }
+  },
+  {
+    "work_id": "es-galdos-misericordia",
+    "author": "Benito Pérez Galdós",
+    "title": "Misericordia",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-galdos-misericordia.html",
+      "bytes": 546003,
+      "useful_chars": 494898,
+      "words": 87369,
+      "paragraphs": 1506,
+      "headings": 45,
+      "download_url": "https://www.gutenberg.org/cache/epub/21831/pg21831-images.html",
+      "sha256": "6d93f2a0652aed3685fe885c5e7058904cc622042632b14a43ddea2e119bc76a"
+    },
+    "normalized": {
+      "chars": 479693,
+      "blocks": 1586,
+      "paragraphs": 1500,
+      "headings": 43,
+      "italic_spans": 1078,
+      "pages": 304,
+      "char_ratio": 0.969
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 455.0,
+      "real_pages_v2": 304,
+      "diff_percent": -33.2
+    }
+  },
+  {
+    "work_id": "es-galdos-dona-perfecta",
+    "author": "Benito Pérez Galdós",
+    "title": "Doña Perfecta",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "STRUCTURE_ISSUE",
+    "reasons": [
+      "Contains full textbook apparatus (notes + 200-page Spanish-English dictionary)"
+    ],
+    "source": {
+      "file": "es-galdos-dona-perfecta.html",
+      "bytes": 1063032,
+      "useful_chars": 713101,
+      "words": 121824,
+      "paragraphs": 7913,
+      "headings": 79,
+      "download_url": "https://www.gutenberg.org/cache/epub/15725/pg15725-images.html",
+      "sha256": "385e0256bc9c747c0ed4683a204c4fcf916cbdde772ef8dfbfbc13c1dbc41bb3"
+    },
+    "normalized": {
+      "chars": 690497,
+      "blocks": 7983,
+      "paragraphs": 7906,
+      "headings": 77,
+      "italic_spans": 5559,
+      "pages": 424,
+      "char_ratio": 0.968
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 295.0,
+      "real_pages_v2": 424,
+      "diff_percent": 43.7
+    }
+  },
+  {
+    "work_id": "es-unamuno-niebla",
+    "author": "Miguel de Unamuno",
+    "title": "Niebla",
+    "language": "es",
+    "work_kind": "LONG_FORM",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-unamuno-niebla.html",
+      "bytes": 409533,
+      "useful_chars": 338188,
+      "words": 60736,
+      "paragraphs": 2378,
+      "headings": 40,
+      "download_url": "https://www.gutenberg.org/cache/epub/49836/pg49836-images.html",
+      "sha256": "69f56e540b9ed6edc01bf20315e922752e38a0b9d77f03bc7b500dbaae6320be"
+    },
+    "normalized": {
+      "chars": 319812,
+      "blocks": 2456,
+      "paragraphs": 2375,
+      "headings": 38,
+      "italic_spans": 83,
+      "pages": 202,
+      "char_ratio": 0.946
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 295.0,
+      "real_pages_v2": 202,
+      "diff_percent": -31.5
+    }
+  },
+  {
+    "work_id": "es-unamuno-san-manuel-bueno-martir",
+    "author": "Miguel de Unamuno",
+    "title": "San Manuel Bueno, mártir",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-unamuno-san-manuel-bueno-martir.html",
+      "bytes": 130394,
+      "useful_chars": 76807,
+      "words": 14125,
+      "paragraphs": 242,
+      "headings": 1,
+      "download_url": "https://es.wikisource.org/wiki/San_Manuel_Bueno,_m%C3%A1rtir",
+      "sha256": "9809ff935e87dcaedb09e612ea6ee0ec11ade605790e33694d187afbb6a3bb55"
+    },
+    "normalized": {
+      "chars": 75214,
+      "blocks": 242,
+      "paragraphs": 242,
+      "headings": 0,
+      "italic_spans": 0,
+      "pages": 48,
+      "char_ratio": 0.979
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 47.5,
+      "real_pages_v2": 48,
+      "diff_percent": 1.1
+    }
+  },
+  {
+    "work_id": "es-valle-inclan-sonata-otono",
+    "author": "Ramón del Valle-Inclán",
+    "title": "Sonata de otoño (Memorias del Marqués de Bradomín)",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-valle-inclan-sonata-otono.html",
+      "bytes": 114024,
+      "useful_chars": 63457,
+      "words": 10376,
+      "paragraphs": 645,
+      "headings": 2,
+      "download_url": "https://www.gutenberg.org/cache/epub/37537/pg37537-images.html",
+      "sha256": "d3b6b5f32e905b89956a9d291fdf78680a8a890251346be1418582f9d49e4d63"
+    },
+    "normalized": {
+      "chars": 44082,
+      "blocks": 467,
+      "paragraphs": 467,
+      "headings": 0,
+      "italic_spans": 26,
+      "pages": 28,
+      "char_ratio": 0.695
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 92.5,
+      "real_pages_v2": 28,
+      "diff_percent": -69.7
+    }
+  },
+  {
+    "work_id": "es-valle-inclan-sonata-primavera",
+    "author": "Ramón del Valle-Inclán",
+    "title": "Sonata de primavera",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-valle-inclan-sonata-primavera.html",
+      "bytes": 170519,
+      "useful_chars": 112966,
+      "words": 19057,
+      "paragraphs": 682,
+      "headings": 1,
+      "download_url": "https://es.wikisource.org/wiki/Sonata_de_primavera",
+      "sha256": "7e1f64c643162a612894fbb56e1bbe5a4cefd8f209ce07a080b012388779d8c2"
+    },
+    "normalized": {
+      "chars": 111077,
+      "blocks": 682,
+      "paragraphs": 682,
+      "headings": 0,
+      "italic_spans": 0,
+      "pages": 70,
+      "char_ratio": 0.983
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 85.0,
+      "real_pages_v2": 70,
+      "diff_percent": -17.6
+    }
+  },
+  {
+    "work_id": "es-valle-inclan-luces-de-bohemia",
+    "author": "Ramón del Valle-Inclán",
+    "title": "Luces de bohemia (esperpento)",
+    "language": "es",
+    "work_kind": "SHORT_WORK",
+    "status": "VERIFIED",
+    "reasons": [],
+    "source": {
+      "file": "es-valle-inclan-luces-de-bohemia.html",
+      "bytes": 207836,
+      "useful_chars": 137979,
+      "words": 23777,
+      "paragraphs": 2549,
+      "headings": 20,
+      "download_url": "https://www.gutenberg.org/cache/epub/68745/pg68745-images.html",
+      "sha256": "00e1ee496cf55ff0a49c9593ea8d404280fa7ccebac88f6270e6b88a793141ed"
+    },
+    "normalized": {
+      "chars": 116877,
+      "blocks": 2592,
+      "paragraphs": 2547,
+      "headings": 18,
+      "italic_spans": 17,
+      "pages": 71,
+      "char_ratio": 0.847
+    },
+    "comparison": {
+      "estimated_pages_midpoint": 100.0,
+      "real_pages_v2": 71,
+      "diff_percent": -29.0
+    }
+  }
+]

@@ -2,6 +2,7 @@ import * as SecureStore from 'expo-secure-store';
 
 const KEY_USER_ID = 'bookfin_alpha_user_id';
 const KEY_CONSENT = 'bookfin_alpha_consent_given';
+const KEY_LANGUAGES = 'bookfin_reader_languages_v1';
 
 /**
  * Gestion du stockage sécurisé de l'identité anonyme du lecteur alpha.
@@ -43,3 +44,22 @@ export async function clearStoredAlphaIdentity(): Promise<void> {
   }
 }
 
+/** Languages are product preferences, not device locale.  Keeping them next
+ * to the anonymous identity means an ordinary app relaunch never replays
+ * onboarding. */
+export async function getStoredLanguages(): Promise<string[] | null> {
+  try {
+    const raw = await SecureStore.getItemAsync(KEY_LANGUAGES);
+    if (!raw) return null;
+    const parsed: unknown = JSON.parse(raw);
+    return Array.isArray(parsed) && parsed.every((item) => typeof item === 'string')
+      ? parsed
+      : null;
+  } catch {
+    return null;
+  }
+}
+
+export async function setStoredLanguages(languages: string[]): Promise<void> {
+  await SecureStore.setItemAsync(KEY_LANGUAGES, JSON.stringify(languages));
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "en-henry-last-leaf",
+  "author": "O. Henry",
+  "title": "The Last Leaf",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 8,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 8,
+      "character_length": 1775,
+      "blocks_count": 7,
+      "preview": "Layout 2THE LAST LEAF IN a little district west of Washington Square the streets have run crazy and broken themselves into small strips called “places.” These “places” make strange angles and curves. One street crosses itself a time or two. An artist once discovered a valuable possibility in this street. Suppose a collector with a bill for paints, paper and canvas should, in traversing this route,...",
+      "content_hash": "92d8a7ce93ad4bd792bcbf4fbdf1609c7035b9953c133975c40749e7432767ee"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 8,
+      "character_length": 1776,
+      "blocks_count": 7,
+      "preview": "“Oh, I never heard of such nonsense,” complained Sue, with magnificent scorn. “What have old ivy leaves to do with your getting well? And you used to love that vine so, you naughty girl. Don’t be a goosey. Why, the doctor told me this morning that your chances for getting well real soon were—let’s see exactly what he said—he said the chances were ten to one! Why, that’s almost as good a chance as ...",
+      "content_hash": "2ebd38d13f47a6c4e4ad9c218b34dfed8734d1f8f7786b11014db4957a6c7eb0"
+    },
+    "end": {
+      "label": "Fin (Page 8)",
+      "page_sequence_number": 8,
+      "total_pages": 8,
+      "character_length": 1415,
+      "blocks_count": 4,
+      "preview": "“Even chances,” said the doctor, taking Sue’s thin, shaking hand in his. “With good nursing you’ll win. And now I must see another case I have downstairs. Behrman, his name is—some kind of an artist, I believe. Pneumonia, too. He is an old, weak man, and the attack is acute. There is no hope for him; but he goes to the hospital to-day to be made more comfortable.” The next day the doctor said to S...",
+      "content_hash": "c505377b7dddc7f2627de07aa331b8ce5f919b32fdc7949d60f9d5f17aaa1b00"
+    }
+  }
+}

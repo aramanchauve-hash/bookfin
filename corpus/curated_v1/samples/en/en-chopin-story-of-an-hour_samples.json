@@ -1,0 +1,37 @@
+{
+  "work_id": "en-chopin-story-of-an-hour",
+  "author": "Kate Chopin",
+  "title": "The Story of an Hour",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 4,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 4,
+      "character_length": 1625,
+      "blocks_count": 5,
+      "preview": "Knowing that Mrs. Mallard was afflicted with a heart trouble, great care was taken to break to her as gently as possible the news of her husband's death. It was her sister Josephine who told her, in broken sentences; veiled hints that revealed in half concealing. Her husband's friend Richards was there, too, near her. It was he who had been in the newspaper office when intelligence of the railroad...",
+      "content_hash": "dee5e8fcdb123b455774be26708fdd68527dc1f8127688c7da1f1197dba60415"
+    },
+    "middle": {
+      "label": "Milieu (Page 2)",
+      "page_sequence_number": 2,
+      "total_pages": 4,
+      "character_length": 1532,
+      "blocks_count": 4,
+      "preview": "She sat with her head thrown back upon the cushion of the chair, quite motionless, except when a sob came up into her throat and shook her, as a child who has cried itself to sleep continues to sob in its dreams. She was young, with a fair, calm face, whose lines bespoke repression and even a certain strength. But now there was a dull stare in her eyes, whose gaze was fixed away off yonder on one ...",
+      "content_hash": "e3b1ce1077716ccdb728eb146ac2c7d80f5f781e487743def0cdcd0aac244142"
+    },
+    "end": {
+      "label": "Fin (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 4,
+      "character_length": 1066,
+      "blocks_count": 8,
+      "preview": "She arose at length and opened the door to her sister's importunities. There was a feverish triumph in her eyes, and she carried herself unwittingly like a goddess of Victory. She clasped her sister's waist, and together they descended the stairs. Richards stood waiting for them at the bottom. Someone was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-s...",
+      "content_hash": "3116d49e6f55018b1a55db934fd54cb1be6a0807059c71777976f9f132c5a30c"
+    }
+  }
+}

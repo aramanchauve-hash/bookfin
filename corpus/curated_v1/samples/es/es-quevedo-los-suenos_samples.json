@@ -1,0 +1,55 @@
+{
+  "work_id": "es-quevedo-los-suenos",
+  "author": "Francisco de Quevedo",
+  "title": "Los sueños",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "total_pages": 262,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 262,
+      "character_length": 1042,
+      "blocks_count": 16,
+      "preview": "NOTAS DEL TRANSCRIPTOREn la versión de texto sin formatear las palabras en itálicas están indicadas con _guiones bajos_.La cubierta del libro fue agregada por el Transcriptor y ha sido puesta en el dominio público.El criterio utilizado para llevar a cabo esta transcripción ha sido el de respetar las reglas de la Real Academia Española vigentes cuando se imprimió la presente edición. Esto se aplica...",
+      "content_hash": "cedaf1c5edc80508cfa86da5a828360858da61224034fb1fa0092bd717a00fbc"
+    },
+    "25pct": {
+      "label": "25% (Page 66)",
+      "page_sequence_number": 66,
+      "total_pages": 262,
+      "character_length": 1741,
+      "blocks_count": 9,
+      "preview": "[81] En C y P: clérigo de bonete. De tres altos, de tres pisos propiamente. Solís, Hist. Mej., 3, 10: “Sería de hasta diez mil casas de segundo y tercer alto”. A. Álv., Silva, Magd., 2 c., § 2: “No es tela lisa, ni siempre de un peso; sino que tiene sus altos, como brocado”. El mejor brocado era el de tres altos, primero el fondo de la tela, segundo, la labor; tercero, el realce de plata, oro o se...",
+      "content_hash": "f697a45fabe7dda7b2005a1936a45c849177b4d3e361c8992de66367c83c29b6"
+    },
+    "50pct": {
+      "label": "50% (Page 131)",
+      "page_sequence_number": 131,
+      "total_pages": 262,
+      "character_length": 1626,
+      "blocks_count": 6,
+      "preview": "[184]Corr., 21: “A mesa puesta y cama hecha. (Entiéndese venir, sentarse y ser admitido)”. Ídem, 567: “Sentarse a mesa puesta. (El que no pone cuidado y nada le cuesta)”. Ídem, 54: “Asentaisos a mesa puesta con vuestras manos lavadas y poca vergüenza”.[185]Matar hachas, apagarlas.[186]Tuerto, torcido, lo contra derecho. Galindo, D, 414: “A veces con el tuerto llega el hombre a su derecho, o con un...",
+      "content_hash": "8b074e873fced49bca1b74824106b11c76cc9d13a7f029eccb89abe8dd5ca4bb"
+    },
+    "75pct": {
+      "label": "75% (Page 196)",
+      "page_sequence_number": 196,
+      "total_pages": 262,
+      "character_length": 1763,
+      "blocks_count": 9,
+      "preview": "Y cuando al despediros le queréis pagar, que es para ellos la verdadera luz y entendimiento del negocio que han de resolver, dice, haciendo grandes cortesías y acompañamientos:—¡Jesús, señor!Y entre Jesús y señor alarga la mano, y para gastos de pareceres se emboca un doblón.—No he de salir de aquí—dijo el nigromántico—hasta que los pleitos se determinen a garrotazos. Que en el tiempo que por falt...",
+      "content_hash": "fa5c97333b7f60808e8bf1d5992bf5b95b597ab1fb6e147d98ac7de14f1ad25a"
+    },
+    "end": {
+      "label": "Fin (Page 262)",
+      "page_sequence_number": 262,
+      "total_pages": 262,
+      "character_length": 861,
+      "blocks_count": 11,
+      "preview": "[582]Dios me le guarde..., es un consentidor.[583] “desmocharan las testas” (P).[584]Poetas, por ser pobres; ginoveses, por ser ricos.[585]Marido postizo, el que siempre hace de acusativo, que padece, mientras otros hacen de nominativo, que obra, en frase del Guzmán de Alforache, en cuya pte. 2, l. 3, c. 5, se trata largamente de ellos.[586]Medellín, acaso alude a los ganados extremeños, como en e...",
+      "content_hash": "9cfbc0398aea581a748239b345a98091a425fb1a25fb9dea04fe17d1a3172b78"
+    }
+  }
+}

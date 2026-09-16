@@ -1,0 +1,37 @@
+{
+  "work_id": "es-cervantes-el-coloquio-de-los-perros",
+  "author": "Miguel de Cervantes",
+  "title": "El coloquio de los perros",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 82,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 82,
+      "character_length": 1378,
+      "blocks_count": 7,
+      "preview": "COLOQUIO QUE PASO ENTRE CIPION Y BERGANZA,PERROS DEL HOSPITAL DE LA RESURRECCION,QUE ESTÁ EN LA CIUDAD DE VALLADOLID, FUERA DE LA PUERTA DEL CAMPO, Á QUIEN COMUNMENTE LLAMAN LOS PERROS DE MAHUDES.Cipion. Berganza amigo, dejemos esta noche el hospital en guarda de la confianza, y retirémonos á esta soledad y entre estas esteras, donde podremos gozar sin ser sentidos desta no vista merced que el cie...",
+      "content_hash": "a68280459a2ccf8938427b17e5d3b65f6d9379ff73f0ae5674e7be60c9254a29"
+    },
+    "middle": {
+      "label": "Milieu (Page 41)",
+      "page_sequence_number": 41,
+      "total_pages": 82,
+      "character_length": 1624,
+      "blocks_count": 2,
+      "preview": "de fiesta: diéronle mil parabienes de la buena compra, afirmándole que valia ciento y cincuenta ducados, como un huevo un maravedí, y él volteando y revolviendo el caballo, representaba su tragedia en el teatro de la referida plaza. Y estando en sus caracoles y rodeos, llegaron dos hombres de buen talle y de mejor ropaje, y el uno dijo: ¡Vive Dios, que este es Piedehierro, mi caballo, que ha pocos...",
+      "content_hash": "07d157addddaaee5eaddc20295d2f9b3511b54da4f3b58b1f0af4b8404fd3922"
+    },
+    "end": {
+      "label": "Fin (Page 82)",
+      "page_sequence_number": 82,
+      "total_pages": 82,
+      "character_length": 259,
+      "blocks_count": 4,
+      "preview": "—Señor alférez, no volvamos mas á esa disputa; yo alcanzo el artificio del coloquio y la invencion, y basta: vámonos al Espolon á recrear los ojos del cuerpo, pues ya he recreado los del entendimiento.—Vamos en buen hora, dijo el alférez.Y con esto se fueron.",
+      "content_hash": "d8afada4004070efb8cd01b3c72d8b9296497481f04f4e4786cd82bbe4495b3e"
+    }
+  }
+}

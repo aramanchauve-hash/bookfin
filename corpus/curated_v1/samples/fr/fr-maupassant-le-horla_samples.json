@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-maupassant-le-horla",
+  "author": "Guy de Maupassant",
+  "title": "Le Horla",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 34,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 34,
+      "character_length": 1714,
+      "blocks_count": 9,
+      "preview": "LE HORLA. . . . . . . . . . . . . . . . . . . . . . . . . 8 mai. — Quelle journée admirable ! J’ai passé toute la matinée étendu sur l’herbe, devant ma maison, sous l’énorme platane qui la couvre, l’abrite et l’ombrage tout entière. J’aime ce pays, et j’aime y vivre parce que j’y ai mes racines, ces profondes et délicates racines, qui attachent un homme à la terre où sont nés et morts ses aïeux, q...",
+      "content_hash": "22bedfe2f23ba7de223a2425871a505552ea5197a0f8c7e711800d1d3924db0e"
+    },
+    "middle": {
+      "label": "Milieu (Page 17)",
+      "page_sequence_number": 17,
+      "total_pages": 34,
+      "character_length": 1698,
+      "blocks_count": 15,
+      "preview": "Quand elle fut partie, je courus chez le docteur. Il allait sortir ; et il m’écouta en souriant. Puis il dit : — Croyez-vous maintenant ? — Oui, il le faut bien. — Allons chez votre parente. Elle sommeillait déjà sur une chaise longue, accablée de fatigue. Le médecin lui prit le pouls, la regarda quelque temps, une main levée vers ses yeux qu’elle ferma peu à peu sous l’effort insoutenable de cett...",
+      "content_hash": "ef6b62f9a1bb41cc5bc08ef95f76ea1d9618697e3a6880192041a712028c5138"
+    },
+    "end": {
+      "label": "Fin (Page 34)",
+      "page_sequence_number": 34,
+      "total_pages": 34,
+      "character_length": 771,
+      "blocks_count": 4,
+      "preview": "S’il n’était pas mort ?… seul peut-être le temps a prise sur l’Être Invisible et Redoutable. Pourquoi ce corps transparent, ce corps inconnaissable, ce corps d’Esprit, s’il devait craindre, lui aussi, les maux, les blessures, les infirmités, la destruction prématurée ? La destruction prématurée ? toute l’épouvante humaine vient d’elle ! Après l’homme le Horla. — Après celui qui peut mourir tous le...",
+      "content_hash": "ca5f55edfb36f83026c32ef7716d151b3192c20a5262e2f6e43f1abcb731fcec"
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "work_id": "es-larra-el-doncel",
+  "author": "Mariano José de Larra",
+  "title": "El doncel de don Enrique el Doliente",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "a2a600b44b08e88aa00ece3ebf11aba41b52fdba207107aaae167f6179def6c3",
+  "document_sha256": "46b9839179dd9c3a2f7eae6223675e6c3d95e7fd6962ccf1a248d8c5f3665d43",
+  "pages_count": 1,
+  "source_page_sequence_number": 1,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-larra-el-doncel",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "917c23ef2bc8025b09aac801eb197d6e8dea2fc60a91b6c4d518ccc0dfd5f615",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\n Note:\n \n Images of the original pages are available through\n Internet Archive. See\n \n https://archive.org/details/eldonceldedonenr01larr\n\n\n Project Gutenberg has the other three volumes of this work.\nVolume II: see http://www.gutenberg.org/files/53588/53588-h/53588-h.htm\nVolume III: see http://www.gutenberg.org/files/53589/53589-h/53589-h.htm\nVolume IV: see http://www.gutenberg.org/files/53590/53590-h/53590-h.htm\n "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Nota de transcripción"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Índice"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "spans": [
+            {
+              "text": "El doncel de Don Enrique el Doliente"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "EL DONCEL",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "DE",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Don Enrique el Doliente:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "HISTORIA CABALLERESCA"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "DEL SIGLO QUINCE"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "POR"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "D. MARIANO JOSÉ DE LARRA."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "SEGUNDA EDICION.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "TOMO I."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADRID.\nIMPRENTA DE DON JOSÉ MARÍA REPULLÉS.\n1838."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "CAPITULO I."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mis arreos son las armas,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "mi descanso es pelear,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "mi cama las duras peñas,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "mi dormir siempre velar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cancionero general.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Antes de enseñar el primer cabo de nuestra\nnarracion fidedigna, no nos parece inútil advertir á aquellas\npersonas en demasía bondadosas que nos quieran prestar su atencion,\nque si han de seguirnos en el laberinto de sucesos que vamos á\nenlazar unos con otros en obsequio de su solaz, han menester\ntrasladarse con nosotros á épocas distantes y á siglos remotos,\npara vivir, digámoslo asi, en otro orden de sociedad en nada semejante á este que\nen el siglo "
+            },
+            {
+              "text": "XIX",
+              "small_caps": true
+            },
+            {
+              "text": " marca la adelantada civilizacion de la\nculta Europa. Tiempos felices, ó infelices, en que ni la hermosura\nde las poblaciones, ni la facil comunicacion entre los hombres de\napartados paises, ni la seguridad individual que en el dia casi nos\ngarantizan nuestras ilustradas legislaciones, ni una multitud, en\nfin, de refinadas y esquisitas necesidades ficticias"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "work_id": "fr-huysmans-a-rebours",
+  "author": "Joris-Karl Huysmans",
+  "title": "À rebours",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "edition_id": "wikisource",
+  "source_sha256": "b4b8dec6141af5bb9c9cb56c3eb8875f8c40299bf2b8dcb175fbd2895758e7d9",
+  "document_sha256": "2db012bd7f4b04f109d12cab6a255c3a5210d92827365495869463c3b523d92c",
+  "pages_count": 1,
+  "source_page_sequence_number": 1,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-huysmans-a-rebours",
+      "edition_id": "wikisource",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "42e2cefb01c1c9be56e5c9ddb2ef0c779af7fdb714c9e340bd762577b7492526",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "A REBOURS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "‌"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "J.-K. HUYSMANS\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "-\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "A REBOURS"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "AVEC\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "UNE PRÉFACE DE L’AUTEUR\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "ÉCRITE VINGT ANS APRÈS LE ROMAN\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "ET UNE BIBLIOGRAPHIE COMPLÈTE DE L’ŒUVRE DE J.-K. HUYSMANS\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nIl faut que je me réjouisse au-dessus du temps…, quoique le monde ait horreur de ma joie, et que sa grossièreté ne sache pas ce que je veux dire.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Rusbroeck l’admirable"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nBIBLIOTHÈQUE\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "DE L’ACADÉMIE GONCOURT\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "LES ÉDITIONS G. CRÈS ET Cie"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "21, RUE HAUTEFEUILLE − PARIS\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nMCMXXII"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "‌"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "spans": [
+            {
+              "text": " PRÉFACE\nécrite vingt ans après le roman"
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nJe pense que tous les gens de lettres sont comme moi, que jamais ils ne relisent leurs œuvres lorsqu’elles ont paru. Rien n’est, en effet, plus désenchantant, plus pénible, que de regarder, après des années, ses phrases. Elles se sont en quelque sorte décantées et déposent au fond du livre ; et, la plupart du temps, les volumes ne sont pas ainsi que les vins qui s’améliorent en vieillissant ; une fois dépouillés par l’âge, les chapitres s’éventent et leur bouquet s’étiole.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "J’ai eu cette impression pour certains flacons rangés dans le casier d’"
+            },
+            {
+              "text": "À Rebours",
+              "italic": true
+            },
+            {
+              "text": ", alors que j’ai dû les déboucher.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et, assez mélancoliquement, je tâche de me rappeler, en feuilletant ces pages, la condition d’âme que je pouvais bien avoir au moment où je les écrivis.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "On était alors en plein naturalisme ; mais cette école, qui devait rendre l’inoubliable service de situer des personnages réels dans des milieux exacts, était condamnée à se rabâcher, en piétinant sur place.\n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

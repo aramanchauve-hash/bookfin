@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-diderot-neveu-de-rameau",
+  "author": "Denis Diderot",
+  "title": "Le Neveu de Rameau",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 112,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 112,
+      "character_length": 1404,
+      "blocks_count": 9,
+      "preview": "This Etext was prepared by Ebooks libres et gratuits andis available at http://www.ebooksgratuits.com in Word format, Mobipocket Reader format, eReader format and Acrobat Reader format.Denis DiderotLE NEVEU DE RAMEAU(1761)PRÉSENTATIONRécit dialogué de Denis Diderot (1713-1784), commencé vers 1761. Plusieurs fois remanié, il fut publié d'après une copie autographe par G. Monval à Paris chez Plon-No...",
+      "content_hash": "207620973edf7847fc5efbb03c539dfc7b984bf5962eec90e900d05523717899"
+    },
+    "middle": {
+      "label": "Milieu (Page 56)",
+      "page_sequence_number": 56,
+      "total_pages": 112,
+      "character_length": 1531,
+      "blocks_count": 2,
+      "preview": "LUI. — Je vous l'ai déjà dit, nous sommes sans conséquence. Nous injurions tout le monde et nous n'affligeons personne. Nous avons quelquefois le pesant abbé d'Olivet, le gros abbé Le Blanc, l'hypocrite Batteux. Le gros abbé n'est méchant qu'avant dîner. Son café pris il se jette dans un fauteuil, les pieds appuyés contre là tablette de la cheminée, et s'endort comme un vieux perroquet sur son bât...",
+      "content_hash": "00e41bc07eee2507f2478cc3d56ae3e5f34f603ecd7115602aeb7cc9573b6474"
+    },
+    "end": {
+      "label": "Fin (Page 112)",
+      "page_sequence_number": 112,
+      "total_pages": 112,
+      "character_length": 750,
+      "blocks_count": 6,
+      "preview": "LUI. — Si vous le voulez. Mais le vrai, pour avoir mon écuelle sur ma tête… Mais voyez un peu l'heure qu'il est, car il faut que j'aille à l'Opéra.MOI. — Qu'est-ce qu'on donne?LUI. — Le Dauvergne. Il y a d'assez belles choses dans sa musique; c'est dommage qu'il ne les ait pas dites le premier. Parmi ces morts, il y en a toujours quelques-uns qui désolent les vivants. Que voulez-vous? Quisque suos...",
+      "content_hash": "de21672eebe899ba4134e8b50c63fee08c4485fa84dfe48adbb89195f0d774f4"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-maupassant-la-ficelle",
+  "author": "Guy de Maupassant",
+  "title": "La Ficelle",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 8,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 8,
+      "character_length": 1526,
+      "blocks_count": 5,
+      "preview": "LA FICELLEÀ Harry Alis.Sur toutes les routes autour de Goderville, les paysans et leurs femmes s’en venaient vers le bourg ; car c’était jour de marché. Les mâles allaient, à pas tranquilles, tout le corps en avant à chaque mouvement de leurs longues jambes torses, déformées par les rudes travaux, par la pesée sur la charrue qui fait en même temps monter l’épaule gauche et dévier la taille, par le...",
+      "content_hash": "8a81cf63c2363515d5df59dbf9ba3e7dc302f8c69f1fdfd9a0b9b3853fde3ca4"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 8,
+      "character_length": 1772,
+      "blocks_count": 14,
+      "preview": "Toute l’aristocratie de la charrue mangeait là, chez maît’ Jourdain, aubergiste et maquignon, un malin qui avait des écus. Les plats passaient, se vidaient comme les brocs de cidre jaune. Chacun racontait ses affaires, ses achats et ses ventes. On prenait des nouvelles des récoltes. Le temps était bon pour les verts, mais un peu mucre pour les blés. Tout à coup le tambour roula, dans la cour, deva...",
+      "content_hash": "296d286ead52ed6d669a084d1803f118c5553649c66209a94b7e5754035ae946"
+    },
+    "end": {
+      "label": "Fin (Page 8)",
+      "page_sequence_number": 8,
+      "total_pages": 8,
+      "character_length": 1670,
+      "blocks_count": 13,
+      "preview": "Le paysan resta suffoqué. Il comprenait enfin. On l’accusait d’avoir fait reporter le portefeuille par un compère, par un complice. Il voulut protester. Toute la table se mit à rire. Il ne put achever son dîner et s’en alla, au milieu des moqueries. Il rentra chez lui, honteux et indigné, étranglé par la colère, par la confusion, d’autant plus atterré qu’il était capable, avec sa finauderie de Nor...",
+      "content_hash": "b00ae38b98b4b708326c38746be6a8c2fd3944b7b91b43f22694fa74358cd4a7"
+    }
+  }
+}

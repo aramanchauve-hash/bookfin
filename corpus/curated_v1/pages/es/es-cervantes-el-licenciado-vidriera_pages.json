@@ -1,0 +1,2093 @@
+{
+  "work_id": "es-cervantes-el-licenciado-vidriera",
+  "author": "Miguel de Cervantes",
+  "title": "El licenciado Vidriera",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+  "document_sha256": "57b622c6e5d3f6e0ca04ae3f298306b2389b05206b34181113be6ce4eaad9baa",
+  "pages_count": 34,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "d5824e4daa5675121aed475de3c94a969f6cbf904fe21fce95fc4d1964d66613",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "EL LICENCIADO VIDRIERA."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Paseándose dos caballeros estudiantes por las riberas del Tórmes,\nhallaron en ellas debajo de un árbol durmiendo á un muchacho de hasta\nedad de once años, vestido como labrador: mandaron á un criado que\nle despertase: despertó, y preguntáronle de adónde era y qué hacia\ndurmiendo en aquella soledad; á lo cual el muchacho respondió, que\nel nombre de su tierra se le habia olvidado, y que iba á la ciudad\nde Salamanca á buscar un amo á quien servir, por solo que le diese\nestudio. Preguntáronle si sabia leer; respondió que sí, y escribir\ntambien."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Desa manera, dijo uno de los caballeros, no es por falta de memoria\nhabérsete olvidado el nombre de tu patria."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Sea por lo que fuere, respondió el muchacho, que ni el della, ni el\nde mis padres sabrá ninguno hasta que yo pueda honrarlos á ellos y á\nella."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Pues ¿de qué suerte los piensas honrar? preguntó el caballero."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Con mis estudios, respondió el muchacho, siendo famoso por ellos;\nporque yo he oido decir que de los hombres se hacen los obispos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Esta respuesta movió á los dos caballeros á que le recebiesen y\nllevasen consigo, como lo hicieron; dándole estudio de la manera que\nse usa dar en aquella universidad á los criados que sirven. Dijo el\nmuchacho que se llamaba Tomas Rodaja, de donde infirieron sus amos por\nel nombre y por el vestido, que debia de ser hijo de algun labrador\npobre. Á pocos dias le vistieron de negro, y á pocas semanas dió\nTomas muestras de tener raro ingenio, sirviendo á sus amos con tanta\nfidelidad, puntualidad y diligencia, que con no faltar un punto á sus\nestudios, parecia que solo se ocupaba en servirlos; y como el buen servir del siervo mueve\nla voluntad del señor á tratarle bien, ya Tomas no era criado de sus\namos, sino su compañero."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "8d11ab992ebbff76eb29411dd063623dbc75e7fd7cf0a5130b2becf1e2971b2c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Finalmente, en ocho años que estuvo con ellos\nse hizo tan famoso en la universidad por su buen ingenio y notable\nhabilidad, que de todo género de gentes era estimado y querido."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Su principal estudio fué de leyes; pero en lo que mas se mostraba\nera en letras humanas: y tenia tan felice memoria, que era cosa de\nespanto, é ilustrábala tanto con su buen entendimiento, que no era\nménos famoso por él que por ella."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Sucedió que se llegó el tiempo que sus amos acabaron sus estudios, y\nse fueron á su lugar, que era una de las mejores ciudades de Andalucía:\nlleváronse consigo á Tomas, y estuvo con ellos algunos dias; pero\ncomo le fatigasen los deseos de volver á sus estudios y á Salamanca\n(que enhechiza la voluntad de volver á ella á todos los que de la\napacibilidad de su vivienda han gustado), pidió á sus amos licencia\npara volverse. Ellos corteses y liberales se la dieron, acomodándole de\nsuerte que con lo que le dieron se pudiera sustentar tres años."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Despidióse dellos, mostrando en sus palabras su agradecimiento, y\nsalió de Málaga (que esta era la patria de sus señores), y al bajar\nde la cuesta de la Zambra, camino de Antequera, se topó con un gentil\nhombre, á caballo, vestido bizarramente de camino, con dos criados\ntambien á caballo. Juntóse con él, y supo como llevaba su mismo viaje:\nhicieron camarada, departieron de diversas cosas, y á pocos lances\ndió Tomas muestras de su raro ingenio, y el caballero las dió de su\nbizarría y cortesano trato; y dijo que era capitan de infantería por\nsu Majestad, y que su alférez estaba haciendo la compañía en tierra\nde Salamanca: alabó la vida de la"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "26a0790bb3844b67770a62811daaab1534c4d3c3b784f021f39b6a32e920d4a6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " soldadesca, pintóle muy al vivo la\nbelleza de la ciudad de Nápoles, las holguras de Palermo, la abundancia\nde Milan, los festines de Lombardía, las espléndidas comidas de las\nhosterías: dibujóle dulce y puntualmente el aconcha patron, pasa acá\nmanigoldo, venga la macarela, li polastri, é li macarroni: puso las\nalabanzas en el cielo de la vida libre del soldado, y de la libertad de\nItalia; pero no le dijo nada del frio de las centinelas, del peligro de\nlos asaltos, del espanto de las batallas, de la hambre de los cercos,\nde la ruina de las minas, con otras cosas deste jaez, que algunos las\ntoman y tienen por añadiduras del peso de la soldadesca, y son la carga\nprincipal della. En resolucion tantas cosas le dijo, y tan bien dichas,\nque la discrecion de nuestro Tomas Rodaja comenzó á titubear, y la\nvoluntad á aficionarse á aquella vida que tan cerca tiene la muerte."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "El capitan, que D. Diego de Valdivia se llamaba, contentísimo de la\nbuena presencia, ingenio y desenvoltura de Tomas, le rogó que se fuese con él á Italia,\nsiquiera por curiosidad de verla, que él le ofrecia su mesa, y aun\nsi fuese necesario su bandera, porque su alférez la habia de dejar\npresto. Poco fué menester para que Tomas aceptase el envite, haciendo\nconsigo en un instante un breve discurso, de que seria bueno ver á\nItalia y Flándes, y otras diversas tierras y países, pues las luengas\nperegrinaciones hacen á los hombres discretos, y que en esto á lo\nmas largo podia gastar tres ó cuatro años, que añadidos á los pocos\nque él tenia, no serian tantos que impidiesen volver á sus estudios:\ny como si todo hubiera de"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "eb5ca547378f7cd641926a50f7bfceebbdfae18a788156a9b185eb5c30be8a7d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " suceder á la medida de su gusto, dijo al\ncapitan que era contento de irse con él á Italia; pero habia de ser\ncon condicion que no se habia de sentar debajo de bandera, ni poner en\nlista de soldado, por no obligarse á seguir su bandera. Y aunque el\ncapitan le dijo que no importaba ponerse en lista, que ansí gozaria de\nlos socorros y pagas que á la compañía se diesen, porque él le daria\nlicencia todas las veces que se la pidiese."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Eso seria, dijo Tomas, ir contra mi conciencia y contra la del\nseñor capitan, y así mas quiero ir suelto que obligado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Conciencia tan escrupulosa, dijo D. Diego, mas es de religioso que\nde soldado; pero como quiera que sea, ya somos camaradas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Llegaron aquella noche á Antequera, y en pocos dias y grandes\njornadas se pusieron donde estaba la compañía, ya acabada de hacer,\ny que comenzaba á marchar la vuelta de Cartagena, alojándose ella y\notras cuatro por los lugares que les venian á mano. Allí notó Tomas\nla autoridad de los comisarios, la comodidad de algunos capitanes, la\nsolicitud de los aposentadores, la industria y cuenta de los pagadores,\nlas quejas de los pueblos, el rescatar de las boletas, las insolencias\nde los bisoños, las pendencias de los huéspedes, el pedir bagajes mas\nde los necesarios, y finalmente la necesidad casi precisa de hacer todo\naquello que notaba y mal le parecia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Habíase vestido Tomas de papagayo, renunciando los hábitos de\nestudiante, y púsose á lo de Dios es Cristo, como se suele decir. Los\nmuchos libros que tenia los redujo á unas Horas de Nuestra Señora, y un\nGarcilaso sin comento, que en las dos faldriqueras llevaba."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "5807d45e579a4fd2ec8549f58c1ffac00555a8384e7ef695d9ef00ab688159e5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Llegaron mas presto de lo que quisieran á Cartagena, porque la vida\nde los alojamientos es ancha y varia, y cada dia se topan cosas nuevas\ny gustosas. Allí se embarcaron en cuatro galeras de Nápoles, y allí\nnotó tambien Tomas Rodaja la estraña vida de aquellas marítimas casas,\nadonde lo mas del tiempo maltratan las chinches, roban los forzados,\nenfadan los marineros, destruyen los ratones y fatigan las maretas.\nPusiéronle temor las grandes borrascas y tormentas, especialmente en\nel golfo de Leon, que tuvieron dos: que la una los echó en Córcega, y\nla otra los volvió á Tolon, en Francia. En fin, trasnochados, mojados y con ojeras\nllegaron á la hermosa y bellísima ciudad de Génova, y desembarcándose\nen su recogido mandrache, despues de haber visitado una iglesia, dió\nel capitan con todos sus camaradas en una hostería, donde pusieron en\nolvido todas las borrascas pasadas, con el presente gaudeamus."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Allí conocieron la suavidad del treviano, el valor del monte\nfrascon, la ninerca del Asperino, la generosidad de los dos griegos\nCandía y Soma, la grandeza del de las cinco viñas, la dulzura y\napacibilidad de la señora Garnacha, la rusticidad de la chéntola, sin\nque entre todos estos señores osase parecer la bajeza del romanesco. Y\nhabiendo hecho el huésped la reseña de tantos y tan diferentes vinos,\nse ofreció de hacer parecer allí, sin usar de tropelía ni como pintados\nen mapa, sino real y verdaderamente, á Madrigal, Coca, Alaejos, y á la\nimperial mas que real ciudad, recámara del dios de la risa: ofreció á\nEsquivias, á Alanis, á Cazalla, Guadalcanal y la Membrilla, sin que\nse olvidase de Ribadavia y de Descargamaria. Finalmente, mas vinos\nnombró el huésped, y mas les dió que pudo tener en sus bodegas el mismo\nBaco."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 6,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7959a54107c57bc139fc1214148cdd7590fe9e078706a753b440dc6a78d682b4",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Admiráronle tambien al buen Tomas los rubios cabellos de las\ngenovesas, y la gentileza y gallarda disposicion de los hombres, la\nadmirable belleza de la ciudad, que en aquellas peñas parece que tiene\nlas casas engastadas como diamantes en oro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otro dia se desembarcaron todas las compañías que habian de ir al\nPiamonte; pero no quiso Tomas hacer este viaje, sino irse desde allí\npor tierra á Roma y á Nápoles, como lo hizo, quedando de volver por la\ngran Venecia, y por Loreto á Milan y al Piamonte, donde dijo D. Diego\nde Valdivia que le hallaria, si ya no los hubiesen llevado á Flándes,\nsegun se decia. Despidióse Tomas del capitan de allí á dos dias, y en\ncinco llegó á Florencia, habiendo visto primero á Luca, ciudad pequeña,\npero muy bien hecha, y en la que mejor que en otras partes de Italia\nson bien vistos y agasajados los españoles."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Contentóle Florencia en estremo, así por su agradable asiento como\npor su limpieza, suntuosos edificios, fresco rio y apacibles calles:\nestuvo en ella cuatro dias, y luego se partió á Roma, reina de las\nciudades y señora del mundo. Visitó sus templos, adoró sus reliquias\ny admiró su grandeza; y así como por las uñas del leon se viene en\nconocimiento de su grandeza y ferocidad, así él sacó la de Roma por\nsus despedazados mármoles, medias y enteras estatuas, por sus rotos\narcos y derribadas termas, por sus magníficos pórticos y anfiteatros\ngrandes, por su famoso y santo rio, que siempre llena sus márgenes\nde agua, y las beatifica con las infinitas reliquias de cuerpos de\nmártires que en ellas tuvieron sepultura: por sus puentes, que parece\nque se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 7,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "47e54338e41d299df03a36134f0a203528dcf2931f17125160f99d3ad175348c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " están mirando unas á otras, y por sus calles que con solo el nombre cobran\nautoridad sobre todas las de las otras ciudades del mundo: la via Apia,\nla Flaminia, la Julia, con otras de este jaez. Pues no le admiraba\nménos la division de sus montes dentro de sí misma: el Celio, el\nQuirinal y el Vaticano, con los otros cuatro, cuyos nombres manifiestan\nla grandeza y majestad romana. Notó tambien la autoridad del colegio de\nlos cardenales, la majestad del Sumo Pontífice, el concurso y variedad\nde gentes y naciones. Todo lo miró, y notó, y puso en su punto. Y\nhabiendo andado la estacion de las siete iglesias, y confesádose con un\npenitenciero y besado el pié á su Santidad, lleno de "
+            },
+            {
+              "text": "agnusdei",
+              "italic": true
+            },
+            {
+              "text": " y cuentas determinó irse á Nápoles, y por ser\ntiempo de mutacion, malo y dañoso para todos los que en él entran ó\nsalen de Roma como hayan caminado por tierra, se fué por mar á Nápoles,\ndonde á la admiracion que traia de haber visto á Roma, añadió la que le\ncausó ver á Nápoles, ciudad á su parecer y al de todos cuantos la han\nvisto, la mejor de Europa, y aun de todo el mundo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Desde allí se fué á Sicilia, y vió á Palermo, y despues á Mesina: de\nPalermo le pareció bien el asiento y belleza, y de Mesina el puerto,\ny de toda la isla la abundancia, por quien propiamente y con verdad\nes llamada granero de Italia. Volvióse á Nápoles y á Roma, y de allí\nfué á Nuestra Señora de Loreto, en cuyo santo templo no vió paredes\nni murallas, porque todas estaban cubiertas de muletas, de mortajas,\nde cadenas, de grillos, de esposas, de cabelleras, de medios bultos\nde cera, y de pinturas y retratos que daban"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 8,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "f76fa2cb7454b0fd5dc6a147dc322271392fc48331d12401ce455a69a4ad2d53",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " manifiesto indicio de las\ninnumerables mercedes que muchos habian recebido de la mano de Dios\npor intercesion de su divina Madre, que aquella sacrosanta imágen\nsuya quiso engrandecer y autorizar con muchedumbre de milagros, en\nrecompensa de la devocion que le tienen aquellos que con semejantes\ndoseles tienen adornados los muros de su casa. Vió el mismo aposento y\nestancia donde se relató la mas alta embajada y de mas importancia, que\nvieron y no entendieron todos los cielos, y todos los ángeles y todos\nlos moradores de las moradas sempiternas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Desde allí, embarcándose en Ancona, fué á Venecia, ciudad, que á\nno haber nacido Colon en el mundo, no tuviera en él semejante; merced\nal cielo y al gran Hernando Cortés, que conquistó la gran Méjico para\nque la gran Venecia tuviese en alguna manera quien se le opusiese.\nEstas dos famosas ciudades se parecen en las calles, que son todas\nde agua: la de Europa admiracion del mundo antiguo, la de América\nespanto del mundo nuevo. Parecióle que su riqueza era infinita, su\ngobierno prudente, su sitio inespugnable, su abundancia mucha, sus\ncontornos alegres, y finalmente toda ella en sí y en sus partes digna\nde la fama que de su valor por todas las partes del orbe se estiende, dando causa de\nacreditar mas esta verdad la máquina de su famoso arsenal, que es el\nlugar donde se fabrican las galeras, con otros bajeles que no tienen\nnúmero. Por poco fueran los de Calipso los regalos y pasatiempos que\nhalló nuestro curioso viajero en Venecia, pues casi le hacian olvidar\nde su primer intento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 9,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "06933c23620549d911f17d9299ad2f9187955d557c58c026f4febc6a8ade6627",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Pero habiendo estado un mes en ella, por Ferrara,\nParma y Plasencia volvió á Milan, oficina de Vulcano, ojeriza del reino\nde Francia, ciudad en fin de quien se dice, que puede decir y hacer,\nhaciéndola magnífica la grandeza suya y de su templo, y su maravillosa\nabundancia de todas las cosas á la vida humana necesarias."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Desde allí se fué á Aste, y llegó á tiempo que otro dia marchaba el\ntercio á Flándes. Fué muy bien recebido de su amigo el capitan, y en\nsu compañía y camarada pasó á Flándes, y llegó á Ambéres, ciudad no\nménos para maravillar que las que habia visto en Italia. Vió á Gante y\ná Bruselas, y vió que todo el país se disponia á tomar las armas para\nsalir en campaña el verano siguiente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y habiendo cumplido con el deseo que le movió á ver lo que habia\nvisto, determinó volverse á España y á Salamanca á acabar sus estudios;\ny como lo pensó lo puso luego por obra, con pesar grandísimo de su\ncamarada, que le rogó al tiempo de despedirse le avisase de su salud,\nllegada y suceso. Prometióselo ansí como lo pedia, y por Francia volvió\ná España sin haber visto á Paris, por estar puesta en armas. En fin\nllegó á Salamanca, donde fué bien recebido de sus amigos, y con la\ncomodidad que ellos le hicieron, prosiguió sus estudios hasta graduarse\nde licenciado en leyes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 10,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "bfb4e5cd8beae16635f99c3d45563e45a02e8ef865665036e8a7a5e19e0f293d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Sucedió que en este tiempo llegó á aquella ciudad una dama de todo\nrumbo y manejo. Acudieron luego á la añagaza y reclamo todos los\npájaros del lugar, sin quedar "
+            },
+            {
+              "text": "vademecum",
+              "italic": true
+            },
+            {
+              "text": "\nque no la visitase. Dijéronle á Tomas que aquella dama decia que\nhabia estado en Italia y en Flándes, y por ver si la conocia fué á\nvisitarla, de cuya visita y vista quedó ella enamorada de Tomas; y él\nsin echar de ver en ello, si no era por fuerza y llevado de otros no\nqueria entrar en su casa. Finalmente, ella le descubrió su voluntad y\nle ofreció su hacienda. Pero como él atendia mas á sus libros que á\notros pasatiempos, en ninguna manera respondia al gusto de la señora,\nla cual, viéndose desdeñada y á su parecer aborrecida, y que por\nmedios ordinarios y comunes no podia conquistar la roca de la voluntad\nde Tomas, acordó de buscar otros modos á su parecer mas eficaces, y\nbastantes para salir con el cumplimiento de sus deseos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y así, aconsejada de una morisca, en un membrillo toledano dió á\nTomas unos destos que llaman hechizos, creyendo que le daba cosa que\nle forzase la voluntad á quererla, como si hubiese en el mundo yerbas, encantos ni\npalabras suficientes á forzar el libre albedrío; y así, las que dan\nestas bebidas ó comidas amatorias se llaman benéficas, porque no es\notra cosa lo que hacen sino dar veneno á quien las toma, como lo tiene\nmostrado la esperiencia en muchas y diversas ocasiones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 11,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7f41fd474b18593a100b18e5268fe269725db082f9894fc8b25eed18e0c816c7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Comió en tan mal punto Tomas el membrillo, que al momento comenzó á\nherir de pié y de mano como si tuviera alferecía, y sin volver en sí\nestuvo muchas horas, al cabo de las cuales volvió como atontado, y dijo\ncon lengua turbada y tartamuda, que un membrillo que habia comido le\nhabia muerto, y declaró quién se lo habia dado. La justicia, que tuvo\nnoticia del caso, fué á buscar la malhechora; pero ya ella, viendo el\nmal suceso, se habia puesto en cobro, y no pareció jamas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Seis meses estuvo en la cama Tomas, en los cuales se secó y se puso,\ncomo suele decirse, en los huesos, y mostraba tener turbados todos los\nsentidos; y aunque le hicieron los remedios posibles, solo le sanaron\nla enfermedad del cuerpo, pero no la del entendimiento, porque quedó\nsano, y loco de la mas estraña locura que entre las locuras hasta\nentónces se habia visto. Imaginóse el desdichado que era todo hecho\nde vidrio, y con esta imaginacion, cuando alguno se llegaba á él,\ndaba terribles voces, pidiendo y suplicando con palabras y razones\nconcertadas que no se le acercasen porque le quebrarian, que real y\nverdaderamente él no era como los otros hombres, que todo era de vidrio\nde piés á cabeza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 12,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b53438802d9a61dbb2f0cd12fb925f2cc588910c1d717b7f94f9021b181854c5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Para sacarle desta estraña imaginacion, muchos, sin atender á sus\nvoces y rogativas, arremetieron á él y le abrazaron, diciéndole que\nadvirtiese y mirase cómo no se quebraba. Pero lo que se granjeaba en\nesto era que el pobre se echaba en el suelo, dando mil gritos y luego\nle tomaba un desmayo, del cual no volvia en sí en cuatro horas, y\ncuando volvia era renovando las plegarias y rogativas de que otra vez\nno llegasen. Decia que le hablasen desde léjos y le preguntasen lo que\nquisiesen, porque á todo les responderia con mas entendimiento, por ser\nhombre de vidrio y no de carne; que el vidrio por ser de materia sutil\ny delicada, obra por ella el alma con mas prontitud y eficacia, que no\npor la del cuerpo, pesada y terrestre."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quisieron algunos esperimentar si era verdad lo que decia, y así\nle preguntaron muchas y difíciles cosas, á las cuales respondió\nespontáneamente con grandísima agudeza de ingenio, cosa que causó\nadmiracion á los mas letrados de la universidad y á los profesores de\nla medicina y filosofía, viendo que en un sugeto donde se contenia tan\nestraordinaria locura como el pensar que fuese de vidrio, se encerrase\ntan grande entendimiento, que respondiese á toda pregunta con propiedad\ny agudeza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 13,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "646c70be8cd64a8d202c43a3965dac4338363613ab2d201bd363a3d2de9f0175",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pidió Tomas le diesen alguna funda donde pusiese aquel vaso\nquebradizo de su\ncuerpo, porque al vestirse algun vestido estrecho no se quebrase; y\nasí le dieron una ropa parda y una camisa muy ancha, que él se vistió\ncon mucho tiento y se ciñó con una cuerda de algodon: no quiso zapatos\nen ninguna manera, y el órden que tuvo para que le diesen de comer\nsin que á él llegasen, fué poner en la punta de una vara una vasera\nde orinal, en la cual le ponian alguna cosa de fruta de las que la\nsazon del tiempo les ofrecia: carne ni pescado no lo queria; no bebia\nsino en fuente ó en rio, y esto con las manos: cuando andaba por las\ncalles, iba por la mitad dellas, mirando á los tejados, temeroso no\nle cayese alguna teja encima y le quebrase: los veranos dormia en\nel campo á cielo abierto, y los inviernos se metia en algun meson,\ny en el pajar se enterraba hasta la garganta, diciendo que aquella\nera la mas propia y mas segura cama que podian tener los hombres de\nvidrio: cuando tronaba, temblaba como un azogado, y se salia al campo\ny no entraba en poblado hasta haber pasado la tempestad; tuviéronle\nencerrado sus amigos mucho tiempo, pero viendo que su desgracia pasaba\nadelante, determinaron de condescender con lo que él les pedia, que\nera le dejasen andar libre, y así le dejaron, y él salió por la ciudad\ncausando admiracion y lástima á todos los que le conocian. Cercáronle\nluego los muchachos; pero él con la vara los detenia y les rogaba\nle hablasen apartados, porque no se quebrase, que por ser hombre de\nvidrio era muy tierno y quebradizo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 14,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7f733cff7a0d0e03f3c492bec69271ecef64ca99a230dd65cbaace53e0561619",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Los muchachos, que son la mas\ntraviesa generacion del mundo, á despecho de sus ruegos y voces le\ncomenzaron á tirar trapos y aun piedras, por ver si era de vidrio\ncomo él decia; pero él daba tantas voces y hacia tales estremos, que\nmovia á los hombres á que riñesen y castigasen á los muchachos porque\nno le tirasen. Mas un dia, que le fatigaron mucho, se volvió á ellos\ndiciendo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—¿Qué me quereis, muchachos, porfiados como moscas, sucios como\nchinches, atrevidos como pulgas? ¿Soy yo por ventura el monte Testacho\nde Roma para que me tireis tantos tiestos y tejas?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Por oirle reñir y responder á todos, le seguian siempre muchos, y\nlos muchachos tomaron y tuvieron por mejor partido ántes oille que\ntiralle."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pasando pues una vez por la ropería de Salamanca, le dijo una\nropera:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—En mi ánima, señor Licenciado, que me pesa de su desgracia; pero\n¿qué haré que no puedo llorar?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Él se volvió á ella, y muy mesurado le dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—"
+            },
+            {
+              "text": "Filiæ Hierusalem, plorate super vos, et\nsuper filios vestros",
+              "italic": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Entendió el marido de la ropera la malicia del dicho, y díjole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Hermano licenciado Vidriera (que así decia él que se llamaba), mas\nteneis de bellaco que de loco."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—No se me da un ardite, respondió él, como no tenga nada de\nnecio."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pasando un dia por la casa llana y venta comun[1], vió que estaban á la puerta della muchas de\nsus moradoras, y dijo que eran bagajes del ejército de Satanas, que\nestaban alojados en el meson del infierno."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Preguntóle uno, que qué consejo ó consuelo daria á un amigo suyo que\nestaba muy triste porque su mujer se le habia ido con otro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual respondió:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Díle que dé gracias á Dios por haber permitido le llevasen de casa\ná su enemigo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Luego ¿no irá á buscarla? dijo el otro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 15,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "aa866676245f89833f2a3eb416c77d11cc5764b8f9565e6eeb500833a10e35d1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Ni por pienso, replicó Vidriera, porque seria el hallarla hallar un\nperpetuo y verdadero testigo de su deshonra."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Ya que eso sea así, dijo el mismo, ¿qué haré yo para tener paz con\nmi mujer?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Respondióle:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Dále lo que hubiere menester; déjala que mande á todos los de tu\ncasa, pero no sufras que ella te mande á tí."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Díjole un muchacho:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Señor licenciado Vidriera, yo me quiero desgarrar de mi padre,\nporque me azota muchas veces."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y respondióle:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Advierte, niño, que los azotes que los padres dan á los hijos\nhonran, y los del verdugo afrentan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Estando á la puerta de una iglesia, vió que entraba un labrador de\nlos que siempre blasonan de cristianos viejos, y detras venia uno que\nno estaba en tan buena opinion como el primero, y el Licenciado dió\ngrandes voces al labrador, diciendo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Esperad, Domingo, á que pase el sábado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De los maestros de escuela decia que eran dichosos, pues trataban\nsiempre con ángeles dichosísimos, si los angelitos no fueran\nmocosos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otro le preguntó, que qué le parecia de las alcahuetas. Respondió\nque no lo eran las apartadas, sino las vecinas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Las nuevas de su locura y de sus respuestas y dichos, se estendieron\npor toda Castilla, y llegando á noticia de un príncipe ó señor que\nestaba en la corte, quiso enviar por él, y encargóselo á un caballero\namigo suyo que estaba en Salamanca, que se lo enviase, y topándole el\ncaballero un dia, le dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Sepa el señor licenciado Vidriera, que un gran personaje de la\ncorte le quiere ver y envía por él."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual respondió:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Vuesa mercé me escuse con ese señor, que yo no soy bueno para\npalacio, porque tengo vergüenza y no sé lisonjear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 16,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "c5cebdde1584045421f33713edc5acbbf9ce6590450ed40b2af69e4d99a57081",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Con todo esto, el caballero le envió á la corte, y para traerle\nusaron con él desta invencion: pusiéronle en unas argueñas de paja,\ncomo aquellas donde llevan el vidrio, igualando los tercios con\npiedras, y entre paja puestos algunos vidrios, porque se diese á\nentender que como vaso de vidrio le llevaban."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Llegó á Valladolid, donde en aquel tiempo estaba la corte; entró de\nnoche y desembanastáronle en la casa del señor que habia enviado por\nél, de quien fué muy bien recebido, diciéndole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Sea muy bien venido el señor licenciado Vidriera: ¿cómo ha ido en\nel camino? ¿Cómo va de salud?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual\nrespondió:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Ningun camino hay malo como se acabe, sino es el que va á la\nhorca: de salud estoy neutral, porque están encontrados mis pulsos\ncon mi celebro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otro dia, habiendo visto en muchas alcándaras muchos neblíes y\notros pájaros de volatería, dijo que la caza de altanería era digna\nde príncipes y de grandes señores; pero que advirtiesen, que con ella\nechaba el gusto censo sobre el provecho á mas de dos mil por uno. La\ncaza de liebres dijo que era muy gustosa, y mas cuando se cazaba con\ngalgos prestados."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "El caballero gustó de su locura, y dejóle salir por la ciudad debajo\ndel amparo y guarda de un hombre que tuviese cuenta que los muchachos\nno le hiciesen mal, de los cuales y de toda la corte fué conocido\nen seis dias, y á cada paso, en cada calle y en cualquiera esquina,\nrespondia á todas las preguntas que le hacian, entre las cuales le\npreguntó un estudiante si era poeta, porque le parecia que tenia\ningenio para todo. Á lo cual respondió:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Hasta ahora no he sido tan necio ni tan venturoso."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—No entiendo eso de necio y venturoso, dijo el estudiante."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y respondió Vidriera:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—No he sido tan necio que diese en poeta malo, ni tan venturoso que\nhaya merecido serlo bueno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 17,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b2684300a8a623b82fa0a3c4dc39e75da83e2343a2bad90c297e9f217181f695",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Preguntóle otro estudiante que en qué estimacion tenia á los poetas.\nRespondió que á la ciencia en mucha, pero que á los poetas en ninguna.\nReplicáronle que por qué decia aquello. Respondió que del infinito\nnúmero de poetas que habia, eran tan pocos los buenos, que casi no\nhacian número; y así como si no hubiese poetas, no los estimaba; pero\nque admiraba y reverenciaba la ciencia de la poesía, porque encerraba\nen sí todas las ciencias; porque de todas se sirve, de todas se adorna\ny pule, y saca á luz sus maravillosas obras, con que llena el mundo de\nprovecho, de deleite y de maravilla."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Añadió mas:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Yo bien sé en lo que se debe estimar un buen poeta, porque se me\nacuerda de aquellos versos de Ovidio, que dicen:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cura ducum fuerunt olim Regumque poetæ:",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Præmiaque antiqui magna tulere chori.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Santaque majestas, et erat venerabile nomen",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Vatibus: et largæ sæpe dabantur opes.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y ménos se me olvida la alta calidad de los poetas, pues\nlos llama Platon intérpretes de los dioses, y de ellos dice Ovidio:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Est Deus in nobis, agitante calescimus illo.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y tambien dice:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "At sacri vates, et Divum cura vocamur.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Esto\nse dice de los buenos poetas; que de los malos, de los churrulleros,\n¿qué se ha de decir sino que son la idiotez y la ignorancia del\nmundo?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y añadió mas:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 18,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "c4cba08418598ed6e1254f7e8246773c1ceb657289e4e400731b694cc103d5c0",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—¿Qué es ver á un poeta destos de la primera impresion, cuando\nquiere decir un soneto á otros que le rodean, las salvas que les hace,\ndiciendo: vuesas mercedes escuchen un sonetillo que anoche á cierta\nocasion hice, que á mi parecer, aunque no vale nada, tiene un no sé\nqué de bonito? Y en esto tuerce los labios, pone en arco las cejas, se\nrasca la faldriquera, y de entre otros mil papeles mugrientos y medio\nrotos, donde queda otro millar de sonetos, saca el que quiere relatar,\ny al fin le dice con tono melífluo y alfeñicado: si acaso los que le\nescuchan, de socarrones ó de ignorantes no se le alaban, dice: ó\nvuesas mercedes no han entendido el soneto, ó yo no le he sabido decir,\ny así será bien recitarle otra vez, y que vuesas mercedes le presten\nmas atencion, porque en verdad en verdad que el soneto lo merece; y\nvuelve como primero á recitarle con nuevos ademanes y nuevas pausas.\nPues ¿qué es verlos censurar los unos á los otros? ¿qué diré del ladrar\nque hacen los cachorros y modernos á los mastinazos antiguos y graves?\ny ¿qué de los que murmuran de algunos ilustres y escelentes sujetos,\ndonde resplandece la verdadera luz de la poesía, que tomándola por\nalivio y entretenimiento de sus muchas y graves ocupaciones, muestran\nla divinidad de sus ingenios y la alteza de sus conceptos, á despecho\ny pesar del circunspecto ignorante, que juzga de lo que no sabe y\naborrece lo que no entiende? ¿y del que quiere que se estime y tenga en\nprecio la necedad que se sienta debajo de doseles, y la ignorancia que\nse arrima á los sitiales?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 19,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "9906044d122ad3156ad6570bb80b7952b77cfd6b5bce6506c83889632dd5d9f4",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otra vez le preguntaron qué era la causa de que los poetas por la\nmayor parte eran pobres. Respondió que porque ellos querian, pues\nestaba en su mano ser ricos, si se sabian aprovechar de la ocasion que\npor momentos traian entre las manos, que eran las de sus damas, que\ntodas eran riquísimas en estremo, pues tenian los cabellos de oro, la\nfrente de plata bruñida, los ojos de verdes esmeraldas, los dientes de\nmarfil, los labios de coral, y la garganta de cristal trasparente, y\nque lo que lloraban eran líquidas perlas, y mas que lo que sus plantas\npisaban, por dura y estéril tierra que fuese, al momento producia\njazmines y rosas, que su aliento era de puro ámbar, almizcle y algalia;\ny que todas estas cosas eran señales y muestras de su mucha riqueza.\nEstas y otras cosas decia de los malos poetas; que de los buenos\nsiempre dijo bien, y los levantó sobre el cuerno de la luna."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Vió un dia en la acera de San Francisco unas figuras pintadas de\nmala mano, y dijo que los buenos pintores imitaban la naturaleza, pero\nque los malos la vomitaban."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Arrimóse un dia, con grandísimo tiento porque no se quebrase, á la tienda de un\nlibrero, y díjole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Este oficio me contentara mucho, si no fuera por una falta que\ntiene."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Preguntóle el librero se la dijese. Respondióle:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Los melindres que hacen, cuando compran el privilegio de un libro,\ny la burla que hacen á su autor si acaso le imprime á su costa, pues\nen lugar de mil quinientos imprimen tres mil libros, y cuando el autor\npiensa que se venden los suyos se despachan los ajenos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Acaeció este mismo dia que pasaron por la plaza seis azotados, y\ndiciendo el pregon: Al primero por ladron; dió grandes voces á los que\nestaban delante dél, diciéndoles:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Apartáos, hermanos, no comience aquella cuenta por alguno de\nvosotros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 20,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "223e0a22e6c904aec5341839cc2341089f9e2ff6a1c6edeff7c6a71c03620fd1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y cuando el pregonero llegó á decir: al trasero, dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Aquel por ventura debe ser el fiador de los muchachos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Un muchacho le dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Hermano Vidriera, mañana sacan á azotar á una alcahueta."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Respondióle:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Si dijeras que sacaban á azotar á un alcahuete, entendiera que\nsacaban á azotar un coche."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Hallóse allí uno destos que llevan sillas de manos, y díjole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—De nosotros, Licenciado, ¿no teneis qué decir?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—No, respondió Vidriera, sino que sabe cada uno de vosotros mas\npecados que un confesor; mas es con esta diferencia, que el confesor\nlos sabe para tenerlos secretos, y vosotros para publicarlos por las\ntabernas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Oyó esto un mozo de mulas, porque de todo género de gente le estaba\nescuchando contino, y díjole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—De nosotros, señor Redoma, poco ó nada hay que decir, porque somos\ngente de bien y necesaria en la república."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual respondió Vidriera:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—La honra del amo descubre la del criado; segun esto: mira á quién\nsirves, y verás cuán honrado eres: mozos sois vosotros de la mas ruin\ncanalla que sustenta la tierra: una vez, cuando no era de vidrio,\ncaminé una jornada en una mula de alquiler, tal que le conté ciento\ny veinte y una tachas, todas capitales y enemigas del género humano:\ntodos los mozos de mulas tienen su punta de rufianes, su punta de\ncacos, y su es no es de truhanes: si sus amos (que así llaman ellos\ná los que llevan en sus mulas) son boquimuelles, hacen mas suertes\nen ellos que las que echaron en esta ciudad los años pasados: si son\nestranjeros, los roban; si estudiantes, los maldicen; si religiosos,\nlos reniegan; y si soldados, los tiemblan: estos, y los marineros, y\ncarreteros,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 21,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "bf83a48773058c0b653950545dbb33fee280c3c75d91a5a9e2bc0fe090f34a41",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " y arrieros, tienen un modo de vivir estraordinario, y solo\npara ellos: el carretero pasa lo mas de la vida en espacio de vara y\nmedia de lugar, que poco mas debe de haber del yugo de las mulas á la\nboca del carro; canta la mitad del tiempo, y la otra mitad reniega; y\nen decir, háganse á zaga, se les pasa otra muy gran parte; y si acaso\nles queda por sacar alguna rueda de algun atolladero, mas se ayudan\nde dos pésetes que de tres mulas. Los marineros son gente gentil é inurbana, que no sabe\notro lenguaje que el que se usa en los navíos: en la bonanza son\ndiligentes, y en la borrasca perezosos; en la tormenta mandan muchos\ny obedecen pocos; su Dios es su arca y su rancho, y su pasatiempo ver\nmareados á los pasajeros. Los arrieros son gente que ha hecho divorcio\ncon las sábanas y se ha casado con las enjalmas; son tan diligentes y\npresurosos, que á trueco de no perder la jornada, perderán el alma; su\nmúsica es la del mortero; su salsa la hambre; sus maitines levantarse á\ndar sus piensos, y sus misas no oir ninguna."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cuando esto decia estaba á la puerta de un boticario, y volviéndose\nal dueño, le dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Vuesa merced tiene un saludable oficio, si no fuese tan enemigo de\nsus candiles."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—¿En qué modo soy enemigo de mis candiles? preguntó el boticario."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y respondió Vidriera:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Esto digo, porque en faltando cualquiera aceite, lo suple el del\ncandil que está mas á mano; y aun tiene otra cosa este oficio, bastante\ná quitar el crédito al mas acertado médico del mundo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 22,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "ad15d744b437c04ba6e0a5de7735db72b56241113e871fa19cafef1c7e852a40",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Preguntándole por qué, respondió que habia boticario que por no\natreverse ni osar decir que faltaba en su botica lo que recetaba el\nmédico, por las cosas que le faltaban ponia otras, que á su parecer\ntenian la misma virtud y calidad, no siendo así; y con esto la\nmedicina mal compuesta obraba al reves de lo que habia de obrar la\nbien ordenada. Preguntóle entónces que qué sentia de los médicos, y\nrespondió esto:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—"
+            },
+            {
+              "text": "Honora medicum propter necessitatem,\netenim creavit eum Altissimus: a Deo enim est omnis medela, et a\nRege accipiet donationem: disciplina medici exaltavit caput illius,\net in conspectu magnatum collaudabitur: Altissimus de terra creavit\nmedicinam, et vir prudens non abhorrebit illam",
+              "italic": true
+            },
+            {
+              "text": ". Esto dice, dijo, el\nEclesiástico, de la medicina y de los buenos médicos, y de los malos\nse podria decir todo al reves, porque no hay gente mas dañosa á la\nrepública que ellos. El juez nos puede torcer ó dilatar la justicia; el\nletrado sustentar por su interes nuestra injusta demanda; el mercader\nchuparnos la hacienda; finalmente, todas las personas con quien de\nnecesidad tratamos, nos pueden hacer algun daño; pero quitarnos la vida\nsin quedar sujetos al temor del castigo, ninguno: solo los médicos\nnos pueden matar y nos matan sin temor y á pié quedo, sin desenvainar\notra espada que la de un récipe; y no hay descubrirse sus delitos,\nporque al momento los meten debajo de la tierra: acuérdaseme que\ncuando yo era hombre de carne, y no de vidrio como agora soy, que á un\nmédico destos de segunda clase le despidió un enfermo por curarse con\notro, y el primero de allí á cuatro dias acertó á pasar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 23,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b20cfd323c2e261e84e157a8b6eb51d4570101a538b14fd265927178c7f15094",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " por la botica\ndonde recetaba el segundo, y preguntó al boticario que cómo le iba\nal enfermo que él\nhabia dejado, y que si le habia recetado alguna purga el otro médico.\nEl boticario le respondió que allí tenia una receta de purga que el\ndia siguiente habia de tomar el enfermo; dijo que se la mostrase, y\nvió que al fin della estaba escrito: "
+            },
+            {
+              "text": "sumat\ndiluculo",
+              "italic": true
+            },
+            {
+              "text": ", y dijo: Todo lo que lleva esta purga me contenta, sino es\neste "
+            },
+            {
+              "text": "diluculo",
+              "italic": true
+            },
+            {
+              "text": ", porque es húmido demasiadamente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Por estas y otras cosas que decia de todos los oficios se andaban\ntras él sin hacerle mal y sin dejarle sosegar; pero con todo esto no\nse pudiera defender de los muchachos, si su guardian no le defendiera.\nPreguntóle uno qué haria para no tener envidia á nadie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Respondióle:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Duerme; que todo el tiempo que durmieres, serás igual al que\nenvidias."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otro le preguntó qué remedio tendria para salir con una comision que\nhabia dos años que la pretendia. Y díjole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Parte á caballo y á la mira de quien la lleva, y acompáñale hasta\nsalir de la ciudad, y así saldrás con ella."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pasó acaso una vez por delante donde él estaba un juez de comision,\nque iba de camino á una causa criminal, y llevaba mucha gente consigo y\ndos alguaciles; preguntó quién era, y como se lo dijeron, dijo:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 24,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "636fcfa19a105deb2f60863afc2231a22891d2a58edca861e8d41749637bb700",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Yo apostaré que lleva aquel juez víboras en el seno, pistoletes\nen la tinta y rayos en las manos, para destruir todo lo que alcanzare\nsu comision. Yo me acuerdo haber tenido un amigo que en una comision\ncriminal que tuvo dió una sentencia tan exorbitante, que escedia en\nmuchos quilates á la culpa de los delincuentes: preguntéle que por\nqué habia dado aquella tan cruel sentencia y hecho tan manifiesta\ninjusticia. Respondióme que pensaba otorgar la apelacion, y que con\nesto dejaba campo abierto á los señores del consejo para mostrar su\nmisericordia, moderando y poniendo aquella su rigurosa sentencia en su\npunto y debida proporcion. Yo le respondí que mejor fuera haberla dado\nde manera que les quitara de aquel trabajo, pues con esto le tuvieran á\nél por juez recto y acertado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "En la rueda de la mucha gente, que como se ha dicho siempre le\nestaba oyendo, estaba un conocido suyo en hábito de letrado, al cual\notro le llamó señor licenciado, y sabiendo Vidriera que el tal á quien\nllamaron licenciado no tenia ni aun título de bachiller, le dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Guardáos, compadre, no encuentren con vuestro título los frailes de\nla redencion de cautivos, que os le llevarán por mostrenco."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual dijo el amigo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Tratémonos bien, señor Vidriera, pues ya sabeis vos que soy hombre\nde altas y de profundas letras."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Respondióle Vidriera:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Ya yo sé que sois un Tántalo en ellas, porque se os van por altas,\ny no las alcanzais de profundas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Estando una vez arrimado á la tienda de un sastre, vióle que estaba\nmano sobre mano, y díjole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Sin duda, señor maese, que estais en camino de salvacion."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—¿En qué lo veis? preguntó el sastre."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—¿En qué lo veo? respondió Vidriera: véolo en que pues no teneis qué\nhacer, no tendréis ocasion de mentir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y añadió:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 25,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "eb007cbff3569edcbd6ea8166b1d61ab9825b9911ce65e07036b020a40b04101",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Desdichado del sastre que no miente, y cose las fiestas: cosa\nmaravillosa es, que casi en todos los deste oficio apénas se hallará\nuno que haga un vestido justo, habiendo tantos que los hagan\npecadores."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De los zapateros decia que jamas hacian conforme á su parecer zapato\nmalo; porque si al que se le calzaba venia estrecho y apretado, le\ndecian que así habia de ser por ser de galanes calzar justo, y que en\ntrayéndolos dos horas, vendrian mas anchos que alpargates; y si le\nvenian anchos, decian que así habian de venir por amor de la gota."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Un muchacho agudo, que escribia en un oficio de provincia, le\napretaba mucho con preguntas y demandas, y le traia nuevas de lo que\nen la ciudad pasaba, porque sobre todo discantaba, y á todo respondia.\nEste le dijo una vez:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Vidriera, esta noche se murió en la cárcel un banco que estaba\ncondenado á ahorcar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual respondió:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Él hizo bien á darse priesa á morir ántes que el verdugo se\nsentara sobre él."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "En la acera de San Francisco estaba un corro de genoveses, y pasando\npor allí, uno dellos le llamó, diciéndole:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Lléguese acá el señor Vidriera, y cuéntenos un cuento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Él respondió:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—No quiero, porque no me le paseis á Génova[2]."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Topó una vez á una tendera que llevaba delante de sí una hija suya\nmuy fea, pero muy llena de dijes, de galas y de perlas, y díjole á la\nmadre:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Muy bien habeis hecho en empedralla, porque se pueda pasear."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De los pasteleros dijo que habia muchos años que jugaban á la\ndobladilla, sin que les llevasen la pena porque habian hecho el pastel\nde á dos ("
+            },
+            {
+              "text": "maravedises",
+              "italic": true
+            },
+            {
+              "text": ") de á cuatro, el de á cuatro de á ocho, y el de\ná ocho de á medio real, por solo su albedrío y beneplácito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 26,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "ba1e4da22d831a6eb98c24c7455aa4a64b0b9d394c0f91c4fb8bd49a7604805c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De los titereros decia mil males: decia que era gente vagamunda y\nque trataba con indecencia de las cosas divinas, porque con las figuras\nque mostraban en sus retratos, volvian la devocion en risa, y que les\nacontecia envasar en un costal todas ó las mas figuras del Testamento\nviejo y nuevo, y sentarse sobre él á comer y beber en los bodegones y\ntabernas: en resolucion, decia que se maravillaba de cómo quien podia\nno les ponia perpetuo silencio en sus retablos, ó los desterraba del\nreino."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Acertó á pasar una vez por donde él estaba un comediante vestido\ncomo un príncipe; y en viéndole dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Yo me acuerdo haber visto á este salir al teatro enharinado\nel rostro y vestido un zamarro del reves, y con todo esto á cada\npaso fuera del tablado jura á fe de hijodalgo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Débelo de ser, respondió uno, porque hay muchos comediantes que son\nmuy bien nacidos y hijosdalgo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Así será verdad, replicó Vidriera; pero lo que ménos ha menester\nla farsa es personas bien nacidas; galanes sí, gentiles hombres y de\nespeditas lenguas: tambien sé decir dellos que en el sudor de su cara\nganan su pan con inllevable trabajo, tomando continuo de memoria,\nhechos perpetuos jitanos de lugar en lugar, y de meson en venta,\ndesvelándose en contentar á otros, porque en el gusto ajeno consiste\nsu bien propio: tienen mas, que con su oficio no engañan á nadie, pues\npor momentos sacan su mercaduría á pública plaza, al juicio y á la\nvista de todos: el trabajo de los autores es increible, y su cuidado\nestraordinario, y han de ganar mucho para que al cabo del año no salgan\ntan empeñados, que les sea forzoso hacer pleito de acreedores; y con\ntodo esto son necesarios en la república, como lo son las florestas,\nlas alamedas y las vistas de recreacion, y como lo son las cosas que\nhonestamente recrean."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 27,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "be607901edb8ee219c68b81c352a5ac475ef90308d7bebcc363bc0f82a4afff9",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Decia que habia sido opinion de un amigo suyo, que el que servia á\nuna comedianta, en solo una servia á muchas damas juntas, como era á\nuna reina, á una ninfa, á una diosa, á una fregona, á una pastora, y\nmuchas veces caia la suerte en que sirviese en ella á un paje y á un\nlacayo, que todas estas y mas figuras suele hacer una farsanta."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Preguntóle uno que cuál habia sido el mas dichoso del mundo.\nRespondió que "
+            },
+            {
+              "text": "nemo",
+              "italic": true
+            },
+            {
+              "text": "; porque "
+            },
+            {
+              "text": "nemo novit patrem: nemo sine crimine vivit: nemo sua sorte\ncontentus: nemo ascendit in cœlum",
+              "italic": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De los diestros dijo una vez que eran maestros de una ciencia ó\narte, que cuando la habian menester no la sabian, y que tocaban algo\nen presuntuosos, pues querian reducir á demostraciones matemáticas,\nque son infalibles, los movimientos y pensamientos coléricos de sus\ncontrarios."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Con los que se teñian las barbas tenia particular enemistad; y\nriñendo una vez delante dél dos hombres, que el uno era portugues, este\ndijo al castellano, asiéndose de las barbas, que tenia muy teñidas:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Por istas barbas que teño no rostro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual acudió Vidriera, y dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Olhay, homen, naon digais teño, sino\ntiño."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otro traia las barbas jaspeadas y de muchas colores, culpa de la\nmala tinta, á quien dijo Vidriera, que tenia las barbas de muladar\novero. Á otro que traia las barbas por mitad blancas y negras por\nhaberse descuidado, y los cañones crecidos, le dijo que procurase de no\nporfiar ni reñir con nadie, porque estaba aparejado á que le dijesen\nque mentia por la mitad de la barba."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 28,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "bf21d725936df03365bf16e7369aec1882db692152df2218b1688417412b2c40",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Una vez contó que una doncella discreta y bien entendida, por acudir\ná la voluntad de sus padres, dió el sí de casarse con un viejo todo\ncano, el cual la noche ántes del dia del desposorio se fué, no al rio\nJordan como dicen las viejas, sino á la redomilla del agua fuerte y plata, con que renovó de\nmanera su barba, que la acostó de nieve y la levantó de pez. Llegóse\nla hora de darse las manos, y la doncella conoció por la pinta y por\nla tinta la figura, y dijo á sus padres que le diesen el mismo esposo\nque ellos le habian mostrado, que no queria otro. Ellos le dijeron que\naquel que tenia delante era el mismo que le habian mostrado y dado\npor esposo. Ella replicó que no era, y trujo testigos como el que sus\npadres le dieron era un hombre grave y lleno de canas, y que pues el\npresente no las tenia, no era él, y se llamaba á engaño: atúvose á\nesto, corrióse el teñido, y deshízose el casamiento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Con las dueñas tenia la misma ojeriza que con los escabechados:\ndecia maravillas de su permafoy, de las mortajas de sus tocas, de sus\nmuchos melindres, de sus escrúpulos y de su estraordinaria miseria:\namohinábanle sus flaquezas de estómago, sus vaguidos de cabeza, su modo\nde hablar con mas repulgos que sus tocas, y finalmente su inutilidad y\nsus vainillas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Uno le dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—¿Qué es esto, señor Licenciado, que os he oido decir mal de muchos\noficios, y jamas lo habeis dicho de los escribanos, habiendo tanto que\ndecir?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo cual respondió:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 29,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "563f995a0332d7959e83d6a88933e8fa5b938f09cd46e2fc388f8f3ad769f5d6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Aunque de vidrio, no soy tan frágil que me dejo ir con la corriente\ndel vulgo, las mas veces engañado. Paréceme á mí que la gramática\nde los murmuradores, y el la, la, la, de los que cantan, son los\nescribanos; porque así como no se puede pasar á otras ciencias, si no\nes por la puerta de la gramática, y como el músico, primero murmura que\ncanta, así los maldicientes por donde comienzan á mostrar la malignidad\nde sus lenguas, es por decir mal de los escribanos y alguaciles, y de\nlos otros ministros de la justicia, siendo un oficio el del escribano,\nsin el cual andaria la verdad por el mundo á sombra de tejados, corrida\ny maltratada; y así dice el Eclesiástico: "
+            },
+            {
+              "text": "In\nmanum Dei potestas hominis est, et super faciem scribæ imponet\nhonorem",
+              "italic": true
+            },
+            {
+              "text": ". Es el escribano persona pública, y el oficio del juez no se\npuede ejercitar cómodamente sin el suyo. Los escribanos han de ser\nlibres, y no esclavos, ni hijos de esclavos; legítimos, no bastardos,\nni de ninguna mala raza nacidos: juran secreto, fidelidad, y que no\nharán escritura usuraria: que ni amistad ni enemistad, provecho ó daño\nles moverá á no hacer su oficio con buena y cristiana conciencia. Pues\nsi este oficio tantas buenas partes requiere, ¿por qué se ha de pensar\nque de mas de veinte mil escribanos que hay en España, se lleve el\ndiablo la cosecha, como si fuesen cepas de su majuelo? No lo quiero\ncreer, ni es bien que ninguno lo crea; porque finalmente digo que es\nla gente mas necesaria que habia en las repúblicas bien ordenadas; y\nque si llevaban demasiados derechos, tambien hacian demasiados tuertos,\ny que destos dos estremos podia resultar un medio que les hiciese mirar por el\nvirote."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 30,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "4f925c18a5bfa9e43a24351978f1dfb6a3f488eb838a3656ca42f7ec55c2db39",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De los alguaciles dijo que no era mucho que tuviesen algunos\nenemigos, siendo su oficio ó prenderte, ó sacarte la hacienda de\ncasa, ó tenerte en la suya en guarda, y comer á tu costa. Tachaba\nla negligencia é ignorancia de los procuradores y solicitadores,\ncomparándolos á los médicos, los cuales, que sane ó no sane el enfermo,\nellos llevan su propina: y los procuradores y solicitadores lo mismo,\nsalgan ó no salgan con el pleito que ayudan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Preguntóle uno cuál era la mejor tierra. Respondió que la temprana y\nagradecida. Replicó el otro:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—No pregunto eso, sino que ¿cuál es mejor lugar, Valladolid ó\nMadrid?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y respondió:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—De Madrid los estremos, de Valladolid los medios."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—No lo entiendo, repitió el que se lo preguntaba."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—De Madrid cielo y suelo; de Valladolid los entresuelos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Oyó Vidriera que dijo un hombre á otro, que así como habia entrado\nen Valladolid habia caido su mujer muy enferma, porque la habia probado\nla tierra. Á lo cual dijo Vidriera:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Mejor fuera que se la hubiera comido, si acaso es celosa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De los músicos y de los correos de á pié, decia que tenian las\nesperanzas y las suertes limitadas; porque los unos la acaban con\nllegar á serlo de á caballo, y los otros con alcanzar á ser músicos del\nrey."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "De las damas que llaman cortesanas, decia que todas ó las mas tenian\nmas de corteses que de sanas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Estando un dia en una iglesia vió que traian á enterrar á un viejo,\ná bautizar á un niño, y á velar á una mujer, todo á un mismo tiempo, y\ndijo, que los templos eran campos de batalla, donde los viejos acaban,\nlos niños vencen, y las mujeres triunfan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 31,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "8046d68837bab2fa41764ea87f924bb48d68bf7bbdf85930f6a0d65b4b68f264",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Picábale una vez una avispa en el cuello, y no se la osaba sacudir\npor no quebrarse: pero con todo eso se quejaba. Preguntóle uno que\ncómo sentia aquella avispa si era su cuerpo de vidrio. Y respondió que\naquella avispa debia de ser murmuradora, y que las lenguas y picos de\nlos murmuradores eran bastantes á desmoronar cuerpos de bronce, no que\nde vidrio."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pasando acaso un religioso muy gordo por donde él estaba dijo uno de\nsus oyentes:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—De ético no se puede mover el padre."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Enojóse Vidriera, y dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Nadie se olvide de lo que dice el Espíritu Santo: "
+            },
+            {
+              "text": "Nolite tangere christos meos",
+              "italic": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y subiéndose mas en cólera, dijo: que mirasen en ello, y verian\nque de muchos santos, que de pocos años á esta parte habia canonizado\nla Iglesia y puesto en el número de los bienaventurados, ninguno\nse llamaba el capitan don fulano, ni el secretario don tal de don\ntales, ni el conde, marqués ó duque de tal parte; sino fray Diego,\nfray Jacinto, fray Raimundo, todos frailes y religiosos; porque las\nreligiones son los Aranjueces del cielo, cuyos frutos de ordinario se\nponen en la mesa de Dios."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Decia que las lenguas de los murmuradores eran como las plumas del águila, que roen\ny menoscaban todas las de las otras aves que á ellas se juntan. De\nlos gariteros y tahures decia milagros: decia que los gariteros eran\npúblicos prevaricadores, porque en sacando el barato del que iba\nhaciendo suertes, deseaban que perdiese, y pasase el naipe adelante,\nporque el contrario las hiciese, y él cobrase sus derechos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 32,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "08437a043beb45e222a5ae4755625d67ff295a1ef584af1cd45db66ccd362ad7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Alababa\nmucho la paciencia de un tahur, que estaba toda una noche jugando y\nperdiendo; y con ser de condicion colérico y endemoniado, á trueco\nde que su contrario no se alzase, no descosia la boca, y sufria lo\nque un mártir de Barrabas. Alababa tambien las conciencias de algunos\nhonrados gariteros, que ni por imaginacion consentian que en su casa\nse jugase otros juegos, que polla y cientos; y con esto á fuego lento,\nsin temor y nota de malsines sacaban al cabo del mes mas barato que los\nque consentian los juegos de estocada, del reparólo, siete y llevar, y\npinta en la del punto."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "En resolucion, él decia tales cosas, que si no fuera por los\ngrandes gritos que daba cuando le tocaban ó á él se arrimaban, por el\nhábito que traia, por la estrecheza de su comida, por el modo con que\nbebia, por el no querer dormir sino al cielo abierto en el verano, y\nel invierno en los pajares, como queda dicho, con que daba tan claras\nseñales de su locura, ninguno pudiera creer sino que era uno de los\nmas cuerdos del mundo. Dos años ó poco mas duró en esta enfermedad,\nporque un religioso de la órden de San Jerónimo, que tenia gracia y\nciencia particular en hacer que los mudos entendiesen y en cierta\nmanera hablasen, y en curar locos, tomó á su cargo de curar á Vidriera,\nmovido de caridad, y le curó y sanó, y volvió á su primer juicio,\nentendimiento y discurso; y así como le vió sano, le vistió como á\nletrado, y le hizo volver á la corte, adonde con dar tantas muestras de\ncuerdo, como las habia dado de loco, podia usar su oficio, y hacerse\nfamoso por él."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 33,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "74f19e0902daca2bf10324338c0b74cd82cf9c351b518f32a6d00d8b3cbcb194",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Hízolo así, y llamándose el licenciado Rueda, no Rodaja, volvió\ná la corte, donde apénas hubo entrado, cuando fué conocido de los\nmuchachos; mas cuando le vieron en tan diferente hábito del que solia,\nno le osaron dar grita ni hacer preguntas; pero seguíanle, y decian\nunos á otros: ¿Este no es el loco Vidriera? á fe que es él: ya viene\ncuerdo, pero tambien puede ser loco bien vestido como mal vestido:\npreguntémosle algo, y salgamos desta confusion. Todo esto oia el\nLicenciado, y callaba, y iba mas confuso y mas corrido que cuando\nestaba sin juicio."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pasó el conocimiento de los muchachos á los hombres, y ántes que el\nLicenciado llegase al patio de los Consejos, llevaba tras de sí mas de\ndoscientas personas de todas suertes. Con este acompañamiento, que era\nmas que el de un catedrático, llegó al patio donde le acabaron de circundar cuantos en él\nestaban. Él, viéndose con tanta turba á la redonda, alzó la voz, y\ndijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Señores, yo soy el licenciado Vidriera, pero no el que solia:\nsoy ahora el licenciado Rueda: sucesos y desgracias que acontecen\nen el mundo por permision del cielo me quitaron el juicio, y las\nmisericordias de Dios me le han vuelto: por las cosas que dicen que\ndije cuando loco, podeis considerar las que diré cuando cuerdo: yo soy\ngraduado en leyes por Salamanca, adonde estudié con pobreza, y adonde\nllevé segundo en licencias, de do se puede inferir que mas la virtud\nque el favor me dió el grado que tengo: aquí he venido á este gran mar\nde la corte para abogar y ganar la vida, pero si no me dejais, habré\nvenido á bogar y granjear la muerte: por amor de Dios, que no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-licenciado-vidriera",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 34,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "af05d75d7417a6e75499789a9a2b1fb5d2ffbb1dc1c8916099802aa2aae52235",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " hagais\nque el seguirme sea perseguirme, y que lo que alcancé por loco, que\nes el sustento, lo pierda por cuerdo: lo que solíades preguntarme en\nlas plazas, preguntádmelo ahora en mi casa, y veréis que el que os\nrespondia bien de improviso, os responderá mejor de pensado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Escucháronle todos, y dejáronle algunos. Volvióse á su posada con\npoco ménos acompañamiento que habia llevado. Salió otro dia, y fué\nlo mismo: hizo otro sermon, y no sirvió de nada. Perdia mucho, y no\nganaba cosa, y viéndose morir de hambre, determinó de dejar la corte y\nvolverse á Flándes, donde pensaba valerse de las fuerzas de su brazo,\npues no se podia valer de las de su ingenio; y poniéndolo en efecto,\ndijo al salir de la corte:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—¡Oh corte, que alargas las esperanzas de los atrevidos\npretendientes, y acortas las de los virtuosos encogidos; sustentas\nabundantemente á los truhanes desvergonzados, y matas de hambre á los\ndiscretos vergonzosos!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Esto dijo, y se fué á Flándes, donde la vida que habia comenzado\ná eternizar por las letras, la acabó de eternizar por las armas en\ncompañía de su buen amigo el capitan Valdivia, dejando fama en su\nmuerte de prudente y valentísimo soldado."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        }
+      ]
+    }
+  ]
+}

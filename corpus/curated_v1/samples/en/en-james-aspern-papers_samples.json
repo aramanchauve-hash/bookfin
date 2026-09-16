@@ -1,0 +1,37 @@
+{
+  "work_id": "en-james-aspern-papers",
+  "author": "Henry James",
+  "title": "The Aspern Papers",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 136,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 136,
+      "character_length": 1521,
+      "blocks_count": 17,
+      "preview": "THE ASPERN PAPERS By Henry James First American book edition, Macmillan and Co., 1888. CONTENTS I II III IV V VI VII VIII IX I I had taken Mrs. Prest into my confidence; in truth without her I should have made but little advance, for the fruitful idea in the whole business dropped from her friendly lips. It was she who invented the short cut, who severed the Gordian knot. It is not supposed to be ...",
+      "content_hash": "aabc36ceb39802141117d7cda5defce237578699b65d86ba7fec9adb29920b19"
+    },
+    "middle": {
+      "label": "Milieu (Page 68)",
+      "page_sequence_number": 68,
+      "total_pages": 136,
+      "character_length": 1643,
+      "blocks_count": 5,
+      "preview": "Miss Tita had expected some interesting talk, but perhaps she found it less genial on her aunt’s side (considering that I had been sent for with a civil intention) than she had hoped. As if to give the conversation a turn that would put our companion in a light more favorable she said to me, “Didn’t I tell you the other night that she had sent me out? You see that I can do what I like!” “Do you pi...",
+      "content_hash": "38566af5c68ce841b5739403b455f8f0c0411b07c4cfab5146105aab0293a9a8"
+    },
+    "end": {
+      "label": "Fin (Page 136)",
+      "page_sequence_number": 136,
+      "total_pages": 136,
+      "character_length": 672,
+      "blocks_count": 1,
+      "preview": "I have never forgotten it and I sometimes still suffer from it, though it was not resentful. No, there was no resentment, nothing hard or vindictive in poor Miss Tita; for when, later, I sent her in exchange for the portrait of Jeffrey Aspern a larger sum of money than I had hoped to be able to gather for her, writing to her that I had sold the picture, she kept it with thanks; she never sent it b...",
+      "content_hash": "9382c6fe2dcce39cb44a0d75cbe7c119a21d39c8b0aeceba8315cc1d3c05563a"
+    }
+  }
+}

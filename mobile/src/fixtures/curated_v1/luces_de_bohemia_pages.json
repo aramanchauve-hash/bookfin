@@ -1,0 +1,434 @@
+{
+  "work_id": "es-valle-inclan-luces-de-bohemia",
+  "author": "Ramón del Valle-Inclán",
+  "title": "Luces de bohemia (esperpento)",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "00e1ee496cf55ff0a49c9593ea8d404280fa7ccebac88f6270e6b88a793141ed",
+  "document_sha256": "00d66779d403a462da09ce00ad4d55a52c5569b87e524e8477cab2e870967150",
+  "pages_count": 1,
+  "source_page_sequence_number": 2,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-valle-inclan-luces-de-bohemia",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "77c43b1b7d1cd4c8f7e98b62ddce06aa341873c64348d0de1a0bac714eec8c60",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "ESCENA PRIMERA"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "HORA CREPUSCULAR. Un guardillón con ventano angosto,\nlleno de sol. Retratos, grabados, autógrafos repartidos por las\nparedes, sujetos con chinches de dibujante. Conversación lánguida de un\nhombre ciego y una mujer pelirrubia, triste y fatigada. El hombre ciego\nes un hiperbólico andaluz, poeta de odas y madrigales, Máximo Estrella.\nA la pelirrubia, por ser francesa, le dicen en la vecindad Madama\nCollet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Vuelve a leerme la carta del Buey Apis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ten paciencia, Max."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Pudo esperar a que me enterrasen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le toca ir delante."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Collet, mal vamos a vernos sin esas cuatro crónicas! ¿Dónde gano yo\nveinte duros, Collet?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Otra puerta se abrirá."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "La de la muerte. Podemos suicidarnos colectivamente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " MADAMA\nCOLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "A mí la muerte no me asusta. ¡Pero tenemos una hija, Max!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¿Y si Claudinita estuviese conforme con mi proyecto de suicidio\ncolectivo?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Es muy joven!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "También se matan los jóvenes, Collet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "No por cansancio de la vida. Los jóvenes se matan por\nromanticismo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Entonces, se matan por amar demasiado la vida. Es una lástima\nla obcecación de\nClaudinita. Con cuatro perras de carbón, podíamos hacer el viaje\neterno."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "No desesperes. Otra puerta se abrirá."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¿En qué redacción me admiten ciego?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Escribes una novela."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y no hallo editor."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Oh! No te pongas a gatas, Max. Todos reconocen tu talento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "¡Estoy olvidado! Léeme la carta del Buey Apis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "No tomes ese caso por ejemplo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Lee."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Es un infierno de letra."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MAX"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Lee despacio."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Madama Collet, el gesto abatido y resignado, deletrea\nen voz baja la carta. Se oye fuera una escoba retozona. Suena la\ncampanilla de la escalera."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "MADAMA COLLET"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Claudinita, deja quieta la escoba, y mira quién ha llamado."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -166,4 +166,34 @@ describe('readingReducer - Machine d\'état de lecture', () => {
     expect(endState.status).toBe('end_of_edition');
     expect(endState.errorMessage).toContain('Fin du livre');
   });
+
+  test('Retour buffer : réaffiche la page déjà servie sans créer une nouvelle impression', () => {
+    const restored = readingReducer(initialReadingState, {
+      type: 'RESTORE_BUFFERED_PAGE',
+      page: mockPage,
+      metadata: mockMetadata,
+      reaction: 'like',
+      scrollOffset: 720,
+    });
+
+    expect(restored.currentPage).toBe(mockPage);
+    expect(restored.status).toBe('revealed');
+    expect(restored.restoreScrollOffset).toBe(720);
+    expect(restored.isBufferedPage).toBe(true);
+    expect(restored.transitionType).toBe('page_flip_back');
+  });
+
+  test('422 après un swipe conserve la page et rend un nouvel essai possible', () => {
+    const reacting = readingReducer(
+      { ...initialReadingState, status: 'reading', currentPage: mockPage },
+      { type: 'REACT_START', reaction: 'like', eventId: 'swipe-event' }
+    );
+    const retry = readingReducer(reacting, {
+      type: 'REACT_VALIDATION_RETRY',
+      message: 'Continuez la lecture avant de tourner la page.',
+    });
+    expect(retry.status).toBe('reading');
+    expect(retry.currentPage).toBe(mockPage);
+    expect(retry.validationHint).toContain('Continuez');
+  });
 });

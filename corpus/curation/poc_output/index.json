@@ -1,0 +1,32 @@
+{
+  "poc_only": true,
+  "items": [
+    {
+      "id": "en_austen_pride_prejudice",
+      "source_archive": "C:\\Users\\arama\\Dev\\Bookfin\\corpus\\curation\\poc_sources\\en_austen_pride_prejudice_pg42671.html",
+      "source_sha256": "d5cf14a01b06801f3b5694825dcd521f3643047b83391df1102dfd67b733978e",
+      "output": "C:\\Users\\arama\\Dev\\Bookfin\\corpus\\curation\\poc_output\\en_austen_pride_prejudice.json",
+      "blocks": 2203,
+      "pages": 501,
+      "first_page_preview": "PRIDE & PREJUDICE.CHAPTER I.It is a truth universally acknowledged, that a single man in possession\r of a good fortune, must be in want of a wife.However little known the feelings or views of such a man may be on his\r first entering a neighbourhood, this truth is so well fixed in the minds\r of the surrounding families, that he is considered as the rightful\r "
+    },
+    {
+      "id": "fr_maupassant_la_parure",
+      "source_archive": "C:\\Users\\arama\\Dev\\Bookfin\\corpus\\curation\\poc_sources\\fr_maupassant_la_parure_wikisource.html",
+      "source_sha256": "e18a25ee46a714cdc0e287fc29fe25daa19b7447302fdc780be6a6cad7abd404",
+      "output": "C:\\Users\\arama\\Dev\\Bookfin\\corpus\\curation\\poc_output\\fr_maupassant_la_parure.json",
+      "blocks": 151,
+      "pages": 12,
+      "first_page_preview": "  LA PARURE C’était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l’instruction publique. Elle fut simple ne"
+    },
+    {
+      "id": "es_quiroga_a_la_deriva",
+      "source_archive": "C:\\Users\\arama\\Dev\\Bookfin\\corpus\\curation\\poc_sources\\es_quiroga_a_la_deriva_wikisource.html",
+      "source_sha256": "61d4771a973680d227de41cdb043bd00adc0330afd4f4dc54ca0dce96f1f337d",
+      "output": "C:\\Users\\arama\\Dev\\Bookfin\\corpus\\curation\\poc_output\\es_quiroga_a_la_deriva.json",
+      "blocks": 31,
+      "pages": 5,
+      "first_page_preview": "El hombre pisó algo blanduzco, y enseguida sintió la mordedura en el pie. Saltó adelante, y al volverse con un juramento vio una yararacusú que arrollada sobre sí misma, esperaba otro ataque. El hombre echó una veloz ojeada a su pie, donde dos gotitas de sangre engrosaban dificultosamente, y sacó el machete de la cintura. La víbora vio la amenaza, y hundió m"
+    }
+  ]
+}

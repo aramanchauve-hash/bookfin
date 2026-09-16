@@ -1,0 +1,37 @@
+{
+  "work_id": "en-poe-oval-portrait",
+  "author": "Edgar Allan Poe",
+  "title": "The Oval Portrait",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 5,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 5,
+      "character_length": 1581,
+      "blocks_count": 2,
+      "preview": "THE OVAL PORTRAIT. The chateau into which my valet had ventured to make forcible entrance, rather than permit me, in my desperately wounded condition, to pass a night in the open air, was one of those piles of commingled gloom and grandeur which have so long frowned among the Appenines, not less in fact than in the fancy of Mrs. Radcliffe. To all appearance it had been temporarily and very lately ...",
+      "content_hash": "7211ead3ffe379e7383bc453e8fa9c62578cf3bfb542dcb77b0be66e0b955f5f"
+    },
+    "middle": {
+      "label": "Milieu (Page 2)",
+      "page_sequence_number": 2,
+      "total_pages": 5,
+      "character_length": 1342,
+      "blocks_count": 3,
+      "preview": "Long—long I read—and devoutly, devoutedly I gazed. Rapidly and gloriously the hours flew by, and the deep midnight came. The position of the candelabrum displeased me, and outreaching my hand with difficulty, rather than disturb my slumbering valet, I placed it so as to throw its rays more fully upon the book. But the action produced an effect altogether unanticipated. The rays of the numerous can...",
+      "content_hash": "fcad1bd522f96836c3c441abb991ad213295fb1de4a56fe090473e4339c00a30"
+    },
+    "end": {
+      "label": "Fin (Page 5)",
+      "page_sequence_number": 5,
+      "total_pages": 5,
+      "character_length": 1094,
+      "blocks_count": 3,
+      "preview": "But at length, as the labor drew nearer to its conclusion, there were admitted none into the turret; for the painter had grown wild with the ardor of his work, and turned his eyes from the canvass rarely, even to regard the countenance of his wife. And he would not see that the tints which he spread upon the canvass were drawn from the cheeks of her who sat beside him. And when many weeks had pass...",
+      "content_hash": "fc824fad1f70655b90c42ea9cf9f63351e54e152edc8de88d4c085e0f621f545"
+    }
+  }
+}

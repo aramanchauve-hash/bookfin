@@ -1,0 +1,37 @@
+{
+  "work_id": "en-james-beast-in-the-jungle",
+  "author": "Henry James",
+  "title": "The Beast in the Jungle",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 65,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 65,
+      "character_length": 1590,
+      "blocks_count": 4,
+      "preview": "Transcribed from the 1915 Martin Secker edition by David Price, email ccx074@coventry.ac.ukTHE BEAST IN THE JUNGLECHAPTER IWhat determined the speech that startled him in the course of their encounter scarcely matters, being probably but some words spoken by himself quite without intention—spoken as they lingered and slowly moved together after their renewal of acquaintance. He had been conveyed b...",
+      "content_hash": "3c10c844306f05094b7313014b68cef9760b3bc099df74d2b0e7b9610d0a3a75"
+    },
+    "middle": {
+      "label": "Milieu (Page 32)",
+      "page_sequence_number": 32,
+      "total_pages": 65,
+      "character_length": 1342,
+      "blocks_count": 1,
+      "preview": "after all, any better than he did. She had no source of knowledge he hadn’t equally—except of course that she might have finer nerves. That was what women had where they were interested; they made out things, where people were concerned, that the people often couldn’t have made out for themselves. Their nerves, their sensibility, their imagination, were conductors and revealers, and the beauty of ...",
+      "content_hash": "5593ffa98d61e6493354b44ff974b62bce25aa91457436e692c545e8445ce40c"
+    },
+    "end": {
+      "label": "Fin (Page 65)",
+      "page_sequence_number": 65,
+      "total_pages": 65,
+      "character_length": 1196,
+      "blocks_count": 1,
+      "preview": "and let him imaginably guess. It had sprung as he didn’t guess; it had sprung as she hopelessly turned from him, and the mark, by the time he left her, had fallen where it was to fall. He had justified his fear and achieved his fate; he had failed, with the last exactitude, of all he was to fail of; and a moan now rose to his lips as he remembered she had prayed he mightn’t know. This horror of wa...",
+      "content_hash": "332d8a6d6bc962fa7e34aa123ce861b606aca10870af683259e3e284f0bd3449"
+    }
+  }
+}

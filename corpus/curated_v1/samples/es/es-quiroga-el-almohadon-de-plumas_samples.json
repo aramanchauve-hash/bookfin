@@ -1,0 +1,37 @@
+{
+  "work_id": "es-quiroga-el-almohadon-de-plumas",
+  "author": "Horacio Quiroga",
+  "title": "El almohadón de plumas",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 5,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 5,
+      "character_length": 1337,
+      "blocks_count": 5,
+      "preview": "EL ALMOHADON DE PLUMASu luna de miel fué un largo escalofrío. Rubia, angelical y tímida, el carácter duro de su marido heló sus soñadas niñerías de novia. Lo quería mucho, sin embargo, a veces con un ligero estremecimiento cuando volviendo de noche juntos por la calle, echaba una furtiva mirada a la alta estatura de Jordán, mudo desde hacía una hora. Él, por su parte, la amaba profundamente, sin d...",
+      "content_hash": "ce7bab47b839151980f68d6239e025e0471418e3c2a301bf8ae52ece85cc9e1a"
+    },
+    "middle": {
+      "label": "Milieu (Page 2)",
+      "page_sequence_number": 2,
+      "total_pages": 5,
+      "character_length": 1594,
+      "blocks_count": 4,
+      "preview": "No es raro que adelgazara. Tuvo un ligero ataque de influenza que se arrastró insidiosamente días y días; Alicia no se reponía nunca. Al fin una tarde pudo salir al jardín apoyada en el brazo de él. Miraba indiferente a uno y otro lado. De pronto Jordán, con honda ternura, le pasó la mano por la cabeza, y Alicia rompió en seguida en sollozos, echándole los brazos al cuello. Lloró largamente todo s...",
+      "content_hash": "273f9339cbcbdea2d379467457aba79d8ab4fa7fbdc1961f8902d1f53de044c6"
+    },
+    "end": {
+      "label": "Fin (Page 5)",
+      "page_sequence_number": 5,
+      "total_pages": 5,
+      "character_length": 1090,
+      "blocks_count": 3,
+      "preview": "Jordán lo levantó; pesaba extraordinariamente. Salieron con él, y sobre la mesa del comedor Jordán cortó funda y envoltura de un tajo. Las plumas superiores volaron, y la sirvienta dió un grito de horror con toda la boca abierta, llevándose las manos crispadas a los bandós:—sobre el fondo, entre las plumas, moviendo lentamente las patas velludas, había un animal mostruoso, una bola viviente y visc...",
+      "content_hash": "ea2a0b365d1d7f9ef5ee8050068d8c2c83e40a51a7043a6c2ee4c2636148e2ae"
+    }
+  }
+}

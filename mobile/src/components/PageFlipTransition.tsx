@@ -4,7 +4,7 @@ import { AccessibilityInfo, Animated, StyleSheet, ViewStyle } from 'react-native
 interface PageFlipTransitionProps {
   children: React.ReactNode;
   triggerKey: string | number;
-  type?: 'page_flip' | 'fade' | 'none';
+  type?: 'page_flip' | 'page_flip_back' | 'fade' | 'none';
   style?: ViewStyle;
 }
 
@@ -39,7 +39,7 @@ export const PageFlipTransition: React.FC<PageFlipTransitionProps> = ({
     animValue.setValue(0);
     Animated.timing(animValue, {
       toValue: 1,
-      duration: type === 'page_flip' ? 180 : 120,
+      duration: type === 'page_flip' || type === 'page_flip_back' ? 180 : 120,
       useNativeDriver: true,
     }).start();
   }, [triggerKey, type, reduceMotion, animValue]);
@@ -51,7 +51,7 @@ export const PageFlipTransition: React.FC<PageFlipTransitionProps> = ({
   // Effet de translation horizontale subtile (12px) et fondu d'apparition
   const translateX = animValue.interpolate({
     inputRange: [0, 1],
-    outputRange: [type === 'page_flip' ? 16 : 0, 0],
+    outputRange: [type === 'page_flip' ? 16 : type === 'page_flip_back' ? -16 : 0, 0],
   });
 
   const opacity = animValue.interpolate({
@@ -81,4 +81,3 @@ const styles = StyleSheet.create({
     width: '100%',
   },
 });
-

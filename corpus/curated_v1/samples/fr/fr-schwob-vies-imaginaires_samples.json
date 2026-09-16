@@ -1,0 +1,55 @@
+{
+  "work_id": "fr-schwob-vies-imaginaires",
+  "author": "Marcel Schwob",
+  "title": "Vies imaginaires",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "total_pages": 113,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 113,
+      "character_length": 1530,
+      "blocks_count": 3,
+      "preview": "PRÉFACELa science historique nous laisse dans l’incertitude sur les individus. Elle ne nous révèle que les points par où ils furent attachés aux actions générales. Elle nous dit que Napoléon était souffrant le jour de Waterloo, qu’il faut attribuer l’excessive activité intellectuelle de Newton à la continence absolue de son tempérament, qu’Alexandre était ivre lorsqu’il tua Klitos et que la fistul...",
+      "content_hash": "8bbf8d036dd9f67eae1d6daa87e2f29747b765a04ffc00c254c6cbf91227d4f1"
+    },
+    "25pct": {
+      "label": "25% (Page 28)",
+      "page_sequence_number": 28,
+      "total_pages": 113,
+      "character_length": 1320,
+      "blocks_count": 4,
+      "preview": "Fais que Sextilius, fils de Dionysia, se consume d’amour pour moi, Septima, fille de notre mère Amoena. Qu’il brûle dans la nuit ; qu’il me cherche près de ta tombe, ô Phoinissa ! Ou emmène-nous tous deux dans la demeure ténébreuse, puissante. Prie Anterôs de refroidir nos haleines s’il refuse à Erôs de les allumer. Morte parfumée, accueille la libation de ma voix. Achrammachalala !Aussitôt, la vi...",
+      "content_hash": "856c1b08750a89f15cecab41fd1a82cc0c3497096d2ff19643651cf7ae742b31"
+    },
+    "50pct": {
+      "label": "50% (Page 56)",
+      "page_sequence_number": 56,
+      "total_pages": 113,
+      "character_length": 1579,
+      "blocks_count": 2,
+      "preview": "Il se procura une copie des chansons pour Béatrice et les compara patiemment aux vers qu’il avait écrits pour Becchina. Un moine errant lui apprit que Dante parlait de lui avec dédain. Il chercha les moyens de se venger. La supériorité des sonnets à Becchina lui semblait évidente. Les chansons pour Bice (il lui donnait son nom vulgaire) étaient abstraites et blanches ; les siennes étaient pleines ...",
+      "content_hash": "73eb7244822c706ed57376f28f8283b41e8fded83b6ebf837bc8b74da2cc7fc3"
+    },
+    "75pct": {
+      "label": "75% (Page 85)",
+      "page_sequence_number": 85,
+      "total_pages": 113,
+      "character_length": 1725,
+      "blocks_count": 8,
+      "preview": "Le capitaine John Smith, qui allait repartir pour la Virginie, vint lui faire sa cour avant de s’embarquer. Il ne l’avait pas vue depuis 1608. Elle avait vingt-deux ans. Lorsqu’il entra, elle détourna la tête et cacha sa figure, ne répondant ni à son mari, ni à ses amis, et demeura seule pendant deux ou trois heures. Puis elle demanda le capitaine. Alors elle leva les yeux, et lui dit : — Vous avi...",
+      "content_hash": "0697a5a81950d8fc7921221e274b15ded67ba4a7893a77bbd2a82dd0d5f79918"
+    },
+    "end": {
+      "label": "Fin (Page 113)",
+      "page_sequence_number": 113,
+      "total_pages": 113,
+      "character_length": 1271,
+      "blocks_count": 2,
+      "preview": "Il était accompagné de M. Hare. M. Burke attendait le premier passant, marchait devant lui, puis, se retournant, lui appliquait le masque de poix sur la figure, soudainement et solidement. Aussitôt MM. Burke et Hare s’emparaient, chacun d’un côté, des bras de l’acteur. Le masque de toile empli de poix présentait la simplification géniale d’étouffer à la fois les cris et l’haleine. De plus, il étai...",
+      "content_hash": "e0f1bc8a091d18872c02a568da655c6f30027c9b7fe07e8852ecc06f26a28857"
+    }
+  }
+}

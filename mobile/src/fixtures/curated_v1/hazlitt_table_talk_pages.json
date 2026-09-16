@@ -1,0 +1,56 @@
+{
+  "work_id": "en-hazlitt-table-talk",
+  "author": "William Hazlitt",
+  "title": "Table-Talk",
+  "language": "en",
+  "work_kind": "LONG_FORM",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "bc4a518e8efc61cc9c7c593cca11d46af219f212b1d11dc92b00758019cd1085",
+  "document_sha256": "de4a84843275ee623b3f9395b1c01c049c69a5c5be18a7104f629464745cf121",
+  "pages_count": 1,
+  "source_page_sequence_number": 4,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "en-hazlitt-table-talk",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "en",
+      "content_hash": "02e31ed2bc26bc19860ab9e4903bea8b43cc377c74d1d27c5f78cc3d2509ec1e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " I have\r\n more satisfaction in my own thoughts than in dictating them to others:\r\n words are necessary to explain the impression of certain things upon me to\r\n the reader, but they rather weaken and draw a veil over than strengthen it\r\n to myself. However I might say with the poet, 'My mind to me a kingdom\r\n is,' yet I have little ambition 'to set a throne or chair of state in the\r\n understandings of other men.' The ideas we cherish most exist best in a\r\n kind of shadowy abstraction,\r\n "
+            }
+          ]
+        },
+        {
+          "type": "verse",
+          "spans": [
+            {
+              "text": "\r\n Pure in the last recesses of the mind,\r\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\r\n and derive neither force nor interest from being exposed to public view.\r\n They are old familiar acquaintance, and any change in them, arising from\r\n the adventitious ornaments of style or dress, is little to their\r\n advantage. After I have once written on a subject, it goes out of my mind:\r\n my feelings about it have been melted down into words, and "
+            },
+            {
+              "text": "then",
+              "italic": true
+            },
+            {
+              "text": " I\r\n forget. I have, as it were, discharged my memory of its old habitual\r\n reckoning, and rubbed out the score of real sentiment. For the future it\r\n exists only for the sake of others. But I cannot say, from my own\r\n experience, that the same process takes place in transferring our ideas to\r\n canvas; they gain more than they lose in the mechanical transformation.\r\n One is never tired of painting, because you have to set down not what you\r\n knew already, but what you have just discovered. In the former case you\r\n translate feelings into words; in the latter, names into things. There is\r\n a continual creation out of nothing going on."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

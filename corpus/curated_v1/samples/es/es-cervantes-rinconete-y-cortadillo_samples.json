@@ -1,0 +1,37 @@
+{
+  "work_id": "es-cervantes-rinconete-y-cortadillo",
+  "author": "Miguel de Cervantes",
+  "title": "Rinconete y Cortadillo",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 47,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 47,
+      "character_length": 1750,
+      "blocks_count": 5,
+      "preview": "RINCONETE Y CORTADILLO.En la venta del Molinillo, que está puesta en los fines de los famosos campos de Alcudia, como vamos de Castilla á la Andalucía, un dia de los calorosos del verano se hallaron en ella acaso dos muchachos de hasta edad de catorce á quince años el uno, y el otro no pasaba de diez y siete: ambos de buena gracia, pero muy descosidos, rotos y maltratados: capa no la tenian, los c...",
+      "content_hash": "2da1d0d10367abdce01684ac95cc2a2ed0ac0c83658d76648b575cf374b7d3ea"
+    },
+    "middle": {
+      "label": "Milieu (Page 24)",
+      "page_sequence_number": 24,
+      "total_pages": 47,
+      "character_length": 1780,
+      "blocks_count": 11,
+      "preview": "—Nadie se alborote, dijo Monipodio, que es amigo, y nunca viene por nuestro daño: sosiéguense, que yo le saldré á hablar.Todos se sosegaron, que ya estaban algo sobresaltados, y Monipodio salió á la puerta, donde halló al alguacil, con el cual estuvo hablando un rato, y luego volvió á entrar Monipodio, y preguntó:—¿Á quién le cupo hoy la plaza de San Salvador?—Á mí, dijo el de la guia.—Pues ¿cómo,...",
+      "content_hash": "a351932167a245937f0f2908db9c613b55a74ed44ba5848ab98151b812cd188a"
+    },
+    "end": {
+      "label": "Fin (Page 47)",
+      "page_sequence_number": 47,
+      "total_pages": 47,
+      "character_length": 1382,
+      "blocks_count": 2,
+      "preview": "de sus pecados; y sobre todo le admiraba la seguridad que tenian y la confianza de irse al cielo con no faltar á sus devociones, estando tan llenos de hurtos, y de homicidios y ofensas de Dios: y reíase de la otra buena vieja de la Pipota, que dejaba la canasta de colar hurtada, guardada en su casa, y se iba á poner las candelillas de cera á las imágenes, y con ello pensaba irse al cielo calzada y...",
+      "content_hash": "2a8b4a222bbf504d055c71a77dc576d20d40dbf076c149c1751bda1729dbcf8d"
+    }
+  }
+}

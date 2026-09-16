@@ -15,6 +15,11 @@ export class ApiError extends Error {
     return this.status === 404 && this.payload?.error === 'end_of_edition';
   }
 
+  /** The strict random pool has no unseen eligible page; this is not a network failure. */
+  get isFeedExhausted(): boolean {
+    return this.status === 404 && this.payload?.error === 'feed_exhausted';
+  }
+
   get isDuplicateReaction(): boolean {
     return this.status === 409;
   }

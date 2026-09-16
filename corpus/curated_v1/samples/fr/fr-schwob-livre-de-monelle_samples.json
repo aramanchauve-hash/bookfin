@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-schwob-livre-de-monelle",
+  "author": "Marcel Schwob",
+  "title": "Le Livre de Monelle",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 75,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 75,
+      "character_length": 1181,
+      "blocks_count": 9,
+      "preview": "LE LIVRE DE MONELLE (1895) I PAROLES DE MONELLEMonelle me trouva dans la plaine où j’errais et me prit par la main. — N’aie point de surprise, dit-elle, c’est moi et ce n’est pas moi ; Tu me retrouveras encore et tu me perdras ; Encore une fois je viendrai parmi vous ; car peu d’hommes m’ont vue et aucun ne m’a comprise ; Et tu m’oublieras et tu me reconnaîtras et tu m’oublieras. Et Monelle dit en...",
+      "content_hash": "89cb7263f459b3b0ec841903657a26f4c0ca09bb764939115beab771b703a1ed"
+    },
+    "middle": {
+      "label": "Milieu (Page 38)",
+      "page_sequence_number": 38,
+      "total_pages": 75,
+      "character_length": 1415,
+      "blocks_count": 6,
+      "preview": "Ceux qui ignoraient ces choses ne voyaient que sept vieilles cruches décolorées, sur le manteau renflé de l’âtre. Mais Marjolaine savait la vérité, par les contes de son père. Au feu d’hiver, parmi l’ombre changeante des flammes du bois et de la chandelle, elle suivait des yeux, jusqu’à l’heure où elle allait dormir, le grouillement des merveilles. Cependant la huche à pain étant vide, avec la boî...",
+      "content_hash": "54c26314632c573bbb16142542960894048f163ee8a6461ad988f1bf0634764a"
+    },
+    "end": {
+      "label": "Fin (Page 75)",
+      "page_sequence_number": 75,
+      "total_pages": 75,
+      "character_length": 1366,
+      "blocks_count": 12,
+      "preview": "Et je suppliai Louvette de revenir avec moi chez ses parents ; mais je vis bien dans ses yeux qu’elle ne me reconnaissait plus. Toute la nuit, je vécus dans un univers de songes et de mensonges et j’essayai d’apprendre l’ignorance et l’illusion et l’étonnement de l’enfant nouveau-né. Puis les petites flammes dansantes s’affaissèrent. Alors, dans la triste nuit, j’aperçus des enfants candides qui p...",
+      "content_hash": "dd429e20963c5a1428786a3cacf001e5c3f0c9977b4e64e67076dce605c8240c"
+    }
+  }
+}

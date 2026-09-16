@@ -1,0 +1,55 @@
+{
+  "work_id": "fr-diderot-jacques-le-fataliste",
+  "author": "Denis Diderot",
+  "title": "Jacques le fataliste et son maître",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "total_pages": 329,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 329,
+      "character_length": 1747,
+      "blocks_count": 34,
+      "preview": "JACQUES LE FATALISTE ET SON MAÎTREComment s’étaient-ils rencontrés ? Par hasard, comme tout le monde. Comment s’appelaient-ils ? Que vous importe ? D’où venaient-ils ? Du lieu le plus prochain. Où allaient-ils ? Est-ce que l’on sait où l’on va ? Que disaient-ils ? Le maître ne disait rien ; et Jacques disait que son capitaine disait que tout ce qui nous arrive de bien et de mal ici-bas était écrit...",
+      "content_hash": "09c81790a523123ebb0cc3229ccb43993967d3d0291d7251d38e9559b8e714d1"
+    },
+    "25pct": {
+      "label": "25% (Page 82)",
+      "page_sequence_number": 82,
+      "total_pages": 329,
+      "character_length": 1711,
+      "blocks_count": 11,
+      "preview": "Rien de plus aisé. Une femme vivait à la campagne avec son mari octogénaire et attaqué de la pierre. Le mari quitte sa femme et vient à la ville se faire opérer. La veille de l’opération il écrit à sa femme : « À l’heure où vous recevrez cette lettre, je serai sous le bistouri de frère Cosme… » Tu connais ces anneaux de mariage qui se séparent en deux parties, sur chacune desquelles les noms de l’...",
+      "content_hash": "4fb63a8855e7d862df8af8d8aa9f0969703c75849306b1aecd2bba456dfd10f0"
+    },
+    "50pct": {
+      "label": "50% (Page 164)",
+      "page_sequence_number": 164,
+      "total_pages": 329,
+      "character_length": 1730,
+      "blocks_count": 18,
+      "preview": "Faites et rejetées. J’en suis désespéré. Je voudrais arracher cette malheureuse passion de mon cœur ; je voudrais m’arracher le cœur, et je ne saurais. Marquise, regardez-moi ; ne trouvez-vous pas qu’il y a entre cette jeune fille et moi quelques traits de ressemblance ? Madame de La Pommeraye.Je ne vous en avais rien dit ; mais je m’en étais aperçue. Il ne s’agit pas de cela : que résolvez-vous ?...",
+      "content_hash": "a16b8e7bdf7c85809e8fa5b47a0da2beef163c02cb14ea0b448584b187913458"
+    },
+    "75pct": {
+      "label": "75% (Page 247)",
+      "page_sequence_number": 247,
+      "total_pages": 329,
+      "character_length": 1690,
+      "blocks_count": 3,
+      "preview": "Il fait la peinture la plus magnifique de l’enthousiasme, de la chaleur, du feu dont les Bacbuciens ou Périgourdins étaient et furent encore saisis de nos jours, lorsque sur la fin du repas, les coudes appuyés sur la table, la dive Bacbuc ou la gourde sacrée leur apparaissait, était déposée au milieu d’eux, sifflait, jetait sa coiffe loin d’elle, et couvrait ses adorateurs de son écume prophétique...",
+      "content_hash": "10ac95c4df2d4d2cd7afa225f4b76a4683b692eb1bb5ff004bbb3c5280996e79"
+    },
+    "end": {
+      "label": "Fin (Page 329)",
+      "page_sequence_number": 329,
+      "total_pages": 329,
+      "character_length": 205,
+      "blocks_count": 1,
+      "preview": "Cette lettre, adressée à l’abbé Raynal, est du 30 juillet 1749. (Br.)↑Comparer avec le chapitre CCLXXII de Tristram Shandy, un peu long pour être mis en note, et qui est beaucoup plus libre, à notre avis.",
+      "content_hash": "e164bcf1f82bc4ade9df5df7f23dad85b48eccccfc98daa8905e76b23adef451"
+    }
+  }
+}

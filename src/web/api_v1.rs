@@ -5,7 +5,7 @@ use axum::{
     Json, Router,
 };
 use rand::Rng;
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use sqlx::PgPool;
 use uuid::Uuid;
 
@@ -63,6 +63,24 @@ pub struct ConnectionStatusQuery {
     pub current_user_id: Option<Uuid>,
 }
 
+const SUPPORTED_READING_LANGUAGES: [&str; 6] = ["fr", "en", "es", "ru", "zh", "ja"];
+
+#[derive(Debug, Deserialize)]
+pub struct UpdateLanguagePreferencesRequest {
+    pub language_tags: Vec<String>,
+}
+
+#[derive(Debug, Serialize)]
+pub struct LanguagePreferencesResponse {
+    pub language_tags: Vec<String>,
+}
+
+#[derive(Debug, Serialize)]
+pub struct AnonymousIdentityResponse {
+    pub user_id: Uuid,
+    pub identity_kind: &'static str,
+}
+
 pub fn create_v1_router<S>() -> Router<S>
 where
     S: Clone + Send + Sync + 'static,
@@ -72,6 +90,8 @@ where
         .route("/pages/:page_id/continue", post(continue_reading_handler))
         .route("/reactions", post(reactions_handler))
         .route("/pages/:page_id/reveal", get(reveal_page_handler))
+        .route("/identities/anonymous", post(create_anonymous_identity_handler))
+        .route("/users/:user_id/languages", get(get_language_preferences_handler).put(update_language_preferences_handler))
         .route("/alpha/claim", post(alpha_claim_handler))
         .route("/alpha/verify", get(alpha_verify_handler))
         .route("/me/stats", get(stats_handler))
@@ -89,6 +109,109 @@ where
             "/connections/:user_id/status",
             get(connection_status_handler),
         )
+}
+
+fn validate_language_tags(tags: &[String]) -> Result<Vec<String>, (StatusCode, String)> {
+    if tags.is_empty() {
+        return Err((StatusCode::UNPROCESSABLE_ENTITY, "Choisissez au moins une langue de lecture".to_string()));
+    }
+    let mut normalized = Vec::with_capacity(tags.len());
+    for tag in tags {
+        let tag = tag.trim().to_lowercase();
+        if !SUPPORTED_READING_LANGUAGES.contains(&tag.as_str()) {
+            return Err((StatusCode::UNPROCESSABLE_ENTITY, format!("Langue de lecture non prise en charge: {tag}")));
+        }
+        if !normalized.contains(&tag) {
+            normalized.push(tag);
+        }
+    }
+    Ok(normalized)
+}
+
+#[cfg(test)]
+mod language_preference_tests {
+    use super::validate_language_tags;
+
+    #[test]
+    fn accepts_multilingual_selection_and_deduplicates_it() {
+        let tags = vec!["fr".to_string(), "en".to_string(), "fr".to_string(), "ja".to_string()];
+        assert_eq!(validate_language_tags(&tags).unwrap(), vec!["fr", "en", "ja"]);
+    }
+
+    #[test]
+    fn rejects_empty_or_unsupported_selection() {
+        assert!(validate_language_tags(&[]).is_err());
+        assert!(validate_language_tags(&["de".to_string()]).is_err());
+    }
+}
+
+async fn create_anonymous_identity_handler(
+    Extension(pool): Extension<PgPool>,
+) -> Result<(StatusCode, Json<AnonymousIdentityResponse>), (StatusCode, String)> {
+    let user_id = Uuid::new_v4();
+    sqlx::query("INSERT INTO users (id, created_at) VALUES ($1, NOW())")
+        .bind(user_id)
+        .execute(&pool)
+        .await
+        .map_err(|e| (StatusCode::INTERNAL_SERVER_ERROR, format!("Impossible de créer l'identité anonyme: {e}")))?;
+
+    Ok((StatusCode::CREATED, Json(AnonymousIdentityResponse { user_id, identity_kind: "anonymous" })))
+}
+
+async fn get_language_preferences_handler(
+    Extension(pool): Extension<PgPool>,
+    Path(user_id): Path<Uuid>,
+) -> Result<Json<LanguagePreferencesResponse>, (StatusCode, String)> {
+    let language_tags = sqlx::query_scalar::<_, String>(
+        "SELECT language_tag FROM user_language_preferences WHERE user_id = $1 ORDER BY priority ASC",
+    )
+    .bind(user_id)
+    .fetch_all(&pool)
+    .await
+    .map_err(|e| (StatusCode::INTERNAL_SERVER_ERROR, format!("Impossible de lire les langues: {e}")))?;
+    Ok(Json(LanguagePreferencesResponse { language_tags }))
+}
+
+async fn update_language_preferences_handler(
+    Extension(pool): Extension<PgPool>,
+    Path(user_id): Path<Uuid>,
+    Json(payload): Json<UpdateLanguagePreferencesRequest>,
+) -> Result<Json<LanguagePreferencesResponse>, (StatusCode, String)> {
+    let language_tags = validate_language_tags(&payload.language_tags)?;
+    let mut transaction = pool
+        .begin()
+        .await
+        .map_err(|e| (StatusCode::INTERNAL_SERVER_ERROR, format!("Impossible d'ouvrir la mise à jour des langues: {e}")))?;
+
+    let user_exists: bool = sqlx::query_scalar("SELECT EXISTS(SELECT 1 FROM users WHERE id = $1)")
+        .bind(user_id)
+        .fetch_one(&mut *transaction)
+        .await
+        .map_err(|e| (StatusCode::INTERNAL_SERVER_ERROR, format!("Impossible de vérifier l'identité: {e}")))?;
+    if !user_exists {
+        return Err((StatusCode::NOT_FOUND, "Identité lecteur introuvable".to_string()));
+    }
+
+    sqlx::query("DELETE FROM user_language_preferences WHERE user_id = $1")
+        .bind(user_id)
+        .execute(&mut *transaction)
+        .await
+        .map_err(|e| (StatusCode::INTERNAL_SERVER_ERROR, format!("Impossible de remplacer les langues: {e}")))?;
+    for (priority, language_tag) in language_tags.iter().enumerate() {
+        sqlx::query("INSERT INTO user_language_preferences (user_id, language_tag, priority) VALUES ($1, $2, $3)")
+            .bind(user_id)
+            .bind(language_tag)
+            .bind(priority as i32)
+            .execute(&mut *transaction)
+            .await
+            .map_err(|e| (StatusCode::INTERNAL_SERVER_ERROR, format!("Impossible d'enregistrer les langues: {e}")))?;
+    }
+    transaction
+        .commit()
+        .await
+        .map_err(|e| (StatusCode::INTERNAL_SERVER_ERROR, format!("Impossible de confirmer les langues: {e}")))?;
+
+    Ok(Json(LanguagePreferencesResponse { language_tags }))
 }
 
 async fn continue_reading_handler(
@@ -226,7 +349,11 @@ async fn feed_next_handler(
         Ok(Some(dto)) => Ok(Json(dto)),
         Ok(None) => Err((
             StatusCode::NOT_FOUND,
-            "Aucune nouvelle page disponible dans la base".to_string(),
+            serde_json::json!({
+                "error": "feed_exhausted",
+                "message": "Aucune nouvelle page Ã©ligible n'est disponible pour ce lecteur"
+            })
+            .to_string(),
         )),
         Err(e) => Err((StatusCode::INTERNAL_SERVER_ERROR, e.to_string())),
     }

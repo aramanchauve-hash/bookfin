@@ -1,0 +1,37 @@
+{
+  "work_id": "en-poe-tell-tale-heart",
+  "author": "Edgar Allan Poe",
+  "title": "The Tell-Tale Heart",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 7,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 7,
+      "character_length": 1579,
+      "blocks_count": 4,
+      "preview": "THE TELL-TALE HEART.True! nervous, very, very dreadfully nervous I had been and am; but why will you say that I am mad? The disease had sharpened my senses, not destroyed, not dulled them. Above all was the sense of hearing acute. I heard all things in the heaven and in the earth. I heard many things in hell. How then am I mad? Hearken! and observe how healthily, how calmly I can tell you the whol...",
+      "content_hash": "ac0a19984e84d8b890beb592c775eac48de90e16e2b0bb195597734a7b3ff4b8"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 7,
+      "character_length": 1581,
+      "blocks_count": 4,
+      "preview": "When I had waited a long time very patiently without hearing him lie down, I resolved to open a little—a very, very little crevice in the lantern. So I opened it—you cannot imagine how stealthily—until at length a single dim ray like the thread of the spider shot out from the crevice and fell upon the vulture eye. It was open, wide, wide open, and I grew furious as I gazed upon it. I saw it with p...",
+      "content_hash": "61c44ed796ae3eb36f71d0a371b059d80152b1f610a281afb66d206d76c1f91e"
+    },
+    "end": {
+      "label": "Fin (Page 7)",
+      "page_sequence_number": 7,
+      "total_pages": 7,
+      "character_length": 1427,
+      "blocks_count": 2,
+      "preview": "No doubt I now grew very pale; but I talked more fluently and with a heightened voice. Yet the sound increased—and what could I do? It was a low, dull, quick sound—much such a sound as a watch makes when enveloped in cotton. I gasped for breath—and yet the officers heard it not. I talked more quickly—more vehemently; but the noise steadily increased. I arose and argued about trifles, in a high key...",
+      "content_hash": "5f77e6f1de28a3df3fbaf5ce294295923ad60166d7f760ffd8885e06b5fb80b4"
+    }
+  }
+}

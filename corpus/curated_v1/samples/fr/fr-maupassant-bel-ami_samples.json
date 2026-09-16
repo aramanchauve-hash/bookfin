@@ -1,0 +1,55 @@
+{
+  "work_id": "fr-maupassant-bel-ami",
+  "author": "Guy de Maupassant",
+  "title": "Bel-Ami",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "total_pages": 381,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 381,
+      "character_length": 1395,
+      "blocks_count": 6,
+      "preview": "PREMIÈRE PARTIE IQuand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant. Comme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire, un de ces regards de joli garçon, qui s’étendent comme des coups d’é...",
+      "content_hash": "def895c0ef7d4d5459f931204b613c3ba9b3c9fd022194b5357d1e5121dfe2a7"
+    },
+    "25pct": {
+      "label": "25% (Page 95)",
+      "page_sequence_number": 95,
+      "total_pages": 381,
+      "character_length": 1772,
+      "blocks_count": 18,
+      "preview": "Elle voulait qu’il descendît tout de suite, qu’il se battît, qu’il les tuât. Il répétait : — Mais ce sont des ouvriers, des rustres. Songe qu’il faudrait aller en justice, que tu pourrais être reconnue, arrêtée, perdue. On ne se commet pas avec des gens comme ça. Elle passa à une autre idée : — Comment ferons-nous, maintenant ? Moi, je ne peux pas rentrer ici. — Il répondit : — C’est bien simple, ...",
+      "content_hash": "453f41f9ff92fd4acd9c3421b7a97eb3a0cf77555f1155525d21f04eeaa605c3"
+    },
+    "50pct": {
+      "label": "50% (Page 190)",
+      "page_sequence_number": 190,
+      "total_pages": 381,
+      "character_length": 1773,
+      "blocks_count": 6,
+      "preview": "Quelle chance il avait eue, ce mort, de rencontrer cette compagne intelligente et charmante. Comment s’étaient-ils connus ? Comment avait-elle consenti, elle, à épouser ce garçon médiocre et pauvre ? Comment avait-elle fini par en faire quelqu’un ? Alors il songea à tous les mystères cachés dans les existences. Il se rappela ce qu’on chuchotait du comte de Vaudrec qui l’avait dotée et mariée, disa...",
+      "content_hash": "3c4e9a4a23ff9e7ff8ba24a58ab0ba2ba7a7a25075e4fa3fa118e440ece6c6b7"
+    },
+    "75pct": {
+      "label": "75% (Page 286)",
+      "page_sequence_number": 286,
+      "total_pages": 381,
+      "character_length": 1445,
+      "blocks_count": 10,
+      "preview": "Et, comparant sa valeur à lui, à l’importance bavarde de ce ministre, il se disait : — Cristi, si j’avais seulement cent mille francs nets pour me présenter à la députation dans mon beau pays de Rouen, pour rouler dans la pâte de leur grosse malice mes braves Normands finauds et lourdauds, quel homme d’État je ferais, à côté de ces polissons imprévoyants. Jusqu’au café, M. Laroche-Mathieu parla, p...",
+      "content_hash": "bf428d9f79cfb5c58ab51dbc55e99420b201b9979ed5d980ebfded206a147c5d"
+    },
+    "end": {
+      "label": "Fin (Page 381)",
+      "page_sequence_number": 381,
+      "total_pages": 381,
+      "character_length": 292,
+      "blocks_count": 7,
+      "preview": "TABLE DES MATIÈRES(ne fait pas partie de l’ouvrage original)Première PartieChapitre IChapitre IIChapitre IIIChapitre IVChapitre VChapitre VIChapitre VIIChapitre VIIIDeuxième PartieChapitre IChapitre IIChapitre IIIChapitre IVChapitre VChapitre VIChapitre VIIChapitre VIIIChapitre IXChapitre X",
+      "content_hash": "c07cbdaec4944767c0f63a7af63e6f7d0489cda01e40a86c539eeec9529d78c2"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "en-james-turn-of-the-screw",
+  "author": "Henry James",
+  "title": "The Turn of the Screw",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 147,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 147,
+      "character_length": 1746,
+      "blocks_count": 8,
+      "preview": "The Turn of the Screwby Henry JamesContentsTHE TURN OF THE SCREWIIIIIIIVVVIVIIVIIIIXXXIXIIXIIIXIVXVXVIXVIIXVIIIXIXXXXXIXXIIXXIIIXXIVTHE TURN OF THE SCREW The story had held us, round the fire, sufficiently breathless, but except the obvious remark that it was gruesome, as, on Christmas Eve in an old house, a strange tale should essentially be, I remember no comment uttered till somebody happened t...",
+      "content_hash": "56c506e1be2d1d3b28a2c3f3016479c372494e2de5fa3fba6b9ac76384a3d48b"
+    },
+    "middle": {
+      "label": "Milieu (Page 74)",
+      "page_sequence_number": 74,
+      "total_pages": 147,
+      "character_length": 1550,
+      "blocks_count": 1,
+      "preview": "This thought held me sufficiently to make me cross to his threshold and pause again. I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch. It was a deep, soundless minute, at the end of which my impulse failed. He was quiet; he might be innocent; the risk was hideous; I turned away. There was a figure in...",
+      "content_hash": "bb8222bdd15f312ab159ddeef9734deca4f91c7e800f6755d32141f754c3312f"
+    },
+    "end": {
+      "label": "Fin (Page 147)",
+      "page_sequence_number": 147,
+      "total_pages": 147,
+      "character_length": 1040,
+      "blocks_count": 4,
+      "preview": "I was so determined to have all my proof that I flashed into ice to challenge him. “Whom do you mean by ‘he’?” “Peter Quint—you devil!” His face gave again, round the room, its convulsed supplication. “Where?” They are in my ears still, his supreme surrender of the name and his tribute to my devotion. “What does he matter now, my own?—what will he ever matter? I have you,” I launched at the beast,...",
+      "content_hash": "c702a55c036a25ee13eaf0fb5b4b5fe288754963fcebeb89b0eaec205527a183"
+    }
+  }
+}

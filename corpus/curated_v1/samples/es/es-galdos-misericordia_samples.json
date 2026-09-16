@@ -1,0 +1,55 @@
+{
+  "work_id": "es-galdos-misericordia",
+  "author": "Benito Pérez Galdós",
+  "title": "Misericordia",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "total_pages": 304,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 304,
+      "character_length": 1459,
+      "blocks_count": 8,
+      "preview": "MisericordiaBenito Pérez GaldósCapítulos:I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, FinalIDos caras, como algunas personas, tiene la parroquia de San Sebastián... mejor será decir la iglesia... dos caras que seguramente s...",
+      "content_hash": "94de7b8b3def1724fb3e1eee30611dab801e438ff7c93b7de61ad38effd83d95"
+    },
+    "25pct": {
+      "label": "25% (Page 76)",
+      "page_sequence_number": 76,
+      "total_pages": 304,
+      "character_length": 1412,
+      "blocks_count": 5,
+      "preview": "Otra pausa, motivada por un golpe de destilación. D. Carlos se limpió los ojos ribeteados de rojo, y se frotó la recortada barba, la cual no tenía más razón de ser que la pereza de afeitarse. Desde la muerte de su esposa, el buen señor, que sólo por ella y para ella se rapaba la cara, quiso añadir a tantas demostraciones de duelo el luto de su rostro, dejándolo cubrir, como de una gasa, de pelos b...",
+      "content_hash": "ff7f4698b9424613bae00c184d213996a138264466e8d116b03f457a2fd1bc7a"
+    },
+    "50pct": {
+      "label": "50% (Page 152)",
+      "page_sequence_number": 152,
+      "total_pages": 304,
+      "character_length": 1736,
+      "blocks_count": 6,
+      "preview": "XXIIA poco de volver las dos mujeres al lado del desmayado Frasquito, entró el Comadreja, que era un mocetón achulado, de buen porte, con tez y facciones algo gitanescas, sombrero ancho, bien ceñido el talle, y lo primero que dijo fue que pronto sería conducido el interfezto al Hospital. Protestó Benina, sosteniendo que la enfermedad de Ponte era de las que exigen trato casero y de familia; en el ...",
+      "content_hash": "4287d792e19063c6cc9bc5a362649d4a838b661b7b447e8893deb41ecc191134"
+    },
+    "75pct": {
+      "label": "75% (Page 228)",
+      "page_sequence_number": 228,
+      "total_pages": 304,
+      "character_length": 1628,
+      "blocks_count": 3,
+      "preview": "Para esto hubo de adoptar postura violenta, haciendo almohada de sus brazos, cruzados sobre el respaldo, y al dormirse se le quedó colgando la cabeza, de lo que le sobrevino un tremendo tortícolis a la mañana siguiente.Al amanecer de Dios, vencida del cansancio Doña Paca, se quedó dormidita en un sillón. Hablaba en sueños, y su cuerpo se sacudía de rato en rato con estremecimientos nerviosos. Desp...",
+      "content_hash": "89fb648302e20d773ec6e5d8bca78ce14ab011fb3c4f806acac294a7ce539a74"
+    },
+    "end": {
+      "label": "Fin (Page 304)",
+      "page_sequence_number": 304,
+      "total_pages": 304,
+      "character_length": 1529,
+      "blocks_count": 16,
+      "preview": "Trató Benina de quitarle de la cabeza tales ideas; pero la otra no se dio a partido, y despidiéndose presurosa, tomó la vuelta de Madrid. Grande fue la sorpresa de la anciana y del moro al verla aparecer a la mañana siguiente muy temprano, agitada, trémula, echando lumbre por los ojos. El diálogo fue breve, y de mucha substancia o miga psicológica.«¿Qué te pasa, Juliana?—le preguntó Nina tuteándol...",
+      "content_hash": "077982c74065b743b664de641f2b5af3fe2b1e16ffb7aea7458e8678ddf03b90"
+    }
+  }
+}

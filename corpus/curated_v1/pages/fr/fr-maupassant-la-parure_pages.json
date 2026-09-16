@@ -1,0 +1,1212 @@
+{
+  "work_id": "fr-maupassant-la-parure",
+  "author": "Guy de Maupassant",
+  "title": "La Parure",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "wikisource",
+  "source_sha256": "e18a25ee46a714cdc0e287fc29fe25daa19b7447302fdc780be6a6cad7abd404",
+  "document_sha256": "24347a6fa7633b837da87c8a81a6c3c2ae9ffaac6dec96f101beb98dbd9e941d",
+  "pages_count": 10,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "ce6226298a8eaf18c6418a6bffcdd499d9c796ead72f5e9c416be59ed45e3ca6",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "spans": [
+            {
+              "text": " LA PARURE"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "C’était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l’instruction publique.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle fut simple ne pouvant être parée, mais malheureuse comme une déclassée ; car les femmes n’ont point de caste ni de race, leur beauté, leur grâce et leur charme leur servant de naissance et de famille. Leur finesse native, leur instinct d’élégance, leur souplesse d’esprit, sont leur seule hiérarchie, et font des filles du peuple les égales des plus grandes dames.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle souffrait sans cesse, se sentant née pour toutes les délicatesses et tous les luxes. Elle souffrait de la pauvreté de son logement, de la misère des murs, de l’usure des sièges, de la laideur des étoffes. Toutes ces choses, dont une autre femme de sa caste ne se serait même pas aperçue, la torturaient et l’indignaient. La vue de la petite Bretonne qui faisait son humble ménage éveillait en elle des regrets désolés et des rêves éperdus. Elle songeait aux antichambres muettes, capitonnées avec des tentures orientales, éclairées par de hautes torchères de bronze, et aux deux grands valets en culotte courte qui dorment dans les larges fauteuils, assoupis par la chaleur lourde du calorifère. Elle songeait aux grands salons vêtus de soie ancienne, aux meubles fins portant des bibelots inestimables, et aux petits salons coquets, parfumés, faits pour la causerie de cinq heures avec les amis les plus intimes, les hommes connus et recherchés dont toutes les femmes envient et désirent l’attention.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "dad73a0a9fd419044038f595baba8829722244b464dbccf26a6c870da2234d1b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quand elle s’asseyait, pour dîner, devant la table ronde couverte d’une nappe de trois jours, en face de son mari qui découvrait la soupière en déclarant d’un air enchanté : « Ah ! le bon pot-au-feu ! je ne sais rien de meilleur que cela… », elle songeait aux dîners fins, aux argenteries reluisantes, aux tapisseries peuplant les murailles de personnages anciens et d’oiseaux étranges au milieu d’une forêt de féerie ; elle songeait aux plats exquis servis en des vaisselles merveilleuses, aux galanteries chuchotées et écoutées avec un sourire de sphinx, tout en mangeant la chair rose d’une truite ou des ailes de gélinotte.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle n’avait pas de toilettes, pas de bijoux, rien. Et elle n’aimait que cela ; elle se sentait faite pour cela. Elle eût tant désiré plaire, être enviée, être séduisante et recherchée. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle avait une amie riche, une camarade de couvent qu’elle ne voulait plus aller voir, tant elle souffrait en revenant. Et elle pleurait pendant des jours entiers, de chagrin, de regret, de désespoir et de détresse.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "⁂"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Or, un soir, son mari rentra, l’air glorieux, et tenant à la main une large enveloppe.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Tiens, dit-il, voici quelque chose pour toi.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle déchira vivement le papier et en tira une carte qui portait ces mots :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "« Le ministre de l’instruction publique et Mme Georges Ramponneau prient M. et Mme Loisel de leur faire l’honneur de venir passer la soirée à l’hôtel du ministère, le lundi 18 janvier. »\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Au lieu d’être ravie, comme l’espérait son mari, elle jeta avec dépit l’invitation sur la table, murmurant :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Que veux-tu que je fasse de cela ?\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "bf34f9ad20009b15f6118752524912d3765c1e45d8690846fb1dfaa49773d8b0",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Mais, ma chérie, je pensais que tu serais contente. Tu ne sors jamais, et c’est une occasion, cela, une belle ! J’ai eu une peine infinie à l’obtenir. Tout le monde en veut ; c’est très recherché et on n’en donne pas beaucoup aux employés. Tu verras là tout le monde officiel.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle le regardait d’un œil irrité, et elle déclara avec impatience :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Que veux-tu que je me mette sur le dos pour aller là ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il n’y avait pas songé ; il balbutia :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Mais la robe avec laquelle tu vas au théâtre. Elle me semble très bien, à moi…\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il se tut, stupéfait, éperdu, en voyant que sa femme pleurait. Deux grosses larmes descendaient lentement des coins des yeux vers les coins de la bouche ; il bégaya :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Qu’as-tu ? qu’as-tu ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mais, par un effort violent, elle avait dompté sa peine et elle répondit d’une voix calme en essuyant ses joues humides :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Rien. Seulement je n’ai pas de toilette et par conséquent je ne peux aller à cette fête. Donne ta carte à quelque collègue dont la femme sera mieux nippée que moi.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il était désolé. Il reprit :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Voyons, Mathilde. Combien cela coûterait-il, une toilette convenable, qui pourrait te servir encore en d’autres occasions, quelque chose de très simple ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle réfléchit quelques secondes, établissant ses comptes et songeant aussi à la somme qu’elle pouvait demander sans s’attirer un refus immédiat et une exclamation effarée du commis économe.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Enfin, elle répondit en hésitant :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Je ne sais pas au juste, mais il me semble qu’avec quatre cents francs je pourrais arriver.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il avait un peu pâli, car il réservait juste cette somme pour acheter un fusil et s’offrir des parties de chasse, l’été suivant, dans la plaine de Nanterre, avec quelques amis qui allaient tirer des alouettes, par là, le dimanche.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il dit cependant :\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "fee48f377f098a2337f9821c7001e3990bc7ab341b528ce5198d9aaf53138cb0",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Soit. Je te donne quatre cents francs. Mais tâche d’avoir une belle robe.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "⁂"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le jour de la fête approchait, et Mme Loisel semblait triste, inquiète, anxieuse. Sa toilette était prête cependant. Son mari lui dit un soir :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Qu’as-tu ? Voyons, tu es toute drôle depuis trois jours.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et elle répondit :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Cela m’ennuie de n’avoir pas un bijou, pas une pierre, rien à mettre sur moi. J’aurai l’air misère comme tout. J’aimerais presque mieux ne pas aller à cette soirée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il reprit :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Tu mettras des fleurs naturelles. C’est très chic en cette saison-ci. Pour dix francs tu auras deux ou trois roses magnifiques.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle n’était point convaincue.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Non… il n’y a rien de plus humiliant que d’avoir l’air pauvre au milieu de femmes riches.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mais son mari s’écria :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Que tu es bête ! Va trouver ton amie Mme Forestier et demande-lui de te prêter des bijoux. Tu es bien assez liée avec elle pour faire cela.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle poussa un cri de joie.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— C’est vrai. Je n’y avais point pensé.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le lendemain, elle se rendit chez son amie et lui conta sa détresse. \n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mme Forestier alla vers son armoire à glace, prit un large coffret, l’apporta, l’ouvrit, et dit à Mme Loisel :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Choisis, ma chère.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle vit d’abord des bracelets, puis un collier de perles, puis une croix vénitienne, or et pierreries, d’un admirable travail. Elle essayait les parures devant la glace, hésitait, ne pouvait se décider à les quitter, à les rendre. Elle demandait toujours :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Tu n’as plus rien d’autre ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Mais si. Cherche. Je ne sais pas ce qui peut te plaire.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "1c382718764737c01226f9a4f55351daedb86969fcb693eb8f7b47ca51fdd8e2",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Tout à coup elle découvrit, dans une boîte de satin noir, une superbe rivière de diamants ; et son cœur se mit à battre d’un désir immodéré. Ses mains tremblaient en la prenant. Elle l’attacha autour de sa gorge, sur sa robe montante, et demeura en extase devant elle-même.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Puis, elle demanda, hésitante, pleine d’angoisse :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Peux-tu me prêter cela, rien que cela ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Mais oui, certainement.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle sauta au cou de son amie, l’embrassa avec emportement, puis s’enfuit avec son trésor. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "⁂"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le jour de la fête arriva. Mme Loisel eut un succès. Elle était plus jolie que toutes, élégante, gracieuse, souriante et folle de joie. Tous les hommes la regardaient, demandaient son nom, cherchaient à être présentés. Tous les attachés du cabinet voulaient valser avec elle. Le ministre la remarqua.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle dansait avec ivresse, avec emportement, grisée par le plaisir, ne pensant plus à rien, dans le triomphe de sa beauté, dans la gloire de son succès, dans une sorte de nuage de bonheur fait de tous ces hommages, de toutes ces admirations, de tous ces désirs éveillés, de cette victoire si complète et si douce au cœur des femmes.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle partit vers quatre heures du matin. Son mari, depuis minuit, dormait dans un petit salon désert avec trois autres messieurs dont les femmes s’amusaient beaucoup. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il lui jeta sur les épaules les vêtements qu’il avait apportés pour la sortie, modestes vêtements de la vie ordinaire, dont la pauvreté jurait avec l’élégance de la toilette de bal. Elle le sentit et voulut s’enfuir, pour ne pas être remarquée par les autres femmes qui s’enveloppaient de riches fourrures.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Loisel la retenait :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Attends donc. Tu vas attraper froid dehors. Je vais appeler un fiacre.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 6,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "1484ca6314cc35db91aea92ff769f2539194a12d64c99c5cf0cf96a43ac26d4e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mais elle ne l’écoutait point et descendait rapidement l’escalier. Lorsqu’ils furent dans la rue, ils ne trouvèrent pas de voiture ; et ils se mirent à chercher, criant après les cochers qu’ils voyaient passer de loin.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ils descendaient vers la Seine, désespérés, grelottants. Enfin, ils trouvèrent sur le quai un de ces vieux coupés noctambules qu’on ne voit dans Paris que la nuit venue, comme s’ils eussent été honteux de leur misère pendant le jour.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il les ramena jusqu’à leur porte, rue des Martyrs, et ils remontèrent tristement chez eux. C’était fini, pour elle. Et il songeait, lui, qu’il lui faudrait être au Ministère à dix heures.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle ôta les vêtements dont elle s’était enveloppé les épaules, devant la glace, afin de se voir encore une fois dans sa gloire. Mais soudain elle poussa un cri. Elle n’avait plus sa rivière autour du cou !\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Son mari, à moitié dévêtu déjà, demanda :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Qu’est-ce que tu as ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle se tourna vers lui, affolée :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— J’ai… j’ai… je n’ai plus la rivière de madame Forestier.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il se dressa, éperdu :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Quoi !… comment !… Ce n’est pas possible !\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et ils cherchèrent dans les plis de la robe, dans les plis du manteau, dans les poches, partout. Ils ne la trouvèrent point.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il demandait :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Tu es sûre que tu l’avais encore en quittant le bal ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Oui, je l’ai touchée dans le vestibule du Ministère. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Mais si tu l’avais perdue dans la rue, nous l’aurions entendue tomber. Elle doit être dans le fiacre.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Oui. C’est probable. As-tu pris le numéro ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Non. Et toi, tu ne l’as pas regardé ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Non.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ils se contemplaient atterrés. Enfin Loisel se rhabilla.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Je vais, dit-il, refaire tout le trajet que nous avons fait à pied, pour voir si je ne la retrouverai pas.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 7,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "dc98ee258682cd293631202300c89e9b6d0427e12a0d0a306c9190fa20980e58",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et il sortit. Elle demeura en toilette de soirée, sans force pour se coucher, abattue sur une chaise, sans feu, sans pensée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Son mari rentra vers sept heures. Il n’avait rien trouvé.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il se rendit à la Préfecture de police, aux journaux, pour faire promettre une récompense, aux compagnies de petites voitures, partout enfin où un soupçon d’espoir le poussait.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle attendit tout le jour, dans le même état d’effarement devant cet affreux désastre. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Loisel revint le soir, avec la figure creusée, pâlie ; il n’avait rien découvert.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Il faut, dit-il, écrire à ton amie que tu as brisé la fermeture de sa rivière et que tu la fais réparer. Cela nous donnera le temps de nous retourner.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle écrivit sous sa dictée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "⁂"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Au bout d’une semaine, ils avaient perdu toute espérance.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et Loisel, vieilli de cinq ans, déclara :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Il faut aviser à remplacer ce bijou.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ils prirent, le lendemain, la boîte qui l’avait renfermé, et se rendirent chez le joaillier, dont le nom se trouvait dedans. Il consulta ses livres :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Ce n’est pas moi, madame, qui ai vendu cette rivière ; j’ai dû seulement fournir l’écrin. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Alors ils allèrent de bijoutier en bijoutier, cherchant une parure pareille à l’autre, consultant leurs souvenirs, malades tous deux de chagrin et d’angoisse.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ils trouvèrent, dans une boutique du Palais-Royal, un chapelet de diamants qui leur parut entièrement semblable à celui qu’ils cherchaient. Il valait quarante mille francs. On le leur laisserait à trente-six mille.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Ils prièrent donc le joaillier de ne pas le vendre avant trois jours. Et ils firent condition qu’on le reprendrait pour trente-quatre mille francs, si le premier était retrouvé avant la fin de février.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Loisel possédait dix-huit mille francs que lui avait laissés son père. Il emprunterait le reste.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 8,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "0660f8e352e4b13350cc2b978c5bb60a8db89059b3dd51da2b64ded75c746d63",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il emprunta, demandant mille francs à l’un, cinq cents à l’autre, cinq louis par-ci, trois louis par-là. Il fit des billets, prit des engagements ruineux, eut affaire aux usuriers, à toutes les races de prêteurs. Il compromit toute la fin de son existence, risqua sa signature sans savoir même s’il pourrait y faire honneur, et, épouvanté par les angoisses de l’avenir, par la noire misère qui allait s’abattre sur lui, par la perspective de toutes les privations physiques et de toutes les tortures morales, il alla chercher la rivière nouvelle, en déposant sur le comptoir du marchand trente-six mille francs.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Quand Mme Loisel reporta la parure à Mme Forestier, celle-ci lui dit, d’un air froissé :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Tu aurais dû me la rendre plus tôt, car je pouvais en avoir besoin.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle n’ouvrit pas l’écrin, ce que redoutait son amie. Si elle s’était aperçue de la substitution, qu’aurait-elle pensé ? qu’aurait-elle dit ? Ne l’aurait-elle pas prise pour une voleuse ? "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "⁂"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mme Loisel connut la vie horrible des nécessiteux. Elle prit son parti, d’ailleurs, tout d’un coup, héroïquement. Il fallait payer cette dette effroyable. Elle payerait. On renvoya la bonne ; on changea de logement ; on loua sous les toits une mansarde.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle connut les gros travaux du ménage, les odieuses besognes de la cuisine. Elle lava la vaisselle, usant ses ongles roses sur les poteries grasses et le fond des casseroles. Elle savonna le linge sale, les chemises et les torchons, qu’elle faisait sécher sur une corde ; elle descendit à la rue, chaque matin, les ordures, et monta l’eau, s’arrêtant à chaque étage pour souffler. Et, vêtue comme une femme du peuple, elle alla chez le fruitier, chez l’épicier, chez le boucher, le panier au bras, marchandant, injuriée, défendant sou à sou son misérable argent. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 9,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "0c9dda4c628f94e9d90dc6768b4e22b96296973208c17fee216458eb4b4ba419",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Il fallait chaque mois payer des billets, en renouveler d’autres, obtenir du temps.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Le mari travaillait, le soir, à mettre au net les comptes d’un commerçant, et la nuit, souvent, il faisait de la copie à cinq sous la page.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et cette vie dura dix ans.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Au bout de dix ans, ils avaient tout restitué, tout, avec le taux de l’usure, et l’accumulation des intérêts superposés.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mme Loisel semblait vieille, maintenant. Elle était devenue la femme forte, et dure, et rude, des ménages pauvres. Mal peignée, avec les jupes de travers et les mains rouges, elle parlait haut, lavait à grande eau les planchers. Mais parfois, lorsque son mari était au bureau, elle s’asseyait auprès de la fenêtre, et elle songeait à cette soirée d’autrefois, à ce bal, où elle avait été si belle et si fêtée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Que serait-il arrivé si elle n’avait point perdu cette parure ? Qui sait ? qui sait ? Comme la vie est singulière, changeante ! Comme il faut peu de chose pour vous perdre ou vous sauver ! "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "⁂"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Or, un dimanche, comme elle était allée faire un tour aux Champs-Élysées pour se délasser des besognes de la semaine, elle aperçut tout à coup une femme qui promenait un enfant. C’était Mme Forestier, toujours jeune, toujours belle, toujours séduisante.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mme Loisel se sentit émue. Allait-elle lui parler ? Oui, certes. Et maintenant qu’elle avait payé, elle lui dirait tout. Pourquoi pas ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle s’approcha.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Bonjour, Jeanne.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "L’autre ne la reconnaissait point, s’étonnant d’être appelée ainsi familièrement par cette bourgeoise.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Elle balbutia :\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Mais… madame !… Je ne sais… Vous devez vous tromper.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Non. Je suis Mathilde Loisel. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Son amie poussa un cri.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Oh !… ma pauvre Mathilde, comme tu es changée !…\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-maupassant-la-parure",
+      "edition_id": "wikisource",
+      "page_sequence_number": 10,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "b688fcfb77598f83aa798a1729becbec9cd750cbb42530c58b90664792c52f82",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Oui, j’ai eu des jours bien durs, depuis que je ne t’ai vue ; et bien des misères… et cela à cause de toi !…\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— De moi… Comment ça ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Tu te rappelles bien cette rivière de diamants que tu m’as prêtée pour aller à la fête du Ministère.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Oui. Eh bien ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Eh bien, je l’ai perdue.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Comment ! puisque tu me l’as rapportée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Je t’en ai rapporté une autre toute pareille. Et voilà dix ans que nous la payons. Tu comprends que ça n’était pas aisé pour nous, qui n’avions rien… Enfin c’est fini, et je suis rudement contente.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mme Forestier s’était arrêtée.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Tu dis que tu as acheté une rivière de diamants pour remplacer la mienne ?\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Oui. Tu ne t’en étais pas aperçue, hein ? Elles étaient bien pareilles. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Et elle souriait d’une joie orgueilleuse et naïve.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Mme Forestier, fort émue, lui prit les deux mains.\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "— Oh ! ma pauvre Mathilde ! Mais la mienne était fausse. Elle valait au plus cinq cents francs !… \n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "work_id": "fr-huysmans-a-rebours",
+  "author": "Joris-Karl Huysmans",
+  "title": "À rebours",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "total_pages": 284,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 284,
+      "character_length": 1421,
+      "blocks_count": 23,
+      "preview": "A REBOURS‌J.-K. HUYSMANS - A REBOURSAVEC UNE PRÉFACE DE L’AUTEUR ÉCRITE VINGT ANS APRÈS LE ROMAN ET UNE BIBLIOGRAPHIE COMPLÈTE DE L’ŒUVRE DE J.-K. HUYSMANS Il faut que je me réjouisse au-dessus du temps…, quoique le monde ait horreur de ma joie, et que sa grossièreté ne sache pas ce que je veux dire. Rusbroeck l’admirable BIBLIOTHÈQUE DE L’ACADÉMIE GONCOURT LES ÉDITIONS G. CRÈS ET Cie21, RUE HAUTE...",
+      "content_hash": "42e2cefb01c1c9be56e5c9ddb2ef0c779af7fdb714c9e340bd762577b7492526"
+    },
+    "25pct": {
+      "label": "25% (Page 71)",
+      "page_sequence_number": 71,
+      "total_pages": 284,
+      "character_length": 1483,
+      "blocks_count": 4,
+      "preview": "Décidément la couleur tête-de-nègre, le ton de Sienne crue de cette carapace salissait les reflets du tapis sans les activer ; les lueurs dominantes de l’argent étincelaient maintenant à peine, rampant avec les tons froids du zinc écorché, sur les bords de ce test dur et terne. Il se rongea les ongles, cherchant les moyens de concilier ces mésalliances, d’empêcher le divorce résolu de ces tons ; i...",
+      "content_hash": "6c9746ecfaedc9128bd5d43aa83a672cc16b2473bcb2f42b80bf7d6107d30953"
+    },
+    "50pct": {
+      "label": "50% (Page 142)",
+      "page_sequence_number": 142,
+      "total_pages": 284,
+      "character_length": 1756,
+      "blocks_count": 4,
+      "preview": "Des Esseintes l’avait, durant de longues soirées, attentivement suivie ; les premières fois, elle lui était apparue telle qu’elle était, c’est-à-dire solide et belle, mais le désir de l’approcher ne l’étreignit point ; elle n’avait rien qui la recommandât à la convoitise d’un blasé, et cependant il retourna au Cirque alléché par il ne savait quoi, poussé par un sentiment difficile à définir. Peu à...",
+      "content_hash": "d0ac51291f50e94f29de8a16442fcf9e2e9764a18bc4b3703ffe90d7ef2a0d62"
+    },
+    "75pct": {
+      "label": "75% (Page 213)",
+      "page_sequence_number": 213,
+      "total_pages": 284,
+      "character_length": 1667,
+      "blocks_count": 4,
+      "preview": "Sur ces entrefaites, le son argentin d’une cloche qui tintait un petit angelus, annonça à des Esseintes que le déjeuner était prêt. Il laissa là ses livres, s’essuya le front, se dirigea vers la salle à manger, se disant que, parmi tous ces volumes qu’il venait de ranger, les œuvres de Barbey d’Aurevilly étaient encore les seules dont les idées et le style présentassent ces faisandages, ces taches...",
+      "content_hash": "aacf4e68b0e0911c0ab7f239037930c4327554f3ad7f8a41586cf1a66b338955"
+    },
+    "end": {
+      "label": "Fin (Page 284)",
+      "page_sequence_number": 284,
+      "total_pages": 284,
+      "character_length": 1733,
+      "blocks_count": 4,
+      "preview": "Un accès de rage balayait, ainsi qu’un ouragan, ses essais de résignation, ses tentatives d’indifférence. Il ne pouvait se le dissimuler, il n’y avait rien, plus rien, tout était par terre ; les bourgeois bâfraient de même qu’à Clamart sur leurs genoux, dans du papier, sous les ruines grandioses de l’Église qui étaient devenues un lieu de rendez-vous, un amas de décombres, souillées par d’inqualif...",
+      "content_hash": "0e12fc9ba7cf50bc2a0e2586135efaeac5223628c1eab3986f9ef16bd23bffc2"
+    }
+  }
+}

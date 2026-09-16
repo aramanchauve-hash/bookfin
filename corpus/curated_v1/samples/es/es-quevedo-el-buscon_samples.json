@@ -1,0 +1,55 @@
+{
+  "work_id": "es-quevedo-el-buscon",
+  "author": "Francisco de Quevedo",
+  "title": "Historia de la vida del Buscón",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "total_pages": 152,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 152,
+      "character_length": 1570,
+      "blocks_count": 5,
+      "preview": "Historia de la vida del Buscón llamado don Pablos, ejemplo de vagamundos y espejo de tacaños de Francisco de Quevedo y Villegas * * * * *Libro Primero: Capítulo I: En que cuenta quién es el Buscón.Yo, señora, soy de Segovia. Mi padre se llamó Clemente Pablo, natural del mismo pueblo; Dios le tenga en el cielo. Fue, tal como todos dicen, de oficio barbero, aunque eran tan altos sus pensamientos que...",
+      "content_hash": "f300e67988123cfa73d701716c35d87782e2c23b7f2324d9b45c30e45e25fa4b"
+    },
+    "25pct": {
+      "label": "25% (Page 38)",
+      "page_sequence_number": 38,
+      "total_pages": 152,
+      "character_length": 1423,
+      "blocks_count": 5,
+      "preview": "Oyéronme esto y en llegando, empecé a decir: «Por tan alta Señora», y lo ordinario de la «hora menguada» y «aire corrupto». Ellos se venían desgañifando, y dijéronme: -¿Va por aquí un hombre, hermano?-Ahí adelante, que aquí me pisó, loado sea el Señor.Arrancaron con esto y fuéronse; quedé solo, llevéme el cofín a casa, conté la burla, y no quisieron creer que había sucedido así, aunque lo celebrar...",
+      "content_hash": "e0d333d06a515b225ee6aeeb01238143ff99591a292d0c7712dfd221fbb4dce9"
+    },
+    "50pct": {
+      "label": "50% (Page 76)",
+      "page_sequence_number": 76,
+      "total_pages": 152,
+      "character_length": 1759,
+      "blocks_count": 6,
+      "preview": "He vendido hasta mi sepultura, por no tener sobre qué caer muerto, que la hacienda de mi padre Toribio Rodríguez Vallejo Gómez de Ampuero (que todos estos nombres tenía) se perdió en una fianza. Sólo el don me ha quedado por vender y soy tan desgraciado que no hallo nadie con necesidad de él, pues quien no le tiene por ante le tiene por postre, como el remendón, azadón, pendón, blandón, bordón y o...",
+      "content_hash": "5b5e7d4662dbe9e9e7722653edd7c8e36c40211ac93b5218632e1d5a819186b6"
+    },
+    "75pct": {
+      "label": "75% (Page 114)",
+      "page_sequence_number": 114,
+      "total_pages": 152,
+      "character_length": 1460,
+      "blocks_count": 2,
+      "preview": "Entré en casa con la cara rozada de puros mojicones y las espaldas algo mohínas de los varapalos. Reíase el catalán mucho y decía a la niña que se casase conmigo para volver el refrán al revés, y que no fuese tras cornudo apaleado sino tras apaleado cornudo. Tratábame de resuelto y sacudido por los palos; traíame afrentado con estos equívocos. Si entraba a visitarlos trataban luego de varear; otra...",
+      "content_hash": "8fe963235bd0b243eca6c2cec573feb65ff6db6c436486f944cc04aeddf8b3d7"
+    },
+    "end": {
+      "label": "Fin (Page 152)",
+      "page_sequence_number": 152,
+      "total_pages": 152,
+      "character_length": 568,
+      "blocks_count": 2,
+      "preview": "La justicia no se descuidaba de buscarnos; rondábanos la puerta, pero, con todo, de media noche abajo, rondábamos disfrazados. Yo que vi que duraba mucho este negocio y más la fortuna en perseguirme, no de escarmentado, que no soy tan cuerdo, sino de cansado, como obstinado pecador, determiné, consultándolo primero con la Grajal, de pasarme a Indias con ella y ver si mudando mundo y tierra mejorar...",
+      "content_hash": "55d06a032bcf0e080116c2e37bf7fce0c9a8702e1580c186ec045d22bf975500"
+    }
+  }
+}

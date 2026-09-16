@@ -1,6 +1,7 @@
 import React from 'react';
 import {
   ActivityIndicator,
+  Pressable,
   StyleSheet,
   Text,
   useColorScheme,
@@ -23,7 +24,11 @@ import { NetworkBanner } from '../components/NetworkBanner';
  * - Aucune page intermédiaire, aucun catalogue, aucun profil.
  * - Anonymat absolu avant réaction.
  */
-export const ReadingScreen: React.FC = () => {
+interface ReadingScreenProps {
+  onOpenLanguageSettings?: () => void;
+}
+
+export const ReadingScreen: React.FC<ReadingScreenProps> = ({ onOpenLanguageSettings }) => {
   const insets = useSafeAreaInsets();
   const colorScheme = useColorScheme();
   const theme = colorScheme === 'dark' ? palette.dark : palette.light;
@@ -33,6 +38,10 @@ export const ReadingScreen: React.FC = () => {
     tracker,
     handleReaction,
     handleContinueBook,
+    handleSwipeLikeContinue,
+    handleSwipeBack,
+    canSwipeBack,
+    canReuseForward,
     handleRandomPage,
     handleRetry,
   } = useReadingSession();
@@ -51,6 +60,18 @@ export const ReadingScreen: React.FC = () => {
       ]}
     >
       {/* 1. Écran de chargement sobre initial */}
+      {onOpenLanguageSettings && (
+        <View style={styles.settingsRow}>
+          <Pressable
+            accessibilityRole="button"
+            accessibilityLabel="Modifier les langues de lecture"
+            onPress={onOpenLanguageSettings}
+            hitSlop={10}
+          >
+            <Text style={[styles.settingsText, { color: theme.textMuted }]}>Langues</Text>
+          </Pressable>
+        </View>
+      )}
       {isInitialLoading && (
         <View style={styles.centerBox}>
           <ActivityIndicator size="small" color={theme.textMuted} />
@@ -83,18 +104,34 @@ export const ReadingScreen: React.FC = () => {
       {/* 3. Contenu de lecture enveloppé dans le conteneur gestuel et la transition de page */}
       {state.currentPage && (
         <SwipeableReadingContainer
-          enabled={state.status === 'revealed'}
-          onSwipeLeft={handleContinueBook}
+          enabledForward={
+            (tracker.bottomReached || canReuseForward) &&
+            (state.status === 'reading' || (state.isBufferedPage && state.status === 'revealed'))
+          }
+          enabledBack={
+            canSwipeBack &&
+            state.status !== 'reacting' &&
+            state.status !== 'navigating' &&
+            state.status !== 'loading'
+          }
+          onSwipeLeft={handleSwipeLikeContinue}
+          onSwipeRight={handleSwipeBack}
           style={styles.transitionContainer}
         >
           <PageFlipTransition
             triggerKey={state.currentPage.impression_id || state.currentPage.id || state.currentPage.page_id}
             type={state.transitionType}
-            style={styles.transitionContainer}
           >
             <ReadingContent
               page={state.currentPage}
               onScroll={tracker.onScroll}
+              onContentSizeMeasured={tracker.onContentSizeChange}
+              initialScrollOffset={state.restoreScrollOffset}
+              onWebViewScrollState={tracker.onWebViewScrollState}
+              onWebViewSwipeLeft={(atBottom) => {
+                if (atBottom || canReuseForward) handleSwipeLikeContinue();
+              }}
+              onWebViewSwipeRight={handleSwipeBack}
             />
           </PageFlipTransition>
         </SwipeableReadingContainer>
@@ -118,9 +155,9 @@ export const ReadingScreen: React.FC = () => {
       )}
 
       {/* 6. Barre de navigation post-révélation (Navigation : Suite / Hasard) */}
-      {(state.status === 'revealed' ||
+      {(!state.isBufferedPage && (state.status === 'revealed' ||
         state.status === 'navigating' ||
-        state.status === 'end_of_edition') && (
+        state.status === 'end_of_edition')) && (
         <NavigationToolbar
           onContinue={handleContinueBook}
           onRandom={handleRandomPage}
@@ -143,6 +180,16 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     gap: 12,
+  },
+  settingsRow: {
+    alignItems: 'flex-end',
+    paddingHorizontal: 20,
+    paddingTop: 6,
+    minHeight: 24,
+  },
+  settingsText: {
+    fontSize: 12,
+    fontFamily: typography.fontFamilySans,
   },
   loadingText: {
     fontSize: 14,

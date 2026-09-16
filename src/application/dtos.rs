@@ -3,7 +3,7 @@ use serde::{Deserialize, Serialize};
 use uuid::Uuid;
 
 use crate::domain::models::{
-    ConnectionProposal, PageMetadata, ReactionType, ReadingStats, UserAffinity,
+    BlockV2, ConnectionProposal, PageMetadata, ReactionType, ReadingStats, UserAffinity,
 };
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -83,6 +83,11 @@ pub struct FeedPageDto {
     pub page_sequence_number: i32,
     pub source_page_number: Option<String>,
     pub text: String,
+    /// Optional for legacy alpha rows. Curated V1 pages must supply this
+    /// renderer-ready V2 structure instead of asking the client to rebuild it.
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub blocks: Option<Vec<BlockV2>>,
+    pub content_hash: String,
     pub language_tag: String,
     pub token_count: i32,
     pub continuation_depth: i32,
@@ -116,6 +121,28 @@ impl From<FeedPageDto> for FeedNextExtractResponseDto {
             token_count: f.token_count,
             served_at: f.served_at,
         }
+    }
+}
+
+#[cfg(test)]
+mod feed_v2_contract_tests {
+    use super::FeedPageDto;
+    use crate::domain::models::{BlockTypeV2, BlockV2, SpanV2};
+    use chrono::Utc;
+    use uuid::Uuid;
+
+    #[test]
+    fn feed_serializes_structured_v2_blocks_without_flattening() {
+        let dto = FeedPageDto {
+            impression_id: Uuid::new_v4(), page_id: Uuid::new_v4(), page_sequence_number: 7,
+            source_page_number: None, text: "fallback only".into(), content_hash: "a".repeat(64),
+            blocks: Some(vec![BlockV2 { block_type: BlockTypeV2::Verse, level: None, spans: vec![SpanV2 { text: "Un vers\nOtro verso".into(), italic: Some(true), bold: None, small_caps: None }] }]),
+            language_tag: "fr".into(), token_count: 3, continuation_depth: 0, served_at: Utc::now(),
+        };
+        let value = serde_json::to_value(dto).unwrap();
+        assert_eq!(value["blocks"][0]["type"], "verse");
+        assert_eq!(value["blocks"][0]["spans"][0]["text"], "Un vers\nOtro verso");
+        assert_eq!(value["blocks"][0]["spans"][0]["italic"], true);
     }
 }
 

@@ -1,0 +1,37 @@
+{
+  "work_id": "es-quiroga-a-la-deriva",
+  "author": "Horacio Quiroga",
+  "title": "A la deriva",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 4,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 4,
+      "character_length": 1728,
+      "blocks_count": 10,
+      "preview": "El hombre pisó algo blanduzco, y enseguida sintió la mordedura en el pie. Saltó adelante, y al volverse con un juramento vio una yararacusú que arrollada sobre sí misma, esperaba otro ataque. El hombre echó una veloz ojeada a su pie, donde dos gotitas de sangre engrosaban dificultosamente, y sacó el machete de la cintura. La víbora vio la amenaza, y hundió más la cabeza en el centro mismo de su es...",
+      "content_hash": "3fb2323bd5a91ff23eb36a8839bda7288d833df14a9a4049656a0c9bcf9deec6"
+    },
+    "middle": {
+      "label": "Milieu (Page 2)",
+      "page_sequence_number": 2,
+      "total_pages": 4,
+      "character_length": 1751,
+      "blocks_count": 7,
+      "preview": "La mujer corrió otra vez, volviendo con la damajuana. El hombre tragó uno tras otro dos vasos, pero no sintió nada en la garganta. —Bueno; esto se pone feo —murmuró entonces, mirando su pie lívido y ya con lustre gangrenoso. Sobre la honda ligadura del pañuelo, la carne desbordaba como una monstruosa morcilla. Los dolores fulgurantes se sucedían en continuos relampagueos, y llegaban ahora a la ing...",
+      "content_hash": "12b3759fc12ac0367bfe3cd6ddad9f23813889ed0bd2365084b3991563de70ff"
+    },
+    "end": {
+      "label": "Fin (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 4,
+      "character_length": 1087,
+      "blocks_count": 8,
+      "preview": "¿Llegaría pronto? El cielo, al poniente, se abría ahora en pantalla de oro, y el río se había coloreado también. Desde la costa paraguaya, ya entenebrecida, el monte dejaba caer sobre el río su frescura crepuscular, en penetrantes efluvios de azahar y miel silvestre. Una pareja de guacamayos cruzó muy alto y en silencio hacia el Paraguay. Allá abajo, sobre el río de oro, la canoa derivaba velozmen...",
+      "content_hash": "db90450d1ec157c3d258fd016db3da8029cdac56d803f39cbe091136375c29fb"
+    }
+  }
+}

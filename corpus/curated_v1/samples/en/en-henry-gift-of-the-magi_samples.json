@@ -1,0 +1,37 @@
+{
+  "work_id": "en-henry-gift-of-the-magi",
+  "author": "O. Henry",
+  "title": "The Gift of the Magi",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 7,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 7,
+      "character_length": 1628,
+      "blocks_count": 7,
+      "preview": "Layout 2THE GIFT OF THE MAGI ONE dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one’s cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day woul...",
+      "content_hash": "fbd47d4b3e7c5f7cb03120a58deadf7d8e06337a5c2fef1ed638e7ca97f9d357"
+    },
+    "middle": {
+      "label": "Milieu (Page 4)",
+      "page_sequence_number": 4,
+      "total_pages": 7,
+      "character_length": 1603,
+      "blocks_count": 5,
+      "preview": "She found it at last. It surely had been made for Jim and no one else. There was no other like it in any of the stores, and she had turned all of them inside out. It was a platinum fob chain simple and chaste in design, properly proclaiming its value by substance alone and not by meretricious ornamentation—as all good things should do. It was even worthy of The Watch. As soon as she saw it she kne...",
+      "content_hash": "a64e0d54d254524c65d161d29e1807cea5af5d040c83fbd6a7908d9d950e6bad"
+    },
+    "end": {
+      "label": "Fin (Page 7)",
+      "page_sequence_number": 7,
+      "total_pages": 7,
+      "character_length": 1558,
+      "blocks_count": 7,
+      "preview": "But she hugged them to her bosom, and at length she was able to look up with dim eyes and a smile and say: “My hair grows so fast, Jim!” And then Della leaped up like a little singed cat and cried, “Oh, oh!” Jim had not yet seen his beautiful present. She held it out to him eagerly upon her open palm. The dull precious metal seemed to flash with a reflection of her bright and ardent spirit. “Isn’t...",
+      "content_hash": "7e65dd1f08bc86569a9a54b56db2180becf16170470ce2962c479a37d154842b"
+    }
+  }
+}

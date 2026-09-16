@@ -37,10 +37,10 @@ export const ReactionToolbar: React.FC<ReactionToolbarProps> = ({
   return (
     <View style={[styles.container, { borderTopColor: theme.border }]}>
       <View style={styles.buttonGroup}>
-        {/* Bouton Je n'aime pas */}
+        {/* Préférences sobres : aucune navigation n'est déclenchée par un tap. */}
         <Pressable
           accessibilityRole="button"
-          accessibilityLabel="Je n'aime pas cet extrait"
+          accessibilityLabel="Je n'aime pas cette page"
           disabled={isDisabled}
           onPress={() => onReact('dislike')}
           style={({ pressed }) => [
@@ -69,7 +69,7 @@ export const ReactionToolbar: React.FC<ReactionToolbarProps> = ({
                 },
               ]}
             >
-              Je n’aime pas
+              👎
             </Text>
           )}
         </Pressable>
@@ -77,7 +77,7 @@ export const ReactionToolbar: React.FC<ReactionToolbarProps> = ({
         {/* Bouton J'aime */}
         <Pressable
           accessibilityRole="button"
-          accessibilityLabel="J'aime cet extrait"
+          accessibilityLabel="J'aime cette page"
           disabled={isDisabled}
           onPress={() => onReact('like')}
           style={({ pressed }) => [
@@ -107,7 +107,7 @@ export const ReactionToolbar: React.FC<ReactionToolbarProps> = ({
                 },
               ]}
             >
-              J’aime
+              👍
             </Text>
           )}
         </Pressable>
@@ -127,21 +127,20 @@ const styles = StyleSheet.create({
   buttonGroup: {
     flexDirection: 'row',
     justifyContent: 'center',
-    gap: 16,
+    gap: 18,
     width: '100%',
     maxWidth: layout.maxReadingWidth,
   },
   button: {
-    flex: 1,
+    width: layout.minTouchTarget,
     minHeight: layout.minTouchTarget,
-    borderRadius: layout.borderRadius,
+    borderRadius: layout.minTouchTarget / 2,
     borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingHorizontal: 16,
+    paddingHorizontal: 0,
   },
   buttonText: {
-    fontSize: typography.button.fontSize,
+    fontSize: 21,
   },
 });
-

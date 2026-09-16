@@ -33,6 +33,21 @@ path = "src/bin/ingest_long_form_corpus.rs"
 required-features = ["ssr"]
 
 [[bin]]
+name = "ingest_curated_v1"
+path = "src/bin/ingest_curated_v1.rs"
+required-features = ["ssr"]
+
+[[bin]]
+name = "verify_curated_v1_db"
+path = "src/bin/verify_curated_v1_db.rs"
+required-features = ["ssr"]
+
+[[bin]]
+name = "inspect_local_postgres"
+path = "src/bin/inspect_local_postgres.rs"
+required-features = ["ssr"]
+
+[[bin]]
 name = "alpha_invite"
 path = "src/bin/alpha_invite.rs"
 required-features = ["ssr"]

@@ -1,0 +1,55 @@
+{
+  "work_id": "en-wilde-dorian-gray",
+  "author": "Oscar Wilde",
+  "title": "The Picture of Dorian Gray",
+  "language": "en",
+  "work_kind": "LONG_FORM",
+  "total_pages": 278,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 278,
+      "character_length": 1576,
+      "blocks_count": 12,
+      "preview": "The Picture of Dorian Grayby Oscar WildeContentsTHE PREFACECHAPTER I.CHAPTER II.CHAPTER III.CHAPTER IV.CHAPTER V.CHAPTER VI.CHAPTER VII.CHAPTER VIII.CHAPTER IX.CHAPTER X.CHAPTER XI.CHAPTER XII.CHAPTER XIII.CHAPTER XIV.CHAPTER XV.CHAPTER XVI.CHAPTER XVII.CHAPTER XVIII.CHAPTER XIX.CHAPTER XX.THE PREFACE The artist is the creator of beautiful things. To reveal art and conceal the artist is art’s aim....",
+      "content_hash": "fc5057397e7564ba0ad7b387b56dc1eb6deaf3a1db364477b85b842d384eea26"
+    },
+    "25pct": {
+      "label": "25% (Page 70)",
+      "page_sequence_number": 70,
+      "total_pages": 278,
+      "character_length": 1411,
+      "blocks_count": 2,
+      "preview": "He was conscious—and the thought brought a gleam of pleasure into his brown agate eyes—that it was through certain words of his, musical words said with musical utterance, that Dorian Gray’s soul had turned to this white girl and bowed in worship before her. To a large extent the lad was his own creation. He had made him premature. That was something. Ordinary people waited till life disclosed to ...",
+      "content_hash": "6b0814540022f153cdd168f7d7a535601ee8b20e590c284bcbf36ded550277f9"
+    },
+    "50pct": {
+      "label": "50% (Page 139)",
+      "page_sequence_number": 139,
+      "total_pages": 278,
+      "character_length": 1586,
+      "blocks_count": 3,
+      "preview": "“Yes; I don’t suppose you will object to that. Georges Petit is going to collect all my best pictures for a special exhibition in the Rue de Sèze, which will open the first week in October. The portrait will only be away a month. I should think you could easily spare it for that time. In fact, you are sure to be out of town. And if you keep it always behind a screen, you can’t care much about it.”...",
+      "content_hash": "5de25162edab1e1adc310115bb9687c1cb4ea15c99063587b2ed9474ed4ed91d"
+    },
+    "75pct": {
+      "label": "75% (Page 208)",
+      "page_sequence_number": 208,
+      "total_pages": 278,
+      "character_length": 1590,
+      "blocks_count": 3,
+      "preview": "But suddenly people remarked that they scarcely spoke when they met and that Campbell seemed always to go away early from any party at which Dorian Gray was present. He had changed, too—was strangely melancholy at times, appeared almost to dislike hearing music, and would never himself play, giving as his excuse, when he was called upon, that he was so absorbed in science that he had no time left ...",
+      "content_hash": "924943c0a5fcf4b4cc22e83f9b518628d4cd5afed398785300c7cba37f2ee18a"
+    },
+    "end": {
+      "label": "Fin (Page 278)",
+      "page_sequence_number": 278,
+      "total_pages": 278,
+      "character_length": 395,
+      "blocks_count": 2,
+      "preview": "When they entered, they found hanging upon the wall a splendid portrait of their master as they had last seen him, in all the wonder of his exquisite youth and beauty. Lying on the floor was a dead man, in evening dress, with a knife in his heart. He was withered, wrinkled, and loathsome of visage. It was not till they had examined the rings that they recognized who it was. THE END",
+      "content_hash": "889e1a331ff95aed708522e5340e517c042725fadfe0980810a347088dba14d4"
+    }
+  }
+}

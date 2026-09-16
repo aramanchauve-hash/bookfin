@@ -1,0 +1,33 @@
+{
+  "work_id": "fr-barbey-les-diaboliques",
+  "author": "Jules Barbey d'Aurevilly",
+  "title": "Les Diaboliques",
+  "language": "fr",
+  "work_kind": "LONG_FORM",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "fb0da74eab8c21083aafd35b675cbbd1f0b711e4a85671e92a373b7bbcb2eca1",
+  "document_sha256": "fbd7bf43c91586d9963266c84042725b7f0ff86e7c96953797823dad08800d5c",
+  "pages_count": 1,
+  "source_page_sequence_number": 347,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "fr-barbey-les-diaboliques",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 347,
+      "version": "2.0",
+      "language": "fr",
+      "content_hash": "0ab0e4d84d4213189f25141f8c07c1dce740f59962a0df9812c90d3c13b0db8c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Je devais ajouter une\r\ngénération de plus à ces générations de femmes irréprochables et\r\nmajestueuses, dont la vertu avait été gardée par la fierté comme\r\nune fontaine par un lion. La solitude dans laquelle je vivais ne\r\npesait point sur mon âme, tranquille comme les montagnes de marbre\r\nrouge qui entourent Sierra-Leone. Je ne soupçonnais pas que sous\r\nces marbres dormait un volcan. J'étais dans les limbes d'avant la\r\nnaissance, mais j'allais naître et recevoir d'un seul regard\r\nd'homme le baptême de feu. Don Esteban, marquis de Vasconcellos,\r\nde race portugaise, et cousin du duc, vint à Sierra-Leone; et\r\nl'amour, dont je n'avais eu l'idée que par quelques livres\r\nmystiques, me tomba sur le coeur comme un aigle tombe à pic sur un\r\nenfant qu'il enlève et qui crie… Je criai aussi. Je n'étais pas\r\npour rien une Espagnole de vieille race. Mon orgueil s'insurgea\r\ncontre ce que je sentais en présence de ce dangereux Esteban, qui\r\ns'emparait de moi avec cette révoltante puissance. Je dis au duc\r\nde le congédier sous un prétexte ou sous un autre, de lui faire au\r\nplus vite quitter le château…, que je m'apercevais qu'il avait\r\npour moi un amour qui m'offensait comme une insolence. Mais don\r\nChristoval me répondit, comme le duc de Guise à l'avertissement\r\nque Henri III l'assassinerait: \"Il n'oserait!\" C'était le mépris\r\ndu Destin, qui se vengea en s'accomplissant. Ce mot me jeta à\r\nEsteban…»"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

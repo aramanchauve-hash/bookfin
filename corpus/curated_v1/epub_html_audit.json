@@ -1,0 +1,1394 @@
+[
+  {
+    "work_id": "en-austen-pride-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-austen-pride-prejudice.html",
+    "file_extension": ".html",
+    "file_size": 751682,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/42671/pg42671-images.html",
+    "sha256": "d5cf14a01b06801f3b5694825dcd521f3643047b83391df1102dfd67b733978e",
+    "rationale": "Gutenberg XHTML master #42671 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-austen-persuasion",
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-austen-persuasion.html",
+    "file_extension": ".html",
+    "file_size": 517141,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/105/pg105-images.html",
+    "sha256": "cf26dc959b6fc0118f197f9621114776a44a3baf39bcf2d3240a1c8f729a1b33",
+    "rationale": "Gutenberg XHTML master #105 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-johnson-rasselas",
+    "title": "The History of Rasselas, Prince of Abissinia",
+    "author": "Samuel Johnson",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-johnson-rasselas.html",
+    "file_extension": ".html",
+    "file_size": 262141,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/652/pg652-images.html",
+    "sha256": "0b78993ad56bc77d8c46f8569dae783e66d1449e7d7337e2e9451ecfb8b01da1",
+    "rationale": "Gutenberg XHTML master #652 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-sterne-sentimental-journey",
+    "title": "A Sentimental Journey Through France and Italy",
+    "author": "Laurence Sterne",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-sterne-sentimental-journey.html",
+    "file_extension": ".html",
+    "file_size": 878598,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/107/pg107-images.html",
+    "sha256": "998205da6a53dccb906c999acebc130329ac2aed746f08b70489694d11c5417a",
+    "rationale": "Gutenberg XHTML master #107 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-browne-religio-medici",
+    "title": "Religio Medici",
+    "author": "Sir Thomas Browne",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-browne-religio-medici.html",
+    "file_extension": ".html",
+    "file_size": 451264,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/586/pg586-images.html",
+    "sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd",
+    "rationale": "Gutenberg XHTML master #586 (section Religio Medici)."
+  },
+  {
+    "work_id": "en-browne-hydriotaphia",
+    "title": "Hydriotaphia, Urn Burial",
+    "author": "Sir Thomas Browne",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-browne-hydriotaphia.html",
+    "file_extension": ".html",
+    "file_size": 451264,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/586/pg586-images.html",
+    "sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd",
+    "rationale": "Gutenberg XHTML master #586 (section Hydriotaphia, Urn Burial)."
+  },
+  {
+    "work_id": "en-hazlitt-table-talk",
+    "title": "Table-Talk",
+    "author": "William Hazlitt",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-hazlitt-table-talk.html",
+    "file_extension": ".html",
+    "file_size": 90563,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/4335/pg4335-images.html",
+    "sha256": "170237291b2bcb2115df9724b839ccc2fe76897a07b808ca888d4c52f71c5538",
+    "rationale": "Gutenberg XHTML master #4335 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-gissing-henry-ryecroft",
+    "title": "The Private Papers of Henry Ryecroft",
+    "author": "George Gissing",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-gissing-henry-ryecroft.html",
+    "file_extension": ".html",
+    "file_size": 178009,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/2304/pg2304-images.html",
+    "sha256": "399bcb9e65f36830bc95ff3be996aaed35ef71eb5092dc84ce583154eca9d242",
+    "rationale": "Gutenberg XHTML master #2304 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-james-portrait-of-a-lady",
+    "title": "The Portrait of a Lady",
+    "author": "Henry James",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-james-portrait-of-a-lady.html",
+    "file_extension": ".html",
+    "file_size": 817572,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/2833/pg2833-images.html",
+    "sha256": "522caae84f1c8cb4c078a5cb1d8909b03cf54718a17156604faa3a9841b7c1b8",
+    "rationale": "Gutenberg XHTML master #2833 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-james-turn-of-the-screw",
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-james-turn-of-the-screw.html",
+    "file_extension": ".html",
+    "file_size": 278711,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/209/pg209-images.html",
+    "sha256": "5c4e034872cdf4a8d3523c533aaffd20cd891de7f69451f3ffdebe90cd604398",
+    "rationale": "Gutenberg XHTML master #209 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-james-daisy-miller",
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-james-daisy-miller.html",
+    "file_extension": ".html",
+    "file_size": 174894,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/208/pg208-images.html",
+    "sha256": "ea61fdd2ed7d9b2cde91d8a08cefc2e4f5236920e0138417679f40a4ece41552",
+    "rationale": "Gutenberg XHTML master #208 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-james-beast-in-the-jungle",
+    "title": "The Beast in the Jungle",
+    "author": "Henry James",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-james-beast-in-the-jungle.html",
+    "file_extension": ".html",
+    "file_size": 133449,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/1093/pg1093-images.html",
+    "sha256": "650d521f7efb0a94b692ef8bc47b7d8de6d7388e6cbe579dcf26a8a4e9ced547",
+    "rationale": "Gutenberg XHTML master #1093 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-james-aspern-papers",
+    "title": "The Aspern Papers",
+    "author": "Henry James",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-james-aspern-papers.html",
+    "file_extension": ".html",
+    "file_size": 274384,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/211/pg211-images.html",
+    "sha256": "7ee0c025108ab2554821bc20c1b4eed9a948fb14e67b1cd28bad78d57b4a4dbe",
+    "rationale": "Gutenberg XHTML master #211 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "fr-mirbeau-journal-femme-chambre",
+    "title": "Le Journal d'une femme de chambre",
+    "author": "Octave Mirbeau",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #43170)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-mirbeau-journal-femme-chambre.html",
+    "file_extension": ".html",
+    "file_size": 438973,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/43170/pg43170-images.html",
+    "sha256": "b3d8f717835aa4d8248b3230c914591a51ccfb257f0c449f91ed3f44d0aebb9f",
+    "rationale": "Gutenberg XHTML master #43170 (roman complet)."
+  },
+  {
+    "work_id": "fr-maupassant-bel-ami",
+    "title": "Bel-Ami",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #7733)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-bel-ami.html",
+    "file_extension": ".html",
+    "file_size": 964041,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Bel-Ami/%C3%89dition_Ollendorff,_1901/Texte_entier",
+    "sha256": "ca252017a868e6fa10b264f877321e83d6c992b4c298684b70ffd2e1e5719d9b",
+    "rationale": "Wikisource HTML complet édition Ollendorff 1901 (Texte entier)."
+  },
+  {
+    "work_id": "fr-maupassant-pierre-et-jean",
+    "title": "Pierre et Jean",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #1601)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-pierre-et-jean.html",
+    "file_extension": ".html",
+    "file_size": 419237,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Pierre_et_Jean/Texte_entier",
+    "sha256": "50f14e04f7d66270177745a4900c81687bf074c46cc84a1dbf83891972ebfa62",
+    "rationale": "Wikisource HTML complet édition Ollendorff 1888 (Texte entier)."
+  },
+  {
+    "work_id": "fr-maupassant-la-parure",
+    "title": "La Parure",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "DjVu scan reference"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-la-parure.html",
+    "file_extension": ".html",
+    "file_size": 84846,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://fr.wikisource.org/wiki/Contes_du_jour_et_de_la_nuit_(%C3%A9d._Flammarion,_1885)/La_Parure",
+    "sha256": "e18a25ee46a714cdc0e287fc29fe25daa19b7447302fdc780be6a6cad7abd404",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-maupassant-la-ficelle",
+    "title": "La Ficelle",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "DjVu scan reference"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-la-ficelle.html",
+    "file_extension": ".html",
+    "file_size": 76343,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Miss_Harriet_(recueil)/La_Ficelle",
+    "sha256": "8655e857a82f4b4ea7dca7b2a1918d6c228e3781c5d55e0904aceee267ff9153",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-maupassant-deux-amis",
+    "title": "Deux amis",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-deux-amis.html",
+    "file_extension": ".html",
+    "file_size": 76380,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Mademoiselle_Fifi_(recueil,_Ollendorff_1898)/Deux_amis",
+    "sha256": "14e147bd743ba39271b6fbcabdcc5b6abcc6e7ae62f0812c2bf80fbc00894b69",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-maupassant-le-horla",
+    "title": "Le Horla",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-le-horla.html",
+    "file_extension": ".html",
+    "file_size": 126891,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Le_Horla_(recueil,_Ollendorff_1895)/Le_Horla",
+    "sha256": "4ed9c124d7b93a1498b4f77f4973c9fc977ae7d749efb2cc5184244c82a4918a",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-maupassant-boule-de-suif",
+    "title": "Boule de Suif",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-boule-de-suif.html",
+    "file_extension": ".html",
+    "file_size": 272989,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/10746/pg10746-images.html",
+    "sha256": "442ad49d7205dd1d2e7990b003acf1a952494fddb5d4d7f5d601410ccf8460b2",
+    "rationale": "Gutenberg XHTML master #10746 (Boule de Suif texte intégral)."
+  },
+  {
+    "work_id": "fr-maupassant-la-maison-tellier",
+    "title": "La Maison Tellier",
+    "author": "Guy de Maupassant",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-maupassant-la-maison-tellier.html",
+    "file_extension": ".html",
+    "file_size": 134420,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/La_Maison_Tellier_(recueil)/La_Maison_Tellier",
+    "sha256": "bdffbd5857d4ed93d0218fdd85f3f2fdbc55dbeeb78aaab07df15753294fca4b",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-schwob-vies-imaginaires",
+    "title": "Vies imaginaires",
+    "author": "Marcel Schwob",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #20241)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-schwob-vies-imaginaires.html",
+    "file_extension": ".html",
+    "file_size": 277711,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Vies_imaginaires/Texte_entier",
+    "sha256": "a3a94d95a04da12ea6ba93acd70f5fa8cce5afd68368a3c7ba1b8aaa43ada27a",
+    "rationale": "Wikisource HTML complet édition Charpentier 1896 (Texte entier)."
+  },
+  {
+    "work_id": "fr-schwob-livre-de-monelle",
+    "title": "Le Livre de Monelle",
+    "author": "Marcel Schwob",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-schwob-livre-de-monelle.html",
+    "file_extension": ".html",
+    "file_size": 213131,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/La_Lampe_de_Psych%C3%A9/Le_Livre_de_Monelle",
+    "sha256": "dc64388a2d6f9793d8daa1742647fc7bf91b68534d56d87566815be69f3bbd0f",
+    "rationale": "Wikisource HTML complet issu de La Lampe de Psyché (Mercure de France 1894)."
+  },
+  {
+    "work_id": "fr-schwob-croisade-des-enfants",
+    "title": "La Croisade des enfants",
+    "author": "Marcel Schwob",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-schwob-croisade-des-enfants.html",
+    "file_extension": ".html",
+    "file_size": 101853,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/La_Croisade_des_enfants",
+    "sha256": "efecb258dd6f92b97cb7ae900a0e661c3e2029571371ec61f74b357379845a76",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-lesage-diable-boiteux",
+    "title": "Le Diable boiteux",
+    "author": "Alain-René Lesage",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #33434)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-lesage-diable-boiteux.html",
+    "file_extension": ".html",
+    "file_size": 194176,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/33434/pg33434-images.html",
+    "sha256": "a83d877218912408924d264f783d5d80abd5aedad0c624a53b788b17efe3d467",
+    "rationale": "Gutenberg XHTML master #33434 (roman complet)."
+  },
+  {
+    "work_id": "es-cervantes-quijote",
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #2000)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-cervantes-quijote.html",
+    "file_extension": ".html",
+    "file_size": 2273229,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/2000/pg2000-images.html",
+    "sha256": "1d65548d3679ef7a26aa1cd15b2b2325bd0f9c9d935326a2ba618d4ece440ae7",
+    "rationale": "Gutenberg XHTML master #2000 (Don Quijote texte intégral)."
+  },
+  {
+    "work_id": "es-cervantes-rinconete-y-cortadillo",
+    "title": "Rinconete y Cortadillo",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-cervantes-rinconete-y-cortadillo.html",
+    "file_extension": ".html",
+    "file_size": 1160804,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+    "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "rationale": "Gutenberg XHTML master #61202 (nouvelle autonome Rinconete y Cortadillo)."
+  },
+  {
+    "work_id": "es-cervantes-la-gitanilla",
+    "title": "La gitanilla",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-cervantes-la-gitanilla.html",
+    "file_extension": ".html",
+    "file_size": 1160804,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+    "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "rationale": "Gutenberg XHTML master #61202 (nouvelle autonome La gitanilla)."
+  },
+  {
+    "work_id": "es-cervantes-el-licenciado-vidriera",
+    "title": "El licenciado Vidriera",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-cervantes-el-licenciado-vidriera.html",
+    "file_extension": ".html",
+    "file_size": 1160804,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+    "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "rationale": "Gutenberg XHTML master #61202 (nouvelle autonome El licenciado Vidriera)."
+  },
+  {
+    "work_id": "es-cervantes-el-celoso-extremeno",
+    "title": "El celoso extremeño",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-cervantes-el-celoso-extremeno.html",
+    "file_extension": ".html",
+    "file_size": 1160804,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+    "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "rationale": "Gutenberg XHTML master #61202 (nouvelle autonome El celoso extremeño)."
+  },
+  {
+    "work_id": "es-cervantes-el-coloquio-de-los-perros",
+    "title": "El coloquio de los perros",
+    "author": "Miguel de Cervantes",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-cervantes-el-coloquio-de-los-perros.html",
+    "file_extension": ".html",
+    "file_size": 1160804,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/61202/pg61202-images.html",
+    "sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "rationale": "Gutenberg XHTML master #61202 (nouvelle autonome Coloquio de los perros)."
+  },
+  {
+    "work_id": "es-quiroga-a-la-deriva",
+    "title": "A la deriva",
+    "author": "Horacio Quiroga",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-quiroga-a-la-deriva.html",
+    "file_extension": ".html",
+    "file_size": 58922,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://es.wikisource.org/wiki/A_la_deriva",
+    "sha256": "61d4771a973680d227de41cdb043bd00adc0330afd4f4dc54ca0dce96f1f337d",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "es-quiroga-el-almohadon-de-plumas",
+    "title": "El almohadón de plumas",
+    "author": "Horacio Quiroga",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-quiroga-el-almohadon-de-plumas.html",
+    "file_extension": ".html",
+    "file_size": 69739,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://es.wikisource.org/wiki/El_almohad%C3%B3n_de_pluma",
+    "sha256": "187f44a7e0252f49ce1bcf8c4b5c4e4829386dca5800ec2a7eae54b70305de0d",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "es-quiroga-la-insolacion",
+    "title": "La insolación",
+    "author": "Horacio Quiroga",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-quiroga-la-insolacion.html",
+    "file_extension": ".html",
+    "file_size": 67885,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://es.wikisource.org/wiki/La_insolaci%C3%B3n",
+    "sha256": "31ef6129447db40acbaa8b622c49d4463c002b32fbb7e6a98a22dbb1d6abf843",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-merimee-mateo-falcone",
+    "title": "Mateo Falcone",
+    "author": "Prosper Mérimée",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-merimee-mateo-falcone.html",
+    "file_extension": ".html",
+    "file_size": 93815,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Mateo_Falcone",
+    "sha256": "28a2af6c07cc2d2d7f10b4873c13aa39ca9a1b8f75abd39c8f1a7130251ac7e4",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-merimee-carmen",
+    "title": "Carmen",
+    "author": "Prosper Mérimée",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #2465)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-merimee-carmen.html",
+    "file_extension": ".html",
+    "file_size": 181063,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/2465/pg2465-images.html",
+    "sha256": "3552a6106a435ffde6eb36e4d2e4e5d78c281e0d8adee02e14ac0020df613738",
+    "rationale": "Gutenberg XHTML master #2465 (Carmen texte intégral)."
+  },
+  {
+    "work_id": "fr-daudet-chevre-seguin",
+    "title": "La chèvre de monsieur Seguin",
+    "author": "Alphonse Daudet",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "DjVu scan reference"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-daudet-chevre-seguin.html",
+    "file_extension": ".html",
+    "file_size": 75702,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/La_ch%C3%A8vre_de_monsieur_Seguin",
+    "sha256": "5c291f456d00a4eddc0a207056adbe7187a97fc22e104589559026b0295eb22a",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-daudet-secret-cornille",
+    "title": "Le secret de maître Cornille",
+    "author": "Alphonse Daudet",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-daudet-secret-cornille.html",
+    "file_extension": ".html",
+    "file_size": 73547,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Le_secret_de_ma%C3%AEtre_Cornille",
+    "sha256": "83f8d7e1aecf193a767441b8692d8f4ed08eda5e7a0cb79df30f83fb0e6668f3",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-daudet-trois-messes-basses",
+    "title": "Les trois messes basses",
+    "author": "Alphonse Daudet",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-daudet-trois-messes-basses.html",
+    "file_extension": ".html",
+    "file_size": 78862,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Lettres_de_mon_moulin/Les_trois_messes_basses",
+    "sha256": "eeb401d45665e1c09f6c758d97db0ea51f421b1e6e439aacd5f75ff35d09a568",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-poe-tell-tale-heart",
+    "title": "The Tell-Tale Heart",
+    "author": "Edgar Allan Poe",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-poe-tell-tale-heart.html",
+    "file_extension": ".html",
+    "file_size": 74692,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/Mystery_Tales_of_Edgar_Allan_Poe/The_Tell-Tale_Heart",
+    "sha256": "f0b94636a6bd8260bd1da261d94f572d1c7b6fa792336f1cc7af5f819e186f19",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-poe-cask-amontillado",
+    "title": "The Cask of Amontillado",
+    "author": "Edgar Allan Poe",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-poe-cask-amontillado.html",
+    "file_extension": ".html",
+    "file_size": 84941,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Cask_of_Amontillado",
+    "sha256": "c79981a7b7bb7f72ae9c6e1829798ebcec7ecf4633d9272bf0a78b038ac4bd7f",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-poe-oval-portrait",
+    "title": "The Oval Portrait",
+    "author": "Edgar Allan Poe",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-poe-oval-portrait.html",
+    "file_extension": ".html",
+    "file_size": 78114,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_(1850)/Volume_1/The_Oval_Portrait",
+    "sha256": "8bb3cddd1541b61fec6ff1263174c97a54fe9fca6e6f806adeadbdfb44783d9d",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-doyle-scandal-bohemia",
+    "title": "A Scandal in Bohemia",
+    "author": "Arthur Conan Doyle",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-doyle-scandal-bohemia.html",
+    "file_extension": ".html",
+    "file_size": 640229,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html",
+    "sha256": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989",
+    "rationale": "Gutenberg XHTML master #1661 (nouvelle autonome I. A Scandal in Bohemia)."
+  },
+  {
+    "work_id": "en-doyle-red-headed-league",
+    "title": "The Red-Headed League",
+    "author": "Arthur Conan Doyle",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-doyle-red-headed-league.html",
+    "file_extension": ".html",
+    "file_size": 640229,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html",
+    "sha256": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989",
+    "rationale": "Gutenberg XHTML master #1661 (nouvelle autonome II. The Red-Headed League)."
+  },
+  {
+    "work_id": "en-london-to-build-a-fire",
+    "title": "To Build a Fire",
+    "author": "Jack London",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #3706)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-london-to-build-a-fire.html",
+    "file_extension": ".html",
+    "file_size": 96730,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/Century_Magazine/Volume_76/Issue_4/To_Build_a_Fire",
+    "sha256": "5cbd3ce8c025e70ee0e86053c07113493b2936b2a49dc0f4f426604189136dcf",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-henry-gift-of-the-magi",
+    "title": "The Gift of the Magi",
+    "author": "O. Henry",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-henry-gift-of-the-magi.html",
+    "file_extension": ".html",
+    "file_size": 71986,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/The_Gift_of_the_Magi",
+    "sha256": "b1a2d058824423ac0ad278e7aa26d5e6fa5a79f02bd4bf02db7c8eb683d447c8",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-henry-last-leaf",
+    "title": "The Last Leaf",
+    "author": "O. Henry",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-henry-last-leaf.html",
+    "file_extension": ".html",
+    "file_size": 75064,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/The_Last_Leaf_(Henry)",
+    "sha256": "d6e1526ad9eedb7926f62d41cfe5110d1cbda4b93af8948d077ce2f8d16735f6",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-saki-open-window",
+    "title": "The Open Window",
+    "author": "Saki (H. H. Munro)",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-saki-open-window.html",
+    "file_extension": ".html",
+    "file_size": 62441,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/The_Open_Window_(Saki)",
+    "sha256": "5e41646dfc5ec82adec811bb35a9d2a3453deabc76508599866fd40b38fc8f3d",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-chopin-story-of-an-hour",
+    "title": "The Story of an Hour",
+    "author": "Kate Chopin",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-chopin-story-of-an-hour.html",
+    "file_extension": ".html",
+    "file_size": 66747,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://en.wikisource.org/wiki/The_Story_of_an_Hour",
+    "sha256": "7675278cb66d093c6f8c4d8c0a47db5cf60844551125d631383775509b3e21b5",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "en-lamb-essays-of-elia",
+    "title": "Essays of Elia",
+    "author": "Charles Lamb",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-lamb-essays-of-elia.html",
+    "file_extension": ".html",
+    "file_size": 1250978,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/10343/pg10343-images.html",
+    "sha256": "d7853bd0b13372877d61535273c919930abad79701482e62213fc7edb4cfe1c3",
+    "rationale": "Gutenberg XHTML master #10343 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-wilde-dorian-gray",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-wilde-dorian-gray.html",
+    "file_extension": ".html",
+    "file_size": 492595,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/174/pg174-images.html",
+    "sha256": "b121e06741dc40b1f4754db3ffc39681442f4136026756933dc730808ecc3b5f",
+    "rationale": "Gutenberg XHTML master #174 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "en-melville-bartleby",
+    "title": "Bartleby, the Scrivener",
+    "author": "Herman Melville",
+    "language": "en",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #11231)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\en\\en-melville-bartleby.html",
+    "file_extension": ".html",
+    "file_size": 113590,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/11231/pg11231-images.html",
+    "sha256": "a51dfe7737271c08eec79b4f97c1cc07825e7bf05388c0952e291a010b2045f2",
+    "rationale": "Gutenberg XHTML master #11231 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "fr-diderot-jacques-le-fataliste",
+    "title": "Jacques le fataliste et son maître",
+    "author": "Denis Diderot",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #7916)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-diderot-jacques-le-fataliste.html",
+    "file_extension": ".html",
+    "file_size": 1015890,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Jacques_le_fataliste_et_son_ma%C3%AEtre",
+    "sha256": "b6b483c29637d112601c7484d144db84c15b9f7f0fa6e7adf6059d7cc5184b16",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "fr-diderot-neveu-de-rameau",
+    "title": "Le Neveu de Rameau",
+    "author": "Denis Diderot",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #13459)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-diderot-neveu-de-rameau.html",
+    "file_extension": ".html",
+    "file_size": 222714,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/13862/pg13862-images.html",
+    "sha256": "becf079d78e3f0b6bfd2904945b9c6228d3180dad6547998bb7d077655248601",
+    "rationale": "Gutenberg XHTML master #13862 (Le Neveu de Rameau texte intégral)."
+  },
+  {
+    "work_id": "fr-nerval-aurelia",
+    "title": "Aurélia ou le Rêve et la Vie",
+    "author": "Gérard de Nerval",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-nerval-aurelia.html",
+    "file_extension": ".html",
+    "file_size": 292723,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Aur%C3%A9lia/Texte_entier",
+    "sha256": "a92328e4ae04aa379ce97129f57ca45d216f9fa676064791e9f0b38045cd8625",
+    "rationale": "Wikisource HTML complet (Texte entier)."
+  },
+  {
+    "work_id": "fr-barbey-les-diaboliques",
+    "title": "Les Diaboliques",
+    "author": "Jules Barbey d'Aurevilly",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #14496)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-barbey-les-diaboliques.html",
+    "file_extension": ".html",
+    "file_size": 648224,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/13848/pg13848-images.html",
+    "sha256": "fb0da74eab8c21083aafd35b675cbbd1f0b711e4a85671e92a373b7bbcb2eca1",
+    "rationale": "Gutenberg XHTML master #13848 (recueil complet)."
+  },
+  {
+    "work_id": "fr-huysmans-a-rebours",
+    "title": "À rebours",
+    "author": "Joris-Karl Huysmans",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #12379)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-huysmans-a-rebours.html",
+    "file_extension": ".html",
+    "file_size": 593196,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/%C3%80_rebours/Texte_entier",
+    "sha256": "b4b8dec6141af5bb9c9cb56c3eb8875f8c40299bf2b8dcb175fbd2895758e7d9",
+    "rationale": "Wikisource HTML complet (Texte entier)."
+  },
+  {
+    "work_id": "fr-bloy-histoires-desobligeantes",
+    "title": "Histoires désobligeantes",
+    "author": "Léon Bloy",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-bloy-histoires-desobligeantes.html",
+    "file_extension": ".html",
+    "file_size": 452942,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://fr.wikisource.org/wiki/Histoires_d%C3%A9sobligeantes/Texte_entier",
+    "sha256": "df2fbcf244c1676834db2bd485e679c1e1cb8b2018cdb7c7779e44732c7b0116",
+    "rationale": "Wikisource HTML complet (Texte entier)."
+  },
+  {
+    "work_id": "fr-stendhal-chartreuse-de-parme",
+    "title": "La Chartreuse de Parme",
+    "author": "Stendhal",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #4477)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-stendhal-chartreuse-de-parme.html",
+    "file_extension": ".html",
+    "file_size": 1172929,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/796/pg796-images.html",
+    "sha256": "d04d664eefc1c29e0ab408ba8be6e04c8d82f9452bc513f043bd04283a1ef28d",
+    "rationale": "Gutenberg XHTML master #796 (roman complet)."
+  },
+  {
+    "work_id": "fr-stendhal-chroniques-italiennes",
+    "title": "Chroniques italiennes",
+    "author": "Stendhal",
+    "language": "fr",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #15629)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\fr\\fr-stendhal-chroniques-italiennes.html",
+    "file_extension": ".html",
+    "file_size": 815053,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://fr.wikisource.org/wiki/Chroniques_italiennes_(%C3%A9dition_L%C3%A9vy,_1855)",
+    "sha256": "02ac384beb443aa4925a9a119fc0523a7b5cc553287ed1888d4564d142d23dc4",
+    "rationale": "Wikisource HTML complet des 5 chroniques (édition Lévy 1855 intégrale)."
+  },
+  {
+    "work_id": "es-quevedo-los-suenos",
+    "title": "Los sueños",
+    "author": "Francisco de Quevedo",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #41065)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-quevedo-los-suenos.html",
+    "file_extension": ".html",
+    "file_size": 632990,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/65999/pg65999-images.html",
+    "sha256": "9517ec5a3fec05f21507be5c2351e4fede9dd47df49ef82dfe7373b2444f2cbd",
+    "rationale": "Gutenberg XHTML master #65999 (Los Sueños texte original espagnol)."
+  },
+  {
+    "work_id": "es-quevedo-el-buscon",
+    "title": "Historia de la vida del Buscón",
+    "author": "Francisco de Quevedo",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #24564)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-quevedo-el-buscon.html",
+    "file_extension": ".html",
+    "file_size": 292225,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/32315/pg32315-images.html",
+    "sha256": "e6eff6072ea06bd0eac5c221a7c96e8cffae2faf61cc9bb8bca02fd3e4e82586",
+    "rationale": "Gutenberg XHTML master #32315 (El Buscón texte original espagnol)."
+  },
+  {
+    "work_id": "es-larra-el-doncel",
+    "title": "El doncel de don Enrique el Doliente",
+    "author": "Mariano José de Larra",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "EPUB3",
+      "EPUB",
+      "HTML",
+      "plain text"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-larra-el-doncel.html",
+    "file_extension": ".html",
+    "file_size": 130009,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/51184/pg51184-images.html",
+    "sha256": "4c613808117883578dfd1c23889530c18f6c44224c16818d952bc3344f32b285",
+    "rationale": "Gutenberg XHTML master #51184 (fichier source de référence sans conteneur)."
+  },
+  {
+    "work_id": "es-clarin-adios-cordera",
+    "title": "¡Adiós, Cordera! y otros cuentos",
+    "author": "Leopoldo Alas (Clarín)",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-clarin-adios-cordera.html",
+    "file_extension": ".html",
+    "file_size": 83397,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://es.wikisource.org/wiki/%C2%A1Adi%C3%B3s,_Cordera!",
+    "sha256": "d2e1417398dc45a66d2e482d88f23c7a199c7c7433fd6dd60cc445005a0d0073",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "es-pardo-bazan-los-pazos-de-ulloa",
+    "title": "Los pazos de Ulloa",
+    "author": "Emilia Pardo Bazán",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #35471)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-pardo-bazan-los-pazos-de-ulloa.html",
+    "file_extension": ".html",
+    "file_size": 554205,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/18005/pg18005-images.html",
+    "sha256": "eb75f60ca40dff1b28fe597c36b22a62cc70096838b6574ce8f0f2c8e0f4baec",
+    "rationale": "Gutenberg XHTML master #18005 (Los pazos de Ulloa texte intégral)."
+  },
+  {
+    "work_id": "es-galdos-misericordia",
+    "title": "Misericordia",
+    "author": "Benito Pérez Galdós",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #17387)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-galdos-misericordia.html",
+    "file_extension": ".html",
+    "file_size": 546003,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/21831/pg21831-images.html",
+    "sha256": "6d93f2a0652aed3685fe885c5e7058904cc622042632b14a43ddea2e119bc76a",
+    "rationale": "Gutenberg XHTML master #21831 (Misericordia texte intégral)."
+  },
+  {
+    "work_id": "es-galdos-dona-perfecta",
+    "title": "Doña Perfecta",
+    "author": "Benito Pérez Galdós",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #15725)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-galdos-dona-perfecta.html",
+    "file_extension": ".html",
+    "file_size": 1063032,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/15725/pg15725-images.html",
+    "sha256": "385e0256bc9c747c0ed4683a204c4fcf916cbdde772ef8dfbfbc13c1dbc41bb3",
+    "rationale": "Gutenberg XHTML master #15725 (Doña Perfecta texte intégral)."
+  },
+  {
+    "work_id": "es-unamuno-niebla",
+    "title": "Niebla",
+    "author": "Miguel de Unamuno",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #49836)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-unamuno-niebla.html",
+    "file_extension": ".html",
+    "file_size": 409533,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/49836/pg49836-images.html",
+    "sha256": "69f56e540b9ed6edc01bf20315e922752e38a0b9d77f03bc7b500dbaae6320be",
+    "rationale": "Gutenberg HTML master de l'édition Renacimiento 1914."
+  },
+  {
+    "work_id": "es-unamuno-san-manuel-bueno-martir",
+    "title": "San Manuel Bueno, mártir",
+    "author": "Miguel de Unamuno",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-unamuno-san-manuel-bueno-martir.html",
+    "file_extension": ".html",
+    "file_size": 130394,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://es.wikisource.org/wiki/San_Manuel_Bueno,_m%C3%A1rtir",
+    "sha256": "9809ff935e87dcaedb09e612ea6ee0ec11ade605790e33694d187afbb6a3bb55",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "es-valle-inclan-sonata-otono",
+    "title": "Sonata de otoño (Memorias del Marqués de Bradomín)",
+    "author": "Ramón del Valle-Inclán",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #37537)"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-valle-inclan-sonata-otono.html",
+    "file_extension": ".html",
+    "file_size": 114024,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/37537/pg37537-images.html",
+    "sha256": "d3b6b5f32e905b89956a9d291fdf78680a8a890251346be1418582f9d49e4d63",
+    "rationale": "Gutenberg HTML master de la Sonata de otoño (1902)."
+  },
+  {
+    "work_id": "es-valle-inclan-sonata-primavera",
+    "title": "Sonata de primavera",
+    "author": "Ramón del Valle-Inclán",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML",
+      "EPUB (Gutenberg #37536)"
+    ],
+    "format_chosen": "wikisource_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-valle-inclan-sonata-primavera.html",
+    "file_extension": ".html",
+    "file_size": 170519,
+    "mime_type": "text/html; charset=UTF-8",
+    "download_url": "https://es.wikisource.org/wiki/Sonata_de_primavera",
+    "sha256": "7e1f64c643162a612894fbb56e1bbe5a4cefd8f209ce07a080b012388779d8c2",
+    "rationale": "Wikisource HTML complet structuré (avec transclusion DjVu le cas échéant)."
+  },
+  {
+    "work_id": "es-valle-inclan-luces-de-bohemia",
+    "title": "Luces de bohemia (esperpento)",
+    "author": "Ramón del Valle-Inclán",
+    "language": "es",
+    "preferred_source": "EPUB_IF_STRUCTURALLY_BEST_ELSE_BEST_STRUCTURED_SOURCE",
+    "available_formats": [
+      "HTML"
+    ],
+    "format_chosen": "gutenberg_html",
+    "source_file": "corpus\\curated_v1\\sources\\es\\es-valle-inclan-luces-de-bohemia.html",
+    "file_extension": ".html",
+    "file_size": 207836,
+    "mime_type": "text/html; charset=utf-8",
+    "download_url": "https://www.gutenberg.org/cache/epub/68745/pg68745-images.html",
+    "sha256": "00e1ee496cf55ff0a49c9593ea8d404280fa7ccebac88f6270e6b88a793141ed",
+    "rationale": "Gutenberg XHTML master #68745 (Luces de Bohemia: Esperpento)."
+  }
+]

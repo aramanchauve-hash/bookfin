@@ -1,0 +1,362 @@
+{
+  "en-austen-pride-prejudice": {
+    "source_sha256": "d5cf14a01b06801f3b5694825dcd521f3643047b83391df1102dfd67b733978e",
+    "normalized_sha256": "a18874b774853701162304ac41736e930e609601f99074768cd73c398f159c6a",
+    "pages_sha256": "13250518100beff999110a394fc12e3f9b7ae9145f90f4e5296601433ee6c8ea",
+    "pages_count": 443
+  },
+  "en-austen-persuasion": {
+    "source_sha256": "cf26dc959b6fc0118f197f9621114776a44a3baf39bcf2d3240a1c8f729a1b33",
+    "normalized_sha256": "d9f7e755e7eb9f813027a60c4777db6792ca25c94636476324465576b109ac90",
+    "pages_sha256": "c15a9b9be5a40059466cf865156993e464ee272526ff4e9a50ccd47295b76885",
+    "pages_count": 305
+  },
+  "en-johnson-rasselas": {
+    "source_sha256": "0b78993ad56bc77d8c46f8569dae783e66d1449e7d7337e2e9451ecfb8b01da1",
+    "normalized_sha256": "4e2e4f40e3fbce86d9822692dcfd29ebf5397cf296aec7dbe20d3d5159105b15",
+    "pages_sha256": "7be37b2b523cf9a8420056c1cd3e3498e40811efe70b613e988eac4559832382",
+    "pages_count": 148
+  },
+  "en-browne-religio-medici": {
+    "source_sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd",
+    "normalized_sha256": "09522ba1bd4508c80d48d601b13447cc730899737a649430f4bdb03ca0830d98",
+    "pages_sha256": "f444df0102d260f69dfb7c4728b71a42974757be41f4ad71e68efe8ba5d79678",
+    "pages_count": 116
+  },
+  "en-browne-hydriotaphia": {
+    "source_sha256": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd",
+    "normalized_sha256": "a4c7b782ce186cb62e249da1b94591433fb26e35d62ec2c32260386723ccf4fd",
+    "pages_sha256": "5b45c48700a4faee5d0ec2fb48b33ad23eba432ed0bbb500eacc544f84372e1e",
+    "pages_count": 58
+  },
+  "en-james-turn-of-the-screw": {
+    "source_sha256": "5c4e034872cdf4a8d3523c533aaffd20cd891de7f69451f3ffdebe90cd604398",
+    "normalized_sha256": "7c9c00e9f2ea8eca4802989953ad6ef3f7cbdc54724fdacaa45a552b4d017e64",
+    "pages_sha256": "39a8b8609a367029b7d6bb01f10cf4661ed1be4cd8ea30c1a6f0e169d31c6b25",
+    "pages_count": 147
+  },
+  "en-james-daisy-miller": {
+    "source_sha256": "ea61fdd2ed7d9b2cde91d8a08cefc2e4f5236920e0138417679f40a4ece41552",
+    "normalized_sha256": "1612af0bf3e888efcac714ec80301cc639195058d9500748d627e8e702d50f2e",
+    "pages_sha256": "2f616765f168ed2e4f67676172a2248bc631c6ac10b8ede8374879b36c8becbd",
+    "pages_count": 79
+  },
+  "en-james-beast-in-the-jungle": {
+    "source_sha256": "650d521f7efb0a94b692ef8bc47b7d8de6d7388e6cbe579dcf26a8a4e9ced547",
+    "normalized_sha256": "0488e9ea504b0c393d540b09b7f36b42e2324ed294811aa728a7a35c64b8930d",
+    "pages_sha256": "bd6382eb0df27ea33f25fa59b5d1c9a50681c12e912aa621f3ded5004311c93d",
+    "pages_count": 65
+  },
+  "en-james-aspern-papers": {
+    "source_sha256": "7ee0c025108ab2554821bc20c1b4eed9a948fb14e67b1cd28bad78d57b4a4dbe",
+    "normalized_sha256": "7999cbeac91db2ff5015c118a35a971f64fdd91a5436d66fba68b328aa27c072",
+    "pages_sha256": "47f2d9bb27c92a2445d1ae4e42450704a94a42284d918b3765ac1ca57d69af46",
+    "pages_count": 136
+  },
+  "fr-maupassant-bel-ami": {
+    "source_sha256": "ca252017a868e6fa10b264f877321e83d6c992b4c298684b70ffd2e1e5719d9b",
+    "normalized_sha256": "75cec138a444437ea3107536a926385e7f3fedffcce5f453f0013be4c193b3bf",
+    "pages_sha256": "8acb97ef2fbc0bf8a18d6a0320a66eba0f91076d8d8acb87095cbf0509500337",
+    "pages_count": 381
+  },
+  "fr-maupassant-pierre-et-jean": {
+    "source_sha256": "50f14e04f7d66270177745a4900c81687bf074c46cc84a1dbf83891972ebfa62",
+    "normalized_sha256": "f76b397940cc8daa2e20244922c3d4fa8134d7b4c91c5ed088e9405ff1c7b972",
+    "pages_sha256": "198655e4c221146bbd0336e37ab220b63eb0c7628a0dc3fd1d5c5292eef21b42",
+    "pages_count": 174
+  },
+  "fr-maupassant-la-parure": {
+    "source_sha256": "e18a25ee46a714cdc0e287fc29fe25daa19b7447302fdc780be6a6cad7abd404",
+    "normalized_sha256": "2e7aca3b8bbac2c7dd256b8509ff6afb205abe1165fb31a019658ce70fd7e599",
+    "pages_sha256": "d38a36d4d0a2dfaab4b06ec5a279a2fe88046beaa858c5e20844053796d99922",
+    "pages_count": 10
+  },
+  "fr-maupassant-la-ficelle": {
+    "source_sha256": "8655e857a82f4b4ea7dca7b2a1918d6c228e3781c5d55e0904aceee267ff9153",
+    "normalized_sha256": "2784b3933ad67ad0f5187b7499981f2de18dab6504c945e1a0d5b1442885f644",
+    "pages_sha256": "0fb960844d0e721f6b4fec8defd3844208c118c71e8cc525dcad40fc3b1df40c",
+    "pages_count": 8
+  },
+  "fr-maupassant-deux-amis": {
+    "source_sha256": "14e147bd743ba39271b6fbcabdcc5b6abcc6e7ae62f0812c2bf80fbc00894b69",
+    "normalized_sha256": "deb4ea0aaa03d78212862fd2d5b9f3522150e707a104cc6925f701acb21dcd90",
+    "pages_sha256": "e738356478265c3bb2a4e5f42b994a7cd5bb76931b0ffe36d9459dd86d266e6d",
+    "pages_count": 8
+  },
+  "fr-maupassant-le-horla": {
+    "source_sha256": "4ed9c124d7b93a1498b4f77f4973c9fc977ae7d749efb2cc5184244c82a4918a",
+    "normalized_sha256": "5d980468f8b550ae9761ff1837c69fa9c3a46386add13ee1a539484372beecc7",
+    "pages_sha256": "5390c17f34cb2a0a27d4ee61724f83c55747ad20518c4c1e252379b24ba7d9ec",
+    "pages_count": 34
+  },
+  "fr-maupassant-la-maison-tellier": {
+    "source_sha256": "bdffbd5857d4ed93d0218fdd85f3f2fdbc55dbeeb78aaab07df15753294fca4b",
+    "normalized_sha256": "c238f7f67b00fc9c2595f75ba20be717d9dffa17626d0d40bdfad3703e8c448b",
+    "pages_sha256": "485e99d4555649a9c8fb9582faffe1214f72da5f5018c6993a58ae30bf2844cc",
+    "pages_count": 38
+  },
+  "fr-schwob-vies-imaginaires": {
+    "source_sha256": "a3a94d95a04da12ea6ba93acd70f5fa8cce5afd68368a3c7ba1b8aaa43ada27a",
+    "normalized_sha256": "bcd6810024462b27df9e9121d3eccf1d89bb892294145993b75cc0b08f63f88f",
+    "pages_sha256": "3cb8bc7cf86eeaf4d08228a23a9cd15ea66f785b19b1788aa23820002f427ff2",
+    "pages_count": 113
+  },
+  "fr-schwob-livre-de-monelle": {
+    "source_sha256": "dc64388a2d6f9793d8daa1742647fc7bf91b68534d56d87566815be69f3bbd0f",
+    "normalized_sha256": "e40f387c92b6ec58fb31160527b01b805ec95152a10e66320ec324d3b3be5e93",
+    "pages_sha256": "40b4b731ffb82fefde7df57c8e38a118ab7a5f47e2c12821ec81fdd948209993",
+    "pages_count": 75
+  },
+  "fr-schwob-croisade-des-enfants": {
+    "source_sha256": "efecb258dd6f92b97cb7ae900a0e661c3e2029571371ec61f74b357379845a76",
+    "normalized_sha256": "24258f4f1c9bf86c8c5abbe1608b8a45f3b956d94c34d8c223d7a376841d1a41",
+    "pages_sha256": "6cfb920853e13d3d3ee7727de45565cf44a8bb31378c3ed107d95091968b70d1",
+    "pages_count": 23
+  },
+  "es-cervantes-quijote": {
+    "source_sha256": "1d65548d3679ef7a26aa1cd15b2b2325bd0f9c9d935326a2ba618d4ece440ae7",
+    "normalized_sha256": "9eb0392cd40d733fb2555844b7bba3056f63636d45d4c25027e8753e64d31dcb",
+    "pages_sha256": "23eb06d979091637869d0769edc6d4d42ab9612433d233144b886e402cb5ad5d",
+    "pages_count": 1365
+  },
+  "es-cervantes-rinconete-y-cortadillo": {
+    "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "normalized_sha256": "36ddc87c96af9e636938879213031d3a560e7ffe0e8765f201345f2b95637a5f",
+    "pages_sha256": "4409800c1191dc710aceb4c74c2029831d43767d19a056413b1f6643523349ba",
+    "pages_count": 48
+  },
+  "es-cervantes-la-gitanilla": {
+    "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "normalized_sha256": "843abdd450043b6c9ef41a9ffc995da8062f642bfd8fa159a0eb49f97ced694e",
+    "pages_sha256": "35800a410938f054852f89beb272d238cca407f46545667540d19c9977fc2e4b",
+    "pages_count": 81
+  },
+  "es-cervantes-el-licenciado-vidriera": {
+    "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "normalized_sha256": "3ab5bcc63d9bca8a677ab61cc943defacc629ffda1e949042b20b446500e8df6",
+    "pages_sha256": "4224f5c2817ca758f41b46d246380115a3bece67764e966de15398b187b80a6e",
+    "pages_count": 34
+  },
+  "es-cervantes-el-celoso-extremeno": {
+    "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "normalized_sha256": "c0011e949f93eca87284f2d41a23192a73f07c9026ab23cd41a175adfb478d15",
+    "pages_sha256": "e973bad0f526036009d64dc5928d0d3bb058045c1f0000dc51b3fa29f7b85735",
+    "pages_count": 49
+  },
+  "es-cervantes-el-coloquio-de-los-perros": {
+    "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+    "normalized_sha256": "457417b1b83fcbcd9e36985eeaaa6a683edf432dcb4f292775bdcbb4296b06c1",
+    "pages_sha256": "9bb5362592f4cc52361846ca590765f88ab1ded08b489a31162758159121c4c6",
+    "pages_count": 82
+  },
+  "es-quiroga-a-la-deriva": {
+    "source_sha256": "61d4771a973680d227de41cdb043bd00adc0330afd4f4dc54ca0dce96f1f337d",
+    "normalized_sha256": "2385c942d18b5f9a2af6fef493409f8b90ee3ade9d89a0a4933d7e6d9172273c",
+    "pages_sha256": "f2869015edd1953dbd3f009290f998fadc559147d08876a7673d57a9696fac88",
+    "pages_count": 4
+  },
+  "es-quiroga-el-almohadon-de-plumas": {
+    "source_sha256": "187f44a7e0252f49ce1bcf8c4b5c4e4829386dca5800ec2a7eae54b70305de0d",
+    "normalized_sha256": "dd32a1509478b1013b4b555f570a8fa860534c878f19a5653662c6c433b08cac",
+    "pages_sha256": "caad5a3c38a42f3121331041a88df59b0d9b03ddb1f783ee47803c551de316a1",
+    "pages_count": 5
+  },
+  "es-quiroga-la-insolacion": {
+    "source_sha256": "31ef6129447db40acbaa8b622c49d4463c002b32fbb7e6a98a22dbb1d6abf843",
+    "normalized_sha256": "2f82cbc3b2919180d3cfd5b23aa963861516f0b5ad82288ff690401695e80c3b",
+    "pages_sha256": "4faa74c715756f6f6e7623204ea41b2a75d3c02c6e314dab96dc4ef2364725ac",
+    "pages_count": 9
+  },
+  "fr-merimee-mateo-falcone": {
+    "source_sha256": "28a2af6c07cc2d2d7f10b4873c13aa39ca9a1b8f75abd39c8f1a7130251ac7e4",
+    "normalized_sha256": "6904bd2b31936630eb891149af3bddaf4d4a7980fa20978b05f3f40b91cbb891",
+    "pages_sha256": "68a935ed4a258ba08b4660e4a9123a4e40e003d053e190360340f6301547e6c8",
+    "pages_count": 16
+  },
+  "fr-daudet-chevre-seguin": {
+    "source_sha256": "5c291f456d00a4eddc0a207056adbe7187a97fc22e104589559026b0295eb22a",
+    "normalized_sha256": "ae38d6be504f01ac8f3c8380ff19cf0e38e8b91f46887139b64385add57135f6",
+    "pages_sha256": "6700a9d666cf487d070d15eb5f96ef81db4a98841657f8311e79b0c034912a77",
+    "pages_count": 7
+  },
+  "fr-daudet-secret-cornille": {
+    "source_sha256": "83f8d7e1aecf193a767441b8692d8f4ed08eda5e7a0cb79df30f83fb0e6668f3",
+    "normalized_sha256": "a480532747ca98dd0432c3af59dcd704f9176983eed08c208e564217afaeba74",
+    "pages_sha256": "761a2761dad1a9ff008e4b5e95f89ef820fbd22f09f6bfadade69ebc0e8671f5",
+    "pages_count": 8
+  },
+  "fr-daudet-trois-messes-basses": {
+    "source_sha256": "eeb401d45665e1c09f6c758d97db0ea51f421b1e6e439aacd5f75ff35d09a568",
+    "normalized_sha256": "80c04b61608d2962374bf4adf99b44072ad3002067624117e6acf971e7205d3f",
+    "pages_sha256": "3479591b202a066558341e2741b437b5f6dcecd817df51e6b758c4a45f8221db",
+    "pages_count": 11
+  },
+  "en-poe-tell-tale-heart": {
+    "source_sha256": "f0b94636a6bd8260bd1da261d94f572d1c7b6fa792336f1cc7af5f819e186f19",
+    "normalized_sha256": "fc949e2fe4fbf973bdb178a587d5fb5a4a17fbaa073b558745220eff13295b8d",
+    "pages_sha256": "4eae9e507c8f638ccfa3c68d59bff4cde4755732db3ee9cc0df9712da3230920",
+    "pages_count": 7
+  },
+  "en-poe-cask-amontillado": {
+    "source_sha256": "c79981a7b7bb7f72ae9c6e1829798ebcec7ecf4633d9272bf0a78b038ac4bd7f",
+    "normalized_sha256": "8ce5e4132b79e4f90e18ccdfba01383edd1a89030c3b771a13f8e2732094a10b",
+    "pages_sha256": "679e922444349ea0aa8466e5c4ad625678b84065e8bee91c39b50de9e15411f1",
+    "pages_count": 8
+  },
+  "en-poe-oval-portrait": {
+    "source_sha256": "8bb3cddd1541b61fec6ff1263174c97a54fe9fca6e6f806adeadbdfb44783d9d",
+    "normalized_sha256": "14456f1d2e4274aa3550ee183bfa58686c538681291880bd7ed8c60c828b74d5",
+    "pages_sha256": "0d4b4b6388e1efd7d9454c22fa2231d25afda3aa2a58ec4f96e49f1fa9dc0393",
+    "pages_count": 5
+  },
+  "en-doyle-scandal-bohemia": {
+    "source_sha256": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989",
+    "normalized_sha256": "33bfafb909328e8d08c12ec922f5208735dc16aea61a3b9d4809234df5c8a314",
+    "pages_sha256": "a2d84548e64422f4e7d1783bc31a4ebc888c0d4c3c6921a3f8674bd86cababb6",
+    "pages_count": 31
+  },
+  "en-doyle-red-headed-league": {
+    "source_sha256": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989",
+    "normalized_sha256": "2861e791ef80b85716500084a9eb63803e20f84a79f29aa6a78c36a48fd0b309",
+    "pages_sha256": "06115426d2494b0a780ed5a0ad39b4a4011be2e7b7c13068846bb05b88e04aca",
+    "pages_count": 33
+  },
+  "en-london-to-build-a-fire": {
+    "source_sha256": "5cbd3ce8c025e70ee0e86053c07113493b2936b2a49dc0f4f426604189136dcf",
+    "normalized_sha256": "5ed2fee367cc404f12ca44ccc37f812d3db149261f4de760877fc5e8f7288f03",
+    "pages_sha256": "574d11c13b9a9b01deb485719c2ff03853263173c0d94a60027171e88357d38f",
+    "pages_count": 26
+  },
+  "en-henry-gift-of-the-magi": {
+    "source_sha256": "b1a2d058824423ac0ad278e7aa26d5e6fa5a79f02bd4bf02db7c8eb683d447c8",
+    "normalized_sha256": "9af6b374cdc609ceb2dd98b748f927d6ebc24b85a3136c50eb80856feb859213",
+    "pages_sha256": "5985921890fd5b8434abc52807048114e96d4e8439f4c121f6b3b3a92b1c4a7f",
+    "pages_count": 7
+  },
+  "en-henry-last-leaf": {
+    "source_sha256": "d6e1526ad9eedb7926f62d41cfe5110d1cbda4b93af8948d077ce2f8d16735f6",
+    "normalized_sha256": "c4f4c55bbd04ab024a332e5f346e8e25762c0ee6d2947726bcef744c5204b308",
+    "pages_sha256": "6f78a706c5aa49159e48824eb0a3e4748ddc00f1e80465579e4435c13a6de056",
+    "pages_count": 8
+  },
+  "en-saki-open-window": {
+    "source_sha256": "5e41646dfc5ec82adec811bb35a9d2a3453deabc76508599866fd40b38fc8f3d",
+    "normalized_sha256": "7457682b49c2fa5e5643b7e3c6ec6f645f8d24f390960edff599986f7d24b017",
+    "pages_sha256": "9513479abf0e0df435aad7ec8a31277a381859021eced45dc32b92fcdde674d9",
+    "pages_count": 4
+  },
+  "en-chopin-story-of-an-hour": {
+    "source_sha256": "7675278cb66d093c6f8c4d8c0a47db5cf60844551125d631383775509b3e21b5",
+    "normalized_sha256": "7b505c7ae4e99ca7db2e8a16b610bcff8ad2a371e624e0d3f319e010567cbfa3",
+    "pages_sha256": "46b28b95fde6514a5af388b7bbb5e6fafc3dc8014fe519ae9f052041415b3686",
+    "pages_count": 4
+  },
+  "en-wilde-dorian-gray": {
+    "source_sha256": "b121e06741dc40b1f4754db3ffc39681442f4136026756933dc730808ecc3b5f",
+    "normalized_sha256": "e0f2dc5f3807b833a14bbdbc621502c82682877df470c424fa123e332096a75a",
+    "pages_sha256": "58cc14297833c6cc6c1573d68f0ed7fb7d1333a29277b16af9f2a64218445195",
+    "pages_count": 278
+  },
+  "en-melville-bartleby": {
+    "source_sha256": "a51dfe7737271c08eec79b4f97c1cc07825e7bf05388c0952e291a010b2045f2",
+    "normalized_sha256": "1af8983f62965f90472b798faa301dd3def0dc4eceb6d373cf0959f0a88165eb",
+    "pages_sha256": "08780f589f3a86a3b91b613260189e1bc2aa0ca06d8e2adc068ef4c509d6de8a",
+    "pages_count": 53
+  },
+  "fr-diderot-jacques-le-fataliste": {
+    "source_sha256": "b6b483c29637d112601c7484d144db84c15b9f7f0fa6e7adf6059d7cc5184b16",
+    "normalized_sha256": "c8f7c34043e48d0d8311211179bc5e31b22a98ed0ac99887a5798ec54270c801",
+    "pages_sha256": "78a44c9b9bcaa0b1e8c93f44020d2bb1855d84298cf78c68d0184fa4e1f378a8",
+    "pages_count": 329
+  },
+  "fr-diderot-neveu-de-rameau": {
+    "source_sha256": "becf079d78e3f0b6bfd2904945b9c6228d3180dad6547998bb7d077655248601",
+    "normalized_sha256": "93240d6d45fd2f8a28491a13f6a0ae0b4ed63e20fa16834397e9240caa2aea10",
+    "pages_sha256": "ddea60b5e5e97fec95e5ec8fb559a66ab7f8c7d217e29cf6830b3b7f4a800d98",
+    "pages_count": 112
+  },
+  "fr-barbey-les-diaboliques": {
+    "source_sha256": "fb0da74eab8c21083aafd35b675cbbd1f0b711e4a85671e92a373b7bbcb2eca1",
+    "normalized_sha256": "08686c76b88525329a629191db5edd21a5dd336bbb77fed474a17e744eba44fb",
+    "pages_sha256": "bf09326bd3b05fc54a3c90fc7ad73f3eff45025721b57583a49dc45d85291fa6",
+    "pages_count": 371
+  },
+  "fr-huysmans-a-rebours": {
+    "source_sha256": "b4b8dec6141af5bb9c9cb56c3eb8875f8c40299bf2b8dcb175fbd2895758e7d9",
+    "normalized_sha256": "302628c63f4e0eb2dfea4e37cf54df79bfd0072cbd18417af38ec1bfddebb517",
+    "pages_sha256": "e02aa0e85f1b1a45f0dc75c99ff2684cbd3112c7e89d4bb94213d76a5bb136aa",
+    "pages_count": 284
+  },
+  "fr-bloy-histoires-desobligeantes": {
+    "source_sha256": "df2fbcf244c1676834db2bd485e679c1e1cb8b2018cdb7c7779e44732c7b0116",
+    "normalized_sha256": "32535cd3277ec9fb7ae82a26dc697524c4a048625bf9aa059d70bb2efff98f47",
+    "pages_sha256": "47d62345c5cea5c84a5d96f66a75344d4a099c6e1e752249a09f251d29252df5",
+    "pages_count": 194
+  },
+  "fr-stendhal-chartreuse-de-parme": {
+    "source_sha256": "d04d664eefc1c29e0ab408ba8be6e04c8d82f9452bc513f043bd04283a1ef28d",
+    "normalized_sha256": "19842480e80f7888b4859f82a3351c455356079679e48c325016bd81244a6871",
+    "pages_sha256": "eb6bd67d80b9fa1f86df24c6548bcee6d4f23215cb0e5a007abe5cd445b7bfa1",
+    "pages_count": 684
+  },
+  "fr-stendhal-chroniques-italiennes": {
+    "source_sha256": "02ac384beb443aa4925a9a119fc0523a7b5cc553287ed1888d4564d142d23dc4",
+    "normalized_sha256": "7d5913c5c4d74367d848db4991048ec69df6befa10ccf47ea37ee8c08a42d450",
+    "pages_sha256": "52e057cfc21c92fafa97f70ae3bc14a040285af68ab166eb87bcd430ff1eec07",
+    "pages_count": 279
+  },
+  "es-quevedo-los-suenos": {
+    "source_sha256": "9517ec5a3fec05f21507be5c2351e4fede9dd47df49ef82dfe7373b2444f2cbd",
+    "normalized_sha256": "0176f737b2347c22b251f84ef1a687d75504c3531e94a3889bca68b92d3a8745",
+    "pages_sha256": "41d0df4a8acd3cab8fa9fc9570193ca161107ad9c031087f098a6fe8e6804806",
+    "pages_count": 269
+  },
+  "es-quevedo-el-buscon": {
+    "source_sha256": "e6eff6072ea06bd0eac5c221a7c96e8cffae2faf61cc9bb8bca02fd3e4e82586",
+    "normalized_sha256": "452a9f731529067945ab4d2c6ca0a7a942cf09fc326a9e780d1f168bfdc2c885",
+    "pages_sha256": "801f6202cad2a9b902d2a6e08e50d696a493901b61a41c8bad6827f3b2b2ea34",
+    "pages_count": 152
+  },
+  "es-clarin-adios-cordera": {
+    "source_sha256": "d2e1417398dc45a66d2e482d88f23c7a199c7c7433fd6dd60cc445005a0d0073",
+    "normalized_sha256": "10d0c58095b4c0c86c00ad5e119d61cbaa1a0c603bf59d7b652edba1989ba89d",
+    "pages_sha256": "14b9044b3516871d2332c7623f1efcc975e2bc296c1d233eb8af5189554a286f",
+    "pages_count": 14
+  },
+  "es-pardo-bazan-los-pazos-de-ulloa": {
+    "source_sha256": "eb75f60ca40dff1b28fe597c36b22a62cc70096838b6574ce8f0f2c8e0f4baec",
+    "normalized_sha256": "4ff542ffda311a69926a7d58f92fd70d6f1953534c5be381d22950f59344f933",
+    "pages_sha256": "f827e4507d5b96a81ce63eee431b4cc56bde6bae9f2730efdea44db524e4fa90",
+    "pages_count": 320
+  },
+  "es-galdos-misericordia": {
+    "source_sha256": "6d93f2a0652aed3685fe885c5e7058904cc622042632b14a43ddea2e119bc76a",
+    "normalized_sha256": "ba3b4eeda515ba1defe58bef26a034ff71f66547fc201c4688f0ff668240ad62",
+    "pages_sha256": "efe72de20eecd55a7317991da8df8f50120e70c90dbdace5898a5df5808cd6d9",
+    "pages_count": 304
+  },
+  "es-unamuno-niebla": {
+    "source_sha256": "69f56e540b9ed6edc01bf20315e922752e38a0b9d77f03bc7b500dbaae6320be",
+    "normalized_sha256": "ef0213fc1fbe2bb722338d2e06c9b4873aeda7cf2309996aeaaa3d329cdf03b1",
+    "pages_sha256": "4832ff0f3ae6fa38dd92ef3b03b663e68f169a938581e07305a7aa9c78c6e5fa",
+    "pages_count": 202
+  },
+  "es-unamuno-san-manuel-bueno-martir": {
+    "source_sha256": "9809ff935e87dcaedb09e612ea6ee0ec11ade605790e33694d187afbb6a3bb55",
+    "normalized_sha256": "79ed2e828492bc2b53d692edb776f35f9b99d6a87518b3d3dbf22982d98c7e64",
+    "pages_sha256": "7849b7453f8ddf5a7e8f9114f243497d8b00b2b08ca10ad70c1034565364c7f6",
+    "pages_count": 48
+  },
+  "es-valle-inclan-sonata-primavera": {
+    "source_sha256": "7e1f64c643162a612894fbb56e1bbe5a4cefd8f209ce07a080b012388779d8c2",
+    "normalized_sha256": "446bd833cc24b0c8ef2934af0fbd0173630e3fd0e00b2d0db50cf9742ac1616c",
+    "pages_sha256": "c393406ada30c6bfd9f55986f53ec83c86eb5391f95cda43d723be4d80f90b00",
+    "pages_count": 70
+  },
+  "es-valle-inclan-luces-de-bohemia": {
+    "source_sha256": "00e1ee496cf55ff0a49c9593ea8d404280fa7ccebac88f6270e6b88a793141ed",
+    "normalized_sha256": "b5b230d5c12632fd523a7dd7de612d039d0df95439297ee48e54028fc1350a83",
+    "pages_sha256": "0470ea8345716f166da29247ca6c0f1453d8ec0ca06c3678c7c2d619ece3488c",
+    "pages_count": 71
+  }
+}

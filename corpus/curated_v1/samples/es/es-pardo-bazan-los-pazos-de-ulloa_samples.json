@@ -1,0 +1,55 @@
+{
+  "work_id": "es-pardo-bazan-los-pazos-de-ulloa",
+  "author": "Emilia Pardo Bazán",
+  "title": "Los pazos de Ulloa",
+  "language": "es",
+  "work_kind": "LONG_FORM",
+  "total_pages": 320,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 320,
+      "character_length": 1512,
+      "blocks_count": 10,
+      "preview": "Los pazos de UlloaEmilia Pardo BazánCapítulos: Tomo I -I-,-II-,-III-,-IV-,-V-,-VI-,-VII-,-VIII-,-IX-,-X-,-XI- Tomo II -XII-,-XIII-,-XIV-,-XV-,-XVI-,-XVII-,-XVIII-,-XIX-,-XX-,-XXI-,-XXII-,-XXIII-,-XXIV-,-XXV-,-XXVI-,-XXVII-,-XXVIII-,-XXIX-,-XXX-Tomo I-I-Por más que el jinete trataba de sofrenarlo agarrándose con todas sus fuerzas a la única rienda de cordel y susurrando palabritas calmantes y mansa...",
+      "content_hash": "1fcfe15cf166a853a710470595af8c7b2c61142bf712e423250df6a625fd3ed4"
+    },
+    "25pct": {
+      "label": "25% (Page 80)",
+      "page_sequence_number": 80,
+      "total_pages": 320,
+      "character_length": 1766,
+      "blocks_count": 3,
+      "preview": "Si Sabel deseaba retener a aquel fugitivo Eneas, no dio de ello la más leve señal, pues se volvió con gran sosiego a sus potes y trébedes. Don Pedro, a pesar de la urgencia alegada para apurar a Julián, aguardó dos minutos en la puerta, quizás con la ilusión recóndita de ser detenido por la muchacha; pero al fin, encogiéndose de hombros, salió delante, y echó a andar por la senda abierta entre viñ...",
+      "content_hash": "a15f68a72b98f1f0550beca7a9483d6a4607858dd58e9ed1f086df9b7d085d7c"
+    },
+    "50pct": {
+      "label": "50% (Page 160)",
+      "page_sequence_number": 160,
+      "total_pages": 320,
+      "character_length": 1647,
+      "blocks_count": 4,
+      "preview": "El capellán bajó los ojos y frunció el rubio ceño. Sentía cierta vergüenza de su sotana, que le inutilizaba para prestar el menor servicio en tan apretado trance. Y al par que sacerdote era hombre, de modo que tampoco podía penetrar en la cámara donde se cumplía el misterio. Sólo tenían derecho a ello dos varones: el esposo y el otro, el que Primitivo iba a buscar, el representante de la ciencia h...",
+      "content_hash": "d8d56bbfb8091d780c6a05bce59fb3d16b072309d78e7679421a5e8467d5f157"
+    },
+    "75pct": {
+      "label": "75% (Page 240)",
+      "page_sequence_number": 240,
+      "total_pages": 320,
+      "character_length": 1762,
+      "blocks_count": 2,
+      "preview": "Trampeta, con actividad vertiginosa, hacía la cama al candidato del gobierno. Muy a menudo iba a la capital de provincia, a conferenciar con el gobernador. En tales ocasiones, el secretario, calculando que hombre prevenido vale por dos, ni olvidaba las pistolas, ni omitía hacerse escoltar por sus seides más resueltos, pues no ignoraba que Barbacana tenía a sus órdenes mozos de pelo en pecho, verbi...",
+      "content_hash": "a0d5a11c91c5da6c20eaa2b0767afad21c8922f688d7584f796eb7f01b40e52b"
+    },
+    "end": {
+      "label": "Fin (Page 320)",
+      "page_sequence_number": 320,
+      "total_pages": 320,
+      "character_length": 778,
+      "blocks_count": 4,
+      "preview": "En cuanto a la niña, espigadita para sus once años, hería el corazón de Julián por el sorprendente parecido con su pobre madre a la misma edad: idénticas largas trenzas negras, idéntico rostro pálido, pero más mate, más moreno, de óvalo más puro, de ojos más luminosos y mirada más firme. ¡Vaya si conocía Julián a la pareja! ¡Cuántas veces la había tenido en su regazo!Sólo una circunstancia le hizo...",
+      "content_hash": "adcae7a521eb8c632fddc1ac6a912c88b7da96ca8068bc1c2cf28cd57cfd43eb"
+    }
+  }
+}

@@ -1,0 +1,2835 @@
+{
+  "work_id": "es-cervantes-el-coloquio-de-los-perros",
+  "author": "Miguel de Cervantes",
+  "title": "El coloquio de los perros",
+  "language": "es",
+  "work_kind": "SHORT_WORK",
+  "edition_id": "project_gutenberg",
+  "source_sha256": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+  "document_sha256": "f38afa48a668e75d7309814e984a0fda7b3c6e0586b5db5e53c985521690682c",
+  "pages_count": 82,
+  "pages": [
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 1,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "a68280459a2ccf8938427b17e5d3b65f6d9379ff73f0ae5674e7be60c9254a29",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "spans": [
+            {
+              "text": "COLOQUIO QUE PASO ENTRE CIPION Y BERGANZA,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "PERROS DEL HOSPITAL DE LA RESURRECCION,",
+              "small_caps": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "QUE ESTÁ EN LA CIUDAD DE VALLADOLID,\n FUERA DE LA PUERTA DEL CAMPO, Á QUIEN COMUNMENTE LLAMAN LOS PERROS\n DE MAHUDES.",
+              "small_caps": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Berganza amigo, dejemos\nesta noche el hospital en guarda de la confianza, y retirémonos á esta\nsoledad y entre estas esteras, donde podremos gozar sin ser sentidos\ndesta no vista merced que el cielo en un mismo punto á los dos nos ha\nhecho."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Cipion hermano, óyote hablar, y sé\nque te hablo, y no puedo creerlo, por parecerme que el hablar nosotros\npasa de los términos de naturaleza."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Así es la verdad, Berganza,\ny viene á ser mayor este milagro, en que no solamente hablamos, sino en\nque hablamos con discurso, como si fuéramos capaces de razon, estando\ntan sin ella, que la diferencia que hay del animal bruto al hombre, es\nser el hombre animal racional, y el bruto irracional."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Todo lo que dices,\nCipion, entiendo, y el decirlo tú y entenderlo yo, me causa nueva\nadmiracion y nueva maravilla; bien es verdad, que en el discurso de\nmi vida, diversas y muchas veces he oido decir grandes prerogativas\nnuestras, tanto que parece que algunos han querido sentir que tenemos\nun natural distinto, tan vivo y tan agudo en muchas cosas, que da\nindicios y señales de faltar poco para mostrar que tenemos un no sé qué\nde entendimiento, capaz de discurso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 2,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7054f6f21d64c2ed370028115d237aad438d0a9d4cce6a93d4cc1545b392d6b1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Lo que yo he oido alabar y\nencarecer, es nuestra mucha memoria, el agradecimiento y gran fidelidad\nnuestra, tanto que nos suelen pintar por símbolo de la amistad; y\nasí habrás visto (si has mirado en ello) que en las sepulturas de\nalabastro, donde suelen estar las figuras de los que allí están\nenterrados, cuando son marido y mujer, ponen entre los dos, á los piés,\nuna figura de perro, en señal que se guardaron en la vida amistad y\nfidelidad inviolable."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Bien sé que ha habido\nperros tan agradecidos, que se han arrojado con los cuerpos difuntos de\nsus amos en la misma sepultura: otros han estado sobre las sepulturas\ndonde estaban enterrados sus señores, sin apartarse dellas, sin comer\nhasta que se les acababa la vida: sé tambien que despues del elefante,\nel perro tiene el primer lugar de parecer que tiene entendimiento:\nluego el caballo, y el último la jimia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Ansí es; pero bien\nconfesarás que ni has visto ni oido decir jamas que haya hablado ningun\nelefante, perro, caballo ó mona: por donde me doy á entender que este\nnuestro hablar tan de improviso, cae debajo del número de aquellas\ncosas que llaman portentos, las cuales cuando se muestran y parecen,\ntiene averiguado la esperiencia que alguna calamidad grande amenaza á\nlas gentes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Desa manera no haré yo\nmucho en tener por señal portentosa lo que oí decir los dias pasados á\nun estudiante, pasando por Alcalá de Henáres."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  ¿Qué le oiste decir?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Que de cinco mil estudiantes que\ncursaban aquel año en la universidad, los dos mil oian medicina."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Pues ¿qué vienes á inferir\ndeso?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Infiero, ó que estos dos\nmil médicos han de tener enfermos que curar (que seria harta plaga y\nmala ventura), ó ellos se han de morir de hambre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 3,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "1f4ab967b62974b49155ff135f255172b3ee595660b918165d2ade186667986f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Pero sea lo que fuere,\nnosotros hablamos, sea portento ó no, que lo que el cielo tiene\nordenado que suceda, no hay diligencia ni sabiduría humana que lo\npueda prevenir: y así no hay para qué ponernos á disputar nosotros\ncómo ó por qué hablamos: mejor será que este buen dia ó buena noche la\nmetamos en nuestra casa, y pues la tenemos tan buena en estas esteras,\ny no sabemos cuánto durará esta nuestra ventura, sepamos aprovecharnos\ndella, y hablemos toda esta noche, sin dar lugar al sueño que nos\nimpida este gusto, de mí por largos tiempos deseado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Y aun de mí, que desde\nque tuve fuerzas para roer un hueso, tuve deseo de hablar para decir\ncosas que depositaba en la memoria, y allí de antiguas y muchas, ó\nse enmohecian, ó se me olvidaban; empero ahora, que tan sin pensarlo\nme veo enriquecido deste divino don de la habla, pienso gozarle y\naprovecharme dél lo mas que pudiere, dándome priesa á decir todo\naquello que se me acordare, aunque sea atropellada y confusamente,\nporque no sé cuándo me volverán á pedir este bien, que por prestado\ntengo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Sea esta la manera,\nBerganza amigo, que esta noche me cuentes tu vida, y los trances por\ndonde has venido al punto en que ahora te hallas; y si mañana en la\nnoche estuviéremos con habla, yo te contaré la mia, porque mejor será\ngastar el tiempo en contar las propias, que en procurar saber las\najenas vidas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Siempre, Cipion, te he\ntenido por discreto y por amigo, y ahora mas que nunca, pues como\namigo quieres decirme tus sucesos y saber los mios, y como discreto\nhas repartido el tiempo, donde podamos manifestallos; pero advierte\nprimero, si nos oye alguno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 4,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "125f2516d9ed44ebf5c0da4f0b96b9687ac1f803c70dcad5d6c10401cc3e2b25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Ninguno, á lo que creo,\npuesto que aquí cerca está un soldado tomando sudores; pero en esta\nsazon mas estará para dormir que para ponerse á escuchar á nadie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Pues si puedo hablar con\nese seguro, escucha, y si te cansare lo que te fuere diciendo, ó me\nreprende, ó manda que calle."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Habla hasta que amanezca, ó\nhasta que seamos sentidos, que yo te escucharé de muy buena gana, sin\nimpedirte, sino cuando viere ser necesario."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Paréceme que la primera vez que\nvi el sol, fué en Sevilla, y en su matadero, que está fuera de la\npuerta de la Carne; por donde imaginara (si no fuera por lo que despues\ndiré) que mis padres debieron de ser alanos de aquellos que crian los\nministros de aquella confusion, á quien llaman jiferos: el primero que\nconocí por amo, fué uno llamado Nicolas el Romo, mozo robusto, doblado\ny colérico, como lo son todos aquellos que ejercitan la jifería: este\ntal Nicolas me enseñaba á mí y á otros cachorros, á que en compañía de\nalanos viejos arremetiésemos á los toros, y les hiciésemos presa de las\norejas: con mucha facilidad salí un águila en esto."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  No me maravillo, Berganza,\nque como el hacer mal viene de natural cosecha, fácilmente se aprende\nel hacerle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 5,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "993355ca798bece17a0f3bea6cca78076760efa713b3ad28e063818f6245ba93",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  ¿Qué te diria, Cipion\nhermano, de lo que vi en aquel matadero, y de las cosas exorbitantes\nque en él pasan? Primero has de presuponer, que todos cuantos en\nél trabajan, desde el menor hasta el mayor, es gente ancha de\nconciencia, desalmada, sin temer al rey ni á su justicia: los mas,\namancebados: son aves de rapiña carniceras: mantiénense ellos y sus\namigas de lo que hurtan: todas las mañanas que son dias de carne,\nántes que amanezca están en el matadero gran cantidad de mujercillas\ny muchachos, todos con talegas, que viniendo vacías, vuelven llenas\nde pedazos de carne, y las criadas con criadillas y lomos medio\nenteros: no hay res alguna que se mate, de quien no lleve esta\ngente diezmos y primicias de lo mas sabroso y bien parado; y como\nen Sevilla no hay obligado de la carne, cada uno puede traer la\nque quisiere, y la que primero se mata ó es la mejor, ó la de mas\nbaja postura; y con este concierto hay siempre mucha abundancia:\nlos dueños se encomiendan á esta buena gente que he dicho, no para\nque no les hurten (que esto es imposible), sino para que se moderen\nen las tajadas y socaliñas que hacen en las reses muertas, que las\nescamondan y podan, como si fuesen sauces ó parras; pero ninguna cosa\nme admiraba mas ni me parecia peor, que el ver que estos jiferos con\nla misma facilidad matan á un hombre, que á una vaca; por quítame\nallá esa paja, á dos por tres, meten un cuchillo de cachas amarillas\npor la barriga de una persona, como si acocotasen un toro: por\nmaravilla se pasa dia sin pendencias y sin heridas, y á veces sin\nmuertes: todos se pican de valientes, y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 6,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "5afb870eca48c99b724ba5050a02cb028589e4fc3a13f4483e79b832349d5f72",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " aun tienen sus puntas de\nrufianes: no hay ninguno que no tenga su ángel de guarda en la plaza\nde San Francisco, granjeado con lomos y lenguas de vaca: finalmente,\noí decir á un hombre discreto, que tres cosas tenia el rey por ganar en Sevilla:\nla calle de la Caza, la Costanilla y el Matadero."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Si en contar las\ncondiciones de los amos que has tenido y las faltas de sus oficios,\nte has de estar, amigo Berganza, tanto como esta vez, menester será\npedir al cielo nos conceda la habla siquiera por un año, y aun temo\nque al paso que llevas, no llegarás á la mitad de tu historia: y\nquiérote advertir de una cosa, de la cual verás la esperiencia cuando\nte cuente los sucesos de mi vida; y es que los cuentos unos encierran\ny tienen la gracia en ellos mismos, otros en el modo de contarlos:\nquiero decir, que algunos hay, que aunque se cuenten sin preámbulos\ny ornamentos de palabras, dan contento; otros hay, que es menester\nvestirlos de palabras, y con demostraciones del rostro y de las manos,\ny con mudar la voz se hacen algo de nonada, y de flojos y desmayados se\nvuelven agudos y gustosos; y no se te olvide este advertimiento para\naprovecharte dél en lo que te queda por decir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Yo lo haré así, si\npudiere, y si me da lugar la grande tentacion que tengo de hablar,\naunque me parece que con grandísima dificultad me podré ir á la\nmano."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Véte á la lengua, que en\nella consisten los mayores daños de la humana vida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 7,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "726b06a118287b79c6342361f521908e7a164049f3ee27b45505d5eb23bd468d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Digo pues que mi amo\nme enseñó á llevar una espuerta en la boca, y á defenderla de quien\nquitármela quisiese: enseñóme tambien la casa de su amiga, y con esto\nse escusó la venida de su criada al matadero, porque yo le llevaba las\nmadrugadas lo que él habia hurtado las noches: y un dia, que entre dos\nluces iba yo diligente á llevarle la porcion, oí que me llamaban por\nmi nombre desde una ventana; alcé los ojos, y vi una moza hermosa en\nestremo; detúveme un poco, y ella bajó á la puerta de la calle, y me\ntornó á llamar: lleguéme á ella como si fuera á ver lo que me queria,\nque no fué otra cosa que quitarme lo que llevaba en la cesta, y ponerme\nen su lugar un chapin viejo: entónces dije entre mí: la carne se ha\nido á la carne. Díjome la moza en habiéndome quitado la carne: Andad,\nGavilan, ó como os llamais, y decid á Nicolas el Romo, vuestro amo, que\nno se fie de animales, y que del lobo un pelo, y ese de la espuerta.\nBien pudiera yo volver á quitar lo que me quitó, pero no quise, por no\nponer mi boca jifera y sucia en aquellas manos limpias y blancas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Hiciste muy bien, por ser\nprerogativa de la hermosura, que siempre se le tenga respeto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 8,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b572debe57baf82b1078ded0be7298a2599abc0d5027bfc56135826f1cc4a6d5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Así lo hice yo, y así me volví á\nmi amo sin la porcion, y con el chapin: parecióle que volví presto,\nvió el chapin, imaginó la burla, sacó uno de cachas, y tiróme una\npuñalada, que á no desviarme, nunca tú oyeras ahora este cuento, ni aun\notros muchos que pienso contarte. Puse piés en polvorosa, y tomando\nel camino en las manos y en los piés por detras de San Bernardo, me\nfuí por aquellos campos de Dios, adonde la fortuna quisiese llevarme.\nAquella noche dormí al cielo abierto, y otro dia me deparó la suerte\nun hato ó rebaño de ovejas y carneros: así como le vi, creí que habia\nhallado en él el centro del reposo, pareciéndome ser propio y natural\noficio de los perros guardar ganado, que es obra donde se encierra\nuna virtud grande, como es amparar y defender de los poderosos y\nsoberbios los humildes y los que poco pueden. Apénas me hubo visto\nuno de tres pastores que el ganado guardaban, cuando diciendo, to to,\nme llamó, y yo, que otra cosa no deseaba, me llegué á él, bajando la\ncabeza y meneando la cola: trújome la mano por el lomo, abrióme la\nboca, escupióme en ella, miróme las presas, conoció mi edad, y dijo á\notros pastores, que yo tenia todas las señales de ser perro de casta.\nLlegó á este instante el señor del ganado sobre una yegua rucia á la\ngineta, con lanza y adarga, que mas parecia atajador de la costa, que\nseñor de ganado: preguntó al pastor: ¿Qué perro es este, que tiene\nseñales de ser bueno? Bien lo puede vuesa merced creer, respondió\nel pastor, que yo le he cotejado bien, y no hay señal en él que no\nmuestre y prometa que ha de ser un gran perro: agora se llegó aquí,\ny no sé cúyo sea, aunque sé que no es de los rebaños de la redonda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 9,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b86327fec7170c3323e1e8774a8bccdf2f261e627b4b6a11815ba2fe185b75bd",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nPues así es, respondió el señor, ponle luego el collar de Leoncillo,\nel perro que se murió, y denle la racion que á los demas, y acaríciale\ntodo cuanto pudieres, porque tome cariño al hato, y se quede de hoy\nadelante en él. En diciendo esto se fué, y el pastor me puso luego\nal cuello unas carlancas llenas de puntas de acero, habiéndome dado\nprimero en un dornajo gran cantidad de sopas en leche, y asimismo me\npuso nombre, y me llamó Barcino. Vime harto y contento con el segundo\namo, y con el nuevo oficio: mostréme solícito y diligente en la guarda\ndel rebaño, sin apartarme dél sino las siestas que me iba á pasarlas\nó ya á la sombra de algun árbol, ó de algun ribazo, ó peña, ó á la de\nalguna mata, ó á la márgen de algun arroyo de los muchos que por allí\ncorrian; y estas horas de mi sosiego no las pasaba ociosas, porque en\nellas ocupaba la memoria en acordarme de muchas cosas, especialmente\nen la vida que habia tenido en el matadero, y en la que tenia mi amo,\ny todos los que como\nél están sujetos á cumplir los gustos impertinentes de sus amigas: ¡oh\nqué de cosas te pudiera decir ahora, de las que aprendí en la escuela\nde aquella jifera dama de mi amo! pero habrélas de callar, porque no me\ntengas por largo y por murmurador."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Por haber oido decir que\ndijo un gran poeta de los antiguos, que era difícil cosa el escribir\nsátiras, consentiré que murmures un poco de luz y no de sangre; quiero\ndecir, que señales, y no hieras ni des mate á ninguno en cosa señalada:\nque no es buena la murmuracion, aunque haga reir mucho, si mata á uno;\ny si puedes agradar sin ella, te tendré por muy discreto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 10,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "8eceb0f8bc4c068f8d26168cb700e7056db1983e84cd7b958c7e61769fdd0c07",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Yo tomaré tu consejo y\nesperaré con gran deseo que llegue el tiempo en que me cuentes tus\nsucesos; que de quien tan bien sabe conocer y enmendar los defectos\nque tengo en contar los mios, bien se puede esperar que contará los\nsuyos de manera que enseñen y deleiten á un mismo punto. Pero anudando\nel roto hilo de mi cuento, digo, que en aquel silencio y soledad de\nmis siestas, entre otras cosas consideraba que no debia de ser verdad\nlo que habia oido contar de la vida de los pastores, á lo ménos de\naquellos que la dama de mi amo leia en unos libros cuando yo iba á su\ncasa, que todos trataban de pastores y pastoras, diciendo que se les\npasaba toda la vida cantando y tañendo con gaitas, zampoñas, rabeles\ny churumbelas, y con otros instrumentos estraordinarios: deteníame\ná oirla leer, y leia cómo el pastor de Anfriso cantaba estremada y\ndivinamente, alabando á la sin par Belisarda, sin haber en todos los\nmontes de Arcadia árbol en cuyo tronco no se hubiese sentado á cantar\ndesde que salia el sol en los brazos de la Aurora, hasta que se ponia\nen los de Tétis; y aun despues de haber tendido la negra noche por la\nfaz de la tierra sus negras y escuras alas, él no cesaba de sus bien\ncantadas y mejor lloradas quejas: no se le quedaba entre renglones\nel pastor Elicio, mas enamorado que atrevido, de quien decia que sin\natender á sus amores ni á su ganado, se entraba en los cuidados ajenos:\ndecia tambien que el gran pastor de Fílida, único pintor de un retrato,\nhabia sido mas confiado que dichoso: de los desmayos de Sireno y\narrepentimiento de Diana, decia que daba gracias á"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 11,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "8cd322941b852b5cda4a376c74b86b8f3e2794fffaa20aa69977c8286d1440ea",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Dios y á la sabia\nFelicia, que con su agua encantada deshizo aquella máquina de enredos,\ny aclaró aquel laberinto de dificultades: acordábame de otros muchos\nlibros que de este jaez le habia oido leer, pero no eran dignos de\ntraerlos á la memoria."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Aprovechándote vas,\nBerganza, de mi aviso; murmura, pica, y pasa, y sea tu intencion limpia, aunque la lengua no\nlo parezca."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  En estas materias nunca\ntropieza la lengua, si no cae primero la intencion; pero si acaso por\ndescuido ó por malicia murmurare, responderé á quien me reprendiere,\nlo que respondió Mauleon, poeta tonto, y académico de burla de la\nacademia de los Imitadores, á uno que le preguntó qué queria decir\n"
+            },
+            {
+              "text": "Deum de Deo",
+              "italic": true
+            },
+            {
+              "text": ", y respondió que: dé donde\ndiere."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Esta fué respuesta de un\nsimple; pero tú, si eres discreto ó lo quieres ser, nunca has de decir\ncosa de que debas dar disculpa: dí adelante."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Digo que todos los\npensamientos que he dicho, y muchos mas, me causaron ver los diferentes\ntratos y ejercicios que mis pastores y todos los demas de aquella\nmarina tenian, de aquellos que habia oido leer que tenian los pastores\nde los libros; porque si los mios cantaban, no eran canciones acordadas\ny bien compuestas, sino un "
+            },
+            {
+              "text": "cata el lobo, do va Juanica",
+              "italic": true
+            },
+            {
+              "text": ", y otras cosas\nsemejantes, y esto no al son de churumbelas, rabeles ó gaitas, sino al\nque hacia el dar un cayado con otro ó al de algunas tejuelas puestas\nentre los dedos, y no con voces delicadas, sonoras y admirables, sino\ncon voces roncas, que solas ó juntas parecia, no que cantaban, sino\nque gritaban ó gruñian: lo mas del dia se les pasaba espulgándose"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 12,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "4eaa9d831bbe9ceb20777394df0be08e278236f9f2e889cca8cb30e5f9ce1e14",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nó remendándose sus abarcas: ni entre ellos se nombraban Amarilis,\nFílidas, Galateas y Dianas, ni habia Lisardos, Lausos, Jacintos ni\nRiselos; todos eran Antones, Domingos, Pablos ó Llorentes; por donde\nvine á entender lo que pienso que deben de creer todos, que todos\naquellos libros son cosas soñadas y bien escritas para entretenimiento\nde los ociosos, y no verdad alguna: que á serlo, entre mis pastores\nhubiera alguna reliquia de aquella felicísima vida y de aquellos amenos\nprados, espaciosas selvas, sagrados montes, hermosos jardines, arroyos\nclaros y cristalinas fuentes, y de aquellos tan honestos cuanto bien\ndeclarados requiebros, y de aquel desmayarse aquí el pastor, allí\nla pastora, acullá resonar la zampoña del uno, acá el caramillo del\notro."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Basta, Berganza, vuelve á\ntu senda, y camina."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Agradézcotelo, Cipion\namigo, porque si no me avisaras, de manera se me iba calentando la\nboca, que no parara hasta pintarte un libro entero, destos que me\ntenian engañado; pero tiempo vendrá en que lo diga todo con mejores\nrazones y con mejor discurso que ahora."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Mírate á los piés, y desharás la\nrueda, Berganza: quiero decir que mires que eres un animal que carece\nde razon, y si ahora muestras tener alguna, ya hemos averiguado entre\nlos dos ser cosa sobrenatural y jamas vista."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Eso fuera así, si yo\nestuviera en mi primera ignorancia; mas ahora que me ha venido á la\nmemoria lo que te habia de haber dicho al principio de nuestra plática,\nno solo no me maravillo de lo que hablo, pero espántome de lo que dejo\nde hablar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Pues ahora ¿no puedes decir\nlo que ahora se te acuerda?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Es una cierta historia\nque me pasó con una grande hechicera, discípula de la Camacha de\nMontilla."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 13,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "d0a89141af38666d133128be2f7b373eeff4cf95b9d57b8062c01b34f89dc5dc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Digo que me la cuentes\nántes que pases mas adelante en el cuento de tu vida."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Eso no haré yo por cierto\nhasta su tiempo; ten paciencia, y escucha por su órden mis sucesos que\nasí te darán mas gusto, si ya no te fatiga querer saber los medios\nántes de los principios."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Sé breve, y cuenta lo que\nquisieres y como quisieres."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Digo pues, que yo me\nhallaba bien con el oficio de guardar ganado, por parecerme que comia\nel pan de mi sudor y trabajo, y que la ociosidad, raíz y madre de todos\nlos vicios, no tenia que ver conmigo, á causa que si los dias holgaba,\nlas noches no dormia, dándonos asaltos á menudo, y tocándonos al arma\nlos lobos; y apénas me habian dicho los pastores, al lobo, Barcino,\ncuando acudia primero que los otros perros á la parte que me señalaban\nque estaba el lobo: corria los valles, escudriñaba los montes,\ndesentrañaba las selvas, saltaba barrancos, cruzaba caminos, y á la\nmañana volvia al hato, sin haber hallado lobo ni rastro dél, anhelando,\ncansado, hecho pedazos y los piés abiertos de los garranchos, y hallaba\nen el hato, ó ya una oveja muerta, ó un carnero degollado y medio\ncomido del lobo: desesperábame de ver de cuán poco servia mi mucho\ncuidado y diligencia; venia el señor del ganado, salian los pastores á\nrecebirle con las pieles de la res muerta: culpaba á los pastores por\nnegligentes, y mandaba castigar á los perros por perezosos: llovian\nsobre nosotros palos, y sobre ellos reprensiones; y así viéndome un dia\ncastigado sin culpa, y que mi cuidado, lijereza y braveza no eran de\nprovecho para coger el lobo, determiné de"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 14,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "371571a0bbf121c8242fdf0864225ecd96ad68370b52da573677f2df049d756f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " mudar estilo, no desviándome\ná buscarle, como\ntenia de costumbre, léjos del rebaño, sino estarme junto á él, que\npues el lobo allí venia, allí seria mas cierta la presa: cada semana\nnos tocaban á rebato, y en una escurísima noche tuve yo vista para ver\nlos lobos, de quien era imposible que el ganado se guardase: agachéme\ndetras de una mata, pasaron los perros mis compañeros adelante, y desde\nallí oteé y vi que dos pastores asieron de un carnero de los mejores\ndel aprisco, y le mataron de manera que verdaderamente pareció á la\nmañana que habia sido su verdugo el lobo: pasméme, quedé suspenso\ncuando vi que los pastores eran los lobos, y que despedazaban el\nganado los mismos que le habian de guardar. Al punto hacian saber á\nsu amo la presa del lobo, dábanle el pellejo y parte de la carne, y\ncomíanse ellos lo mas y lo mejor: volvia á reñirles el señor, y volvia\ntambien el castigo de los perros: no habia lobos, menguaba el rebaño:\nquisiera yo descubrillo, hallábame mudo: todo lo cual me traia lleno\nde admiracion y de congoja: ¡Válame Dios! decia entre mí, ¿quién podrá\nremediar esta maldad? ¿quién será poderoso á dar á entender que la\ndefensa ofende, que las centinelas duermen, que la confianza roba, y\nque el que os guarda os mata?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Y deciais muy bien,\nBerganza, porque no hay mayor ni mas sutil ladron que el doméstico, y\nasí mueren muchos mas de los confiados que de los recatados; pero el\ndaño está en que es imposible que puedan pasar bien las gentes en el\nmundo, si no se fia y se confía; mas quédese aquí esto, que no quiero\nque parezcamos predicadores: pasa adelante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 15,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "e291c22a6d9c9b126eaa497f20e43a2f0c5de40a8a630c4a1311762ef17c065b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Paso adelante, y digo que\ndeterminé dejar aquel oficio, aunque parecia tan bueno, y escoger otro,\ndonde por hacerle bien, ya que no fuese remunerado, no fuese castigado:\nvolvíme á Sevilla, y entré á servir á un mercader muy rico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  ¿Qué modo tenias para\nentrar con amo? porque segun lo que se usa, con gran dificultad el dia\nde hoy halla un hombre de bien señor á quien servir: muy diferentes son\nlos señores de la tierra del Señor del cielo: aquellos para recebir\nun criado primero le espulgan el linaje, examinan la habilidad, le\nmarcan la apostura, y aun quieren saber los vestidos que tiene; pero\npara entrar á servir á Dios, el mas pobre es mas rico, el mas humilde\nde mejor linaje, y con solo que se disponga con limpieza de corazon\ná querer servirle, luego le manda poner en el libro de sus gajes,\nseñalándoselos tan aventajados, que de muchos y grandes apénas pueden\ncaber en su deseo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Todo eso es predicar, Cipion\namigo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Así me lo parece á mí, y\nasí callo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Á lo que me preguntaste\ndel órden que tenia para entrar con amo, digo que ya tú sabes que la\nhumildad es la basa y fundamento de todas virtudes, y que sin ella no\nhay ninguna que lo sea: ella allana inconvenientes, vence dificultades,\ny es un medio que siempre á gloriosos fines nos conduce; de los\nenemigos hace amigos, templa la cólera de los airados y menoscaba la\narrogancia de los soberbios: es madre de la modestia y hermana de la\ntemplanza: en fin, con ella no pueden atravesar triunfo que les sea de\nprovecho los vicios; porque en su blandura y mansedumbre se embotan\ny despuntan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 16,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "243075c520e20b79951cda6ce44a4e335a1988bc1c2e0a941f76906052a0c89c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " las flechas de los pecados: desta pues me aprovechaba\nyo, cuando queria entrar á servir en alguna casa, habiendo primero\nconsiderado y mirado muy bien ser casa que pudiese mantener, y donde\npudiese entrar un perro grande: luego arrimábame á la puerta, y cuando\ná mi parecer entraba algun forastero, le ladraba, y cuando venia el\nseñor, bajaba la cabeza, y moviendo la cola me iba á él, y con la\nlengua le limpiaba los zapatos: si me echaban á palos, sufríalos, y con\nla misma mansedumbre volvia á hacer halagos al que me apaleaba, que\nninguno segundaba, viendo mi porfía y mi noble término: desta manera á\ndos porfías me quedaba en casa: servia bien, queríanme luego bien, y\nnadie me despidió, sino era que yo me despidiese, ó por mejor decir, me\nfuese; y tal vez hallé amo, que este fuera el dia que yo estuviera en\nsu casa, si la contraria suerte no me hubiera perseguido."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  De la misma manera que has\ncontado, entraba yo con los amos que tuve, y parece que nos leimos los\npensamientos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Como en esas cosas nos\nhemos encontrado, si no me engaño, y yo te las diré á su tiempo, como\ntengo prometido, y ahora escucha lo que me sucedió despues que dejé el\nganado en poder de aquellos perdidos. Volvíme á Sevilla, como dije,\nque es amparo de pobres y refugio de desechados, que en su grandeza no\nsolo caben los pequeños, pero no se echan de ver los grandes: arriméme\ná la puerta de una gran casa de un mercader, hice mis acostumbradas\ndiligencias, y á pocos lances me quedé en ella: recebiéronme para\ntenerme atado detras de la puerta de dia, y suelto de noche: servia\ncon gran cuidado y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 17,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "9bcb2ce7d06c32aae51312e3bcacc232c6cc9f6321dcf9d33a68b24227c516a0",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " diligencia, ladraba á los forasteros y gruñia á los\nque no eran muy conocidos: no dormia de noche, visitando los corrales,\nsubiendo á los terrados, hecho universal centinela de la mia y de las\ncasas ajenas: agradóse tanto mi amo de mi buen servicio, que mandó que me tratasen bien,\ny me diesen racion de pan y los huesos que se levantasen ó arrojasen\nde su mesa, con las sobras de la cocina, á lo que yo me mostraba\nagradecido, dando infinitos saltos cuando veia á mi amo, especialmente\ncuando venia de fuera, que eran tantas las muestras de regocijo que\ndaba, y tantos los saltos, que mi amo ordenó que me desatasen y me\ndejasen andar suelto de dia y de noche: como me vi suelto, corrí á\nél, rodeéle todo, sin osar llegarle con las manos, acordándome de la\nfábula de Esopo, cuando aquel asno tan asno, que quiso hacer á su señor\nlas mismas caricias que le hacia una perrilla regalada suya, que le\ngranjearon ser molido á palos: parecióme que en esta fábula se nos\ndió á entender que las gracias y donaires de algunos no están bien en\notros: apode el truhan, juegue de manos y voltee el istrion, rebuzne\nel pícaro, imite el canto de los pájaros, y los diversos gestos y\nacciones de los animales y los hombres el hombre bajo que se hubiere\ndado á ello, y no lo quiera hacer el hombre principal, á quien ninguna\nhabilidad destas le puede dar crédito ni nombre honroso."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Basta; adelante, Berganza,\nque ya estás entendido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 18,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "665f872c4160e5208b81f72cd4f172cb6efa1fd9a6d02e85ef51fc6ceb523e8e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  ¡Ojalá que como tú\nme entiendes, me entendiesen aquellos por quien lo digo! que no sé\nqué tengo de buen natural, que me pesa infinito cuando veo que un\ncaballero se hace chocarrero y se precia que sabe jugar los cubiletes\ny las agallas, y que no hay quien como él sepa bailar la chacona: un\ncaballero conozco yo que se alababa que á ruegos de un sacristan habia\ncortado de papel treinta y dos flores para poner en un monumento sobre\npaños negros, y destas cortaduras hizo tanto caudal, que así llevaba á\nsus amigos á verlas, como si los llevara á ver las banderas y despojos\nde enemigos, que sobre la sepultura de sus padres y abuelos estaban\npuestas. Este mercader pues tenia dos hijos, el uno de doce, y el otro\nde hasta catorce años, los cuales estudiaban gramática en el estudio de\nla Compañía de Jesus: iban con autoridad, con ayo y con pajes que les\nllevaban los libros, y aquel que llaman "
+            },
+            {
+              "text": "vade\nmecum",
+              "italic": true
+            },
+            {
+              "text": ": el verlos ir con tanto aparato, en sillas si hacia sol, en\ncoche si llovia, me hizo considerar y reparar en la mucha llaneza con\nque su padre iba á la lonja á negociar sus negocios, porque no llevaba\notro criado que un negro, y algunas veces se desmandaba á ir en un\nmachuelo aun no bien aderezado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 19,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "3ac19a769bdfd5ae3349ce097b5a59dc7012800a588166854eae4b180049022c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Has de saber, Berganza,\nque es costumbre y condicion de los mercaderes de Sevilla, y aun de\nlas otras ciudades,\nmostrar su autoridad y riqueza, no en sus personas, sino en las de sus\nhijos; porque los mercaderes son mayores en su sombra que en sí mismos,\ny como ellos por maravilla atienden á otra cosa que á sus tratos y\ncontratos, trátanse modestamente; y como la ambicion y la riqueza muere\npor manifestarse, revienta por sus hijos, y así los tratan y autorizan\ncomo si fuesen hijos de algun príncipe; y algunos hay que los procuran\ntítulos, y ponerles en el pecho la marca que tanto distingue la gente\nprincipal de la plebeya."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Ambicion es, pero\nambicion generosa, la de aquel que pretende mejorar su estado sin\nperjuicio de tercero."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Pocas ó ninguna vez se\ncumple con la ambicion, que no sea con daño de tercero."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Ya hemos dicho que no\nhemos de murmurar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Sí, que yo no murmuro de\nnadie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Ahora acabo de confirmar\npor verdad lo que muchas veces he oido decir. Acaba un maldiciente\nmurmurador de echar á perder diez linajes, y de calumniar veinte\nbuenos, y si alguno le reprende por lo que ha dicho, responde que él\nno ha dicho nada, y que si ha dicho algo, no lo ha dicho por tanto, y\nque si pensara que alguno se habia de agraviar, no lo dijera: á la fe,\nCipion, mucho ha de saber y muy sobre los estribos ha de andar el que\nquisiere sustentar dos horas de conversacion sin tocar los límites de\nla murmuracion; porque yo veo en mí, que con ser un animal como soy, á\ncuatro razones que digo, me acuden palabras á la lengua como mosquitos\nal vino,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 20,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "a40aa94ed5758f44f280bedf7fcf5663617d355ddf4dc24a7390837396ae727c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " y todas maliciosas y murmurantes: por lo cual vuelvo á decir\nlo que otra vez he dicho, que el hacer y decir mal lo heredamos de\nnuestros primeros padres, y lo mamamos en la leche: vese claro en que\napénas ha sacado el niño el brazo de las fajas, cuando levanta la mano\ncon muestras de querer vengarse de quien á su parecer le ofende: y casi\nla primera palabra articulada que habla, es llamar puta á su ama ó á su\nmadre."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Así es verdad, y yo\nconfieso mi yerro, y quiero que me le perdones, pues te he perdonado\ntantos: echemos pelillos á la mar (como dicen los muchachos), y no\nmurmuremos de aquí adelante, y sigue tu cuento, que le dejaste en la\nautoridad con que los hijos del mercader tu amo iban al estudio de la\nCompañía de Jesus."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Á él me encomiendo\nen todo acontecimiento; y aunque el dejar de murmurar lo tengo por\ndificultoso, pienso usar de un remedio, que oí decir que usaba un\ngran jurador, el cual arrepentido de su mala costumbre, cada vez\nque despues de su\narrepentimiento juraba, se daba un pellizco en el brazo ó besaba la\ntierra en pena de su culpa; pero con todo esto juraba: así yo cada\nvez que fuere contra el precepto que me has dado de que no murmure, y\ncontra la intencion que tengo de no murmurar, me morderé el pico de la\nlengua, de modo que me duela, y me acuerde de mi culpa para no volver á\nella."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Tal es ese remedio, que si\nusas dél, espero que te has de morder tantas veces, que has de quedar\nsin lengua, y así quedarás imposibilitado de murmurar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 21,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "6bf2ea6c4ecd80868fdea20d520a3be8027b25c4ef3d4a7349be67bce15f3891",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Á lo ménos yo haré de mi\nparte mis diligencias, y supla las faltas el cielo. Y así digo que los\nhijos de mi amo se dejaron un dia un cartapacio en el patio, donde yo\ná la sazon estaba; y como estaba enseñado á llevar la esportilla del\njifero mi amo, así del "
+            },
+            {
+              "text": "vade mecum",
+              "italic": true
+            },
+            {
+              "text": " y fuíme\ntras ellos con intencion de no soltalle hasta el estudio: sucedióme\ntodo como lo deseaba, que mis amos que me vieron venir con el "
+            },
+            {
+              "text": "vade mecum",
+              "italic": true
+            },
+            {
+              "text": " en la boca, asido sotilmente de las\ncintas, mandaron á un paje me le quitase; mas yo no lo consentí, ni\nle solté hasta que entré en el aula, cosa que causó risa á todos los\nestudiantes: lleguéme al mayor de mis amos, y á mi parecer con mucha\ncrianza se le puse en las manos, y quedéme sentado en cuclillas á la\npuerta del aula, mirando de hito en hito al maestro que en la cátedra\nleia. No sé qué tiene la virtud, que con alcanzárseme á mí tan poco ó\nnada della, luego recebí gusto de ver el amor, el término, la solicitud\ny la industria con que aquellos benditos padres y maestros enseñaban á\naquellos niños, enderezando las tiernas varas de su juventud, porque\nno torciesen ni tomasen mal siniestro en el camino de la virtud, que\njuntamente con las letras les mostraban: consideraba cómo los reñian\ncon suavidad, los castigaban con misericordia, los animaban con\nejemplos, los incitaban con premios, y los sobrellevaban con cordura; y\nfinalmente, cómo les pintaban la fealdad y horror de los vicios, y les\ndibujaban la hermosura de las virtudes, para que aborrecidos ellos y\namadas ellas consiguiesen el fin para que fueron criados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 22,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7c036a23ba60355450240e659da15fed3b08bbb6f183def7d3e63e761adc107a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Muy bien dices, Berganza,\nporque yo he oido decir desa bendita gente, que para repúblicos del\nmundo no los hay tan prudentes en todo él, y para guiadores y adalides\ndel camino del cielo, pocos les llegan: son espejos donde se mira la\nhonestidad, la católica doctrina, la singular prudencia, y finalmente\nla humildad profunda, basa sobre quien se levanta todo el edificio de\nla bienaventuranza."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Todo es así como lo\ndices. Y siguiendo mi historia, digo que mis amos gustaron de que les llevase siempre\nel "
+            },
+            {
+              "text": "vade mecum",
+              "italic": true
+            },
+            {
+              "text": ", lo que hice de muy buena\nvoluntad, con lo cual tenia una vida de rey, y aun mejor, porque era\ndescansada, á causa que los estudiantes dieron en burlarse conmigo,\ny domestiquéme con ellos de tal manera, que me metian la mano en la\nboca, y los mas chiquillos subian sobre mí: arrojaban los bonetes ó\nsombreros, y yo se los volvia á la mano limpiamente y con muestras\nde grande regocijo: dieron en darme de comer cuanto ellos podian, y\ngustaban de ver que cuando me daban nueces ó avellanas, las partia como\nmona, dejando las cáscaras y comiendo lo tierno: tal hubo, que por\nhacer prueba de mi habilidad, me trujo en un pañuelo gran cantidad de\nensalada, la cual comí como si fuera persona. Era tiempo de invierno,\ncuando campean en Sevilla los molletes y mantequillas, de quien era\ntan bien servido, que mas de dos Antonios se empeñaron ó vendieron\npara que yo almorzase. Finalmente, yo pasaba una vida de estudiante\nsin hambre y sin sarna, que es lo mas que se puede encarecer para\ndecir que era buena; porque si la sarna y la hambre no fuesen tan\nunas con los estudiantes,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 23,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "28d1ef1782e0d35342e56155fb6f5bc17ec5bd4918d1668b0ea918474e52cefc",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " en las vidas no habria otra de mas gusto\ny pasatiempo, porque corren parejas en ella la virtud y el gusto, y\nse pasa la mocedad aprendiendo y holgándose: desta gloria y desta\nquietud me vino á quitar una señora, que á mi parecer llaman por ahí\nrazon de estado, que cuando con ella se cumple se ha de descumplir con\notras razones muchas. Es el caso, que aquellos señores maestros les\npareció que la media hora que hay de licion, á licion, la ocupaban los\nestudiantes no en repasar las liciones, sino en holgarse conmigo; y así\nordenaron á mis amos que no me llevasen mas al estudio: obedecieron,\nvolviéronme á casa, y á la antigua guarda de la puerta, y sin acordarse\nel señor viejo de la merced que me habia hecho, de que de dia y de\nnoche anduviese suelto, volví á entregar el cuello á la cadena y el\ncuerpo á una esterilla, que detras de la puerta me pusieron. ¡Ay,\namigo Cipion, si supieses cuán dura cosa es de sufrir el pasar de un\nestado felice á un desdichado! Mira: cuando las miserias y desdichas\ntienen larga la corriente y son continuas, ó se acaban presto con\nla muerte, ó la continuacion dellas hace un hábito y costumbre en\npadecellas, que suele en su mayor rigor servir de alivio; mas cuando\nde la suerte desdichada y calamitosa, sin pensarlo y de improviso se\nsale á gozar de otra suerte próspera, venturosa y alegre, y de allí á\npoco se vuelve á padecer la suerte primera, y á los primeros trabajos\ny desdichas, es un dolor tan riguroso, que si no acaba la vida, es\npor atormentarla mas viviendo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 24,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "9dcd1f7d67070904b27b796f6a71bc50648c8ca9883a4a7c16cc4eb95b1bc4a7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Digo en fin, que volví á mi racion\nperruna, y á los huesos que una negra de casa me arrojaba, y aun estos me diezmaban dos\ngatos romanos, que como sueltos y lijeros, érales fácil quitarme lo que\nno caia debajo del distrito que alcanzaba mi cadena. Cipion hermano,\nasí el cielo te conceda el bien que deseas, que sin que te enfades me\ndejes ahora filosofar un poco, porque si dejase de decir las cosas que\nen este instante me han venido á la memoria de aquellas que entónces\nme ocurrieron, me parece que no seria mi historia cabal ni de fruto\nalguno."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Advierte, Berganza, no sea\ntentacion del demonio esa gana de filosofar que dices te ha venido;\nporque no tiene la murmuracion mejor velo para paliar y encubrir su\nmaldad disoluta, que darse á entender el murmurador, que todo cuanto\ndice son sentencias de filósofos, y que el decir mal es reprension, y\nel descubrir los defectos ajenos buen celo, y no hay vida de ningun\nmurmurante, que si la consideras y escudriñas, no la halles llena de\nvicios y de insolencias; y debajo de saber esto, filosofa ahora cuanto\nquisieres."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Seguro puedes estar,\nCipion, de que mas murmure, porque así lo tengo propuesto. Es pues\nel caso, que como me estaba todo el dia ocioso, y la ociosidad sea\nmadre de los pensamientos, di en repasar por la memoria algunos\nlatines que me quedaron en ella de muchos que oí cuando fuí con mis\namos al estudio, con que á mi parecer me hallé algo mas mejorado de\nentendimiento, y determiné, como si hablar supiera, aprovecharme dellos\nen las ocasiones que se me ofreciesen; pero en manera diferente de la\nque se suelen aprovechar algunos ignorantes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 25,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b9da50f2943a1bbc88bb48326cd3e1c4be60bd3c2147a51ad9c6e24f3fd35f39",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Hay algunos romancistas\nque en las conversaciones disparan de cuando en cuando con algun latin\nbreve y compendioso, dando á entender á los que no lo entienden, que\nson grandes latinos, y apénas saben declinar un nombre, ni conjugar un\nverbo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Por menor daño tengo ese\nque el que hacen los que verdaderamente saben latin, de los cuales hay\nalgunos tan imprudentes, que hablando con un zapatero ó con un sastre,\narrojan latines como agua."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Deso podremos inferir que\ntanto peca el que dice latines delante de quien los ignora, como el que\nlos dice ignorándolos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Pues otra cosa puedes\nadvertir, y es que hay algunos que no les escusa el ser latinos, de ser\nasnos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Pues ¿quién lo duda? La\nrazon está clara, pues cuando en tiempo de los romanos hablaban todos\nlatin, como lengua materna suya, algun majadero habria entre ellos, á\nquien no escusaria el hablar latin dejar de ser necio."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Para saber callar en romance y\nhablar en latin, discrecion es menester, hermano Berganza."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Así es, porque tambien\nse puede decir una necedad en latin como en romance, y yo he visto\nletrados tontos y gramáticos pesados, y romancistas vareteados con sus\nlistas de latin, que con mucha facilidad pueden enfadar al mundo, no\nuna, sino muchas veces."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Dejemos esto, y comienza á\ndecir tus filosofías."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Ya las he dicho: estas\nson que acabo de decir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  ¿Cuáles?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Estas de los latines y\nromances, que yo comencé y tú acabaste."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  ¿Al murmurar llamas\nfilosofar? así va ello: canoniza, canoniza, Berganza, á la maldita\nplaga de la murmuracion, y dale el nombre que quisieres, que ella dará\ná nosotros el de cínicos, que quiere decir perros murmuradores; y por\ntu vida que calles ya, y sigas tu historia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 26,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "d31957158480c64d424a5963b6f82da70a7adea667dadbdf8767425ad0197533",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  ¿Cómo la tengo de seguir\nsi callo?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Quiero decir que la sigas\nde golpe, sin que la hagas que parezca pulpo, segun la vas añadiendo\ncolas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Habla con propiedad, que\nno se llaman colas las del pulpo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Ese es el error que tuvo\nel que dijo que no era torpedad ni vicio nombrar las cosas por sus\npropios nombres, como si no fuese mejor, ya que sea forzoso nombrarlas,\ndecirlas por circunloquios y rodeos, que templen la asquerosidad que\ncausa el oirlas por sus mismos nombres: las honestas palabras dan\nindicio de la honestidad del que las pronuncia ó las escribe."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Quiero creerte, y digo\nque no contenta mi fortuna de haberme quitado de mis estudios, y de la\nvida que en ellos pasaba tan regocijada y compuesta, y haberme puesto\natraillado tras de una puerta, y de haber trocado la liberalidad de los\nestudiantes en la mezquindad de la negra, ordenó de sobresaltarme en\nlo que ya por quietud y descanso tenia: mira, Cipion, ten por cierto\ny averiguado, como yo lo tengo, que al desdichado las desdichas le\nbuscan y le hallan, aunque se esconda en los últimos rincones de la\ntierra: dígolo porque la negra de casa estaba enamorada de un negro,\nasimismo esclavo de casa, el cual negro dormia en el zaguan que es\nentre la puerta de la calle y la de en medio, detras de la cual yo\nestaba, y no se podian juntar sino de noche, y para esto habian hurtado\nó contrahecho las llaves; y así las mas de las noches bajaba la negra,\ny tapándome la boca con algun pedazo de carne ó queso, abria al negro\ncon quien se daba buen tiempo, facilitándolo mi silencio, y á costa\nde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 27,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "9f7e3e1660641c448bcf81505b74093e54e41618a4a19153a7a6c234633537c7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " muchas cosas que la negra hurtaba: algunos dias me estragaron la conciencia las\ndádivas de la negra, pareciéndome que sin ellas se me apretarian las\nijadas, y daria de mastin en galgo; pero en efecto, llevado de mi buen\nnatural, quise responder á lo que á mi amo debia, pues tiraba sus\ngajes y comia su pan, como lo deben hacer no solo los perros honrados,\ná quienes se les da renombre de agradecidos, sino todos aquellos que\nsirven."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Esto sí, Berganza, quiero\nque pase por filosofía, porque son razones que consisten en buena\nverdad y en buen entendimiento; y adelante, y no hagas soga, por no\ndecir cola, de tu historia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Primero te quiero rogar\nme digas, si es que lo sabes, qué quiere decir filosofía; que aunque\nyo la nombro, no sé lo que es; solo me doy á entender que es cosa\nbuena."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Con brevedad te lo diré.\nEste nombre se compone de dos nombres griegos, que son: "
+            },
+            {
+              "text": "filos",
+              "italic": true
+            },
+            {
+              "text": " y\n"
+            },
+            {
+              "text": "sofia",
+              "italic": true
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "filos",
+              "italic": true
+            },
+            {
+              "text": " quiere decir amor, y "
+            },
+            {
+              "text": "sofia",
+              "italic": true
+            },
+            {
+              "text": " la ciencia: así que\n"
+            },
+            {
+              "text": "filosofía",
+              "italic": true
+            },
+            {
+              "text": " significa amor de la ciencia, y filósofo, amador de la\nciencia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Mucho sabes, Cipion,\n¿quién diablos te enseñó á tí nombres griegos?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Verdaderamente, Berganza,\nque eres simple, pues desto haces caso; porque estas son cosas que las\nsaben los niños de la escuela, y tambien hay quien presuma saber la\nlengua griega sin saberla, como la latina ignorándola."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Eso es lo que yo digo,\ny quisiera que á estos tales los pusieran en una prensa, y á fuerza\nde vueltas les sacaran el jugo de lo que saben, porque no anduviesen\nengañando al mundo con el oropel de sus gregüescos rotos y sus latines\nfalsos, como hacen los portugueses con los negros de Guinea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Ahora sí, Berganza, que te\npuedes morder la lengua, y tarazármela yo, porque todo cuanto decimos\nes murmurar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 28,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "0a8dc628aa76036e8dc2b41dba320a9d34798bc3e1eac3b39843b7522365a342",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Sí, que no estoy obligado\ná hacer lo que he oido decir que hizo un llamado Corondas, tirio, el\ncual puso ley que ninguno entrase en el ayuntamiento de su ciudad con\narmas, so pena de la vida: descuidóse desto, y otro dia entró en el\ncabildo ceñida la espada: advirtiéronselo, y acordándose de la pena\npor él puesta, al momento desenvainó su espada, y se pasó con ella el\npecho, y fué el primero que puso y quebrantó la ley, y pagó la pena.\nLo que yo dije no fué poner ley, sino prometer que me morderia la\nlengua cuando murmurase; pero ahora no van las cosas por el tenor y\nrigor de las antiguas: hoy se hace una ley, y mañana se rompe, y quizá\nconviene que así sea: ahora promete uno de enmendarse de sus vicios,\ny de allí á un momento cae en otros mayores: una cosa es alabar la disciplina, y otra\nel darse con ella; y en efecto, del dicho al hecho hay gran trecho:\nmuérdase el diablo, que yo no quiero morderme, ni hacer finezas detras\nde una estera, donde de nadie soy visto que pueda alabar mi honrosa\ndeterminacion."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Segun eso, Berganza, si\ntú fueras persona, fueras hipócrita, y todas las obras que hicieras,\nfueran aparentes, fingidas y falsas, cubiertas con la capa de la\nvirtud, solo por que te alabaran, como todos los hipócritas hacen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  No sé lo que entónces\nhiciera: esto sé que quiero hacer ahora, que es no morderme, quedándome\ntantas cosas por decir, que no sé cómo ni cuándo podré acabarlas, y mas\nestando temeroso, que al salir del sol nos hemos de quedar á escuras,\nfaltándonos la habla."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Mejor lo hará el\ncielo, sigue tu historia, y no te desvíes del camino carretero con\nimpertinentes digresiones; y así por larga que sea, la acabarás\npresto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 29,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b20b03dae2666f4b73fd5a7e1e94acb3d1fc8e54d6a0c1ae6378f96766493b50",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Digo pues, que habiendo\nvisto la insolencia, latrocinio y deshonestidad de los negros,\ndeterminé, como buen criado, estorbarlo por los mejores medios que\npudiese, y pude tan bien, que salí con mi intento. Bajaba la negra,\ncomo has oido, á refocilarse con el negro, fiada en que me enmudecian\nlos pedazos de carne, pan ó queso que me arrojaba: mucho pueden las\ndádivas, Cipion."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Mucho: no te diviertas,\npasa adelante."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Acuérdome que cuando\nestudiaba oí decir al preceptor un refran latino, que ellos llaman\nadagio, que decia: "
+            },
+            {
+              "text": "habet bovem in\nlingua",
+              "italic": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  ¡Oh! que en hora mala\nhayais encajado vuestro latin. ¿Tan presto se te ha olvidado lo que\npoco ha dijimos contra los que entremeten latines en las conversaciones\nde romances?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Este latin viene aquí de\nmolde: que has de saber que los atenienses usaban entre otras de una\nmoneda sellada con la figura de un buey, y cuando algun juez dejaba de\ndecir ó hacer lo que era razon y justicia por estar cohechado, decian:\neste tiene el buey en la lengua."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  La aplicacion falta."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  ¿No está bien clara, si\nlas dádivas de la negra me tuvieron muchos dias mudo, que ni queria ni\nosaba ladrar cuando bajaba á verse con su negro enamorado? por lo que\nvuelvo á decir que pueden mucho las dádivas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Ya te he respondido que\npueden mucho; y si no fuera por no hacer ahora una larga digresion,\ncon mil ejemplos probara lo mucho que las dádivas pueden; mas quizá lo\ndiré, si el cielo me concede tiempo, lugar y habla para contarte mi\nvida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 30,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "d81b4f137fb8b3945366a2031b67599c0fb1f7dc1c14c7c947c7e21160f3ce1b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Dios te dé lo que deseas, y\nescucha. Finalmente, mi buena intencion rompió por las malas dádivas\nde la negra, á la cual bajando una noche muy escura á su acostumbrado\npasatiempo, arremetí sin ladrar, porque no se alborotasen los de casa,\ny en un instante le hice pedazos toda la camisa, y le arranqué un\npedazo de muslo: burla que fué bastante á tenerla de veras mas de ocho\ndias en la cama, fingiendo para con sus amos no sé qué enfermedad.\nSanó, volvió otra noche, y yo volví á la pelea con mi perra, y sin\nmorderla la arañé todo el cuerpo como si la hubiera cardado como\nmanta: nuestras batallas eran á la sorda, de las cuales salia siempre\nvencedor, y la negra mal parada, y peor contenta; pero sus enojos se\nparecian bien en mi pelo y en mi salud: alzóseme con la racion y los\nhuesos, y los mios poco á poco iban señalando los ñudos del espinazo:\ncon todo esto, aunque me quitaron el comer, no me pudieron quitar el\nladrar. Pero la negra, por acabarme de una vez, me trujo una esponja\nfrita con manteca: conocí la maldad, vi que era peor que comer zarazas;\nporque á quien la come se le hincha el estómago, y no sale dél sin\nllevarse tras sí la vida; y pareciéndome ser imposible guardarme de las\nasechanzas de tan indignados enemigos, acordé de poner tierra en medio,\nquitándomeles delante de los ojos: halléme un dia suelto, y sin decir\nadios á ninguno de casa, me puse en la calle, y á ménos de cien pasos\nme deparó la suerte al alguacil, que dije al principio de mi historia\nque era grande amigo de mi amo Nicolas el Romo, el cual apénas me hubo\nvisto, cuando me conoció y me llamó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 31,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7d9acfba1375bdf8e6452b0e649f6c62d15196cdaf14fa96a70d4a5ea1727762",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " por mi nombre: tambien le conocí\nyo, y al llamarme, me llegué á él con mis acostumbradas ceremonias y\ncaricias: asióme del cuello, y dijo á los corchetes suyos: Este es\nfamoso perro de ayuda, que fué de un grande amigo mio, llevémosle\ná casa. Holgáronse los corchetes, y dijeron que si era de ayuda, á\ntodos seria de provecho: quisieron asirme para llevarme, y mi amo dijo\nque no era menester asirme que yo me iria, porque le conocia. Háseme\nolvidado decirte que las carlancas con puntas de acero que saqué\ncuando me desgarré y ausenté del ganado, me las quitó un jitano en una\nventa, y ya en Sevilla andaba sin ellas; pero el alguacil me puso un\ncollar tachonado todo de laton morisco. Considera, Cipion, ahora esta\nrueda variable de la fortuna mia: ayer me vi estudiante, y hoy me ves\ncorchete."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Así va el mundo, y no hay\npara qué te pongas ahora á exagerar los vaivenes de fortuna, como\nsi hubiera mucha diferencia de ser mozo de un jifero á serlo de un\ncorchete: no puedo sufrir ni llevar en paciencia oir las quejas que\ndan de la fortuna algunos hombres, que la mayor que tuvieron, fué tener premisas y\nesperanzas de llegar á ser escuderos: ¡con qué maldiciones la maldicen!\n¡con cuántos improperios la deshonran! y no por mas de que porque\npiense el que los oye, que de alta, próspera y buena ventura han venido\ná la desdichada y baja en que los miran."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 32,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "08244c33862190d840886291e5e859fc620e7410956e89b62fe31aae7c82358d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Tienes razon; y has de\nsaber que este alguacil tenia amistad con un escribano con quien se\nacompañaba: estaban los dos amancebados con dos mujercillas, no de\npoco mas ó ménos, sino de ménos en todo: verdad es que tenian algo de\nbuenas caras, pero mucho de desenfado y de taimería putesca: estas\nles servian de red y de anzuelo para pescar en seco, en esta forma:\nvestíanse de suerte que por la pinta descubrian la figura, y á tiro de\narcabuz mostraban ser damas de la vida libre: andaban siempre á caza de\nestranjeros, y cuando llegaba la vendeja á Cádiz y á Sevilla, llegaba\nla huella de su ganancia, no quedando breton con quien no embistiesen:\ny en cayendo el grasiento con alguna destas limpias, avisaban al\nalguacil y al escribano adónde y á qué posada iban, y en estando\njuntos les daban asalto y los prendian por amancebados; pero nunca los\nllevaban á la cárcel, á causa que los estranjeros siempre redimian la\nvejacion con dineros."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Sucedió pues que la Colindres, que así se llamaba la amiga del\nalguacil, pescó un breton, unto y bisunto: concertó con él cena y noche\nen su posada; dió el cañuto á su amigo, y apénas se habian desnudado,\ncuando el alguacil, el escribano, dos corchetes y yo dimos con ellos.\nAlborotáronse los amantes, exageró el alguacil el delito, mandólos\nvestir á toda priesa para llevarlos á la cárcel, afligióse el breton,\nterció movido de caridad el escribano, y á puros ruegos redujo la pena\ná solo cien reales."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 33,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "46d65504dafa546560becbe9d1a6579ea7f93f118ee98d5ee9b744be63db837e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Pidió el breton unos follados de camuza, que habia\npuesto en una silla á los piés de la cama, donde tenia dineros para\npagar su libertad, y no parecieron los follados ni podian parecer;\nporque así como yo entré en el aposento, llegó á mis narices un olor\nde tocino que me consoló todo, descubríle con el olfato, y halléle\nen una faldriquera de los follados: digo que hallé en ella un pedazo\nde jamon famoso, y por gozarle y poderle sacar sin rumor, saqué los\nfollados á la calle, y allí me entregué en el jamon á toda mi voluntad,\ny cuando volví al aposento, hallé que el breton daba voces, diciendo en\nlenguaje adúltero y bastardo, aunque se entendia, que le volviesen sus\ncalzas, que en ellas tenia cincuenta "
+            },
+            {
+              "text": "escuti",
+              "italic": true
+            },
+            {
+              "text": " de oro "
+            },
+            {
+              "text": "in oro",
+              "italic": true
+            },
+            {
+              "text": ": imaginó\nel escribano ó que la Colindres ó los corchetes se los habian robado:\nel alguacil pensó lo mismo: llamóles aparte, no confesó ninguno, y\ndiéronse al diablo todos. Viendo yo lo que pasaba, volví á la calle\ndonde habia dejado los follados para volverlos, pues á mí no me\naprovechaba nada el dinero: no los hallé, porque ya algun venturoso que pasó se los habia\nllevado. Como el alguacil vió que el breton no tenia dinero para el\ncohecho, se desesperaba, y pensó sacar de la huéspeda de casa lo que el\nbreton no tenia: llamóla, y vino medio desnuda, y como oyó las voces y\nquejas del breton, y á la Colindres desnuda y llorando, al alguacil en\ncólera, y al escribano enojado, y á los corchetes despabilando lo que\nhallaban en el aposento, no le plugo mucho: mandó el alguacil que se\ncubriese y se viniese con él á la cárcel, porque consentia en su casa\nhombres y mujeres de mal vivir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 34,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "0ceb3d2dd564929600773973f807cf986d3b9b66e18d402bf9421a12b1a772d7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Aquí fué ello: aquí sí que fué cuando\nse aumentaron las voces y creció la confusion, porque dijo la huéspeda:\nSeñor alguacil y señor escribano, no conmigo tretas, que entrevo toda\ncostura: no conmigo dijes ni poleos, callen la boca, y váyanse con\nDios; si no, por mi santiguada que arroje el bodegon por la ventana, y\nque saque á plaza toda la chirinola desta historia, que bien conozco\ná la señora Colindres, y sé que há muchos meses que es su cobertor el\nseñor alguacil, y no hagan que me aclare mas, sino vuélvase el dinero á\neste señor, y quedemos todos por buenos; porque yo soy mujer honrada,\ny tengo un marido con su carta de ejecutoria, y con "
+            },
+            {
+              "text": "á perpenan rei\nde memoria",
+              "italic": true
+            },
+            {
+              "text": ", con sus colgaderos de plomo, Dios sea loado, y hago este\noficio muy limpiamente y sin daño de barras: el arancel tengo clavado\ndonde todo el mundo le vea, y no conmigo cuentos, que por Dios que sé\ndespolvorearme: bonita soy yo, para que por mi órden entren mujeres con\nlos huéspedes: ellos tienen las llaves de sus aposentos, y yo no soy\nquince, que tengo de ver tras siete paredes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Pasmados quedaron mis amos de haber oido la arenga de la huéspeda,\ny de ver cómo les leia la historia de sus vidas; pero como vieron que\nno tenian de quien sacar dinero, si della no, porfiaban en llevarla\ná la cárcel. Quejábase ella al cielo de la sinrazon y injusticia que\nla hacian, estando su marido ausente y siendo tan principal hidalgo.\nEl breton bramaba por sus cincuenta "
+            },
+            {
+              "text": "escuti",
+              "italic": true
+            },
+            {
+              "text": ". Los corchetes porfiaban\nque ellos no habian visto los follados, ni Dios permitiese tal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 35,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "48d2aa56c5551a742f81b54bbfe059b7acb84bf2d252b1c303372bc99d8355fa",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " El\nescribano por lo callado insistia al alguacil que mirase los vestidos\nde la Colindres, que le daba sospecha que ella debia de tener los\ncincuenta "
+            },
+            {
+              "text": "escuti",
+              "italic": true
+            },
+            {
+              "text": ", por tener de costumbre visitar los escondrijos y\nfaldriqueras de aquellos que con ella se envolvian. Ella decia que el\nbreton estaba borracho, y que debia de mentir en lo del dinero. En\nefeto, todo era confusion, gritos y juramentos, sin llevar modo de\napaciguarse, ni se apaciguaran si al instante no entrara en el aposento\nel teniente de asistente, que viniendo á visitar aquella posada, las\nvoces le llevaron adonde era la grita: preguntó la causa de aquellas\nvoces: la huéspeda se la dió muy por menudo: dijo quién era la ninfa Colindres, que\nya estaba vestida: publicó la pública amistad suya y del alguacil,\nechó en la calle sus tretas y modo de robar, disculpóse á sí misma\nde que con su consentimiento jamas habia entrado en su casa mujer de\nmala sospecha: canonizóse por santa y á su marido por un bendito, y\ndió voces á una moza que fuese corriendo y trujese de un cofre la\ncarta ejecutoria de su marido, para que la viese el señor teniente,\ndiciéndole que por ella echaria de ver, que mujer de tan honrado marido\nno podia hacer cosa mala, y que si tenia aquel oficio de casa de camas,\nera á no poder mas, que Dios sabia lo que le pesaba, y si quisiera ella\nmas tener alguna renta y pan cotidiano para pasar la vida, que tener\naquel ejercicio. El teniente enfadado de su mucho hablar y presumir de\nejecutoria, le dijo: Hermana camera, yo quiero creer que vuestro marido\ntiene carta de hidalguía, con que vos me confeseis que es hidalgo\nmesonero."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 36,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "05b6f6cbf77ed4ac2fc54b2d15a8cd9373ffaa7c15456c562effef9331f06cc8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Y con mucha honra, respondió la huéspeda, y ¿qué linaje hay\nen el mundo, por bueno que sea, que no tenga algun díme y diréte? Lo\nque yo os digo, hermana, es que os cubrais, que habeis de venir á la\ncárcel: la cual nueva dió con ella en el suelo, arañóse el rostro, alzó\nel grito; pero con todo eso, el teniente demasiadamente severo, los\nllevó á todos á la cárcel: conviene á saber, al breton, á la Colindres\ny á la huéspeda. Despues supe que el breton perdió sus cincuenta\n"
+            },
+            {
+              "text": "escuti",
+              "italic": true
+            },
+            {
+              "text": ", y mas dicen, que le condenaron en las costas: la huéspeda\npagó otro tanto, y la Colindres salió libre por la puerta afuera; y el\nmismo dia que la soltaron, pescó á un marinero que pagó por el breton\ncon el mismo embuste del soplo; porque veas, Cipion, cuántos y cuán\ngrandes inconvenientes nacieron de mi golosina."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Mejor dijeras de la\nbellaquería de tu amo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Pues escucha, que aun mas\nadelante tiraba la barra, puesto que me pesa de decir mal de alguaciles\ny de escribanos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Sí, que decir mal de uno,\nno es decirlo de todos: sí, que muchos y muy muchos escribanos hay\nbuenos, fieles y legales, y amigos de hacer placer sin daño de tercero:\nsí, que no todos entretienen los pleitos, ni avisan á las partes, ni\ntodos llevan mas de sus derechos, ni todos van buscando é inquiriendo\nlas vidas ajenas para ponerlas en tela de juicio, ni todos se aunan\ncon el juez para hazme la barba, y hacerte he el copete, ni todos los\nalguaciles se conciertan con los vagamundos y fulleros, ni tienen\ntodos las amigas como la de tu amo para sus embustes: muchos y muy\nmuchos hay hidalgos por naturaleza, y de"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 37,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "57c85ab60cef2f74d82e27a1cd22a1149720c9343853ec7f4f2d9679d0cbc63b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " hidalgas condiciones: muchos\nno son arrojados, insolentes ni mal criados, ni rateros como los que\nandan por los mesones midiendo las espadas á los estranjeros, y hallándolas un pelo mas\nde la marca, destruyen á sus dueños: sí, que no todos como prenden\nsueltan, y son jueces y abogados cuando quieren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Mas alto picaba mi amo,\notro camino era el suyo: presumia de valiente y de hacer prisiones\nfamosas; sustentaba la valentía sin peligro de su persona, pero á costa\nde su bolsa: un dia acometió en la puerta de Jerez él solo á seis\nfamosos rufianes, sin que yo le pudiese ayudar en nada, porque llevaba\ncon un freno de cordel impedida la boca (que así me traia de dia, y\nde noche me le quitaba): quedé maravillado de ver su atrevimiento, su\nbrio y su denuedo: así se entraba y salia por las seis espadas de los\nrufos, como si fueran varas de mimbre: era cosa maravillosa ver la\nlijereza con que acometia, las estocadas que tiraba, los reparos, la\ncuenta, el ojo alerta porque no le tomasen las espaldas. Finalmente, él\nquedó, en mi opinion y en la de todos cuantos la pendencia miraron y\nsupieron, por un nuevo Radamonte, habiendo llevado á sus enemigos desde\nla puerta de Jerez hasta los mármoles del colegio de maese Rodrigo,\nque hay mas de cien pasos: dejólos encerrados, y volvió á coger los\ntrofeos de la batalla, que fueron tres vainas, y luego se las fué á\nmostrar al asistente, que si mal no me acuerdo, lo era entónces el\nlicenciado Sarmiento de Valladares, famoso por la destruicion de la\nSauceda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 38,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "d8425e07684ae4da234e8977a2b17af85996939f51d0378e31e7068a6b88ff3a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Miraban á mi amo por las calles do pasaba, señalándole con\nel dedo, como si dijeran: aquel es el valiente que se atrevió á reñir\nsolo con la flor de los bravos de la Andalucía. En dar vueltas á la\nciudad para dejarse ver, se pasó lo que quedaba del dia; y la noche nos\nhalló en Triana en una calle junto al molino de la pólvora, y habiendo\nmi amo avizorado (como en la jácara se dice) si álguien le veia, se\nentró en una casa, y yo tras él, y hallámos en un patio á todos los\njayanes de la pendencia sin capas ni espadas, y todos desabrochados;\ny uno que debia de ser el huésped, tenia un gran jarro de vino en la\nuna mano, y en la otra una copa grande de taberna, la cual colmándola\nde vino generoso y espumante, brindaba á toda la compañía: apénas\nhubieron visto á mi amo, cuando todos se fueron á él con los brazos\nabiertos, y todos le brindaron, y él hizo la razon á todos, y aun la\nhiciera á otros tantos, si le fuera algo en ello, por ser de condicion\nafable y amigo de no enfadar á nadie por pocas cosas. Quererte yo\ncontar ahora lo que allí se trató, la cena que cenaron, las peleas\nque se contaron, los hurtos que se refirieron, las damas que de su\ntrato se calificaron, y las que se reprobaron, las alabanzas que los\nunos á los otros se dieron, los bravos ausentes que se nombraron,\nla destreza que allí se puso en su punto, levantándose en mitad de\nla cena á poner en práctica las tretas que se les ofrecian, esgrimiendo con las manos\nlos vocablos tan esquisitos de que usaban, y finalmente el talle de la\npersona del huésped, á quien todos respetaban como á señor y padre,\nseria meterme en un laberinto donde no me fuese posible salir cuando\nquisiese."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 39,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "46de879d6f8f289a17d856c948125bd61abd977fc0ab0092662f1a5114761c75",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Finalmente, vine á entender con toda certeza, que el dueño\nde la casa, á quien llamaban Monipodio, era encubridor de ladrones y\npala de rufianes, y que la gran pendencia de mi amo habia sido primero\nconcertada con ellos, con las circunstancias del retirarse y de dejar\nlas vainas, las cuales pagó mi amo allí luego de contado, con todo\ncuanto Monipodio dijo que habia costado la cena, que se concluyó casi\nal amanecer con mucho gusto de todos; y fué su postre dar soplo á mi\namo de un rufian forastero que nuevo y flamante habia llegado á la\nciudad: debia de ser mas valiente que ellos, y de envidia le soplaron:\nprendióle mi amo la siguiente noche, desnudo en la cama, que si vestido\nestuviera, yo vi en su talle que no se dejara prender tan á mansalva.\nCon esta prision, que sobrevino sobre la pendencia, creció la fama\nde mi cobarde, que lo era mi amo mas que una liebre, y á fuerza de\nmeriendas y tragos sustentaba la fama de ser valiente, y todo cuanto\ncon su oficio y con sus inteligencias granjeaba, se le iba y desaguaba\npor la canal de la valentía. Pero ten paciencia, y escucha ahora un\ncuento que le sucedió, sin añadir ni quitar de la verdad una tilde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 40,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7236060d34bcd928bd45dfc77cd46df5dbfa0fb5fd04a773c1d7d6949c63fa3f",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Dos ladrones hurtaron en Antequera un caballo muy bueno: trujéronle\ná Sevilla, y para venderle sin peligro usaron de un ardid, que á mi\nparecer tiene del agudo y del discreto: fuéronse á posadas diferentes,\ny el uno se fué á la justicia, y pidió por una peticion que Pedro de\nLosada le debia cuatrocientos reales prestados, como parecia por una\ncédula firmada de su nombre, de la cual hacia presentacion. Mandó\nel teniente que el tal Losada reconociese la cédula, y que si la\nreconociese, le sacasen prendas de la cantidad, ó le pusiesen en la\ncárcel: tocó hacer esta diligencia á mi amo y al escribano su amigo:\nllevóles el ladron á la posada del otro, y al punto reconoció su firma,\ny confesó la deuda, y señaló por prenda de la ejecucion el caballo,\nel cual visto por mi amo, le creció el ojo y le marcó por suyo, si\nacaso se vendiese. Dió el ladron por pasados los términos de la ley,\ny el caballo se puso en venta, y se remató en quinientos reales en un\ntercero que mi amo echó de manga, para que se le comprase: valia el\ncaballo tanto y medio mas de lo que dieron por él; pero como el bien\ndel vendedor estaba en la brevedad de la venta, á la primer postura\nremató su mercaduría. Cobró en un ladron la deuda que no le debian, y\nel otro la carta de pago que no habia menester, y mi amo se quedó con\nel caballo, que para\nél fué peor que el Seyano lo fué para sus dueños. Mondaron luego la\nhaza los ladrones, y de allí á dos dias, despues de haber trastejado\nmi amo las guarniciones y otras faltas del caballo, pareció sobre él\nen la plaza de San Francisco, mas hueco y pomposo que aldeano vestido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 41,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "07d157addddaaee5eaddc20295d2f9b3511b54da4f3b58b1f0af4b8404fd3922",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nde fiesta: diéronle mil parabienes de la buena compra, afirmándole\nque valia ciento y cincuenta ducados, como un huevo un maravedí, y\nél volteando y revolviendo el caballo, representaba su tragedia en\nel teatro de la referida plaza. Y estando en sus caracoles y rodeos,\nllegaron dos hombres de buen talle y de mejor ropaje, y el uno\ndijo: ¡Vive Dios, que este es Piedehierro, mi caballo, que ha pocos\ndias que me le hurtaron en Antequera! Todos los que venian con él,\nque eran cuatro criados, dijeron que así era la verdad, que aquel\nera Piedehierro, el caballo que le habian hurtado. Pasmóse mi amo,\nquerellóse el dueño, hubo pruebas, y fueron las que hizo el dueño tan\nbuenas, que salió la sentencia en su favor, y mi amo fué desposeido del\ncaballo. Súpose la burla y la industria de los ladrones, que por manos\né intervencion de la misma justicia vendieron lo que habian hurtado, y\ncasi todos se holgaban de que la codicia de mi amo le hubiese rompido\nel saco."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Y no paró en esto su desgracia, que aquella noche saliendo á rondar\nel mismo asistente, por haberle dado noticia que hácia los barrios\nde San Julian andaban ladrones, al pasar de una encrucijada vieron\npasar un hombre corriendo, y dijo á este punto el asistente, asiéndome\npor el collar y zuzándome: Al ladron, Gavilan, ea, Gavilan hijo, al\nladron. Yo, á quien ya tenian cansado las maldades de mi amo, por\ncumplir lo que el señor asistente me mandaba sin discrepar en nada,\narremetí con mi propio amo, y sin que pudiese valerse, di con él en el\nsuelo, y si no me le quitaran, yo hiciera á mas de cuatro vengados;\nquitáronme con mucha pesadumbre de entrambos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 42,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "0ffc72cf72c0ecf478e95986bc756099de54d5e4a8956d8c9cf726db924f7d29",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Quisieran los corchetes\ncastigarme, y aun matarme á palos, y lo hicieran si el asistente no\nles dijera: No le toque nadie, que el perro hizo lo que yo le mandé.\nEntendióse la malicia, y yo sin despedirme de nadie, por un agujero de\nla muralla salí al campo, y ántes que amaneciese me puse en Mairena,\nque es un lugar que está cuatro leguas de Sevilla. Quiso mi buena\nsuerte, que hallé allí una compañía de soldados, que segun oí decir se\niban á embarcar á Cartagena: estaban en ella cuatro rufianes de los\namigos de mi amo, y el atambor era uno que habia sido corchete y gran\nchocarrero, como lo suelen ser los mas atambores: conociéronme todos,\ny todos me hablaron, y así me preguntaban por mi amo, como si les\nhubiera de responder; pero el que mas aficion me mostró fué el atambor,\ny así determiné de acomodarme con él, si él quisiese, y seguir aquella jornada, aunque me\nllevase á Italia ó á Flándes; porque me parece á mí, y aun á tí te debe\nparecer lo mismo, que puesto que dice el refran: Quien necio es en su\nvilla, necio es en Castilla, el andar tierras y comunicar con diversas\ngentes hace á los hombres discretos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Es eso tan verdad, que me\nacuerdo haber oido decir á un amo que tuve, de bonísimo ingenio, que\nal famoso griego, llamado Ulíses, le dieron renombre de prudente, por\nsolo haber andado muchas tierras, y comunicado con diversas gentes y\nvarias naciones; y así alabo la intencion que tuviste de irte donde te\nllevasen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 43,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "07af82be8ea21268de8f39e5a5da3da1bced8e8bb1780e5978fe452044d59754",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Es pues el caso, que\nel atambor, por tener con que mostrar mas sus chocarrerías, comenzó\ná enseñarme á bailar al son del atambor, y hacer otras monerías tan\najenas de poder aprenderlas otro perro que no fuera yo, como las oirás\ncuando te las diga: por acabarse el distrito de la comision se marchaba\npoco á poco: no habia comisario que nos limitase: el capitan era mozo,\npero muy buen caballero y gran cristiano: el alférez no habia muchos\nmeses que habia dejado la corte y el tinelo: el sargento era matrero y\nsagaz, y grande arriero de compañías, desde donde se levantan hasta el\nembarcadero: iba la compañía llena de rufianes churrulleros, los cuales\nhacian algunas insolencias por los lugares do pasábamos, que redundaban\nen maldecir á quien no lo merecia: ¡infelicidad del buen príncipe! ser\nculpado de sus súbditos por la culpa de sus súbditos, á causa que los\nunos son verdugos de los otros, sin culpa del señor, pues aunque quiera\ny lo procure, no puede remediar estos daños, porque todas ó las mas\ncosas de la guerra traen consigo aspereza, riguridad y desconveniencia.\nEn fin, en ménos de quince dias, con mi buen ingenio y con la\ndiligencia que puso el que habia escogido por patron, supe saltar por\nel rey de Francia, y no saltar por la mala tabernera: enseñóme á hacer\ncorvetas como caballo napolitano, y andar á la redonda como mula de\ntahona, con otras cosas, que si yo no tuviera cuenta en no adelantarme\ná mostrarlas, pusiera en duda si era algun demonio en figura de perro\nel que las hacia: púsome nombre del perro sabio, y no habíamos llegado\nal alojamiento, cuando tocando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 44,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "a4d4df94f87bacdca39c30fca0a1ea29136eb20a0639998abf197f0d2c2796a1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " su atambor, andaba por todo el lugar,\npregonando que todas las personas que quisiesen venir á ver las\nmaravillosas gracias y habilidades del perro sabio, en tal casa, ó en\ntal hospital las mostraban á ocho ó á cuatro maravedís, segun era el\npueblo grande ó chico. Con estos encarecimientos no quedaba persona en\ntodo el lugar, que no me fuese á ver, y ninguno habia que no saliese\nadmirado y contento de haberme visto. Triunfaba mi amo con la mucha\nganancia, y sustentaba seis camaradas como unos reyes. La codicia y la envidia despertó\nen los rufianes voluntad de hurtarme, y andaban buscando ocasion para\nello; que esto del ganar de comer holgando, tiene muchos aficionados y\ngolosos: por esto hay tantos titereros en España, tantos que muestran\nretablos, tantos que venden alfileres y coplas, que todo su caudal,\naunque le vendiesen todo, no llega á poderse sustentar un dia; y con\nesto los unos y los otros no salen de los bodegones y tabernas en\ntodo el año, por do me doy á entender que de otra parte, que de la de\nsus oficios, sale la corriente de sus borracheras: toda esta gente\nvagamunda, inútil y sin provecho, esponjas del vino y gorgojos del\npan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  No mas, Berganza, no\nvolvamos á lo pasado; sigue, que se va la noche, y no querria que al\nsalir del sol quedásemos á la sombra del silencio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 45,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "11e6bcf0b94cb741b00aa1836f188962f70002867d8ecfde17adadcaa721d305",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Tenle, y escucha. Como\nsea cosa fácil añadir á lo ya inventado, viendo mi amo cuán bien sabia\nimitar el corcel napolitano, hízome unas cubiertas de guadamacil, y\nuna silla pequeña que me acomodó en las espaldas, y sobre ella puso\nuna figura liviana de un hombre con una lancilla de correr sortija, y\nenseñóme á correr derechamente á una sortija que entre dos palos ponia;\ny el dia que habia de correrla pregonaba que aquel dia corria sortija\nel perro sabio, y hacia otras nuevas y nunca vistas galanterías, las\ncuales de mi santiscario, como dicen, las hacia, por no sacar mentiroso\ná mi amo. Llegámos pues por nuestras jornadas contadas á Montilla,\nvilla del famoso y gran cristiano marqués de Priego, señor de la casa\nde Aguilar y de Montilla. Alojaron á mi amo, porque él lo procuró, en\nun hospital: echó luego el ordinario bando, y como ya la fama se habia\nadelantado á llevar las nuevas de las habilidades y gracias del perro\nsabio, en ménos de una hora se llenó el patio de gente. Alegróse mi amo\nviendo que la cosecha iba de guilla, y mostróse aquel dia chocarrero en\ndemasía. Lo primero en que comenzaba la fiesta, era en los saltos que\nyo daba por un aro de cedazo que parecia de cuba: conjurábame por las\nordinarias preguntas, y cuando él bajaba una varilla de mimbre que en\nla mano tenia, era señal del salto, y cuando la tenia alta, de que me\nestuviese quedo. El primero conjuro deste dia (memorable entre todos\nlos de mi vida) fué decirme: Ea, Gavilan amigo, salta por aquel viejo\nverde que tú conoces, que se escabecha las barbas, y si no quieres,\nsalta por la pompa y aparato de Doña Pimpinela de Plafagonia, que fué\ncompañera de la moza gallega que servia en Valdeastillas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 46,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "566ca02c7c8cdbb176179e2073b285f3f97468cc0030d889e360ecc1c54876a0",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " ¿No te cuadra\nel conjuro, hijo Gavilan? pues salta por el bachiller Pasillas, que\nse firma licenciado sin tener grado alguno. ¡Oh! perezoso estás; ¿por\nqué no saltas? pero\nya entiendo y alcanzo tus marrullerías: ahora salta por el licor de\nEsquivias, famoso al par del de Ciudad-Real, San Martin y Ribadavia.\nBajó la varilla, y salté yo, y noté sus malas entrañas. Volvióse luego\nal pueblo, y en voz alta dijo: No piense vuesa merced, senado valeroso,\nque es cosa de burla lo que este perro sabe: veinte y cuatro piezas le\ntengo enseñadas, que por la menor dellas volaria un gavilan: quiero\ndecir, que por ver la menor se puede caminar treinta leguas: sabe\nbailar la zarabanda y chacona mejor que su inventora misma: bébese\nuna azumbre de vino sin dejar gota: entona un sol, fa, mi, re, tan\nbien como un sacristan: todas estas cosas y otras muchas que me quedan\npor decir, las irán viendo vuesas mercedes en los dias que estuviere\naquí la compañía, y por ahora dé otro salto nuestro sabio, y luego\nentraremos en lo grueso. Con esto suspendió al auditorio, que habia\nllamado senado, y les encendió el deseo de no dejar de ver todo lo que\nyo sabia. Volvióse á mí mi amo, y dijo: Volved, hijo Gavilan, y con\ngentil agilidad y destreza deshaced los saltos que habeis hecho; pero\nha de ser á devocion de la famosa hechicera, que dicen que hubo en este\nlugar. Apénas hubo dicho esto, cuando alzó la voz la hospitalera, que\nera una vieja, al parecer, de mas de sesenta años, diciendo: Bellaco,\ncharlatan, embaidor y hijo de puta, aquí no hay hechicera alguna: si\nlo decís por la Camacha, ya ella pagó su"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 47,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "47167c170362f8cf7d22d9441faa51d8abbcb908ebaed9ad5c0b0cbbf1c51148",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " pecado, y está donde Dios se\nsabe: si lo decís por mí, chocarrero, ni yo soy ni he sido hechicera\nen mi vida; y si he tenido fama de haberlo sido, merced á los testigos\nfalsos y á la ley del encaje, y al juez arrojadizo y mal informado: ya\nsabe todo el mundo la vida que hago en penitencia, no de los hechizos\nque no hice, sino de otros muchos pecados, ó otros que como pecadora\nhe cometido: así que, socarron tamborilero, salid del hospital; si no,\npor vida de mi santiguada que os haga salir mas que de paso: y con\nesto comenzó á dar tantos gritos, y á decir tantas y tan atropelladas\ninjurias á mi amo, que le puso en confusion y sobresalto: finalmente,\nno dejó que pasase adelante la fiesta en ningun modo. No le pesó á mi\namo del alboroto, porque se quedó con los dineros, y aplazó para otro\ndia y en otro hospital lo que en aquel habia faltado. Fuése la gente\nmaldiciendo á la vieja, añadiendo al nombre de hechicera el de bruja, y\nel de barbuda sobre vieja. Con todo esto, nos quedámos en el hospital\naquella noche, y encontrándome la vieja en el corral solo, me dijo:\n¿Eres tú, hijo, Montiel? ¿eres tú, por ventura, hijo? Alcé la cabeza, y\nmiréla muy despacio: lo cual visto por ella, con lágrimas en los ojos\nse vino á mí, y me echó los brazos al cuello, y si la dejara, me besara\nen la boca; pero tuve asco, y no lo consentí."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Bien hiciste, porque no es regalo,\nsino tormento el besar ni dejar besarse de una vieja."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 48,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "af19f1e4c66f56875b7c02f41a32d0c70c8100bf2b205187841ef3328f8060ca",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Esto que ahora te quiero\ncontar, te lo habia de haber dicho al principio de mi cuento, y así\nescusáramos la admiracion que nos causó el vernos con habla; porque has\nde saber que la vieja me dijo: Hijo Montiel, vente tras mí, y sabrás\nmi aposento, y procura que esta noche nos veamos á solas en él, que yo\ndejaré abierta la puerta, y sabe que tengo muchas cosas que decirte de\ntu vida y para tu provecho. Bajé yo la cabeza en señal de obedecerla,\npor lo cual ella se acabó de enterar en que yo era el perro Montiel que\nbuscaba, segun despues me lo dijo. Quedé atónito y confuso, esperando\nla noche, por ver en lo que paraba aquel misterio ó prodigio de haberme\nhablado la vieja; y como habia oido llamarla de hechicera, esperaba de\nsu vista y habla grandes cosas. Llegóse en fin el punto de verme con\nella en su aposento, que era escuro, estrecho y bajo, y solamente claro\ncon la débil luz de un candil de barro, que en él estaba: atizóle la\nvieja, y sentóse sobre una arquilla, y llegóme junto á sí, y sin hablar\npalabra me volvió á abrazar, y yo volví á tener cuenta con que no me\nbesase. Lo primero que me dijo, fué:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Bien esperaba yo en el cielo que ántes que estos mis ojos se\ncerrasen con el último sueño te habia de ver, hijo mio, y ya que te he\nvisto, venga la muerte, y lléveme desta cansada vida: Has de saber,\nhijo, que en esta villa vivió la mas famosa hechicera que hubo en el\nmundo, á quien llamaron la Camacha de Montilla: fué tan única en su\noficio, que las Eritos, las Circes, las Medeas, de quien he oido decir\nque están las historias llenas, no la igualaron: ella congelaba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 49,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "7129ce7feccab0fecef3aefd42da60a3f1713a7e1dcdcd2cee825fc335927796",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " las\nnubes cuando queria, cubriendo con ellas la faz del sol; y cuando se\nle antojaba, volvia sereno el mas turbado cielo: traia los hombres en\nun instante de lejas tierras: remediaba maravillosamente las doncellas\nque habian tenido algun descuido en guardar su entereza: cubria á\nlas viudas de modo que con honestidad fuesen deshonestas: descasaba\nlas casadas, y casaba las que ella queria: por diciembre tenia rosas\nfrescas en su jardin, y por enero segaba trigo; esto de hacer nacer\nberros en una artesa, era lo ménos que ella hacia, ni el hacer ver en\nun espejo, ó en la uña de una criatura, los vivos ó los muertos que le\npedian que mostrase: tuvo fama que convertia los hombres en animales,\ny que se habia servido de un sacristan seis años en forma de asno real\ny verdaderamente, lo que yo nunca he podido alcanzar cómo se haga;\nporque lo que se dice de aquellas antiguas magas, que convertian los\nhombres en bestias, dicen los que mas saben, que no era otra cosa\nsino que ellas con su mucha hermosura y con sus halagos atraian los\nhombres de manera á\nque las quisiesen bien, y los sujetaban de suerte sirviéndose dellos\nen todo cuanto querian, que parecian bestias; pero en tí, hijo mio, la\nesperiencia me muestra lo contrario, que sé que eres persona racional,\ny te veo en semejanza de perro, si ya no es que esto se hace con\naquella ciencia que llaman tropelía, que hace parecer una cosa por\notra. Sea lo que fuere lo que me pesa es que yo ni tu madre, que fuimos\ndiscípulas de la buena Camacha, nunca llegámos á saber tanto como ella,\ny no por falta de ingenio, ni de habilidad, ni de ánimo, que ántes nos\nsobraba que faltaba, sino por sobra de su malicia, que nunca quiso\nenseñarnos las cosas mayores, porque las reservaba para ella."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 50,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "8c267d61b47e33747f429370b8f5e141974f71bda7e153e5799a4bd07c747d92",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Tu madre, hijo, se llamó la Montiela, que despues de la Camacha,\nfué famosa: yo me llamo la Cañizares, si ya no tan sábia como las dos,\ná lo ménos de tan buenos deseos como cualquiera dellas: verdad es, que\nal ánimo que tu madre tenia de hacer y entrar en un cerco, y encerrarse\nen él con una legion de demonios, no le hacia ventaja la misma\nCamacha: yo fuí siempre algo medrosilla; con conjurar media legion me\ncontentaba; pero con paz sea dicho de entrambas, en esto de conficionar\nlas unturas con que las brujas nos untamos, á ninguna de las dos diera\nventaja, ni la daré á cuantas hoy siguen y guardan nuestras reglas: que\nhas de saber, hijo, que como yo he visto y veo que la vida que corre\nsobre las lijeras alas del tiempo se acaba, he querido dejar todos los\nvicios de la hechicería en que estaba engolfada muchos años habia, y\nsolo me he quedado con la curiosidad de ser bruja, que es un vicio\ndificultosísimo de dejar: tu madre hizo lo mismo: de muchos vicios\nse apartó, muchas buenas obras hizo en esta vida; pero al fin murió\nbruja, y no murió de enfermedad alguna, sino de dolor de que supo que\nla Camacha su maestra, de envidia que la tuvo porque se le iba subiendo\ná las barbas en saber tanto como ella, ó por otra pendenzuela de celos\nque nunca pude averiguar, estando tu madre preñada, y llegándose la\nhora del parto, fué su comadre la Camacha, la cual recebió en sus manos\nlo que tu madre parió, y mostróle que habia parido dos perritos; y\nasí como los vió, dijo: Aquí hay maldad, aquí hay bellaquería; pero,\nhermana Montiela, tu amiga soy, yo encubriré este parto, y atiende tú\ná"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 51,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "fba8fc56932cf32e022c35e1902e3dbc0c64713d6d9bc32900a28675b13b5a45",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " estar sana, y haz cuenta que esta tu desgracia queda sepultada en el\nmismo silencio: no te dé pena alguna este suceso, que ya sabes tú que\npuedo yo saber que si no es con Rodriguez el ganapan, tu amigo, dias\nhá que no tratas con otro; así que este perruno parto de otra parte\nviene, y algun misterio contiene. Admiradas quedámos tu madre y yo, que\nme hallé presente á todo, del estraño suceso. La Camacha se fué y se\nllevó los cachorros: yo me quedé con tu madre para asistir á su regalo la cual no podia creer\nlo que le habia sucedido. Llegóse el fin de la Camacha, y estando en\nla última hora de su vida, llamó á tu madre, y le dijo cómo ella habia\nconvertido á sus hijos en perros por cierto enojo que con ella tuvo;\npero que no tuviese pena, que ellos volverian á su ser cuando ménos lo\npensasen; mas que no podia ser primero que ellos por sus mismos ojos\nviesen lo siguiente:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Volverán en su forma verdadera"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cuando vieron con presta diligencia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Derribar los soberbios levantados,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y alzar á los humildes abatidos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Con poderosa mano para hacello."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Esto dijo la Camacha á tu madre al tiempo de su muerte, como ya te\nhe dicho: tomólo tu madre por escrito y de memoria, y yo lo fijé en la\nmia para si sucediese tiempo de poderlo decir á alguno de vosotros; y\npara poder conoceros, á todos los perros que veo de tu color los llamo\ncon el nombre de tu madre, no por pensar que los perros han de saber el\nnombre, sino por ver si respondian á ser llamados tan diferentemente\ncomo se llaman los otros perros; y esta tarde como te vi hacer tantas\ncosas, y que te llaman el perro sabio, y tambien como alzaste la"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 52,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "e61f91ed6c9e38774ddf0c5639405b3bde1e00ac191c89ddb362d44284412e93",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " cabeza\ná mirarme cuando te llamé en el corral, he creido que tú eres hijo de\nla Montiela, á quien con grandísimo gusto doy noticia de tus sucesos y\ndel modo con que has de cobrar tu forma primera; el cual modo quisiera\nyo que fuera tan fácil como el que se dice de Apuleyo en "
+            },
+            {
+              "text": "el Asno de\noro",
+              "italic": true
+            },
+            {
+              "text": ", que consistia en solo comer una rosa; pero éste tuyo va fundado\nen acciones ajenas, y no en tu diligencia. Lo que has de hacer, hijo,\nes encomendarte á Dios allá en tu corazon, y espera á que estas, que no\nquiero llamarlas profecías, sino adivinanzas, han de suceder presto y\nprósperamente: que pues la buena de la Camacha las dijo, sucederán sin\nduda alguna, y tú y tu hermano, si es vivo, os veréis como deseais."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»De lo que á mí me pesa es, que estoy tan cerca de mi acabamiento,\nque no tendré lugar de verlo: muchas veces he querido preguntar á mi\ncabron qué fin tendrá vuestro suceso; pero no me he atrevido, porque\nnunca á lo que le preguntamos responde á derechas, sino con razones\ntorcidas y de muchos sentidos; así que, á este nuestro amo y señor no\nhay que preguntarle nada, porque con una verdad mezcla mil mentiras, y\ná lo que he colegido de sus respuestas, él no sabe nada de lo por venir\nciertamente, sino por conjeturas: con todo esto, nos trae tan engañadas\ná las que somos brujas, que con hacernos mil burlas, no le podemos\ndejar: vamos á verle muy léjos de aquí á un gran campo, donde nos\njuntamos infinidad de\ngente, brujos y brujas, y allí nos da de comer desabridamente, y pasan\notras cosas, que en verdad, y en Dios y en mi ánima, que no me atrevo\ná contarlas segun son de sucias y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 53,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "dd55eddda2acd59c548952620aaf9e70cdf9ebec536d9b84eae7affdd8025195",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " asquerosas, y no quiero ofender tus\ncastas orejas: hay opinion que no vamos á estos convites sino con la\nfantasía, en la cual nos representa el demonio las imágenes de todas\naquellas cosas que despues contamos que nos han sucedido: otros dicen\nque no, sino que verdaderamente vamos en cuerpo y en ánima, y entrambas\nopiniones tengo para mí que son verdaderas, puesto que nosotras no\nsabemos cuándo vamos de una ó de otra manera; porque todo lo que nos\npasa en la fantasía es tan intensamente, que no hay diferenciarlo de\ncuando vamos real y verdaderamente: algunas esperiencias desto han\nhecho los señores inquisidores con algunas de nosotras que han tenido\npresas, y pienso que han hallado ser verdad lo que digo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Quisiera yo, hijo, apartarme deste pecado, y para ello he hecho\nmis diligencias: héme acogido á ser hospitalera, curo á los pobres,\ny algunos se mueren que me dan á mí la vida con lo que me mandan, ó\ncon lo que se les queda entre los remiendos, por el cuidado que yo\ntengo de espulgarlos los vestidos; rezo poco y en público, murmuro\nmucho y en secreto; vame mejor con ser hipócrita, que con ser pecadora\ndeclarada: las apariencias de mis buenas obras presentes van borrando\nen la memoria de los que me conocen las malas obras pasadas. En efeto,\nla santidad fingida no hace daño á ningun tercero, sino al que la usa.\nMira, hijo Montiel, este consejo te doy, que seas bueno en todo cuanto\npudieres, y si has de ser malo, procura no parecerlo en todo cuanto\npudieres: bruja soy, no te lo niego, bruja y hechicera fué tu madre,\nque tampoco te lo puedo negar; pero las buenas apariencias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 54,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "86707d5eecac52e22db356e7921e60b3fe7d4eb3c222bfc13c44d9253cbb23e8",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " de las dos\npodian acreditarnos en todo el mundo: tres dias ántes que muriese\nhabíamos estado las dos en un valle de los montes Pirineos en una\ngran jira; y con todo eso, cuando murió fué con tal sosiego y reposo,\nque si no fueron algunos visajes que hizo un cuarto de hora ántes que\nrindiese el alma, no parecia sino que estaba en aquella cama como en\nun tálamo de flores: llevaba atravesados en el corazon sus dos hijos,\ny nunca quiso, aun en el artículo de la muerte, perdonar á la Camacha;\ntal era ella de entera y firme en sus cosas: yo le cerré los ojos, y\nfuí con ella hasta la sepultura: allí la dejé para no verla mas, aunque\nno tengo perdida la esperanza de verla ántes que muera, porque se ha\ndicho por el lugar que la han visto algunas personas andar por los\ncimenterios y encrucijadas en diferentes figuras, y quizá alguna vez la\ntroparé yo, y le preguntaré si manda que haga alguna cosa en descargo\nde su conciencia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Cada cosa destas que la vieja me decia en alabanza de la que decia ser mi madre, era\nuna lanzada que me atravesaba el corazon, y quisiera arremeter á ella\ny hacerla pedazos entre los dientes; y si lo dejé de hacer fué porque\nno le tomase la muerte en tan mal estado. Finalmente, me dijo que\naquella noche pensaba untarse para ir á uno de sus usados convites, y\nque cuando allá estuviese pensaba preguntar á su dueño algo de lo que\nestaba por sucederme. Quisiérale yo preguntar qué unturas eran aquellas\nque decia, y parece que me leyó el deseo, pues respondió á mi intencion\ncomo si se lo hubiera preguntado, pues dijo:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 55,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "a71913653b0bb5837c1c35a799f1fe118449507d12e928325873ec0e7b1eb0c1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Este ungüento con que las brujas nos untamos, es compuesto de\njugos de yerbas en todo estremo frios, y no es como dice el vulgo,\nhecho con la sangre de los niños que ahogamos. Aquí pudieras tambien\npreguntarme qué gusto ó provecho saca el demonio de hacernos matar las\ncriaturas tiernas, pues sabe que estando bautizadas, como inocentes y\nsin pecado se van al cielo, y él recibe pena particular con cada alma\ncristiana que se le escapa: á lo que no te sabré responder otra cosa,\nsino lo que dice el refran; que tal hay que se quiebra dos ojos, porque\nsu enemigo se quiebre uno, y por la pesadumbre que da á sus padres,\nmatándoles los hijos, que es la mayor que se puede imaginar; y lo que\nmas le importa es hacer que nosotras cometamos á cada paso tan cruel\ny perverso pecado: y todo esto lo permite Dios por nuestros pecados,\nque sin su permision yo he visto por esperiencia que no puede ofender\nel diablo á una hormiga; y es tan verdad esto, que rogándole yo una\nvez que destruyese una viña de un mi enemigo, me respondió que ni\naun tocar á una hoja della podia, porque Dios no queria; por lo cual\npodrás venir á entender, cuando seas hombre, que todas las desgracias\nque vienen á las gentes, á los reinos, á las ciudades y á los pueblos,\nlas muertes repentinas, los naufragios, las caidas; en fin, todos los\nmales que llaman de daño, vienen de la mano del Altísimo y de voluntad\npermitente: y los daños y males que llaman de culpa, vienen y se\ncausan por nosotros mismos. Dios es impecable, de do se infiere que\nnosotros somos autores del pecado, formándole en la intencion, en la\npalabra y en la obra: todo permitiéndolo Dios por nuestros pecados,\ncomo ya he dicho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 56,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "866f23c3ba5082aab683d495c36a28a159a77e19c978ee5152af3ae2cd27f93b",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Dirás tú ahora, hijo, si es que acaso me entiendes,\nque ¿quién me hizo á mi teóloga? y aun quizá entre tí: ¡cuerpo de tal\ncon la puta vieja! ¿por qué no deja de ser bruja, pues sabe tanto, y\nse vuelve á Dios, pues sabe que está mas pronto á perdonar pecados,\nque á permitirlos? Á esto te respondo como si me lo preguntaras, que\nla costumbre del vicio se vuelve en naturaleza, y este de ser brujas\nse convierte en sangre y carne, y en medio de su ardor, que es mucho,\ntrae un frio que pone\nel alma tal, que la resfría y entorpece aun en la fe, de donde nace\nun olvido de sí misma, y ni se acuerda de los temores con que Dios la\namenaza, ni de la gloria con que la convida; y en efeto, como es pecado\nde carne y de deleites, es fuerza que amortigüe todos los sentidos, y\nlos embelese y absorte, sin dejarlos usar sus oficios como deben; y\nasí quedando el alma inútil, floja y desmazalada, no puede levantar la\nconsideracion siquiera á tener algun buen pensamiento; y así dejándose\nestar sumida en la profunda sima de su miseria, no quiere alzar la mano\ná la de Dios, que se la está dando por sola su misericordia, para que\nse levante: yo tengo una destas almas que te he pintado, todo lo veo\ny todo lo entiendo; y como el deleite me tiene echados grillos á la\nvoluntad, siempre he sido y seré mala."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 57,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "844dbc18ac3ebac4f0e6408127bf13230558e23d2f52bbcbd0d5b958f8c295ba",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Pero dejemos esto, y volvamos á lo de las unturas, y digo, que\nson tan frias, que nos privan de todos los sentidos en untándonos\ncon ellas, y quedámos tendidas y desnudas en el suelo, y entónces\ndicen que en la fantasía pasamos todo aquello que nos parece pasar\nverdaderamente. Otras veces acabadas de untar, á nuestro parecer\nmudamos forma, y convertidas en gallos, lechuzas ó cuervos, vamos al\nlugar donde nuestro dueño nos espera, y allí cobramos nuestra primera\nforma, y gozamos de los deleites, que te dejo de decir por ser tales,\nque la memoria se escandaliza en acordarse dellos, y así la lengua\nhuye de contarlos; y con todo esto soy bruja, y cubro con la capa de\nla hipocresía todas mis muchas faltas: verdad es que si algunos me\nestiman y honran por buena, no faltan muchos que me dicen no dos dedos\ndel oido el nombre de las fiestas, que es el que nos imprimió la furia\nde un juez colérico, que en los tiempos pasados tuvo que ver conmigo y\ncon tu madre, depositando su ira en las manos de un verdugo, que por\nno estar sobornado usó de toda su plena potestad y rigor con nuestras\nespaldas; pero esto ya pasó, y todas las cosas se pasan, las memorias\nse acaban, las vidas no vuelven, las lenguas se cansan, los sucesos\nnuevos hacen olvidar los pasados: hospitalera soy, buenas muestras doy\nde mi proceder, buenos ratos me dan mis unturas, no soy tan vieja que\nno pueda vivir un año, puesto que tengo setenta y cinco: y ya que no\npuedo ayunar por la edad, ni rezar por los vaguidos, andar romerías\npor la flaqueza de mis piernas, ni dar limosna porque soy pobre, ni\npensar en bien porque soy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 58,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "bbb80820048437fb96846e25abb3d8c49c36ff3726b7e0e8c5340363f0b9ef02",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " amiga de murmurar, y para haberlo de hacer es\nforzoso pensarlo primero; así que siempre mis pensamientos han de ser\nmalos: con todo esto, sé que Dios es bueno y misericordioso, y que él\nsabe lo que ha de ser de mí, y basta, y quédese aquí esta plática, que\nverdaderamente me entristece: ven, hijo, y verásme untar, que todos los\nduelos con pan son\nménos: el buen dia meterle en casa, pues miéntras se rie, no se llora:\nquiero decir, que aunque los gustos que nos da el demonio son aparentes\ny falsos, todavía nos parecen gustos, y el deleite mucho mayor es\nimaginado, que gozado, aunque en los verdaderos gustos debe de ser al\ncontrario."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Levantóse en diciendo esta larga arenga, y tomando el candil, se\nentró en otro aposentillo mas estrecho: seguíla, combatido de mil\nvarios pensamientos, y admirado de lo que habia oido y de lo que\nesperaba ver. Colgó la Cañizares el candil en la pared, y con mucha\npriesa se desnudó hasta la camisa, y sacando de un rincon una olla\nvidriada, metió en ella la mano, y murmurando entre dientes, se untó\ndesde los piés á la cabeza, que tenia sin toca: ántes que se acabase\nde untar me dijo, que ora se quedase su cuerpo en aquel aposento sin\nsentido, ora desapareciese dél, que no me espantase, ni dejase de\naguardar allí hasta la mañana, porque sabria las nuevas de lo que me\nquedaba por pasar hasta ser hombre. Díjele bajando la cabeza, que sí\nharia, y con esto acabó su untura, y se tendió en el suelo como muerta:\nllegué mi boca á la suya, y vi que no respiraba poco ni mucho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 59,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "27a26abea0be53ee51151cbda71f191348f9e49ea03c330abf3c1b3da1f117e6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Una verdad te quiero confesar, Cipion amigo, que me dió gran temor\nverme encerrado en aquel estrecho aposento con aquella figura delante,\nla cual te la pintaré como mejor supiere. Ella era larga de mas de\nsiete piés; toda era notomía de huesos, cubiertos con una piel negra,\nvellosa y curtida; con la barriga, que era de badana, se cubria las\npartes deshonestas, y aun le colgaba hasta la mitad de los muslos:\nlas tetas semejaban dos vejigas de vaca secas y arrugadas, denegridos\nlos labios, traspillados los dientes, la nariz corva y entablada,\ndesencajados los ojos, la cabeza desgreñada, las mejillas chupadas,\nangosta la garganta y los pechos sumidos: finalmente, toda era flaca y\nendemoniada. Púseme despacio á mirarla, y apriesa comenzó á apoderarse\nde mí el miedo, considerando la mala vision de su cuerpo y la peor\nocupacion de su alma: quise morderla por ver si volvia en sí, y no\nhallé parte en toda ella, que el asco no me lo estorbase; pero con todo\neso, la así de un carcaño, y la saqué arrastrando al patio, mas ni por\nesto dió muestras de tener sentido. Allí con mirar el cielo y verme en\nparte ancha se me quitó el temor, á lo ménos se templó de manera, que\ntuve ánimo de esperar á ver en lo que paraba la ida y vuelta de aquella\nmala hembra, y lo que me contaba de mis sucesos. En esto me preguntaba\nyo á mí mismo: ¿quién hizo á esta mala vieja tan discreta y tan mala?\n¿De dónde sabe ella cuáles son males de daño y cuáles de culpa? ¿Cómo\nentiende y habla tanto de Dios, y obra tanto del diablo? ¿Cómo peca\ntan de malicia, no\nescusándose con ignorancia?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 60,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "66a8dee7549114869dea097af70d518d600843b4d1c66e2a16233fdb28ea124d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»En estas consideraciones se pasó la noche, y se vino el dia, que\nnos halló á los dos en mitad del patio: ella no vuelta en sí, y á mí\njunto á ella en cuclillas, atento mirando su espantosa y fea catadura.\nAcudió la gente del hospital, y viendo aquel retablo, unos decian: Ya\nla bendita Cañizares es muerta, mirad cuán desfigurada y flaca la tenia\nla penitencia: otros mas considerados la tomaron el pulso, y vieron que\nle tenia, y que no era muerta, por do se dieron á entender que estaba\nen éstasis y arrobada de puro buena: otros hubo que dijeron: Esta puta\nvieja sin duda debe de ser bruja, y debe de estar untada, que nunca los\nsantos hacen tan deshonestos arrobos, y hasta ahora, entre los que la\nconocemos, mas fama tiene de bruja que de santa: curiosos hubo, que se\nllegaron á hincarle alfileres por las carnes desde la punta hasta la\ncabeza; ni por eso recordaba la dormilona, ni volvió en sí hasta las\nsiete del dia, y como se sintió acribada de los alfileres y mordida de\nlos carcañares, y magullada del arrastramiento fuera de su aposento,\ny á vista de tantos ojos que la estaban mirando, creyó, y creyó la\nverdad, que yo habia sido el autor de su deshonra: y así arremetió á mí\ny echándome ambas manos á la garganta, procuraba ahogarme, diciendo: Oh\nbellaco, desagradecido, ignorante y malicioso, y ¿es este el pago que\nmerecen las buenas obras que á tu madre hice, y de las que te pensaba\nhacer á tí? Yo que me vi en peligro de perder la vida entre las uñas de\naquella fiera arpía, sacudíme, y asiéndola de las luengas faldas de su\nvientre, la zamarreé y arrastré por todo el patio, y ella daba voces,\nque la librasen de los dientes de aquel maligno espíritu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 61,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "b2a1b62fbb8fb1399994e0d9757d060f7b27366ef39e3746fb357a6c3d34d453",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Con estas razones de la mala vieja, creyeron los mas que yo debia\nde ser algun demonio de los que tienen ojeriza continua con los buenos\ncristianos, y unos acudieron á echarme agua bendita, otros no osaban\nllegar á quitarme, otros daban voces que me conjurasen, la vieja\ngruñia, yo apretaba los dientes, crecia la confusion, y mi amo, que\nya habia llegado al ruido, se desesperaba, oyendo decir que yo era\ndemonio: otros, que no sabian de exorcismos, acudieron á tres ó cuatro\ngarrotes, con los cuales comenzaron á santiguarme los lomos: escocióme\nla burla, solté la vieja, y en tres saltos me puse en la calle; y en\npocos mas salí de la villa perseguido de una infinidad de muchachos que\niban á grandes voces diciendo: Apártense, que rabia el perro sabio.\nOtros decian: No rabia, sino que es demonio en figura de perro. Con\neste molimiento á campana herida salí del pueblo, siguiéndome muchos\nque indubitablemente creyeron que era demonio, así por las cosas\nque me habian visto hacer, como por las palabras que la vieja dijo\ncuando despertó de su maldito sueño: díme tanta priesa á huir y á quitarme delante de sus\nojos, que creyeron que me habia desparecido como demonio: en seis horas\nanduve doce leguas, y llegué á un rancho de jitanos, que estaba en un\ncampo junto á Granada: allí me reparé un poco, porque algunos de los\njitanos me conocieron por el perro sabio, y con no pequeño gozo me\nacogieron y escondieron en una cueva, porque no me hallasen si fuese\nbuscado, con intencion, á lo que despues entendí, de ganar conmigo,\ncomo lo hacia el atambor mi amo. Veinte dias estuve con ellos, en los\ncuales supe y noté su vida y costumbres, que por ser notables, es\nforzoso que te las cuente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 62,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "ea29dadc8bc7d787beee7d9ee94de34f92fef8c66f95b186bed721f70821533d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Antes, Berganza, que\npases adelante, es bien que reparemos en lo que te dijo la bruja, y\naverigüemos si puede ser verdad la grande mentira á quien das crédito.\nMira, Berganza: grandísimo disparate seria creer que la Camacha mudase\nlos hombres en bestias, y que el sacristan en forma de jumento la\nsirviese los años que dicen que la sirvió: todas estas cosas y las\nsemejantes son embelecos, mentiras ó apariencias del demonio; y si á\nnosotros nos parece ahora que tenemos algun entendimiento y razon,\npues hablamos siendo verdaderamente perros, ó estando en su figura, ya\nhemos dicho que este es caso portentoso y jamas visto, y que aunque le\ntocamos con las manos, no le habemos de dar crédito hasta tanto que\nel suceso dél nos muestre lo que conviene que creamos. ¿Quiéreslo ver\nmas claro? Considera en qué vanas cosas y en cuán tontos puntos dijo\nla Camacha que consistia nuestra restauracion, y aquellas que á tí te\ndeben parecer profecías no son sino palabras de consejas ó cuentos\nde viejas, como aquellos del caballo sin cabeza, y de la varilla de\nvirtudes, con que se entretienen al fuego las dilatadas noches del\ninvierno, porque á ser otra cosa ya estaban cumplidas; si no es que\nsus palabras se han de tomar en un sentido, que he oido decir se llama\nalegórico, el cual sentido no quiere decir lo que la letra suena, sino\notra cosa, que aunque diferente, le haga semejanza, y así, decir:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Volverán en su forma verdadera,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cuando vieren con presta diligencia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Derribar los soberbios levantados,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y alzar á los humildes abatidos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Con poderosa mano para hacello:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 63,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "c4bb3eaa7394f233212ef1d5acff2c80d2d3ccc98abf4291488da59dd9f5bc1a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Tomándolo en el sentido que he dicho, paréceme que\nquiere decir que cobraremos nuestra forma, cuando viéremos que los\nque ayer estaban en la cumbre de la rueda de fortuna, hoy están\nhollados y abatidos á los piés de la desgracia y tenidos en poco de\naquellos que mas los estimaban: y asimismo cuando viéremos que otros\nque no há dos horas que no tenian deste mundo otra parte que servir\nen él de número que\nacrecentase el de las gentes, y ahora están tan encumbrados sobre\nla buena dicha, que los perdemos de vista; y si primero no parecian\npor pequeños y encogidos, ahora no los podemos alcanzar por grandes\ny levantados: y si en esto consistiera volver nosotros á la forma\nque dices, ya lo hemos visto y lo vemos á cada paso, por do me doy á\nentender que no en el sentido alegórico, sino en el literal se han de\ntomar los versos de la Camacha; ni tampoco en este consiste nuestro\nremedio, pues muchas veces hemos visto lo que dicen, y nos estamos\ntan perros como ves: así que, la Camacha fué burladora falsa, y la\nCañizares embustera, y la Montiela tonta, maliciosa y bellaca, con\nperdon sea dicho, si acaso es nuestra madre de entrambos, ó tuya, que\nyo no la quiero tener por madre. Digo pues que el verdadero sentido\nes un juego de bolos, donde con presta diligencia derriban los que\nestán en pié, y vuelven á alzar los caidos, y esto por la mano de\nquien lo puede hacer. Mira pues si en el discurso de nuestra vida\nhabremos visto jugar á los bolos, y si hemos visto por esto haber\nvuelto á ser hombres, si es que lo somos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 64,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "603950e188bed381bed66336c4408ece947a93a8f1b6064eb39f953d743c5623",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Digo que tienes razon,\nCipion hermano, y que eres mas discreto de lo que pensaba; y de lo\nque has dicho vengo á pensar y creer que todo lo que hasta aquí hemos\npasado, y lo que estamos pasando, es sueño, y que somos perros; pero\nno por esto dejemos de gozar deste bien de la habla que tenemos y de\nla escelencia tan grande de tener discurso humano todo el tiempo que\npudiéremos; y así no te canse el oirme contar lo que me pasó con los\njitanos que me escondieron en la cueva."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  De buena gana te escucho\npor obligarte á que me escuches, cuando te cuente, si el cielo fuere\nservido, los sucesos de mi vida."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  La que tuve con los\njitanos fué considerar en aquel tiempo sus muchas malicias, sus\nembaimientos y embustes, los hurtos en que se ejercitan así jitanas\ncomo jitanos desde el punto casi que salen de las mantillas y saben\nandar: ¿ves la multitud que hay dellos esparcida por España? pues\ntodos se conocen y tienen noticia los unos de los otros, y trasiegan y\ntrasponen los hurtos destos en aquellos, y los de aquellos en estos:\ndan la obediencia mejor que á su rey, á uno que llaman conde, el cual\ny todos los que dél suceden, tienen el sobrenombre de Maldonado; y no\nporque vengan del apellido deste noble linaje, sino porque un paje de\nun caballero deste nombre se enamoró de una jitana muy hermosa, la\ncual no le quiso conceder su amor si no se hacia jitano y la tomaba\npor mujer: hízolo así el paje, y agradó tanto á los demas jitanos,\nque le alzaron por señor, y le dieron la obediencia; y como en señal de vasallaje le\nacuden con parte de los hurtos que hacen, como sean de importancia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 65,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "39fa53960ed00bf78b5322e7cc66f5a889f3bf2f6670312d1cadc106ce9e60e1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\nOcúpanse, por dar color á su ociosidad, en labrar cosas de hierro,\nhaciendo instrumentos con que facilitan sus hurtos; y así los verás\nsiempre traer á vender por las calles, tenazas, barrenas, martillos, y\nellas, trébedes y badiles: todas ellas son parteras, y en esto llevan\nventaja á las nuestras, porque sin costa ni adherentes sacan sus partos\ná luz y lavan criaturas con agua fria en naciendo; y desde que nacen\nhasta que mueren se curten y muestran á sufrir las inclemencias y\nrigores del cielo; y así verás que todos son alentados, volteadores,\ncorredores y bailadores: cásanse siempre entre ellos, porque no salgan\nsus malas costumbres á ser conocidas de otros: ellas guardan el decoro\ná sus maridos, y pocas hay que les ofendan con otros que no sean de\nsu generacion: cuando piden limosna, mas la sacan con invenciones\ny chocarrerías que con devociones, y á título que no hay quien se\nfie dellas, no sirven, y dan en ser holgazanas; y pocas ó ninguna\nvez he visto, si mal no me acuerdo, ninguna jitana al pié del altar\ncomulgando, puesto que muchas veces he entrado en las iglesias: son\nsus pensamientos imaginar cómo han de engañar y dónde han de hurtar:\nconfieren sus hurtos y el modo que tuvieron en hacellos: y así un\ndia contó un jitano delante de mí á otros un engaño y hurto que un\ndia habia hecho á un labrador: y fué que el jitano tenia un asno\nrabon, y en el pedazo de la cola que tenia sin cerdas le ingirió otra\npeluda, que parecia ser suya natural: sacóle al mercado, comprósele\nun labrador por diez ducados, y en habiéndosele vendido y cobrado el\ndinero, le dijo que si queria comprarle otro asno hermano del mismo,\ny tan bueno como el que llevaba, que se le venderia por mas buen\nprecio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 66,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "071c9efe9a66632b963b6cd56a533717a0f2577aa85dbf1404ffae4e18fade0c",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Respondióle el labrador que fuese por él y le trujese, que él\nse le compraria, y que en tanto que volviese llevaria el comprado á\nsu posada. Fuése el labrador, siguióle el jitano, y sea como sea, el\njitano tuvo maña de hurtar al labrador el asno que le habia vendido, y\nal mismo instante le quitó la cola postiza y quedó con la suya pelada:\nmudóle la albarda y jáquima, y atrevióse á ir á buscar al labrador\npara que se le comprase: hallóle ántes que hubiese echado ménos el\nasno primero; y á pocos lances compró el segundo: fuésele á pagar á la\nposada, donde halló ménos la bestia á la bestia; y aunque lo era mucho,\nsospechó que el jitano se le habia hurtado, y no queria pagarle: acudió\nel jitano por testigos, y trujo á los que habian cobrado la alcabala\ndel primer jumento, y juraron que el jitano habia vendido al labrador\nun asno con una cola muy larga y muy diferente del asno segundo que\nvendia. Á todo esto se halló presente un alguacil, que hizo las partes del jitano con\ntantas veras, que el labrador hubo de pagar el asno dos veces. Otros\nmuchos hurtos contaron, y todos ó los mas de bestias, en quien son\nellos graduados, y en lo que mas se ejercitan. Finalmente, ella es mala\ngente, y aunque muchos y muy prudentes jueces han salido contra ellos,\nno por eso se enmiendan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 67,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "d110afd1432a4d2ed5fae4d46d13acb9fa30d0da126ddc47ed1a5170b6dc67ac",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Al cabo de veinte dias me quisieron llevar á Murcia: pasé por\nGranada, donde ya estaba el capitan, cuyo atambor era mi amo: como\nlos jitanos lo supieron, me encerraron en un aposento del meson donde\nvivian: oíles decir la causa, no me pareció bien el viaje que llevaban,\ny así determiné soltarme como lo hice, y saliéndome de Granada, di en\nuna huerta de un morisco que me acogió de buena voluntad, y yo quedé\ncon mejor, pareciéndome que no me queria para mas que para guardarle la\nhuerta, oficio á mi cuenta de ménos trabajo que el de guardar ganado; y\ncomo no habia allí altercar sobre tanto mas cuanto al salario, fué cosa\nfácil hallar el morisco criado á quien mandar, y yo amo á quien servir.\nEstuve con él mas de un mes, no por el gusto de la vida que tenia, sino\npor el que me daba saber la de mi amo, y por ella la de todos cuantos\nmoriscos viven en España. ¡Oh cuántas y cuáles cosas te pudiera decir,\nCipion amigo, desta morisca canalla, si no temiera no poderlas dar fin\nen dos semanas! Y si las hubiera de particularizar, no acabara en dos\nmeses; mas en efeto habré de decir algo, y así oye en general lo que yo\nvi y noté en particular desta buena gente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 68,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "c0138d91cfed34b0eef0f5416e9c5f1255efe069fe555c2c454b83e5abcc113d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Por maravilla se hallará entre tantos uno que crea derechamente en\nla sagrada ley cristiana: todo su intento es acuñar y guardar dinero\nacuñado, y para conseguirle trabajan y no comen: en entrando el real\nen su poder, como no sea sencillo le condenan á cárcel perpetua y á\nescuridad eterna: de modo que ganando siempre, y gastando nunca, llegan\ny amontonan la mayor cantidad de dinero que hay en España: ellos son\nsu hucha, su polilla, sus picazas y sus comadrejas: todo lo allegan,\ntodo lo esconden y todo lo tragan: considérese que ellos son muchos y\nque cada dia ganan y esconden poco ó mucho, y que una calentura lenta\nacaba la vida como la de un tabardillo, y como van creciendo se van\naumentando los escondedores, que crecen y han de crecer en infinito,\ncomo la esperiencia lo muestra: entre ellos no hay castidad ni entran\nen religion ellos ni ellas: todos se casan, todos multiplican,\nporque el vivir sobriamente aumenta las causas de la generacion; no\nlos consume la guerra, ni ejercicio que demasiadamente los trabaje;\nróbannos á pié quedo, y con los frutos de nuestras heredades que\nnos revenden se hacen ricos; no tienen criados, porque todos lo son\nde sí mismos; no gastan con sus hijos en los estudios, porque su ciencia no es otra\nque la del robarnos: de los doce hijos de Jacob que he oido decir\nque entraron en Egipto, cuando los sacó Moysen de aquel cautiverio,\nsalieron seiscientos mil varones sin niños y mujeres: de aquí se podrá\ninferir lo que multiplicarán las destos, que sin comparacion son en\nmayor número."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 69,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "ee20b934ec657f8d43aca3f72106c49fb41e8f0c97986c9fc00e9b1159e03614",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Buscado se ha remedio para\ntodos los daños que has apuntado y bosquejado en sombra, que bien sé\nque son mas y mayores los que callas, que los que cuentas, y hasta\nahora no se ha dado con el que conviene; pero celadores prudentísimos\ntiene nuestra república, que considerando que España cria y tiene en su\nseno tantas víboras como moriscos, ayudados de Dios hallarán á tanto\ndaño cierta, presta y segura salida: dí adelante."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Como mi amo era mezquino,\ncomo lo son todos los de su casta, sustentábame con pan de mijo, y\ncon algunas sobras de zahinas, comun sustento suyo; pero esta miseria\nme ayudó á llevar el cielo por un modo tan estraño, como el que ahora\noirás. Cada mañana juntamente con el alba amanecia sentado al pié de\nun granado, de muchos que en la huerta habia, un mancebo al parecer\nestudiante, vestido de bayeta, no tan negra ni tan peluda, que no\npareciese parda y tundida: ocupábase en escribir en un cartapacio, y de\ncuando en cuando se daba palmadas en la frente, y se mordia las uñas,\nestando mirando al cielo: y otras veces se ponia tan imaginativo, que\nno movia pié ni mano, ni aun las pestañas: tal era su embelesamiento.\nUna vez me llegué junto á él sin que me echase de ver: oíle murmurar\nentre dientes, y al cabo de un buen espacio dió una gran voz, diciendo:\nVive el Señor, que es la mejor octava que he hecho en todos los dias de\nmi vida; y escribiendo á priesa en su cartapacio, daba muestras de gran\ncontento: todo lo cual me dió á entender que el desdichado era poeta:\nhícele mis acostumbradas caricias, por asegurarle de mi mansedumbre:\nechéme á sus piés, y él con seguridad prosiguió en sus pensamientos,\ny tornó á rascarse la cabeza, y á sus arrobos, y á volver á escribir\nlo que habia pensado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 70,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "1df0ba1460b493393eb0f7be2b0df1b365e7f62e529641e12065cb56619fd899",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Estando en esto entró en la huerta otro mancebo\ngalan y bien aderezado, con unos papeles en la mano, en los cuales de\ncuando en cuando leia: llegó donde estaba el primero, y díjole: ¿Habeis\nacabado la primera jornada? Ahora le di fin, respondió el poeta, lo\nmas gallardamente que imaginarse puede. ¿De qué manera? preguntó el\nsegundo. Desta, respondió el primero. Sale su Santidad el papa vestido\nde pontifical, con doce cardenales, todos vestidos de morado, porque\ncuando sucedió el caso que cuenta la historia de mi comedia, era\ntiempo de "
+            },
+            {
+              "text": "mutatio caparum",
+              "italic": true
+            },
+            {
+              "text": ", en el cual los\ncardenales no se visten de rojo, sino de morado; y así en todas maneras conviene para guardar\nla propiedad, que estos mis cardenales salgan de morado, y este es un\npunto que hace mucho al caso para la comedia, y á buen seguro dieran\nen él, y así hacen á cada paso mil impertinencias y disparates: yo no\nhe podido errar en esto, porque he leido todo el ceremonial romano por\nsolo acertar en estos vestidos. ¿Pues de dónde quereis vos, replicó\nel otro, que tenga mi autor vestidos morados para doce cardenales?\nPues si me quita uno tan solo, respondió el poeta, así le daré yo mi\ncomedia, como volar: ¡cuerpo de tal! ¿esta apariencia tan grandiosa se\nha de perder? Imaginad vos desde aquí lo que parecerá en un teatro un\nsumo pontífice con doce graves cardenales, y con otros ministros de\nacompañamiento que forzosamente han de traer consigo: ¡vive el cielo\nque sea uno de los mayores y mas altos espectáculos, que se haya visto\nen comedia, aunque sea la del "
+            },
+            {
+              "text": "Ramillete de Daraja",
+              "italic": true
+            },
+            {
+              "text": "!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 71,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "0cb2cbffa350bcdd4e3d09b79ed194575e702ee8fe05fd8c5c9dddbd8fab477d",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Aquí acabé de entender que el uno era poeta, y el otro comediante.\nEl comediante aconsejó al poeta que cercenase algo de los cardenales,\nsi no queria imposibilitar al autor el hacer la comedia. Á lo que\ndijo el poeta, que le agradeciesen que no habia puesto todo el\ncónclave que se halló junto al acto memorable que pretendia traer á la\nmemoria de las gentes en su felicísima comedia. Riyóse el recitante,\ny dejóle en su ocupacion, por irse á la suya, que era estudiar un\npapel de una comedia nueva. El poeta, despues de haber escrito\nalgunas coplas de su magnífica comedia, con mucho sosiego y espacio\nsacó de la faldriquera algunos mendrugos de pan, y obra de veinte\npasas, que á mi parecer entiendo que se las conté, y aun estoy en\nduda si eran tantas, porque juntamente con ellas hacian bulto ciertas\nmigajas de pan, que las acompañaban: sopló y apartó las migajas, y\nuna á una se comió las pasas y los palillos, porque no le vi arrojar\nninguno, ayudándolas con los mendrugos, que morados con la borra de\nla faldriquera, parecian mohosos, y eran tan duros de condicion, que\naunque él procuró enternecerlos, paseándolos por la boca una y muchas\nveces, no fué posible moverlos de su terquedad: todo lo cual redundó\nen mi provecho, porque me los arrojó diciendo: To to, toma, que buen\nprovecho te hagan. Mirad, dije entre mí, que néctar ó ambrosía me\nda este poeta, de los que ellos dicen que se mantienen los dioses y\nsu Apolo allá en el cielo: en fin, por la mayor parte grande es la\nmiseria de los poetas; pero mayor era mi necesidad, pues me obligó\ná comer lo que él desechaba."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 72,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "5afc5ce1cd9558e09e809492f68e4a45748d034ae0a556088e24b1194215d71e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " En tanto que duró la composicion de su\ncomedia, no dejó de venir á la huerta, ni á mí me faltaron mendrugos,\nporque los repartia conmigo con mucha liberalidad, y luego nos íbamos\ná la noria, donde\nyo de bruces y él con un cangilon satisfacíamos la sed, como unos\nmonarcas. Pero faltó el poeta, y sobró en mí la hambre tanto, que\ndeterminé dejar al morisco, y entrarme en la ciudad á buscar ventura,\nque la halla el que se muda. Al entrar en la ciudad vi que salia del\nfamoso monasterio de San Jerónimo mi poeta, que como me vió, se vino\ná mí con los brazos abiertos, y yo me fuí á él con nuevas muestras de\nregocijo por haberle hallado: luego al instante comenzó á desembaular\npedazos de pan mas tiernos de los que solia llevar á la huerta, y á\nentregarlos á mis dientes, sin repasarlos por los suyos, merced que\ncon nuevo gusto satisfizo mi hambre. Los tiernos mendrugos, y el haber\nvisto salir á mi poeta del monasterio dicho, me pusieron en sospecha\nde que tenia las musas vergonzantes, como otros muchos las tienen.\nEncaminóse á la ciudad, y yo le seguí con determinacion de tenerle\npor amo, si él quisiese, imaginando que de las sobras de su castillo\nse podia mantener mi real, porque no hay mayor ni mejor bolsa que la\ncaridad, cuyas liberales manos jamas están pobres; y así no estoy\nbien con aquel refran, que dice: Mas da el duro que el desnudo, como\nsi el duro y avaro diese algo, como lo da el liberal desnudo, que\nen efeto da el buen deseo, cuando mas no tiene. De lance en lance\nparámos en la casa de un autor de comedias, que á lo que me acuerdo se\nllamaba Angulo el Malo, por distinguirle de otro Angulo, no autor sino\nrepresentante, el mas gracioso que entónces tuvieron y ahora tienen las\ncomedias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 73,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "3381bd0696dc4b191ea9b2ec2f5ddabc38c03788f5a5b3a8cf92064db39bd2f6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Juntóse toda la compañía á oir la comedia de mi amo, que ya\npor tal le tenia; y á la mitad de la jornada primera, uno á uno, y dos\ná dos se fueron saliendo todos, escepto el autor y yo que serviamos\nde oyentes. La comedia era tal, que con ser yo un asno en esto de\nla poesía, me pareció que la habia compuesto el mismo Satanas para\ntotal ruina y perdicion del mismo poeta, que ya iba tragando saliva,\nviendo la soledad en que el auditorio le habia dejado; y no era mucho,\nsi el alma présaga le decia allá dentro la desgracia que le estaba\namenazando, que fué volver todos los recitantes, que pasaban de doce,\ny sin hablar palabra, asieron de mi poeta, y si no fuera porque la\nautoridad del autor llena de ruegos y voces se puso de por medio, sin\nduda le mantearan. Quedé yo del caso como pasmado, el autor desabrido,\nlos farsantes alegres, y el poeta mohino, el cual con mucha paciencia,\naunque algo torcido el rostro, tomó su comedia, y encerrándosela en\nel seno, medio murmurando dijo: No es bien echar las margaritas á los\npuercos, y sin decir mas palabra, se fué con mucho sosiego: yo de\ncorrido ni pude ni quise seguirle, y acertélo, á causa que el autor\nme hizo tantas caricias, que me obligaron á que con él me quedase, y en ménos de un mes\nsalí grande entremesista y gran farsante de figuras mudas: pusiéronme\nun freno de orillos, y enseñáronme á que arremetiese en el teatro á\nquien ellos querian, de modo que como los entremeses solian acabar por\nla mayor parte en palos, en la compañía de mi amo acababan en zuzarme,\ny yo derribaba y atropellaba á todos, con que daba que reir á los\nignorantes, y mucha ganancia á mi dueño."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 74,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "06f32046b48dfb5533d2aa8a9ee62d5ddf9ec21b22c740d3990cfd7ca8ad8070",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " ¡Oh Cipion, quién te pudiera\ncontar lo que vi en esta y en otras dos compañías de comediantes en\nque anduve! mas por no ser posible reducirlo á narracion sucinta y\nbreve, lo habré de dejar para otro dia, si es que ha de haber otro dia\nen que nos comuniquemos. ¿Ves cuán larga ha sido mi plática? ¿Ves mis\nmuchos y diversos sucesos? ¿Consideras mis caminos y mis amos tantos\ncomo han sido? Pues todo lo que has oido es nada comparado á lo que te\npudiera contar de lo que noté, averigüé y vi desta gente, su proceder,\nsu vida, sus costumbres, sus ejercicios, su trabajo, su ociosidad, su\nignorancia y su agudeza, con otras infinitas cosas, una para decirse\nal oido, otras para aclamallas en público y todos para hacer memoria\ndellas, y para desengaño de muchos que idolatran en figuras fingidas, y\nen bellezas de artificio y de transformacion."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Bien se me trasluce,\nBerganza, el largo campo que se te descubria para dilatar tu plática, y\nsoy de parecer que la dejes para cuento particular, y para sosiego no\nsobresaltado."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Sea así, y escúchame\nahora un poco. Con una compañía llegué á esta ciudad de Valladolid,\ndonde en un entremes me dieron una herida, que me llevó casi al fin\nde la vida: no pude vengarme por estar enfrenado entónces, y despues\ná sangre fria no quise; que la venganza pensada arguye crueldad y mal\nánimo: cansóme aquel ejercicio, no por ser trabajo, sino porque veia\nen él cosas que juntamente pedian enmienda y castigo, y como á mí\nestaba mas el sentillo que el remediallo, acordé de no verlo, y así me\nacogí á sagrado, como hacen aquellos que dejan los vicios cuando no\npueden ejercitallos, aunque mas vale tarde que nunca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 75,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "34049cb365d7e0ee54a310a8390b0459b5780b59676166cf6b034907e77c2cad",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Digo pues que\nviéndote una noche llevar la linterna con el buen cristiano Mahudes,\nte consideré contento y justa y santamente ocupado, y lleno de buena\nenvidia quise seguir tus pasos, y con esta loable intencion me puse\ndelante de Mahudes, que luego me eligió para tu compañero, y me trujo\ná este hospital: lo que en él me ha sucedido no es tan poco, que no\nhaya menester espacio para contallo, especialmente lo que oí á cuatro\nenfermos que la suerte y la necesidad trujo á este hospital y á estar\ntodos cuatro juntos en cuatro camas apareadas: perdóname, porque el\ncuento es breve y no sufre dilacion, y viene aquí de molde."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Sí, perdono: concluye presto, que á\nlo que creo, no debe estar muy léjos el dia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Digo que en las cuatro\ncamas que están al cabo desta enfermería, en la una estaba un\nalquimista, en la otra un poeta, en la otra un matemático, y en la otra\nuno de los que llaman arbitristas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Ya me acuerdo haber visto á\nesa buena gente."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Digo pues que una siesta\nde las del verano pasado, estando cerradas las ventanas, y yo cogiendo\nel aire debajo de la cama del uno dellos, el poeta se comenzó á quejar\nlastimosamente de su fortuna; y preguntándole el matemático de qué se\nquejaba, respondió que de su corta suerte. ¿Cómo, y no será razon que\nme queje, prosiguió, que habiendo yo guardado lo que Horacio manda en\nsu "
+            },
+            {
+              "text": "Poética",
+              "italic": true
+            },
+            {
+              "text": ", que no salga á luz la obra que despues de compuesta no\nhayan pasado diez años por ella, y que tenga yo una de veinte años de\nocupacion y doce de pasante: grande en el sujeto, admirable y nueva\nen la invencion, grave en el verso,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 76,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "88e5f819cfa110dcc356620653fed329d60df48404e845467a081943e72aec4a",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " entretenida en los episodios,\nmaravillosa en la division, porque el principio responde al medio y\nal fin, de manera que constituyen el poema alto, sonoro, heróico,\ndeleitable y sustancioso, y que con todo esto no hallo un príncipe\ná quien dirigirle? ¡Príncipe, digo, que sea inteligente, liberal y\nmagnánimo! ¡Mísera edad y depravado siglo nuestro! ¿De qué trata el\nlibro? preguntó el alquimista. Respondió el poeta: Trata de lo que\ndejó de escribir el arzobispo Turpin del rey Artus de Ingalaterra,\ncon otro suplemento de la historia de la demanda del santo Grial, y\ntodo en verso heróico, parte en octava y parte en verso suelto; pero\ntodo esdrújulamente, digo, en esdrújulos de nombres sustantivos,\nsin admitir verbo alguno. Á mí, respondió el alquimista, poco se me\nentiende de poesía; y así no sabré poner en su punto la desgracia\nde que vuesa merced se queja, puesto que, aunque fuera mayor, no se\nigualaba á la mia, que es que por faltarme instrumento ó un príncipe\nque me apoye, y me dé á la mano los requisitos que la ciencia de la\nalquimia pide, no estoy ahora manando en oro, y con mas riquezas que\nlos Midas, que los Crasos y Cresos. ¿Ha hecho vuesa merced, dijo á\nesta sazon el matemático, señor alquimista, la esperiencia de sacar\nplata de otros metales? Yo, respondió el alquimista, no la he sacado\nhasta ahora; pero realmente sé que se saca, y á mí no me faltan dos\nmeses para acabar la piedra filosofal, con que se puede hacer plata\ny oro de las mismas piedras."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 77,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "ebafd0b394b1bfe21c820d3ed874855fe34aa555eda02e16680c7d9b8ec6c0b6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Bien han exagerado vuesas mercedes sus\ndesgracias, dijo á esta sazon el matemático; pero al fin, el uno tiene\nlibro que dirigir, y el otro está en potencia propincua de sacar la\npiedra filosofal, con que quedará tan rico como lo han quedado todos aquellos que han seguido\neste rumbo; mas ¿qué diré yo de la mia, que es tan sola, que no tiene\ndónde arrimarse? Veinte y dos años ha que ando tras hallar el punto\nfijo, y aquí lo dejo, y allí lo tomo, y pareciéndome que ya lo he\nhallado, y que no se me puede escapar en ninguna manera, cuando no me\ncato me hallo tan léjos dél, que me admiro: lo mismo me acaece con la\ncuadratura del círculo, que he llegado tan al remate de hallarla, que\nno sé ni puedo pensar cómo no la tengo ya en la faldriquera; y así es\nmi pena semejante á las de Tántalo, que está cerca del fruto, y muere\nde hambre; y propincuo al agua, y perece de sed: por momentos pienso\ndar en la coyuntura de la verdad, y por minutos me hallo tan léjos\ndella, que vuelvo á subir el monte que acabé de bajar con el canto de\nmi trabajo á cuestas, como otro nuevo Sísifo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "»Habia hasta este punto guardado silencio el arbitrista, y aquí\nle rompió diciendo: Cuatro quejosos, tales que lo pueden ser del\nGran Turco, ha juntado en este hospital la pobreza, y reniego yo de\noficios y ejercicios que ni entretienen ni dan de comer á sus dueños:\nyo, señores, soy arbitrista, y he dado á su Majestad en diferentes\ntiempos muchos y diferentes arbitrios, todos en provecho suyo y sin\ndaño del reino, y ahora tengo hecho un memorial donde le suplico me\nseñale persona con quien comunique un nuevo arbitrio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 78,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "ad4c839e46a66f2d1599d0d3ee246aa8e826b208c84c5a238d2cdde6c3399f69",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " que tengo, tal\nque ha de ser la total restauracion de sus empeños; pero por lo que\nme ha sucedido con los otros memoriales, entiendo que este tambien ha\nde parar en el carnero; mas, porque vuesas mercedes no me tengan por\nmentecato, aunque mi arbitrio quede desde este punto público, le quiero\ndecir, que es este. Hase de pedir en Cortes que todos los vasallos de\nsu Majestad, desde la edad de catorce á sesenta años, sean obligados\ná ayunar una vez en el mes á pan y agua, y esto ha de ser el dia que\nse escogiere y señalare, y que todo el gasto que en otros condumios\nde fruta, carne y pescado, vino, huevos y legumbres, se han de gastar\naquel dia, se reduzga á dinero, y se dé á su Majestad sin defraudalle\nun ardite, so cargo de juramento, y con esto en veinte años queda libre\nde socaliñas y desempeñado, porque si se hace la cuenta, como yo la\ntengo hecha, bien hay en España mas de tres millones de personas de\nla dicha edad, fuera de los enfermos, mas viejos ó mas muchachos, y\nninguno destos dejará de gastar, y esto contado al menorete, cada dia\nreal y medio, y yo quiero que sea no mas de un real, que no puede ser\nménos, aunque coma alholvas. Pues ¿paréceles á vuesas mercedes que\nseria barro tener cada mes tres millones de reales como ahechados? Y\nesto ántes seria provecho que daño á los ayunantes, porque con el ayuno\nagradarian al cielo y servirian á su rey, y tal podria ayunar que le fuese conveniente para\nsu salud. Este es el arbitrio limpio de polvo y de paja, y podríase\ncoger por parroquias sin costa de comisarios, que destruyen la\nrepública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 79,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "dd534194d562cc3dd03d5df4ce885f30b2c80fe25b2741f0676fe24fb3ae63a3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": " Riyéronse todos del arbitrio y del arbitrante, y él tambien\nse riyó de sus disparates, y yo quedé admirado de haberlos oido, y de\nver que por la mayor parte los de semejantes humores venian á morir en\nlos hospitales."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Tienes razon, Berganza:\nmira si te queda mas que decir."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Dos cosas no mas, con que\ndaré fin á mi plática, que ya me parece que viene el dia. Yendo una\nnoche mi mayor á pedir limosna en casa del corregidor desta ciudad,\nque es un gran caballero y muy gran cristiano, hallámosle solo, y\nparecióme á mí tomar ocasion de aquella soledad para decille ciertos\nadvertimientos que habia oido decir á un viejo enfermo deste hospital\nacerca de cómo se podia remediar la perdicion tan notoria de las mozas\nvagamundas, que por no servir dan en malas, y tan malas, que pueblan\nlos hospitales de los perdidos que las siguen, plaga intolerable y\nque pedia presto y eficaz remedio: digo que queriendo decírselo, alcé\nla voz, pensando que tenian habla, y en lugar de pronunciar razones\nconcertadas, ladré con tanta priesa y con tan levantado tono, que\nenfadado el corregidor, dió voces á sus criados que me echasen de la\nsala á palos, y un lacayo que acudió á la voz de su señor, que fuera\nmejor que por entónces estuviera sordo, asió de una cantimplora de\ncobre que le vino á la mano, y diómela tal en mis costillas, que hasta\nahora guardo las reliquias de aquellos golpes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  ¿Y quéjaste deso,\nBerganza?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Pues ¿no me tengo de\nquejar, si hasta ahora me duele, como he dicho, y si me parece que no\nmerecia tal castigo mi buena intencion?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 80,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "cff1ef085a30110f65c860b1b77175bf2acbaf45c6a97cbb051abb221aefd856",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Mira, Berganza, nadie se\nha de meter donde no lo llaman, ni ha de querer usar del oficio que\npor ningun caso le toca: y has de considerar que nunca el consejo del\npobre, por bueno que sea, fué admitido, ni el pobre humilde ha de tener\npresuncion de aconsejar á los grandes y á los que piensan que se lo\nsaben todo: la sabiduría en el pobre está asombrada, que la necesidad y\nmiseria son sombras y nubes que la escurecen, y si acaso se descubre,\nla juzgan por tontedad, y la tratan con menosprecio."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Tienes razon, y\nescarmentando en mi cabeza, de aquí adelante seguiré tus consejos.\nEntré asimismo otra noche en casa de una señora principal, la cual\ntenia en los brazos una perrita destas que llaman de falda, tan pequeña\nque se pudiera esconder en el seno, la cual cuando me vió, saltó de los brazos de\nsu señora, y arremetió á mí ladrando, y con tan gran denuedo, que no\nparó hasta morderme de una pierna. Volvíla á mirar con respeto y con\nenojo, y dije entre mí: si yo os cogiera, animalejo ruin, en la calle,\nó no hiciera caso de vos, ó os hiciera pedazos entre los dientes.\nConsideré en ella que hasta los cobardes y de poco ánimo son atrevidos\né insolentes cuando son favorecidos, y se adelantan á ofender á los que\nvalen mas que ellos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 81,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "4700de312ab4a4b74abd64e7ebc7098a1ee40ba452ae06fa815345ce0216b578",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Cipion.  Una muestra y señal desa\nverdad que dices, nos dan algunos hombrecillos que á la sombra de sus\namos se atreven á ser insolentes; y si acaso la muerte ó otro accidente\nde fortuna derriba el árbol donde se arriman, luego se descubre y\nmanifiesta su poco valor, porque en efecto no son de mas quilates sus\nprendas que los que les dan sus dueños y valedores: la virtud y el buen\nentendimiento siempre es una, y siempre es uno; desnudo ó vestido, solo\nó acompañado no ha menester apoyos ni necesita de amparos; por sí solo\nvale, sin que las grandes dichas le ensoberbezcan, ni las adversidades\nles desanimen; bien es verdad que puede padecer acerca de la estimacion\nde las gentes, mas no en la realidad verdadera de lo que merece y vale.\nY con esto pongamos fin á esta plática, que la luz que entra por estos\nresquicios muestra que es muy entrado el dia, y esta noche que viene,\nsi no nos ha dejado este grande beneficio de la habla, será la mia para\ncontarte mi vida."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Berganza.  Sea así, y mira que\nacudas á este mismo puesto, que yo fio en el cielo que nos ha de\nconservar el habla para decir las muchas verdades que ahora se nos\nquedan por falta de tiempo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "El acabar el coloquio el licenciado, y el despertar el\nalférez, fué todo á un tiempo, y el licenciado dijo:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Aunque este coloquio sea fingido, y nunca haya pasado, paréceme\nque está tan bien compuesto, que puede el señor alférez pasar\nadelante con el segundo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Con ese parecer, respondió el alférez, me animaré y dispondré á\nescribille, sin ponerme mas en disputas con vuesa merced, si hablaron\nlos perros ó no."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Á lo que dijo el licenciado:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "format": "bookfin.page.v1",
+      "work_id": "es-cervantes-el-coloquio-de-los-perros",
+      "edition_id": "project_gutenberg",
+      "page_sequence_number": 82,
+      "version": "2.0",
+      "language": "es",
+      "content_hash": "d8afada4004070efb8cd01b3c72d8b9296497481f04f4e4786cd82bbe4495b3e",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Señor alférez, no volvamos mas á esa disputa; yo alcanzo\nel artificio del coloquio y la invencion, y basta: vámonos al\nEspolon á recrear los ojos del cuerpo, pues ya he recreado los del\nentendimiento."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "—Vamos en buen hora, dijo el alférez."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "Y con esto se fueron."
+            }
+          ]
+        },
+        {
+          "type": "scene_break"
+        }
+      ]
+    }
+  ]
+}

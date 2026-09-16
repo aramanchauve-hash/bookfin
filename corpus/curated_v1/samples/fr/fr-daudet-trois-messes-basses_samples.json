@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-daudet-trois-messes-basses",
+  "author": "Alphonse Daudet",
+  "title": "Les trois messes basses",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 11,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 11,
+      "character_length": 1563,
+      "blocks_count": 11,
+      "preview": "LES TROIS MESSES BASSES.conte de noël.I— Deux dindes truffées, Garrigou ?… — Oui, mon révérend, deux dindes magnifiques bourrées de truffes. J’en sais quelque chose, puisque c’est moi qui ai aidé à les remplir. On aurait dit que leur peau allait craquer en rôtissant, tellement elle était tendue… — Jésus-Maria ! moi qui aime tant les truffes !… Donne-moi vite mon surplis, Garrigou… Et avec les dind...",
+      "content_hash": "27dd29a5a02c04ae8cca6f5d609459f7f7b41bba73ad0d200036ffe3cb914470"
+    },
+    "middle": {
+      "label": "Milieu (Page 6)",
+      "page_sequence_number": 6,
+      "total_pages": 11,
+      "character_length": 1466,
+      "blocks_count": 4,
+      "preview": "Ou bien encore il voit passer des files de pages portant des plats enveloppés de vapeurs tentantes, et avec eux il entre dans la grande salle déjà prête pour le festin. Ô délices ! voilà l’immense table toute chargée et flamboyante, les paons habillés de leurs plumes, les faisans écartant leurs ailes mordorées, les flacons couleur de rubis, les pyramides de fruits éclatants parmi les branches vert...",
+      "content_hash": "d360e747f8070b8cbf490cd5e16cd3c0b20b5e4d960a1a80a620a4ae869aa00a"
+    },
+    "end": {
+      "label": "Fin (Page 11)",
+      "page_sequence_number": 11,
+      "total_pages": 11,
+      "character_length": 1325,
+      "blocks_count": 2,
+      "preview": "Quand tout le monde fut entré, mon vigneron, qui était très brave, s’approcha doucement, et regardant par la porte cassée eut un singulier spectacle. Tous ces gens qu’il avait vus passer étaient rangés autour du chœur, dans la nef en ruine, comme si les anciens bancs existaient encore. De belles dames en brocart avec des coiffes de dentelle, des seigneurs chamarrés du haut en bas, des paysans en j...",
+      "content_hash": "c1b8e4a866ede3552ff4774b58bc294e2677bd6837f0b07bd02537e7dd6d6c9c"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "work_id": "fr-merimee-mateo-falcone",
+  "author": "Prosper Mérimée",
+  "title": "Mateo Falcone",
+  "language": "fr",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 16,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 16,
+      "character_length": 1336,
+      "blocks_count": 4,
+      "preview": "MATEO FALCONE.1829En sortant de Porto-Vecchio et se dirigeant vers l’intérieur de l’île, on voit le terrain s’élever assez rapidement, et après trois heures de marche par des sentiers tortueux, obstrués par de gros quartiers de rocs, et quelquefois coupés par des ravins, on se trouve sur le bord d’un mâquis très-étendu. Le mâquis est la patrie des bergers corses et de quiconque s’est brouillé avec...",
+      "content_hash": "50b3757f9ce8426edfe5dc440dba3178fe790e927c96f6e506535dcf3c8e90e0"
+    },
+    "middle": {
+      "label": "Milieu (Page 8)",
+      "page_sequence_number": 8,
+      "total_pages": 16,
+      "character_length": 1740,
+      "blocks_count": 12,
+      "preview": "— Mais, quand mon cousin sera revenu, je lui conterai l’affaire, et, pour ta peine d’avoir menti, il te donnera le fouet jusqu’au sang. — Savoir ? — Tu verras… Mais tiens… sois brave garçon, et je te donnerai quelque chose. — Moi, mon cousin, je vous donnerai un avis : c’est que si vous tardez davantage, le Gianetto sera dans le mâquis, et alors il faudra plus d’un luron comme vous pour aller l’y ...",
+      "content_hash": "096960af3de8a10141cafd641d376a85ee477b6a136582b59a058469f945d0f2"
+    },
+    "end": {
+      "label": "Fin (Page 16)",
+      "page_sequence_number": 16,
+      "total_pages": 16,
+      "character_length": 1109,
+      "blocks_count": 2,
+      "preview": "— Dans le ravin. Je vais l’enterrer. Il est mort en chrétien. Je lui ferai chanter une messe. — Que l’on dise à mon gendre Tiodoro Bianchi qu’il vienne demeurer avec nous. Fin de Mateo Falcone↑Pitone.↑Les caporaux furent autrefois les chefs que se donnèrent les communes corses quand elles s’insurgèrent contre les seigneurs féodaux. Aujourd’hui on donne encore quelquefois ce nom à un homme qui, par...",
+      "content_hash": "2be890c5c3f55334340929d28b0b7b23a765b8d973c75766efd8b39c519a945e"
+    }
+  }
+}

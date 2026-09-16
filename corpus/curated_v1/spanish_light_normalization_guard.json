@@ -1,0 +1,530 @@
+{
+  "format": "bookfin.spanish-light-normalization-guard.v1",
+  "targets": [
+    "es-cervantes-quijote",
+    "es-cervantes-rinconete-y-cortadillo",
+    "es-cervantes-la-gitanilla",
+    "es-cervantes-el-licenciado-vidriera",
+    "es-cervantes-el-celoso-extremeno",
+    "es-cervantes-el-coloquio-de-los-perros",
+    "es-quevedo-los-suenos",
+    "es-larra-el-doncel",
+    "es-unamuno-niebla",
+    "es-valle-inclan-luces-de-bohemia"
+  ],
+  "accepted_work_ids": [
+    "en-austen-persuasion",
+    "en-austen-pride-prejudice",
+    "en-browne-hydriotaphia",
+    "en-browne-religio-medici",
+    "en-chopin-story-of-an-hour",
+    "en-doyle-red-headed-league",
+    "en-doyle-scandal-bohemia",
+    "en-gissing-henry-ryecroft",
+    "en-hazlitt-table-talk",
+    "en-henry-gift-of-the-magi",
+    "en-henry-last-leaf",
+    "en-james-aspern-papers",
+    "en-james-beast-in-the-jungle",
+    "en-james-daisy-miller",
+    "en-james-portrait-of-a-lady",
+    "en-james-turn-of-the-screw",
+    "en-johnson-rasselas",
+    "en-lamb-essays-of-elia",
+    "en-london-to-build-a-fire",
+    "en-melville-bartleby",
+    "en-poe-cask-amontillado",
+    "en-poe-oval-portrait",
+    "en-poe-tell-tale-heart",
+    "en-saki-open-window",
+    "en-sterne-sentimental-journey",
+    "en-wilde-dorian-gray",
+    "es-cervantes-el-celoso-extremeno",
+    "es-cervantes-el-coloquio-de-los-perros",
+    "es-cervantes-el-licenciado-vidriera",
+    "es-cervantes-la-gitanilla",
+    "es-cervantes-quijote",
+    "es-cervantes-rinconete-y-cortadillo",
+    "es-clarin-adios-cordera",
+    "es-galdos-dona-perfecta",
+    "es-galdos-misericordia",
+    "es-larra-el-doncel",
+    "es-pardo-bazan-los-pazos-de-ulloa",
+    "es-quevedo-el-buscon",
+    "es-quevedo-los-suenos",
+    "es-quiroga-a-la-deriva",
+    "es-quiroga-el-almohadon-de-plumas",
+    "es-quiroga-la-insolacion",
+    "es-unamuno-niebla",
+    "es-unamuno-san-manuel-bueno-martir",
+    "es-valle-inclan-luces-de-bohemia",
+    "es-valle-inclan-sonata-otono",
+    "es-valle-inclan-sonata-primavera",
+    "fr-barbey-les-diaboliques",
+    "fr-bloy-histoires-desobligeantes",
+    "fr-daudet-chevre-seguin",
+    "fr-daudet-secret-cornille",
+    "fr-daudet-trois-messes-basses",
+    "fr-diderot-jacques-le-fataliste",
+    "fr-diderot-neveu-de-rameau",
+    "fr-huysmans-a-rebours",
+    "fr-lesage-diable-boiteux",
+    "fr-maupassant-bel-ami",
+    "fr-maupassant-boule-de-suif",
+    "fr-maupassant-deux-amis",
+    "fr-maupassant-la-ficelle",
+    "fr-maupassant-la-maison-tellier",
+    "fr-maupassant-la-parure",
+    "fr-maupassant-le-horla",
+    "fr-maupassant-pierre-et-jean",
+    "fr-merimee-carmen",
+    "fr-merimee-mateo-falcone",
+    "fr-mirbeau-journal-femme-chambre",
+    "fr-nerval-aurelia",
+    "fr-schwob-croisade-des-enfants",
+    "fr-schwob-livre-de-monelle",
+    "fr-schwob-vies-imaginaires",
+    "fr-stendhal-chartreuse-de-parme",
+    "fr-stendhal-chroniques-italiennes"
+  ],
+  "files": {
+    "en-austen-pride-prejudice": {
+      "source": "d5cf14a01b06801f3b5694825dcd521f3643047b83391df1102dfd67b733978e",
+      "normalized": "a18874b774853701162304ac41736e930e609601f99074768cd73c398f159c6a",
+      "pages": "13250518100beff999110a394fc12e3f9b7ae9145f90f4e5296601433ee6c8ea",
+      "samples": "af4787ca428edc1f0c6a76a1eb68c14afbfd697b493c8b7a4c1d3034a0fdf6f7"
+    },
+    "en-austen-persuasion": {
+      "source": "cf26dc959b6fc0118f197f9621114776a44a3baf39bcf2d3240a1c8f729a1b33",
+      "normalized": "d9f7e755e7eb9f813027a60c4777db6792ca25c94636476324465576b109ac90",
+      "pages": "c15a9b9be5a40059466cf865156993e464ee272526ff4e9a50ccd47295b76885",
+      "samples": "7c2a60188068c30de26fc89be9aa24a9fc31c1b27eba3c07d4ca6f078991d49e"
+    },
+    "en-johnson-rasselas": {
+      "source": "0b78993ad56bc77d8c46f8569dae783e66d1449e7d7337e2e9451ecfb8b01da1",
+      "normalized": "4e2e4f40e3fbce86d9822692dcfd29ebf5397cf296aec7dbe20d3d5159105b15",
+      "pages": "7be37b2b523cf9a8420056c1cd3e3498e40811efe70b613e988eac4559832382",
+      "samples": "6f40028412bc4ce95c05a59ca423698b4b10e547bd2caebb39257d643d2a86bb"
+    },
+    "en-sterne-sentimental-journey": {
+      "source": "cf037f7e7188e3433904d88b5323876a99ef3fa25c1b9cf238125105aed0b6dd",
+      "normalized": "2be917fadf3e6aa575505a091413b94f38155ecd1518f89f8e69bae5a90f9cc9",
+      "pages": "591656463959574b02c9c89a251f907549a3add8bb6cec16e972165e38387f36",
+      "samples": "b3a14af19e512ba526908d00d7feddfa4dea0698a09d4dae4f844728560ebc0f"
+    },
+    "en-browne-religio-medici": {
+      "source": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd",
+      "normalized": "09522ba1bd4508c80d48d601b13447cc730899737a649430f4bdb03ca0830d98",
+      "pages": "f444df0102d260f69dfb7c4728b71a42974757be41f4ad71e68efe8ba5d79678",
+      "samples": "d4a95f01c344510b07611b29fb04fb085ffc046d951f6aea299723d91be88a42"
+    },
+    "en-browne-hydriotaphia": {
+      "source": "5d57ab5fbc78a885e4949a9008b67adf413b080b6408db03edfe516f3ef676dd",
+      "normalized": "a4c7b782ce186cb62e249da1b94591433fb26e35d62ec2c32260386723ccf4fd",
+      "pages": "5b45c48700a4faee5d0ec2fb48b33ad23eba432ed0bbb500eacc544f84372e1e",
+      "samples": "1d5196f11f12ffb0a683123201b9b1086b5028cda94a9ba5dcd44e3229c18008"
+    },
+    "en-hazlitt-table-talk": {
+      "source": "bc4a518e8efc61cc9c7c593cca11d46af219f212b1d11dc92b00758019cd1085",
+      "normalized": "dc454668b406b0df50a96cf75184cbff2088f44384d6a4d7b997a0ce00d0ef66",
+      "pages": "b5566eee83db57faa7b4ce18642bf0a9420059a9f6f696db21ac3e25a1527c51",
+      "samples": "fd427ffa0b24efc43008a282317fbccc398977016e6cdb7efc4874cdead8a4cc"
+    },
+    "en-gissing-henry-ryecroft": {
+      "source": "ede81e47ed57303424675357c997c3a2ba733053517aa28f6bddb2c2f6a96387",
+      "normalized": "b48f018d1b0a4b27459626e0b9aa768fe4d9affd8dd7b94880692253cbae9b17",
+      "pages": "042a7d58e83f52be641677302a3f7ee547c3da543a1782c6691dc21f355c6a64",
+      "samples": "315f061b64d088cb8008970e827017f8bcbc70b73bcc5678f1f1d4a7149158ff"
+    },
+    "en-james-portrait-of-a-lady": {
+      "source": "5e05ef4073ccedcbbb5dfad0baa2b930b1d39833ac2a350b93506182173c9bcc",
+      "normalized": "60145301a666b3ddbf54851784962145534ab7523fffada72f210f39d7216f0d",
+      "pages": "ea9e21fa791edf43e474c7c84701a88aa532d2e24742dc4ec9b96817f258e51e",
+      "samples": "3446076db505bd2b5a33bd1b27348ae537165bfe5d50396db148e550eb13bd8b"
+    },
+    "en-james-turn-of-the-screw": {
+      "source": "5c4e034872cdf4a8d3523c533aaffd20cd891de7f69451f3ffdebe90cd604398",
+      "normalized": "7c9c00e9f2ea8eca4802989953ad6ef3f7cbdc54724fdacaa45a552b4d017e64",
+      "pages": "39a8b8609a367029b7d6bb01f10cf4661ed1be4cd8ea30c1a6f0e169d31c6b25",
+      "samples": "803f76c753b745985030a94d65430098b5f8c40c92b8d2a397c0712374a96ba7"
+    },
+    "en-james-daisy-miller": {
+      "source": "ea61fdd2ed7d9b2cde91d8a08cefc2e4f5236920e0138417679f40a4ece41552",
+      "normalized": "1612af0bf3e888efcac714ec80301cc639195058d9500748d627e8e702d50f2e",
+      "pages": "2f616765f168ed2e4f67676172a2248bc631c6ac10b8ede8374879b36c8becbd",
+      "samples": "9f38f668afb6cc4777b52f823de209d704f39b97462fd728bc35e939547cf27a"
+    },
+    "en-james-beast-in-the-jungle": {
+      "source": "650d521f7efb0a94b692ef8bc47b7d8de6d7388e6cbe579dcf26a8a4e9ced547",
+      "normalized": "0488e9ea504b0c393d540b09b7f36b42e2324ed294811aa728a7a35c64b8930d",
+      "pages": "bd6382eb0df27ea33f25fa59b5d1c9a50681c12e912aa621f3ded5004311c93d",
+      "samples": "58e5ee762735697463c375589029bfb79037293ea98a73f73a90bc144f8e9fee"
+    },
+    "en-james-aspern-papers": {
+      "source": "7ee0c025108ab2554821bc20c1b4eed9a948fb14e67b1cd28bad78d57b4a4dbe",
+      "normalized": "7999cbeac91db2ff5015c118a35a971f64fdd91a5436d66fba68b328aa27c072",
+      "pages": "47f2d9bb27c92a2445d1ae4e42450704a94a42284d918b3765ac1ca57d69af46",
+      "samples": "9761cb24814820d69834a171cb15a69976553eea56bb1765dde214c21909508a"
+    },
+    "fr-mirbeau-journal-femme-chambre": {
+      "source": "f06203dd7d9a8ba4756c8b3e4cec3fd5b06b81295aa5b97cc4c48ec6c01515ea",
+      "normalized": "f6668d1d379192ed84272be3e557c42a7044ec5c2db745828b60845dd36a2253",
+      "pages": "f491b181193de60d0f18e2332cc8be806ef14ba2de04b6b309c27d2644a83faf",
+      "samples": "eba0ff4dc9938f924862f39143c6568d4de3923a4a4ce13e9cba0e2b6112ee22"
+    },
+    "fr-maupassant-bel-ami": {
+      "source": "ca252017a868e6fa10b264f877321e83d6c992b4c298684b70ffd2e1e5719d9b",
+      "normalized": "75cec138a444437ea3107536a926385e7f3fedffcce5f453f0013be4c193b3bf",
+      "pages": "8acb97ef2fbc0bf8a18d6a0320a66eba0f91076d8d8acb87095cbf0509500337",
+      "samples": "8d8feae5da0912c3e00805791c07e787fdb233ff1d0b5e4a7539a5868d1b1f6c"
+    },
+    "fr-maupassant-pierre-et-jean": {
+      "source": "50f14e04f7d66270177745a4900c81687bf074c46cc84a1dbf83891972ebfa62",
+      "normalized": "f76b397940cc8daa2e20244922c3d4fa8134d7b4c91c5ed088e9405ff1c7b972",
+      "pages": "198655e4c221146bbd0336e37ab220b63eb0c7628a0dc3fd1d5c5292eef21b42",
+      "samples": "1bdc2f58767f731ff4684799789a26bed7d93a7b11f73a7c7bf535152a79f8a5"
+    },
+    "fr-maupassant-la-parure": {
+      "source": "e18a25ee46a714cdc0e287fc29fe25daa19b7447302fdc780be6a6cad7abd404",
+      "normalized": "2e7aca3b8bbac2c7dd256b8509ff6afb205abe1165fb31a019658ce70fd7e599",
+      "pages": "d38a36d4d0a2dfaab4b06ec5a279a2fe88046beaa858c5e20844053796d99922",
+      "samples": "df80f86bdf648d271efd0fe10ff3811f89c884a396f5b3099c05131bb9cdf929"
+    },
+    "fr-maupassant-la-ficelle": {
+      "source": "8655e857a82f4b4ea7dca7b2a1918d6c228e3781c5d55e0904aceee267ff9153",
+      "normalized": "2784b3933ad67ad0f5187b7499981f2de18dab6504c945e1a0d5b1442885f644",
+      "pages": "0fb960844d0e721f6b4fec8defd3844208c118c71e8cc525dcad40fc3b1df40c",
+      "samples": "909042c6515fee7a2e2fbaeb40039f78a40561120f80bab465af5b4916fda34a"
+    },
+    "fr-maupassant-deux-amis": {
+      "source": "14e147bd743ba39271b6fbcabdcc5b6abcc6e7ae62f0812c2bf80fbc00894b69",
+      "normalized": "deb4ea0aaa03d78212862fd2d5b9f3522150e707a104cc6925f701acb21dcd90",
+      "pages": "e738356478265c3bb2a4e5f42b994a7cd5bb76931b0ffe36d9459dd86d266e6d",
+      "samples": "9550ec2d8005ef5c03cefa398cee67ea97c8ed3d133c7258face417a707e8732"
+    },
+    "fr-maupassant-le-horla": {
+      "source": "4ed9c124d7b93a1498b4f77f4973c9fc977ae7d749efb2cc5184244c82a4918a",
+      "normalized": "5d980468f8b550ae9761ff1837c69fa9c3a46386add13ee1a539484372beecc7",
+      "pages": "5390c17f34cb2a0a27d4ee61724f83c55747ad20518c4c1e252379b24ba7d9ec",
+      "samples": "276cf83eacd0cd6368229d62865a985c860eaeb64f1fd8d9121619c393303715"
+    },
+    "fr-maupassant-boule-de-suif": {
+      "source": "b044d451038c4623d82758fe0289cbf291739cb9702fbac7ca0370a890890c66",
+      "normalized": "b2e5a45a98de895bc271ad7d56c897cf8af08c8a718ca946405f6b6abf9ab5c6",
+      "pages": "ab37b84414e1bbab7f80a7f0055bd46c0fe5a198d709ea343d2c9270f540e1ab",
+      "samples": "af3b433e8ec222e03128d99d69edd91e861987da8c2717ebe853186ffaf8b28c"
+    },
+    "fr-maupassant-la-maison-tellier": {
+      "source": "bdffbd5857d4ed93d0218fdd85f3f2fdbc55dbeeb78aaab07df15753294fca4b",
+      "normalized": "c238f7f67b00fc9c2595f75ba20be717d9dffa17626d0d40bdfad3703e8c448b",
+      "pages": "485e99d4555649a9c8fb9582faffe1214f72da5f5018c6993a58ae30bf2844cc",
+      "samples": "2514a5a896b4817bde03a0a0170227d1adeae341ce500eddb85151c1bd57cbc2"
+    },
+    "fr-schwob-vies-imaginaires": {
+      "source": "a3a94d95a04da12ea6ba93acd70f5fa8cce5afd68368a3c7ba1b8aaa43ada27a",
+      "normalized": "bcd6810024462b27df9e9121d3eccf1d89bb892294145993b75cc0b08f63f88f",
+      "pages": "3cb8bc7cf86eeaf4d08228a23a9cd15ea66f785b19b1788aa23820002f427ff2",
+      "samples": "3289bda0e4b8f6ece97f4fcfa9f0089ec2c95f74c66ccd4fd68a9ed1e400d7ed"
+    },
+    "fr-schwob-livre-de-monelle": {
+      "source": "dc64388a2d6f9793d8daa1742647fc7bf91b68534d56d87566815be69f3bbd0f",
+      "normalized": "e40f387c92b6ec58fb31160527b01b805ec95152a10e66320ec324d3b3be5e93",
+      "pages": "40b4b731ffb82fefde7df57c8e38a118ab7a5f47e2c12821ec81fdd948209993",
+      "samples": "52285f837f4f42cbd95446f075b27a15cea6ab376d6ebeab9005ec7d493aa8a3"
+    },
+    "fr-schwob-croisade-des-enfants": {
+      "source": "efecb258dd6f92b97cb7ae900a0e661c3e2029571371ec61f74b357379845a76",
+      "normalized": "24258f4f1c9bf86c8c5abbe1608b8a45f3b956d94c34d8c223d7a376841d1a41",
+      "pages": "6cfb920853e13d3d3ee7727de45565cf44a8bb31378c3ed107d95091968b70d1",
+      "samples": "415f8fe8af12b4699e36d9f2619810fc2a4fa9989bf1a9fdb0ba7fd8ddf2fc42"
+    },
+    "fr-lesage-diable-boiteux": {
+      "source": "90bd715a976247a865dbee53291b0042cb33d81be15f8892a7adda57cab4c016",
+      "normalized": "af325473078b04bad2fb5197b6d3c2149ccdf2f5e32e3e896841ace05f1a4ce0",
+      "pages": "4b6dd4840fc234354592d37d3a4ede7a2faa8b7ef0a74bf603c8c346f9263a5a",
+      "samples": "ebe4e7bb7a8e47837eddc952c80be78494987e9182dbd54fbf9ca5f42b5723ce"
+    },
+    "es-cervantes-quijote": {
+      "source": "1d65548d3679ef7a26aa1cd15b2b2325bd0f9c9d935326a2ba618d4ece440ae7",
+      "normalized": "9eb0392cd40d733fb2555844b7bba3056f63636d45d4c25027e8753e64d31dcb",
+      "pages": "23eb06d979091637869d0769edc6d4d42ab9612433d233144b886e402cb5ad5d",
+      "samples": "8e66976d5fe9a918318fff1de4b360ffddc792716e2a926619b2568f81460437"
+    },
+    "es-cervantes-rinconete-y-cortadillo": {
+      "source": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+      "normalized": "36ddc87c96af9e636938879213031d3a560e7ffe0e8765f201345f2b95637a5f",
+      "pages": "4409800c1191dc710aceb4c74c2029831d43767d19a056413b1f6643523349ba",
+      "samples": "96712c4e247241167be3c71c09157f906b280c99da28d6e4ccaf982a75def3c5"
+    },
+    "es-cervantes-la-gitanilla": {
+      "source": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+      "normalized": "843abdd450043b6c9ef41a9ffc995da8062f642bfd8fa159a0eb49f97ced694e",
+      "pages": "35800a410938f054852f89beb272d238cca407f46545667540d19c9977fc2e4b",
+      "samples": "e50f3bc93f6dc7583ccb79aacffeb31be4265ddb74ad09ac261b9b34cbdd0e3f"
+    },
+    "es-cervantes-el-licenciado-vidriera": {
+      "source": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+      "normalized": "3ab5bcc63d9bca8a677ab61cc943defacc629ffda1e949042b20b446500e8df6",
+      "pages": "4224f5c2817ca758f41b46d246380115a3bece67764e966de15398b187b80a6e",
+      "samples": "b5b30414db54e8364ad090b65a81241fd4870708190e745824585338d49f4e66"
+    },
+    "es-cervantes-el-celoso-extremeno": {
+      "source": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+      "normalized": "c0011e949f93eca87284f2d41a23192a73f07c9026ab23cd41a175adfb478d15",
+      "pages": "e973bad0f526036009d64dc5928d0d3bb058045c1f0000dc51b3fa29f7b85735",
+      "samples": "8b2922e8ddac43bf10d1d2d43c013d7672b666633be1165066a15f2667baf847"
+    },
+    "es-cervantes-el-coloquio-de-los-perros": {
+      "source": "8626eeb2e7bd45e5fd49c5ac4515f7e269abb9425e564f0599c8b6e53cb50ba9",
+      "normalized": "457417b1b83fcbcd9e36985eeaaa6a683edf432dcb4f292775bdcbb4296b06c1",
+      "pages": "9bb5362592f4cc52361846ca590765f88ab1ded08b489a31162758159121c4c6",
+      "samples": "0283decbe3a8fb8f72581ccb70af4ef6dcbcc664f2bac51519554d7cb0c7204b"
+    },
+    "es-quiroga-a-la-deriva": {
+      "source": "61d4771a973680d227de41cdb043bd00adc0330afd4f4dc54ca0dce96f1f337d",
+      "normalized": "2385c942d18b5f9a2af6fef493409f8b90ee3ade9d89a0a4933d7e6d9172273c",
+      "pages": "f2869015edd1953dbd3f009290f998fadc559147d08876a7673d57a9696fac88",
+      "samples": "2be6bf8b4b1c03071ae4254c011ddf56538cd224fde7097c69f8883c66fa7249"
+    },
+    "es-quiroga-el-almohadon-de-plumas": {
+      "source": "187f44a7e0252f49ce1bcf8c4b5c4e4829386dca5800ec2a7eae54b70305de0d",
+      "normalized": "dd32a1509478b1013b4b555f570a8fa860534c878f19a5653662c6c433b08cac",
+      "pages": "caad5a3c38a42f3121331041a88df59b0d9b03ddb1f783ee47803c551de316a1",
+      "samples": "f21f2bbab0f73a5aae116d71be67924c3df936bfc68f81db1fc423cb0c9f080a"
+    },
+    "es-quiroga-la-insolacion": {
+      "source": "31ef6129447db40acbaa8b622c49d4463c002b32fbb7e6a98a22dbb1d6abf843",
+      "normalized": "2f82cbc3b2919180d3cfd5b23aa963861516f0b5ad82288ff690401695e80c3b",
+      "pages": "4faa74c715756f6f6e7623204ea41b2a75d3c02c6e314dab96dc4ef2364725ac",
+      "samples": "3e431642ae324f7b96e17e110a0719abbe618282bfc0b31bd2a34ce354a63301"
+    },
+    "fr-merimee-mateo-falcone": {
+      "source": "28a2af6c07cc2d2d7f10b4873c13aa39ca9a1b8f75abd39c8f1a7130251ac7e4",
+      "normalized": "6904bd2b31936630eb891149af3bddaf4d4a7980fa20978b05f3f40b91cbb891",
+      "pages": "68a935ed4a258ba08b4660e4a9123a4e40e003d053e190360340f6301547e6c8",
+      "samples": "6baad9ff72ee3634e8782423b5ab8b060217fa817568eae50f176ff04854ef70"
+    },
+    "fr-merimee-carmen": {
+      "source": "bcc96f2b115be69343909ea55210355d00fab30140415615ea7b1c6dff6e37da",
+      "normalized": "2da7f52eb51650d782681636b249c3664e7c20ec69dd5e1f1de74e2891ba5ccb",
+      "pages": "cfbcda3939a4a39a66ac6037e461fd39e553243e415510e13a559e5a1a2c9961",
+      "samples": "0707d0d9cb3bf3cb7207735d4a1ebc392ec18140fec3306ca8d2941d2ed91080"
+    },
+    "fr-daudet-chevre-seguin": {
+      "source": "5c291f456d00a4eddc0a207056adbe7187a97fc22e104589559026b0295eb22a",
+      "normalized": "ae38d6be504f01ac8f3c8380ff19cf0e38e8b91f46887139b64385add57135f6",
+      "pages": "6700a9d666cf487d070d15eb5f96ef81db4a98841657f8311e79b0c034912a77",
+      "samples": "3a489c2b565a742f16335bdb7f8dfaa03c8107721941c5de0478f65631030944"
+    },
+    "fr-daudet-secret-cornille": {
+      "source": "83f8d7e1aecf193a767441b8692d8f4ed08eda5e7a0cb79df30f83fb0e6668f3",
+      "normalized": "a480532747ca98dd0432c3af59dcd704f9176983eed08c208e564217afaeba74",
+      "pages": "761a2761dad1a9ff008e4b5e95f89ef820fbd22f09f6bfadade69ebc0e8671f5",
+      "samples": "2237702d37b1041aabd5cbc3b5f6c8866c1e2319c6d9b4259f82cf209dbfdbbe"
+    },
+    "fr-daudet-trois-messes-basses": {
+      "source": "eeb401d45665e1c09f6c758d97db0ea51f421b1e6e439aacd5f75ff35d09a568",
+      "normalized": "80c04b61608d2962374bf4adf99b44072ad3002067624117e6acf971e7205d3f",
+      "pages": "3479591b202a066558341e2741b437b5f6dcecd817df51e6b758c4a45f8221db",
+      "samples": "0b43a9422f7a5d2a9800424d381c1f5b012697ad9c7e2199ef9032b86820e77c"
+    },
+    "en-poe-tell-tale-heart": {
+      "source": "f0b94636a6bd8260bd1da261d94f572d1c7b6fa792336f1cc7af5f819e186f19",
+      "normalized": "fc949e2fe4fbf973bdb178a587d5fb5a4a17fbaa073b558745220eff13295b8d",
+      "pages": "4eae9e507c8f638ccfa3c68d59bff4cde4755732db3ee9cc0df9712da3230920",
+      "samples": "c52c95edbbee803642fc104a865d4b0d2eeccaa18864837e31c9e82418aa1792"
+    },
+    "en-poe-cask-amontillado": {
+      "source": "c79981a7b7bb7f72ae9c6e1829798ebcec7ecf4633d9272bf0a78b038ac4bd7f",
+      "normalized": "8ce5e4132b79e4f90e18ccdfba01383edd1a89030c3b771a13f8e2732094a10b",
+      "pages": "679e922444349ea0aa8466e5c4ad625678b84065e8bee91c39b50de9e15411f1",
+      "samples": "d2ef335edc52a682886764d6e300b629f46eec95ce48ff8530b8232bb114cb07"
+    },
+    "en-poe-oval-portrait": {
+      "source": "8bb3cddd1541b61fec6ff1263174c97a54fe9fca6e6f806adeadbdfb44783d9d",
+      "normalized": "14456f1d2e4274aa3550ee183bfa58686c538681291880bd7ed8c60c828b74d5",
+      "pages": "0d4b4b6388e1efd7d9454c22fa2231d25afda3aa2a58ec4f96e49f1fa9dc0393",
+      "samples": "b59617190d2bcf237941b5384d1bc5c31d8394205b87db90d177e91f868b4962"
+    },
+    "en-doyle-scandal-bohemia": {
+      "source": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989",
+      "normalized": "33bfafb909328e8d08c12ec922f5208735dc16aea61a3b9d4809234df5c8a314",
+      "pages": "a2d84548e64422f4e7d1783bc31a4ebc888c0d4c3c6921a3f8674bd86cababb6",
+      "samples": "db839b2721c527b4c690b446bf73309d66ec7a8014ee972be4c9b94e0de76536"
+    },
+    "en-doyle-red-headed-league": {
+      "source": "d241e5f606f078c50a6ffdc30d3d3756ee8cb95cb199ab5343507719f59ef989",
+      "normalized": "2861e791ef80b85716500084a9eb63803e20f84a79f29aa6a78c36a48fd0b309",
+      "pages": "06115426d2494b0a780ed5a0ad39b4a4011be2e7b7c13068846bb05b88e04aca",
+      "samples": "e6e56b9b3c6d12c9ed4935993867c4543c301413e42af60eccbf47f4c6cea7ae"
+    },
+    "en-london-to-build-a-fire": {
+      "source": "5cbd3ce8c025e70ee0e86053c07113493b2936b2a49dc0f4f426604189136dcf",
+      "normalized": "5ed2fee367cc404f12ca44ccc37f812d3db149261f4de760877fc5e8f7288f03",
+      "pages": "574d11c13b9a9b01deb485719c2ff03853263173c0d94a60027171e88357d38f",
+      "samples": "feeabaee3db0e6a0668d8e73ed52270c8ea84a9255d4d10cc2f2ce8ced1639f2"
+    },
+    "en-henry-gift-of-the-magi": {
+      "source": "b1a2d058824423ac0ad278e7aa26d5e6fa5a79f02bd4bf02db7c8eb683d447c8",
+      "normalized": "9af6b374cdc609ceb2dd98b748f927d6ebc24b85a3136c50eb80856feb859213",
+      "pages": "5985921890fd5b8434abc52807048114e96d4e8439f4c121f6b3b3a92b1c4a7f",
+      "samples": "f0df4ff192de927d9b1cb615c1241b6b64a6edec8aa920918e2f7e458cce4ef5"
+    },
+    "en-henry-last-leaf": {
+      "source": "d6e1526ad9eedb7926f62d41cfe5110d1cbda4b93af8948d077ce2f8d16735f6",
+      "normalized": "c4f4c55bbd04ab024a332e5f346e8e25762c0ee6d2947726bcef744c5204b308",
+      "pages": "6f78a706c5aa49159e48824eb0a3e4748ddc00f1e80465579e4435c13a6de056",
+      "samples": "b9c30b8819732631ea3d78619ca9a2571e8476cb1819c7a477ff56c2cf021055"
+    },
+    "en-saki-open-window": {
+      "source": "5e41646dfc5ec82adec811bb35a9d2a3453deabc76508599866fd40b38fc8f3d",
+      "normalized": "7457682b49c2fa5e5643b7e3c6ec6f645f8d24f390960edff599986f7d24b017",
+      "pages": "9513479abf0e0df435aad7ec8a31277a381859021eced45dc32b92fcdde674d9",
+      "samples": "9e77ac473eb28b29e86dfa8bcedb8184c1c424efb5577b6382caec48fa3768e2"
+    },
+    "en-chopin-story-of-an-hour": {
+      "source": "7675278cb66d093c6f8c4d8c0a47db5cf60844551125d631383775509b3e21b5",
+      "normalized": "7b505c7ae4e99ca7db2e8a16b610bcff8ad2a371e624e0d3f319e010567cbfa3",
+      "pages": "46b28b95fde6514a5af388b7bbb5e6fafc3dc8014fe519ae9f052041415b3686",
+      "samples": "4e8cf59e64057782a37cba0f92ed0ab5045f992796ccfbdd583d94f82feba3e7"
+    },
+    "en-lamb-essays-of-elia": {
+      "source": "97173510f9bca828150693dc84b51cb0e9ca72a04cb564bb3c7ebc9bc4285e6d",
+      "normalized": "b2dfe1bebbdc09ed6b5881507d2068615a475c8deb3cb98386f79f2eb6a5836e",
+      "pages": "18b5e79357787ffa0175c9358e9b3895204cfce8c3c00eec1a4632ce81f77704",
+      "samples": "148d9c14625eb723479cb6cf1574c83a4e2f72870e2bdb3760eb7d399f8b0250"
+    },
+    "en-wilde-dorian-gray": {
+      "source": "b121e06741dc40b1f4754db3ffc39681442f4136026756933dc730808ecc3b5f",
+      "normalized": "e0f2dc5f3807b833a14bbdbc621502c82682877df470c424fa123e332096a75a",
+      "pages": "58cc14297833c6cc6c1573d68f0ed7fb7d1333a29277b16af9f2a64218445195",
+      "samples": "27e104f66b3e8b7dac5095e5ca338ba75440bcfb48a83e235e3277f99cd4073d"
+    },
+    "en-melville-bartleby": {
+      "source": "a51dfe7737271c08eec79b4f97c1cc07825e7bf05388c0952e291a010b2045f2",
+      "normalized": "1af8983f62965f90472b798faa301dd3def0dc4eceb6d373cf0959f0a88165eb",
+      "pages": "08780f589f3a86a3b91b613260189e1bc2aa0ca06d8e2adc068ef4c509d6de8a",
+      "samples": "e6cd944e6d504e06c5d3fa78e5eb0f5fcf8e67b68e7721371553cdcd8ae706b8"
+    },
+    "fr-diderot-jacques-le-fataliste": {
+      "source": "b6b483c29637d112601c7484d144db84c15b9f7f0fa6e7adf6059d7cc5184b16",
+      "normalized": "c8f7c34043e48d0d8311211179bc5e31b22a98ed0ac99887a5798ec54270c801",
+      "pages": "78a44c9b9bcaa0b1e8c93f44020d2bb1855d84298cf78c68d0184fa4e1f378a8",
+      "samples": "4e7c3f9d00f08b51781d9059472c3d2a85835a102e6978db3217b4175e82354e"
+    },
+    "fr-diderot-neveu-de-rameau": {
+      "source": "becf079d78e3f0b6bfd2904945b9c6228d3180dad6547998bb7d077655248601",
+      "normalized": "93240d6d45fd2f8a28491a13f6a0ae0b4ed63e20fa16834397e9240caa2aea10",
+      "pages": "ddea60b5e5e97fec95e5ec8fb559a66ab7f8c7d217e29cf6830b3b7f4a800d98",
+      "samples": "f37ba2a07235cdf1e95de0a63e333dc3745307d539bcc54180a24efda5d66fde"
+    },
+    "fr-nerval-aurelia": {
+      "source": "0ec689e6992d19145ff4a6df698d1c9035880afb205cfb88359953cf96ce8d00",
+      "normalized": "accde22ddfc89b768fdd3cec6e2d0584378c62c5d95404fd26a428c1ca1d644b",
+      "pages": "1b91ddd13a30b42b3c50cedf8c23e147575a953508c699bc101e74855f0e85bb",
+      "samples": "731d1f80a1b4e4e6b40d92adec771ba48ad06514d7c0ac7b43686f9bfcc65775"
+    },
+    "fr-barbey-les-diaboliques": {
+      "source": "fb0da74eab8c21083aafd35b675cbbd1f0b711e4a85671e92a373b7bbcb2eca1",
+      "normalized": "08686c76b88525329a629191db5edd21a5dd336bbb77fed474a17e744eba44fb",
+      "pages": "bf09326bd3b05fc54a3c90fc7ad73f3eff45025721b57583a49dc45d85291fa6",
+      "samples": "cf5bbce025bdda49dda1210d0fa602f11f804cc01709bd698a81ecd8f15d8899"
+    },
+    "fr-huysmans-a-rebours": {
+      "source": "b4b8dec6141af5bb9c9cb56c3eb8875f8c40299bf2b8dcb175fbd2895758e7d9",
+      "normalized": "302628c63f4e0eb2dfea4e37cf54df79bfd0072cbd18417af38ec1bfddebb517",
+      "pages": "e02aa0e85f1b1a45f0dc75c99ff2684cbd3112c7e89d4bb94213d76a5bb136aa",
+      "samples": "bd2f53e0cb6835a2fd585573df34131f1f05ddf57c660d5aaa8221150fee1636"
+    },
+    "fr-bloy-histoires-desobligeantes": {
+      "source": "df2fbcf244c1676834db2bd485e679c1e1cb8b2018cdb7c7779e44732c7b0116",
+      "normalized": "32535cd3277ec9fb7ae82a26dc697524c4a048625bf9aa059d70bb2efff98f47",
+      "pages": "47d62345c5cea5c84a5d96f66a75344d4a099c6e1e752249a09f251d29252df5",
+      "samples": "bfb8503beb7391864d9481796c3d65359432a8c81ed241c4e842ecd860c1f39b"
+    },
+    "fr-stendhal-chartreuse-de-parme": {
+      "source": "d04d664eefc1c29e0ab408ba8be6e04c8d82f9452bc513f043bd04283a1ef28d",
+      "normalized": "19842480e80f7888b4859f82a3351c455356079679e48c325016bd81244a6871",
+      "pages": "eb6bd67d80b9fa1f86df24c6548bcee6d4f23215cb0e5a007abe5cd445b7bfa1",
+      "samples": "41e8b95b065a3292ee8a6bd2851b9a4830c80e5d5b739674995848fbd0e4089f"
+    },
+    "fr-stendhal-chroniques-italiennes": {
+      "source": "02ac384beb443aa4925a9a119fc0523a7b5cc553287ed1888d4564d142d23dc4",
+      "normalized": "7d5913c5c4d74367d848db4991048ec69df6befa10ccf47ea37ee8c08a42d450",
+      "pages": "52e057cfc21c92fafa97f70ae3bc14a040285af68ab166eb87bcd430ff1eec07",
+      "samples": "a63aa2b066751e9bebe55390bc38e9bab40f86fbcadd352209d9815209fc9d20"
+    },
+    "es-quevedo-los-suenos": {
+      "source": "9517ec5a3fec05f21507be5c2351e4fede9dd47df49ef82dfe7373b2444f2cbd",
+      "normalized": "0176f737b2347c22b251f84ef1a687d75504c3531e94a3889bca68b92d3a8745",
+      "pages": "41d0df4a8acd3cab8fa9fc9570193ca161107ad9c031087f098a6fe8e6804806",
+      "samples": "4da1211b9b205c81829a9611523999e89952e3239f403c34be7f8ec98f790b3e"
+    },
+    "es-quevedo-el-buscon": {
+      "source": "e6eff6072ea06bd0eac5c221a7c96e8cffae2faf61cc9bb8bca02fd3e4e82586",
+      "normalized": "452a9f731529067945ab4d2c6ca0a7a942cf09fc326a9e780d1f168bfdc2c885",
+      "pages": "801f6202cad2a9b902d2a6e08e50d696a493901b61a41c8bad6827f3b2b2ea34",
+      "samples": "027bce8609f92ecc21fb9b98e6064436e54cbe4314d622a2e368a648ad32804d"
+    },
+    "es-larra-el-doncel": {
+      "source": "a2a600b44b08e88aa00ece3ebf11aba41b52fdba207107aaae167f6179def6c3",
+      "normalized": "6abc5fe80cece193447374e2aeff680f69e5ebd67af7057af989eefd71f4479c",
+      "pages": "cccdaed36b5eb75145ead7bbd1099618a4b5425f2855cd76f29488a19b83640a",
+      "samples": "8bba51876b92bf81622cce20d01ac5157910eee986c41fa8c66dda46e306198f"
+    },
+    "es-clarin-adios-cordera": {
+      "source": "d2e1417398dc45a66d2e482d88f23c7a199c7c7433fd6dd60cc445005a0d0073",
+      "normalized": "10d0c58095b4c0c86c00ad5e119d61cbaa1a0c603bf59d7b652edba1989ba89d",
+      "pages": "14b9044b3516871d2332c7623f1efcc975e2bc296c1d233eb8af5189554a286f",
+      "samples": "7b4a0c1f51b0e383b1374e7cd9f705def46034e06a3cc539827326a0e126a021"
+    },
+    "es-pardo-bazan-los-pazos-de-ulloa": {
+      "source": "eb75f60ca40dff1b28fe597c36b22a62cc70096838b6574ce8f0f2c8e0f4baec",
+      "normalized": "4ff542ffda311a69926a7d58f92fd70d6f1953534c5be381d22950f59344f933",
+      "pages": "f827e4507d5b96a81ce63eee431b4cc56bde6bae9f2730efdea44db524e4fa90",
+      "samples": "2508bf54dce5737feb62276c4847dc03809416ecd145115967a97fa5fa6c292f"
+    },
+    "es-galdos-misericordia": {
+      "source": "6d93f2a0652aed3685fe885c5e7058904cc622042632b14a43ddea2e119bc76a",
+      "normalized": "ba3b4eeda515ba1defe58bef26a034ff71f66547fc201c4688f0ff668240ad62",
+      "pages": "efe72de20eecd55a7317991da8df8f50120e70c90dbdace5898a5df5808cd6d9",
+      "samples": "5cfcff5f968204ab2aadaa9c01e372067fdfd3306e6e4b3e20f285fb57ac751c"
+    },
+    "es-galdos-dona-perfecta": {
+      "source": "2ff91a4dd44ead4935976d64b2e480f9a72a4d8c0c59253310cdb1e33bd065da",
+      "normalized": "2716f834dee1bca52d61caf6a45b422f7f61c5885247739ea7cf98002d3f8ad8",
+      "pages": "16feac3fbbe14749262d5680543bded20577a53875b15f345691c4f970cde6f3",
+      "samples": "10c7f7d257db5526c21415487d78b4728bb0ad4a76141c3187e1c542d7ffd64a"
+    },
+    "es-unamuno-niebla": {
+      "source": "69f56e540b9ed6edc01bf20315e922752e38a0b9d77f03bc7b500dbaae6320be",
+      "normalized": "ef0213fc1fbe2bb722338d2e06c9b4873aeda7cf2309996aeaaa3d329cdf03b1",
+      "pages": "4832ff0f3ae6fa38dd92ef3b03b663e68f169a938581e07305a7aa9c78c6e5fa",
+      "samples": "7daa0a172b91f67b11ad3ef8a58cd5eec55f93888b708fe5ad68437a73e8a12b"
+    },
+    "es-unamuno-san-manuel-bueno-martir": {
+      "source": "9809ff935e87dcaedb09e612ea6ee0ec11ade605790e33694d187afbb6a3bb55",
+      "normalized": "79ed2e828492bc2b53d692edb776f35f9b99d6a87518b3d3dbf22982d98c7e64",
+      "pages": "7849b7453f8ddf5a7e8f9114f243497d8b00b2b08ca10ad70c1034565364c7f6",
+      "samples": "8b85f26481fa78d6e9977ea80b4213052efecd3553bdcb04e1c7b5667ac42626"
+    },
+    "es-valle-inclan-sonata-otono": {
+      "source": "d29a98772bcc7092af763518c67dbe708954c09106a861427bb1e4b9f8d41d62",
+      "normalized": "cd290684d365e12277be937d3bc4b9afa1ed3df62f219af593de903aef33eeb4",
+      "pages": "d765fdd4473c2544cdf9acd2625aed11777bdc18094e39bb341639c64feb9d6e",
+      "samples": "c010fca8a3592c4de8ff59e3215915c3e4a23bc06baffa39cc18f1a5e9ea387e"
+    },
+    "es-valle-inclan-sonata-primavera": {
+      "source": "7e1f64c643162a612894fbb56e1bbe5a4cefd8f209ce07a080b012388779d8c2",
+      "normalized": "446bd833cc24b0c8ef2934af0fbd0173630e3fd0e00b2d0db50cf9742ac1616c",
+      "pages": "c393406ada30c6bfd9f55986f53ec83c86eb5391f95cda43d723be4d80f90b00",
+      "samples": "20f80fd5e86be15bdcf403827f914cae94b8666ec85b3254b31ce337f8b650bb"
+    },
+    "es-valle-inclan-luces-de-bohemia": {
+      "source": "00e1ee496cf55ff0a49c9593ea8d404280fa7ccebac88f6270e6b88a793141ed",
+      "normalized": "b5b230d5c12632fd523a7dd7de612d039d0df95439297ee48e54028fc1350a83",
+      "pages": "0470ea8345716f166da29247ca6c0f1453d8ec0ca06c3678c7c2d619ece3488c",
+      "samples": "ec5159fc2f2ec0012899b019d67ef4ab77510b33d7a678eb7bd5b7ebad0d6e0c"
+    }
+  }
+}

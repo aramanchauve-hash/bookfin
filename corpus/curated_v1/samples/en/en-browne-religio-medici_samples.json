@@ -1,0 +1,37 @@
+{
+  "work_id": "en-browne-religio-medici",
+  "author": "Sir Thomas Browne",
+  "title": "Religio Medici",
+  "language": "en",
+  "work_kind": "SHORT_WORK",
+  "total_pages": 116,
+  "samples": {
+    "start": {
+      "label": "Début (Page 1)",
+      "page_sequence_number": 1,
+      "total_pages": 116,
+      "character_length": 1201,
+      "blocks_count": 2,
+      "preview": "RELIGIO MEDICI.SECT. 1.—For my religion, though there be several circumstances that might persuade the world I have none at all,—as the general scandal of my profession,[1]—the natural course of my studies,—the indifferency of my behaviour and discourse in matters of religion (neither violently defending one, nor with that common ardour and contention opposing another),—yet, in despite hereof, I d...",
+      "content_hash": "b6f43a1eb3950618c90674bc19e5da2a861a23c9d030ae2a84a3b0616e0fdac0"
+    },
+    "middle": {
+      "label": "Milieu (Page 58)",
+      "page_sequence_number": 58,
+      "total_pages": 116,
+      "character_length": 1680,
+      "blocks_count": 2,
+      "preview": "The smattering I have of the philosopher’s stone (which is something more than the perfect exaltation[54] of gold) hath taught me a great deal of divinity, and instructed my belief, how that immortal spirit and incorruptible substance of my soul may lie obscure, and sleep a while within this house of flesh. Those strange and mystical transmigrations that I have observed in silkworms turned my phil...",
+      "content_hash": "249a3e33c56989626a1c17bbc2bb0cf3c47438c9990e80c461899646d5c004cc"
+    },
+    "end": {
+      "label": "Fin (Page 116)",
+      "page_sequence_number": 116,
+      "total_pages": 116,
+      "character_length": 1321,
+      "blocks_count": 1,
+      "preview": "Sect. 15.—I conclude therefore, and say, there is no happiness under (or, as Copernicus[XX.] will have it, above) the sun; nor any crambe[102] in that repeated verity and burthen of all the wisdom of Solomon: “All is vanity and vexation of spirit;” there is no felicity in that the world adores. Aristotle, whilst he labours to refute the ideas of Plato, falls upon one himself: for his summum bonum ...",
+      "content_hash": "33dbb461a9d1c85be823cb6764ec034fc2e7bcde1ecf6e44faa8920b30d0bfe9"
+    }
+  }
+}

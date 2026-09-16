@@ -11,10 +11,30 @@ export interface FeedPageDto {
   source_page_number: string | null;
   text: string;
   content?: string; // alias optionnel
+  /** Hash canonique V2 when the backend serves structured Curated content. */
+  content_hash?: string;
   language_tag: string;
   served_at: string;
   token_count: number;
   continuation_depth?: number;
+  /**
+   * Bookfin page format V2. `text` remains available while the production API
+   * is rolled out, but a V2 page must be rendered from these blocks directly.
+   */
+  blocks?: BookfinContentBlock[];
+}
+
+export interface BookfinTextSpan {
+  text: string;
+  italic?: boolean;
+  bold?: boolean;
+  small_caps?: boolean;
+}
+
+export interface BookfinContentBlock {
+  type: 'paragraph' | 'heading' | 'scene_break' | 'blockquote' | 'verse' | string;
+  level?: number;
+  spans?: BookfinTextSpan[];
 }
 
 export type ReactionType = 'like' | 'dislike';
