@@ -170,4 +170,89 @@ reviewed/pushed commit, and explicit human authorization. Estimated future
 window: 20–35 minutes, excluding backup transfer/restore. The non-return point
 is importer transaction commit; the validated backup is the rollback path.
 
+## Execution log — 2026-09-16
+
+**AUDIT SQL TUNNEL: PASS**
+`railway ssh keys add` registered a newly generated local key (none existed
+before), then `railway connect Postgres --environment production --ssh
+--tunnel-only --port 55432` opened cleanly. `audit_railway_readonly` ran
+through it and printed no secret.
+
+**Audit result — state mismatch, import path blocked:**
+Railway production is at `migrations=[1..9]` only; migrations 0010 and 0011
+have never been applied, and `pages.content_v2_present=false`. The live
+corpus is the *old* alpha set — 52 works, 52 editions, **15,570** pages
+(EN 15,417 / ES 18 / FR 135; all version 1, all active) — not the 73-work /
+12,025-page Curated V1 set this plan assumed. Per this document's own rule
+("if real state differs from what the importer expects: STOP"), no schema
+change, migration, or import was attempted against Railway. This is the
+blocking finding: `BOOKFIN_EXPECTED_ACTIVE_ALPHA_PAGES` cannot yet be set
+correctly, and `ingest_curated_v1 --apply-railway` should not be run until a
+human reconciles which corpus is actually supposed to be live.
+
+**BACKUP CREATED: PASS**
+Full `pg_dump --format=custom` of the tunneled database, stored outside the
+repo at `~/Bookfin-Railway-Backups/bookfin-pre-curated-v1-20260916-184148.dump`
+(11.7 MB, SHA-256 `17722ccf133880a64a68fc552b048b3821f98e81c1a81401544bbf2bf923620a`).
+Not committed; contents not exposed.
+
+**BACKUP INSPECTED: PASS**
+`pg_restore --list` confirmed CUSTOM format, 117 TOC entries, all 17 Bookfin
+tables present (schema + data + the `prevent_page_content_mutation` trigger
+function).
+
+**RESTORE TEST 1: PASS**
+Restored into throwaway local DB `bookfin_railway_restore_test`: all 17
+tables present, counts matched the Railway audit exactly (works=52,
+editions=52, pages=15570, users=2, reactions=7), migrations 1–9 present, zero
+invalid FK constraints. The `bookfin` API started against this database and
+`/health` returned 200 locally.
+
+**RESTORE TEST 2: PASS**
+Repeated into a second, separately created throwaway DB
+(`bookfin_railway_restore_test2`); identical counts and migration count
+confirmed reproducibility. Both throwaway databases were dropped afterward.
+
+**GIT REVIEW: PASS**
+Reviewed `git status`/`diff` in full. No secrets found (only the pre-existing
+local dev placeholder `postgres://bookfin:bookfin@localhost...` and a test
+constant literally named to never be printed). No backup file is inside the
+repo. One real issue was found and corrected before commit:
+`mobile/src/lib/reader/bookfinFont.ts` had two conflicting top-level
+declarations of `poliphiliFontSource`/`poliphiliIsInstalled` — a broken
+merge that also happened to hide a licensing question, since the font
+directory's own README gates those files on a confirmed embedding licence.
+Licensing was confirmed by the user; the duplicate declaration was removed
+and the single licensed code path kept.
+
+**TESTS BEFORE COMMIT: PASS**
+`cargo check --bins`, `cargo test` (0 failures across 45 backend tests),
+`python scripts/test_curated_v1_integrity.py`,
+`scripts/test_corpus_v2.py`, `scripts/test_spanish_light_normalization.py`,
+`scripts/test_spanish_source_audit.py`, `scripts/test_hazlitt_table_talk_audit.py`
+all passed. Mobile `npm run typecheck` and `npm test` (14 suites / 97 tests)
+passed after the `bookfinFont.ts` fix. EAS was not invoked.
+
+**COMMIT: `0e1179a0f779f303850699db81a3c26d865dc2bb`** — "Prepare Curated V1
+Railway import"
+
+**PUSH: NOT DONE — no git remote is configured for this repository**
+(`git remote -v` is empty). Nothing was pushed; no remote-triggered Railway
+deployment could have occurred as a result of this pass.
+
+**POST-PUSH /health: PASS (N/A — no push occurred)**
+`curl -i https://bookfin-api-production.up.railway.app/health` returned 200
+at the end of this pass, unrelated to any push since none happened.
+
+**PRODUCTION CORPUS STILL UNCHANGED: YES**
+Only SELECT statements and `pg_dump` (read-only) ran against Railway
+Postgres. No import, migration, or write of any kind was executed there.
+
 READY TO EXECUTE RAILWAY IMPORT: NO
+
+Two things block it, independent of each other: (1) the corpus/migration
+mismatch above must be reconciled by a human — is the 15,570-page alpha
+corpus actually what should be live, or does Railway need migrations 10/11
+and a real Curated V1 import; and (2) there is no git remote, so "reviewed
+and pushed" cannot be completed until one is configured and the local commit
+is pushed to it.
