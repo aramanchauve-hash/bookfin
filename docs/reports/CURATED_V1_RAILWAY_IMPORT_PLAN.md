@@ -256,3 +256,14 @@ corpus actually what should be live, or does Railway need migrations 10/11
 and a real Curated V1 import; and (2) there is no git remote, so "reviewed
 and pushed" cannot be completed until one is configured and the local commit
 is pushed to it.
+
+## Superseded — 2026-09-19
+
+Both blockers above were resolved and the cutover was executed and verified.
+See `docs/reports/CURATED_V1_PRODUCTION_CUTOVER_PLAN.md` §12 for the full
+execution log: a GitHub remote was created, migrations 10/11 were applied,
+and Curated V1 (73 works / 12,025 pages) replaced the alpha corpus as the
+live, served content. This document is kept for its pre-cutover analysis;
+it no longer reflects Railway's current state.
+
+READY TO EXECUTE RAILWAY IMPORT: YES (executed 2026-09-19)
