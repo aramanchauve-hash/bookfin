@@ -10,6 +10,8 @@ dist/
 mobile/dist/
 builds/dist
 web-build/
+*.apk
+mobile/*.apk
 
 # Python
 __pycache__/
