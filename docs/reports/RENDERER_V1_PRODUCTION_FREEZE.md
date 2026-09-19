@@ -54,3 +54,4 @@ Le bridge de communication bidirectionnel respecte strictement les signatures su
 2. **Priorité au scroll vertical** : Les listeners gestuels du bridge WebView utilisent `{ passive: true }`. Le scroll vertical natif n'est jamais volé par le swipe horizontal (ratio requis `|dx| > |dy| * 2.5` et `|dx| > 50px`).
 3. **Sécurité et étanchéité** : Tout le contenu textuel passe par `escapeHtml()` avant injection. Aucune balise `<script>` n'est admise dans les blocs V2.
 4. **Intégrité canonique** : Le rendu HTML ne mute jamais l'objet JSON source de la page (`FeedPageDto`).
+

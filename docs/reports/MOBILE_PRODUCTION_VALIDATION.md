@@ -68,3 +68,4 @@ Les trois œuvres de Curated V1 ayant requis une attention humaine particulière
 ## 4. VERDICT FINAL
 
 READY FOR EAS TEST BUILD: YES
+
