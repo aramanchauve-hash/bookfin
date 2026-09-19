@@ -141,12 +141,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     )
     .fetch_one(&pool)
     .await?;
-    let actual_hashes: BTreeMap<Uuid, (String, Option<String>)> = sqlx::query_as(
+    let actual_hashes: BTreeMap<Uuid, (String, Option<String>)> = sqlx::query_as::<_, (Uuid, String, Option<String>)>(
         "SELECT p.id, p.content_hash, p.canonical_content_hash FROM pages p JOIN editions e ON e.id = p.edition_id WHERE e.source_name = 'Bookfin Curated V1'",
     )
     .fetch_all(&pool)
     .await?
     .into_iter()
+    .map(|(id, content_hash, canonical_hash)| (id, (content_hash, canonical_hash)))
     .collect();
     let hashes_match = actual_hashes.len() == expected_hashes.len()
         && expected_hashes.iter().all(|(id, expected_hash)| {
