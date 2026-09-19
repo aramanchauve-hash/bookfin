@@ -41,9 +41,13 @@ export const ReadingWebView: React.FC<ReadingWebViewProps> = ({ page, options, i
     }
   }, []);
 
-  useEffect(() => {
+  const injectCurrentPage = () => {
     const script = `window.BookfinReader&&window.BookfinReader.setPage(${JSON.stringify(payload).replace(/</g, '\\u003c')});true;`;
     ref.current?.injectJavaScript(script);
+  };
+
+  useEffect(() => {
+    injectCurrentPage();
   }, [payload]);
 
   const onMessage = (event: WebViewMessageEvent) => {
@@ -60,6 +64,7 @@ export const ReadingWebView: React.FC<ReadingWebViewProps> = ({ page, options, i
       <WebView
         ref={ref}
         source={{ html: readerShell }}
+        onLoadEnd={injectCurrentPage}
         onMessage={onMessage}
         originWhitelist={['*']}
         javaScriptEnabled
