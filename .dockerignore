@@ -1,6 +1,8 @@
-# Seuls Cargo.toml, Cargo.lock, src/ et migrations/ sont nécessaires pour
-# construire et faire tourner l'API Bookfin. Tout le reste est exclu du
-# contexte de build Docker pour rester rapide et ne rien exposer d'inutile.
+# Cargo.toml, Cargo.lock, src/ et migrations/ sont nécessaires pour
+# construire l'API Bookfin ; corpus/curated_v1/{manifest.json,normalized/,
+# pages/} sont nécessaires en exécution aux binaires de maintenance Curated
+# V1. Tout le reste est exclu du contexte de build Docker pour rester rapide
+# et ne rien exposer d'inutile.
 
 # Rust
 target/
@@ -19,8 +21,18 @@ target/
 # Application mobile (non concernée par l'image API)
 mobile/
 
-# Contenus volumineux non nécessaires au build de l'API
-corpus/
+# Contenus volumineux non nécessaires au build de l'API.
+# corpus/curated_v1/{manifest.json,normalized/,pages/} restent nécessaires en
+# exécution à ingest_curated_v1 et verify_curated_v1_railway (lecture disque,
+# pas d'embarquement à la compilation) — voir Dockerfile.
+corpus/curated_v1/.cache_downloads/
+corpus/curated_v1/sources/
+corpus/curated_v1/rejected_sources/
+corpus/curated_v1/raw_volume_parts/
+corpus/curated_v1/samples/
+corpus/curation/
+corpus/long_form_01/
+corpus/pilot_short_stories/
 docs/
 scripts/
 seeds/
