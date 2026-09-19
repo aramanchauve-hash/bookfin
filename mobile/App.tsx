@@ -16,7 +16,7 @@ import { createAnonymousIdentity, syncReadingLanguages } from './src/lib/api/ide
 const CorpusPreviewScreen: React.ComponentType | null = __DEV__
   ? require('./src/screens/CorpusPreviewScreen').CorpusPreviewScreen
   : null;
-const showCorpusPreview = __DEV__ && process.env.EXPO_PUBLIC_BOOKFIN_FIXTURE_PREVIEW !== '0';
+const showCorpusPreview = __DEV__ && process.env.EXPO_PUBLIC_BOOKFIN_FIXTURE_PREVIEW === '1';
 
 export default function App() {
   const colorScheme = useColorScheme();

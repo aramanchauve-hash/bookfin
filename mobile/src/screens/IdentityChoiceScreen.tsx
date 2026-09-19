@@ -20,8 +20,8 @@ export const IdentityChoiceScreen: React.FC<IdentityChoiceScreenProps> = ({ onCo
         <Pressable accessibilityRole="button" accessibilityLabel="Continuer sans compte" disabled={isCreating} onPress={onContinueAnonymous} style={({ pressed }) => [styles.primary, { backgroundColor: theme.accent, opacity: isCreating ? 0.55 : pressed ? 0.84 : 1 }]}>
           <Text style={styles.primaryText}>{isCreating ? 'Ouverture…' : 'Continuer sans compte'}</Text>
         </Pressable>
-        <Text style={[styles.futureAction, { color: theme.textMuted }]}>Créer un compte</Text>
-        <Text style={[styles.futureAction, { color: theme.textMuted }]}>Se connecter</Text>
+        <Text style={[styles.futureAction, { color: theme.textMuted }]}>Créer un compte (bientôt disponible)</Text>
+        <Text style={[styles.futureAction, { color: theme.textMuted }]}>Se connecter (bientôt disponible)</Text>
         <Text style={[styles.note, { color: theme.textSecondary }]}>La lecture, l’historique et vos langues restent disponibles sur cet appareil.</Text>
       </View>
     </View>

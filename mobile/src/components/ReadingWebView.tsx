@@ -19,12 +19,27 @@ interface ReadingWebViewProps {
 
 const readerShell = `<!doctype html><html><head><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><style>${BOOKFIN_READER_CSS}</style></head><body><main id="root"></main><script>(function(){var start=null,font={family:${JSON.stringify(POLIPHILI_FAMILY)},installed:${poliphiliIsInstalled ? 'true' : 'false'}};function send(v){window.ReactNativeWebView&&window.ReactNativeWebView.postMessage(JSON.stringify(v));}function reportFont(mode){var finish=function(roman,italic){var st;if(!font.installed&&!roman){st='not_installed';}else if(mode==='system'){st='fallback';}else if(roman&&italic){st='loaded';}else if(roman&&!italic){st='italic_missing';}else{st='fallback';}send({type:'FONT_STATUS',family:font.family,requestedMode:mode,romanLoaded:Boolean(roman),italicLoaded:Boolean(italic),status:st});};if(!document.fonts){finish(false,false);return;}document.fonts.ready.then(function(){var hasItalicFace=false;document.fonts.forEach(function(f){var fam=f.family.replace(/["']/g,'');if(fam===font.family&&f.style==='italic'&&f.status==='loaded'){hasItalicFace=true;}});var r=document.fonts.check('400 19px "'+font.family+'"'),i=hasItalicFace&&document.fonts.check('italic 400 19px "'+font.family+'"');finish(r,i);},function(){finish(false,false);});}function state(){var top=window.scrollY||document.documentElement.scrollTop||0,h=Math.max(document.body.scrollHeight,document.documentElement.scrollHeight),v=window.innerHeight;return {type:'SCROLL_STATE',scrollTop:top,scrollHeight:h,viewportHeight:v,atBottom:top>=h-v-2};}function report(){send(state())}window.BookfinReader={setPage:function(p){document.documentElement.lang=p.language;document.documentElement.style.setProperty('--bf-fg',p.theme.fg);document.documentElement.style.setProperty('--bf-muted',p.theme.muted);document.getElementById('root').innerHTML=p.html;reportFont(p.fontMode||'poliphili');requestAnimationFrame(function(){window.scrollTo(0,p.scrollOffset||0);setTimeout(function(){report();send({type:'READY',pageId:p.pageId})},0)})}};addEventListener('scroll',report,{passive:true});addEventListener('resize',report);addEventListener('touchstart',function(e){var t=e.changedTouches[0];start={x:t.clientX,y:t.clientY}},{passive:true});addEventListener('touchend',function(e){if(!start)return;var t=e.changedTouches[0],dx=t.clientX-start.x,dy=t.clientY-start.y,s=state();if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy)*2.5)send(dx<0?{type:'SWIPE_LEFT',atBottom:s.atBottom}:{type:'SWIPE_RIGHT'});start=null},{passive:true});document.addEventListener('message',function(e){try{window.BookfinReader.setPage(JSON.parse(e.data))}catch(_){}});reportFont('poliphili');})();</script></body></html>`;
 
+let webViewMountCount = 0;
+export function getDevWebViewMountCount(): number {
+  return webViewMountCount;
+}
+export function resetDevWebViewMountCount(): void {
+  webViewMountCount = 0;
+}
+
 /** A single native WebView stays mounted; page changes only inject a new V2-derived article. */
 export const ReadingWebView: React.FC<ReadingWebViewProps> = ({ page, options, initialScrollOffset = 0, onScrollState, onSwipeLeft, onSwipeRight, onFontStatus }) => {
   const ref = useRef<WebView>(null);
   const scheme = useColorScheme();
   const theme = scheme === 'dark' ? palette.dark : palette.light;
   const payload = useMemo(() => ({ pageId: page.page_id, language: page.language_tag, html: renderBookfinPageToHtml(page, options), fontMode: options.fontMode ?? 'poliphili', scrollOffset: initialScrollOffset, theme: { fg: theme.textPrimary, muted: theme.textMuted } }), [page, options, initialScrollOffset, theme.textPrimary, theme.textMuted]);
+
+  useEffect(() => {
+    if (__DEV__) {
+      webViewMountCount += 1;
+      (globalThis as any).__BOOKFIN_WEBVIEW_MOUNT_COUNT__ = webViewMountCount;
+    }
+  }, []);
 
   useEffect(() => {
     const script = `window.BookfinReader&&window.BookfinReader.setPage(${JSON.stringify(payload).replace(/</g, '\\u003c')});true;`;
@@ -40,7 +55,25 @@ export const ReadingWebView: React.FC<ReadingWebViewProps> = ({ page, options, i
     if (message.type === 'FONT_STATUS') onFontStatus?.(message);
   };
 
-  return <View style={styles.container}><WebView ref={ref} source={{ html: readerShell }} onMessage={onMessage} originWhitelist={['*']} javaScriptEnabled domStorageEnabled bounces={false} style={[styles.webView, { backgroundColor: theme.background }]} /></View>;
+  return (
+    <View style={styles.container}>
+      <WebView
+        ref={ref}
+        source={{ html: readerShell }}
+        onMessage={onMessage}
+        originWhitelist={['*']}
+        javaScriptEnabled
+        domStorageEnabled
+        bounces={false}
+        onError={(event) => {
+          if (__DEV__) {
+            console.warn('[Bookfin][WebView] Render error:', event.nativeEvent.description);
+          }
+        }}
+        style={[styles.webView, { backgroundColor: theme.background }]}
+      />
+    </View>
+  );
 };
 
 const styles = StyleSheet.create({ container: { flex: 1 }, webView: { flex: 1, backgroundColor: 'transparent' } });
