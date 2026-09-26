@@ -63,7 +63,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             COALESCE(AVG(r.reading_time_ms), 0)::BIGINT AS avg_reading_ms
         FROM alpha_claimed_invites aci
         JOIN alpha_invite_codes aic ON aci.code_id = aic.id
-        LEFT JOIN page_impressions pi ON pi.user_id = aci.user_id
+        -- Métriques de découverte uniquement : la lecture suivie (0012) n'est pas du feed.
+        LEFT JOIN page_impressions pi ON pi.user_id = aci.user_id AND pi.reading_context = 'discovery'
         LEFT JOIN reactions r ON r.user_id = aci.user_id
         GROUP BY aci.user_id, aic.code, aic.note, aci.app_version, aci.build_version
         ORDER BY aic.code ASC

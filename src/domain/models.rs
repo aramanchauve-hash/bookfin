@@ -85,9 +85,35 @@ pub struct PageMetadata {
     pub translator: Option<String>,
     pub publication_year: Option<i32>,
     pub source_name: String,
+    pub work_id: Option<Uuid>,
+    pub edition_id: Option<Uuid>,
 }
 
 pub type BookMetadata = PageMetadata;
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct UserWorkProgress {
+    pub user_id: Uuid,
+    pub work_id: Uuid,
+    pub edition_id: Uuid,
+    pub current_page_id: Option<Uuid>,
+    pub current_page_sequence_number: i32,
+    pub started_at: DateTime<Utc>,
+    pub last_read_at: DateTime<Utc>,
+    pub completed_at: Option<DateTime<Utc>>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ReadingEvent {
+    pub id: Uuid,
+    pub user_id: Uuid,
+    pub work_id: Uuid,
+    pub edition_id: Option<Uuid>,
+    pub page_id: Option<Uuid>,
+    pub event_type: String,
+    pub page_sequence_number: Option<i32>,
+    pub created_at: DateTime<Utc>,
+}
 
 /// Canonical, renderer-ready representation of a Curated V1 page.
 ///
@@ -252,6 +278,10 @@ pub type Extract = Page;
 pub enum NavigationAction {
     ContinueBook,
     RandomPage,
+    /// Première page d'une œuvre commencée volontairement (lecture suivie).
+    StartWork,
+    /// Page de reprise d'une œuvre déjà commencée (lecture suivie).
+    ResumeWork,
 }
 
 impl NavigationAction {
@@ -259,6 +289,8 @@ impl NavigationAction {
         match self {
             NavigationAction::ContinueBook => "continue_book",
             NavigationAction::RandomPage => "random_page",
+            NavigationAction::StartWork => "start_work",
+            NavigationAction::ResumeWork => "resume_work",
         }
     }
 }
@@ -272,10 +304,44 @@ impl std::str::FromStr for NavigationAction {
                 Ok(NavigationAction::ContinueBook)
             }
             "random_page" | "random" => Ok(NavigationAction::RandomPage),
+            "start_work" => Ok(NavigationAction::StartWork),
+            "resume_work" => Ok(NavigationAction::ResumeWork),
             _ => Err(DomainError::NotFound(format!(
                 "Action de navigation invalide: {}",
                 s
             ))),
+        }
+    }
+}
+
+/// Contexte de lecture d'une impression. La découverte (feed aléatoire et ses
+/// continuations) et la lecture suivie d'une œuvre sont deux contextes distincts :
+/// une page lue en lecture suivie n'est jamais une impression aléatoire.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize, Default)]
+#[serde(rename_all = "snake_case")]
+pub enum ReadingContext {
+    #[default]
+    Discovery,
+    Sequential,
+}
+
+impl ReadingContext {
+    pub fn as_str(&self) -> &'static str {
+        match self {
+            ReadingContext::Discovery => "discovery",
+            ReadingContext::Sequential => "sequential",
+        }
+    }
+}
+
+impl std::str::FromStr for ReadingContext {
+    type Err = DomainError;
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        match s.trim() {
+            "discovery" => Ok(ReadingContext::Discovery),
+            "sequential" => Ok(ReadingContext::Sequential),
+            _ => Err(DomainError::NotFound(format!("Contexte de lecture invalide: {}", s))),
         }
     }
 }
@@ -307,6 +373,9 @@ pub struct PageImpression {
     pub reached_end: bool,
     pub app_version: Option<String>,
     pub build_version: Option<String>,
+    /// Découverte ou lecture suivie ; hérité de l'impression parente lors d'une continuation.
+    #[serde(default)]
+    pub reading_context: ReadingContext,
 }
 
 impl PageImpression {

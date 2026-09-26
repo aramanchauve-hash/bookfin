@@ -153,6 +153,23 @@ fn test_navigation_action_parsing_and_display() {
 
     assert_eq!(NavigationAction::ContinueBook.as_str(), "continue_book");
     assert_eq!(NavigationAction::RandomPage.as_str(), "random_page");
+
+    // Lecture suivie : actions distinctes de random_page.
+    for action in [NavigationAction::StartWork, NavigationAction::ResumeWork] {
+        assert_eq!(NavigationAction::from_str(action.as_str()).unwrap(), action);
+        assert_ne!(action.as_str(), NavigationAction::RandomPage.as_str());
+    }
+}
+
+#[test]
+fn test_reading_context_defaults_to_discovery_and_round_trips() {
+    use bookfin::domain::models::ReadingContext;
+
+    assert_eq!(ReadingContext::default(), ReadingContext::Discovery);
+    for context in [ReadingContext::Discovery, ReadingContext::Sequential] {
+        assert_eq!(ReadingContext::from_str(context.as_str()).unwrap(), context);
+    }
+    assert!(ReadingContext::from_str("random").is_err());
 }
 
 #[test]

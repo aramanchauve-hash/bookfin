@@ -12,20 +12,23 @@ use uuid::Uuid;
 use crate::application::dtos::{
     ClaimAlphaInviteRequestDto, ClaimAlphaInviteResponseDto, ConnectionAcceptDto,
     ConnectionProposalDto, ConnectionRequestDto, ContinueReadingRequestDto, FeedPageDto,
-    PageRevealDto, ReadingStatsDto, SubmitReactionRequestDto, SubmitReactionResponseDto,
-    UserAffinityDto,
+    PageRevealDto, ReadingStatsDto, ResumeWorkRequestDto, StartWorkRequestDto,
+    SubmitReactionRequestDto, SubmitReactionResponseDto, UserAffinityDto, UserLibraryItemDto,
 };
 use crate::application::use_cases::{
-    AcceptConnectionUseCase, CalculateAffinitiesUseCase, CanStartDiscussionUseCase,
-    ClaimAlphaInviteUseCase, ContinueReadingUseCase, FeedNextPageUseCase, GetReadingStatsUseCase,
-    RequestConnectionUseCase, RevealPageMetadataUseCase, SubmitReactionUseCase,
+    sync_sequential_progress, AcceptConnectionUseCase, CalculateAffinitiesUseCase,
+    CanStartDiscussionUseCase, ClaimAlphaInviteUseCase, ContinueReadingUseCase,
+    FeedNextPageUseCase, GetLibraryUseCase, GetReadingStatsUseCase, RequestConnectionUseCase,
+    ResumeWorkUseCase, RevealPageMetadataUseCase, StartWorkUseCase, SubmitReactionUseCase,
     VerifyAlphaUserUseCase,
 };
+use crate::application::ports::WorkProgressRepository;
 use crate::domain::errors::DomainError;
 use crate::domain::models::ReadingValidationConfig;
 use crate::infrastructure::repositories::{
     PostgresAffinityRepository, PostgresAlphaInviteRepository, PostgresConnectionRepository,
     PostgresImpressionRepository, PostgresPageRepository, PostgresReactionRepository,
+    PostgresWorkProgressRepository,
 };
 
 pub const DEFAULT_DEV_USER_ID: &str = "11111111-1111-1111-1111-111111111111";
@@ -109,6 +112,9 @@ where
             "/connections/:user_id/status",
             get(connection_status_handler),
         )
+        .route("/works/:work_id/start", post(start_work_handler))
+        .route("/works/:work_id/resume", post(resume_work_handler))
+        .route("/me/library", get(get_library_handler))
 }
 
 fn validate_language_tags(tags: &[String]) -> Result<Vec<String>, (StatusCode, String)> {
@@ -245,11 +251,11 @@ async fn continue_reading_handler(
         .or(header_build_version);
 
     let page_repo = PostgresPageRepository::new(pool.clone());
-    let impression_repo = PostgresImpressionRepository::new(pool);
-    let use_case = ContinueReadingUseCase::new(page_repo, impression_repo);
+    let impression_repo = PostgresImpressionRepository::new(pool.clone());
+    let use_case = ContinueReadingUseCase::new(page_repo.clone(), impression_repo);
 
     match use_case
-        .execute(
+        .execute_with_context(
             user_id,
             page_id,
             parent_impression_id,
@@ -259,7 +265,20 @@ async fn continue_reading_handler(
         )
         .await
     {
-        Ok(dto) => Ok(Json(dto)),
+        Ok((dto, reading_context)) => {
+            // Seule la lecture suivie avance la progression ; une continuation du
+            // feed aléatoire ne modifie jamais user_work_progress.
+            let work_progress_repo = PostgresWorkProgressRepository::new(pool.clone());
+            let _ = sync_sequential_progress(
+                &page_repo,
+                &work_progress_repo,
+                user_id,
+                &dto,
+                reading_context,
+            )
+            .await;
+            Ok(Json(dto))
+        }
         Err(DomainError::EndOfEdition {
             edition_id,
             last_page_number,
@@ -485,11 +504,20 @@ async fn reveal_page_handler(
         .unwrap_or_else(|| Uuid::parse_str(DEFAULT_DEV_USER_ID).unwrap());
 
     let page_repo = PostgresPageRepository::new(pool.clone());
-    let reaction_repo = PostgresReactionRepository::new(pool);
+    let reaction_repo = PostgresReactionRepository::new(pool.clone());
     let use_case = RevealPageMetadataUseCase::new(page_repo, reaction_repo);
 
     match use_case.execute(user_id, page_id).await {
-        Ok(dto) => Ok(Json(dto)),
+        Ok(mut dto) => {
+            if let Some(work_id) = dto.work_id {
+                let work_progress_repo = PostgresWorkProgressRepository::new(pool);
+                if let Ok(Some(progress)) = work_progress_repo.get_progress(user_id, work_id).await {
+                    dto.work_progress_page_sequence_number =
+                        Some(progress.current_page_sequence_number);
+                }
+            }
+            Ok(Json(dto))
+        }
         Err(DomainError::ReactionRequiredForReveal) => Err((
             StatusCode::FORBIDDEN,
             "Une réaction préalable est obligatoire pour révéler les métadonnées de cette page"
@@ -611,6 +639,80 @@ async fn connection_status_handler(
             "other_user_id": other_user_id,
             "can_start_discussion": can_start,
         }))),
+        Err(e) => Err((StatusCode::INTERNAL_SERVER_ERROR, e.to_string())),
+    }
+}
+
+#[derive(Debug, Deserialize)]
+pub struct LibraryQuery {
+    pub user_id: Option<Uuid>,
+}
+
+async fn start_work_handler(
+    _headers: HeaderMap,
+    Extension(pool): Extension<PgPool>,
+    Path(work_id): Path<Uuid>,
+    Json(payload): Json<StartWorkRequestDto>,
+) -> Result<Json<FeedPageDto>, (StatusCode, String)> {
+    let page_repo = PostgresPageRepository::new(pool.clone());
+    let impression_repo = PostgresImpressionRepository::new(pool.clone());
+    let work_progress_repo = PostgresWorkProgressRepository::new(pool);
+    let use_case = StartWorkUseCase::new(page_repo, impression_repo, work_progress_repo);
+
+    match use_case
+        .execute(payload.user_id, work_id, payload.edition_id, payload.restart)
+        .await
+    {
+        Ok(dto) => Ok(Json(dto)),
+        Err(DomainError::WorkAlreadyStarted {
+            current_page_sequence_number,
+        }) => Err((
+            StatusCode::CONFLICT,
+            serde_json::json!({
+                "error": "work_already_started",
+                "current_page_sequence_number": current_page_sequence_number,
+                "message": "Œuvre déjà commencée : reprendre ou redémarrer explicitement"
+            })
+            .to_string(),
+        )),
+        Err(DomainError::NotFound(msg)) => Err((StatusCode::NOT_FOUND, msg)),
+        Err(DomainError::PageNotFound(msg)) => Err((StatusCode::NOT_FOUND, msg)),
+        Err(e) => Err((StatusCode::INTERNAL_SERVER_ERROR, e.to_string())),
+    }
+}
+
+async fn resume_work_handler(
+    _headers: HeaderMap,
+    Extension(pool): Extension<PgPool>,
+    Path(work_id): Path<Uuid>,
+    Json(payload): Json<ResumeWorkRequestDto>,
+) -> Result<Json<FeedPageDto>, (StatusCode, String)> {
+    let page_repo = PostgresPageRepository::new(pool.clone());
+    let impression_repo = PostgresImpressionRepository::new(pool.clone());
+    let work_progress_repo = PostgresWorkProgressRepository::new(pool);
+    let use_case = ResumeWorkUseCase::new(page_repo, impression_repo, work_progress_repo);
+
+    match use_case.execute(payload.user_id, work_id).await {
+        Ok(dto) => Ok(Json(dto)),
+        Err(DomainError::NotFound(msg)) => Err((StatusCode::NOT_FOUND, msg)),
+        Err(DomainError::PageNotFound(msg)) => Err((StatusCode::NOT_FOUND, msg)),
+        Err(e) => Err((StatusCode::INTERNAL_SERVER_ERROR, e.to_string())),
+    }
+}
+
+async fn get_library_handler(
+    Extension(pool): Extension<PgPool>,
+    Query(query): Query<LibraryQuery>,
+) -> Result<Json<Vec<UserLibraryItemDto>>, (StatusCode, String)> {
+    let user_id = query
+        .user_id
+        .unwrap_or_else(|| Uuid::parse_str(DEFAULT_DEV_USER_ID).unwrap());
+
+    let work_progress_repo = PostgresWorkProgressRepository::new(pool);
+    let use_case = GetLibraryUseCase::new(work_progress_repo);
+
+    match use_case.execute(user_id).await {
+        Ok(items) => Ok(Json(items)),
         Err(e) => Err((StatusCode::INTERNAL_SERVER_ERROR, e.to_string())),
     }
 }

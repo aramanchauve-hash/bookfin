@@ -158,6 +158,45 @@ pub struct PageRevealDto {
     pub original_language_tag: String,
     pub page_language_tag: String,
     pub has_reacted: bool,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub work_id: Option<Uuid>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub edition_id: Option<Uuid>,
+    /// Page courante de la lecture suivie si le lecteur a déjà commencé cette œuvre.
+    /// Absent si l'œuvre n'a jamais été commencée : le client propose alors
+    /// « Commencer depuis le début » ; sinon « Reprendre ».
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub work_progress_page_sequence_number: Option<i32>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct UserLibraryItemDto {
+    pub work_id: Uuid,
+    pub edition_id: Uuid,
+    pub title: String,
+    pub author: String,
+    pub edition_title: String,
+    pub current_page_sequence_number: i32,
+    pub total_pages: i32,
+    pub started_at: DateTime<Utc>,
+    pub last_read_at: DateTime<Utc>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub completed_at: Option<DateTime<Utc>>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct StartWorkRequestDto {
+    pub user_id: Uuid,
+    pub edition_id: Uuid,
+    /// Redémarrage explicite confirmé par le lecteur : remet la progression à la page 1.
+    /// Sans ce drapeau, un START sur une œuvre déjà commencée est refusé (409).
+    #[serde(default)]
+    pub restart: bool,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ResumeWorkRequestDto {
+    pub user_id: Uuid,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

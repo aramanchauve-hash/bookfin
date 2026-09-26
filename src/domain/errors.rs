@@ -81,4 +81,7 @@ pub enum DomainError {
 
     #[error("Erreur de base de données : {0}")]
     DatabaseError(String),
+
+    #[error("Œuvre déjà commencée (page {current_page_sequence_number}) : utiliser la reprise ou un redémarrage explicite")]
+    WorkAlreadyStarted { current_page_sequence_number: i32 },
 }

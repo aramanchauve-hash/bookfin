@@ -8,14 +8,15 @@ use uuid::Uuid;
 #[cfg(feature = "ssr")]
 use crate::application::ports::{
     AffinityRepository, AlphaInviteRepository, ConnectionRepository, ImpressionRepository,
-    PageRepository, ReactionRepository,
+    PageRepository, ReactionRepository, WorkProgressRepository,
 };
 #[cfg(feature = "ssr")]
 use crate::domain::errors::DomainError;
 #[cfg(feature = "ssr")]
 use crate::domain::models::{
     AlphaInviteCode, ConnectionProposal, ConnectionStatus, LanguageTag, Page, PageContentV2, PageImpression,
-    PageMetadata, Reaction, ReactionType, ReadingStats, ReadingValidationConfig, UserAffinity,
+    PageMetadata, Reaction, ReactionType, ReadingEvent, ReadingStats, ReadingValidationConfig, UserAffinity,
+    UserWorkProgress,
 };
 
 #[cfg(feature = "ssr")]
@@ -81,6 +82,8 @@ struct SqlPageMetadata {
     translator: Option<String>,
     publication_year: Option<i32>,
     source_name: String,
+    work_id: Uuid,
+    edition_id: Uuid,
 }
 
 #[cfg(feature = "ssr")]
@@ -169,7 +172,8 @@ impl PageRepository for PostgresPageRepository {
         let row = sqlx::query_as::<_, SqlPageMetadata>(
             r#"
             SELECT w.title, w.author, w.original_language_tag,
-                   e.edition_title, e.translator, e.publication_year, e.source_name
+                   e.edition_title, e.translator, e.publication_year, e.source_name,
+                   w.id as work_id, e.id as edition_id
             FROM pages p
             JOIN editions e ON p.edition_id = e.id
             JOIN works w ON e.work_id = w.id
@@ -189,6 +193,8 @@ impl PageRepository for PostgresPageRepository {
             translator: r.translator,
             publication_year: r.publication_year,
             source_name: r.source_name,
+            work_id: Some(r.work_id),
+            edition_id: Some(r.edition_id),
         }))
     }
 
@@ -240,6 +246,60 @@ impl PageRepository for PostgresPageRepository {
             None => Ok(None),
         }
     }
+
+    async fn get_first_page_of_edition(
+        &self,
+        edition_id: Uuid,
+    ) -> Result<Option<Page>, DomainError> {
+        let row = sqlx::query_as::<_, SqlPage>(
+            r#"
+            SELECT id, edition_id, page_number, source_page_number, content, content_v2, content_hash, language_tag,
+                   token_count, random_key, is_active, version, created_at
+            FROM pages
+            WHERE edition_id = $1
+              AND page_number = 1
+              AND is_active = true
+            LIMIT 1
+            "#,
+        )
+        .bind(edition_id)
+        .fetch_optional(&self.pool)
+        .await
+        .map_err(|e| DomainError::NotFound(format!("SQL get_first_page_of_edition: {}", e)))?;
+
+        match row {
+            Some(r) => r.into_domain().map(Some),
+            None => Ok(None),
+        }
+    }
+
+    async fn get_page_by_edition_and_number(
+        &self,
+        edition_id: Uuid,
+        page_number: i32,
+    ) -> Result<Option<Page>, DomainError> {
+        let row = sqlx::query_as::<_, SqlPage>(
+            r#"
+            SELECT id, edition_id, page_number, source_page_number, content, content_v2, content_hash, language_tag,
+                   token_count, random_key, is_active, version, created_at
+            FROM pages
+            WHERE edition_id = $1
+              AND page_number = $2
+              AND is_active = true
+            LIMIT 1
+            "#,
+        )
+        .bind(edition_id)
+        .bind(page_number)
+        .fetch_optional(&self.pool)
+        .await
+        .map_err(|e| DomainError::NotFound(format!("SQL get_page_by_edition_and_number: {}", e)))?;
+
+        match row {
+            Some(r) => r.into_domain().map(Some),
+            None => Ok(None),
+        }
+    }
 }
 
 pub type PostgresExtractRepository = PostgresPageRepository;
@@ -278,6 +338,7 @@ struct SqlPageImpression {
     reached_end: bool,
     app_version: Option<String>,
     build_version: Option<String>,
+    reading_context: String,
 }
 
 #[cfg(feature = "ssr")]
@@ -308,6 +369,7 @@ impl SqlPageImpression {
             reached_end: self.reached_end,
             app_version: self.app_version,
             build_version: self.build_version,
+            reading_context: self.reading_context.parse()?,
         })
     }
 }
@@ -328,14 +390,14 @@ impl ImpressionRepository for PostgresImpressionRepository {
                 parent_impression_id, root_page_id, continuation_depth,
                 active_reading_time_ms, scroll_depth, bottom_reached,
                 scroll_back, navigation_action, book_resumed, is_bookmarked,
-                reached_end, app_version, build_version
+                reached_end, app_version, build_version, reading_context
             )
-            VALUES ($1, $2, $3, NOW(), $4, NULL, $3, 0, NULL, NULL, false, false, 'random_page', false, false, false, NULL, NULL)
+            VALUES ($1, $2, $3, NOW(), $4, NULL, $3, 0, NULL, NULL, false, false, 'random_page', false, false, false, NULL, NULL, 'discovery')
             RETURNING id, user_id, page_id, served_at, session_id,
                       parent_impression_id, root_page_id, continuation_depth,
                       active_reading_time_ms, scroll_depth, bottom_reached,
                       scroll_back, navigation_action, book_resumed, is_bookmarked,
-                      reached_end, app_version, build_version
+                      reached_end, app_version, build_version, reading_context
             "#,
         )
         .bind(id)
@@ -360,14 +422,14 @@ impl ImpressionRepository for PostgresImpressionRepository {
                 parent_impression_id, root_page_id, continuation_depth,
                 active_reading_time_ms, scroll_depth, bottom_reached,
                 scroll_back, navigation_action, book_resumed, is_bookmarked,
-                reached_end, app_version, build_version
+                reached_end, app_version, build_version, reading_context
             )
-            VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18)
+            VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, $19)
             RETURNING id, user_id, page_id, served_at, session_id,
                       parent_impression_id, root_page_id, continuation_depth,
                       active_reading_time_ms, scroll_depth, bottom_reached,
                       scroll_back, navigation_action, book_resumed, is_bookmarked,
-                      reached_end, app_version, build_version
+                      reached_end, app_version, build_version, reading_context
             "#,
         )
         .bind(impression.id)
@@ -388,6 +450,7 @@ impl ImpressionRepository for PostgresImpressionRepository {
         .bind(impression.reached_end)
         .bind(impression.app_version.as_deref())
         .bind(impression.build_version.as_deref())
+        .bind(impression.reading_context.as_str())
         .fetch_one(&self.pool)
         .await
         .map_err(|e| DomainError::NotFound(format!("SQL record_impression_full: {}", e)))?;
@@ -406,7 +469,7 @@ impl ImpressionRepository for PostgresImpressionRepository {
                    parent_impression_id, root_page_id, continuation_depth,
                    active_reading_time_ms, scroll_depth, bottom_reached,
                    scroll_back, navigation_action, book_resumed, is_bookmarked,
-                   reached_end, app_version, build_version
+                   reached_end, app_version, build_version, reading_context
             FROM page_impressions
             WHERE user_id = $1 AND page_id = $2
             ORDER BY served_at DESC
@@ -435,7 +498,7 @@ impl ImpressionRepository for PostgresImpressionRepository {
                    parent_impression_id, root_page_id, continuation_depth,
                    active_reading_time_ms, scroll_depth, bottom_reached,
                    scroll_back, navigation_action, book_resumed, is_bookmarked,
-                   reached_end, app_version, build_version
+                   reached_end, app_version, build_version, reading_context
             FROM page_impressions
             WHERE id = $1
             "#,
@@ -462,7 +525,7 @@ impl ImpressionRepository for PostgresImpressionRepository {
                    parent_impression_id, root_page_id, continuation_depth,
                    active_reading_time_ms, scroll_depth, bottom_reached,
                    scroll_back, navigation_action, book_resumed, is_bookmarked,
-                   reached_end, app_version, build_version
+                   reached_end, app_version, build_version, reading_context
             FROM page_impressions
             WHERE parent_impression_id = $1 AND page_id = $2
             ORDER BY served_at ASC
@@ -516,7 +579,7 @@ impl ImpressionRepository for PostgresImpressionRepository {
                        parent_impression_id, root_page_id, continuation_depth,
                        active_reading_time_ms, scroll_depth, bottom_reached,
                        scroll_back, navigation_action, book_resumed, is_bookmarked,
-                       reached_end, app_version, build_version
+                       reached_end, app_version, build_version, reading_context
                 FROM page_impressions
                 WHERE id = $1
                 UNION ALL
@@ -524,7 +587,7 @@ impl ImpressionRepository for PostgresImpressionRepository {
                        p.parent_impression_id, p.root_page_id, p.continuation_depth,
                        p.active_reading_time_ms, p.scroll_depth, p.bottom_reached,
                        p.scroll_back, p.navigation_action, p.book_resumed, p.is_bookmarked,
-                       p.reached_end, p.app_version, p.build_version
+                       p.reached_end, p.app_version, p.build_version, p.reading_context
                 FROM page_impressions p
                 INNER JOIN chain c ON c.parent_impression_id = p.id
             )
@@ -1220,5 +1283,249 @@ impl AlphaInviteRepository for PostgresAlphaInviteRepository {
         .map_err(|e| DomainError::DatabaseError(format!("SQL is_valid_alpha_user: {}", e)))?;
 
         Ok(row.0)
+    }
+}
+
+#[cfg(feature = "ssr")]
+#[derive(FromRow)]
+struct SqlUserWorkProgress {
+    user_id: Uuid,
+    work_id: Uuid,
+    edition_id: Uuid,
+    current_page_id: Option<Uuid>,
+    current_page_sequence_number: i32,
+    started_at: DateTime<Utc>,
+    last_read_at: DateTime<Utc>,
+    completed_at: Option<DateTime<Utc>>,
+}
+
+#[cfg(feature = "ssr")]
+impl SqlUserWorkProgress {
+    fn into_domain(self) -> UserWorkProgress {
+        UserWorkProgress {
+            user_id: self.user_id,
+            work_id: self.work_id,
+            edition_id: self.edition_id,
+            current_page_id: self.current_page_id,
+            current_page_sequence_number: self.current_page_sequence_number,
+            started_at: self.started_at,
+            last_read_at: self.last_read_at,
+            completed_at: self.completed_at,
+        }
+    }
+}
+
+/// Une identité inconnue viole la FK `users` : c'est un 404 métier, pas une panne.
+#[cfg(feature = "ssr")]
+fn map_work_progress_write_error(e: sqlx::Error) -> DomainError {
+    if let sqlx::Error::Database(db) = &e {
+        if db.code().as_deref() == Some("23503") {
+            return DomainError::NotFound(format!("Identité ou œuvre introuvable: {}", db.message()));
+        }
+    }
+    DomainError::DatabaseError(format!("SQL user_work_progress: {}", e))
+}
+
+#[cfg(feature = "ssr")]
+#[derive(Clone)]
+pub struct PostgresWorkProgressRepository {
+    pool: PgPool,
+}
+
+#[cfg(feature = "ssr")]
+impl PostgresWorkProgressRepository {
+    pub fn new(pool: PgPool) -> Self {
+        Self { pool }
+    }
+}
+
+#[cfg(feature = "ssr")]
+impl WorkProgressRepository for PostgresWorkProgressRepository {
+    async fn edition_belongs_to_work(
+        &self,
+        work_id: Uuid,
+        edition_id: Uuid,
+    ) -> Result<bool, DomainError> {
+        let row: (bool,) = sqlx::query_as(
+            "SELECT EXISTS(SELECT 1 FROM editions WHERE id = $1 AND work_id = $2)",
+        )
+        .bind(edition_id)
+        .bind(work_id)
+        .fetch_one(&self.pool)
+        .await
+        .map_err(|e| DomainError::DatabaseError(format!("SQL edition_belongs_to_work: {}", e)))?;
+        Ok(row.0)
+    }
+
+    async fn create_progress_if_absent(
+        &self,
+        user_id: Uuid,
+        work_id: Uuid,
+        edition_id: Uuid,
+        first_page_id: Uuid,
+    ) -> Result<Option<UserWorkProgress>, DomainError> {
+        // ON CONFLICT DO NOTHING : un second START (double tap, retry réseau, autre
+        // appareil) ne détruit jamais une progression existante.
+        let row = sqlx::query_as::<_, SqlUserWorkProgress>(
+            r#"
+            INSERT INTO user_work_progress (user_id, work_id, edition_id, current_page_id, current_page_sequence_number, started_at, last_read_at)
+            VALUES ($1, $2, $3, $4, 1, NOW(), NOW())
+            ON CONFLICT (user_id, work_id) DO NOTHING
+            RETURNING user_id, work_id, edition_id, current_page_id, current_page_sequence_number, started_at, last_read_at, completed_at
+            "#,
+        )
+        .bind(user_id)
+        .bind(work_id)
+        .bind(edition_id)
+        .bind(first_page_id)
+        .fetch_optional(&self.pool)
+        .await
+        .map_err(map_work_progress_write_error)?;
+
+        Ok(row.map(SqlUserWorkProgress::into_domain))
+    }
+
+    async fn reset_progress(
+        &self,
+        user_id: Uuid,
+        work_id: Uuid,
+        edition_id: Uuid,
+        first_page_id: Uuid,
+    ) -> Result<UserWorkProgress, DomainError> {
+        let row = sqlx::query_as::<_, SqlUserWorkProgress>(
+            r#"
+            INSERT INTO user_work_progress (user_id, work_id, edition_id, current_page_id, current_page_sequence_number, started_at, last_read_at)
+            VALUES ($1, $2, $3, $4, 1, NOW(), NOW())
+            ON CONFLICT (user_id, work_id)
+            DO UPDATE SET
+                edition_id = EXCLUDED.edition_id,
+                current_page_id = EXCLUDED.current_page_id,
+                current_page_sequence_number = 1,
+                last_read_at = NOW(),
+                completed_at = NULL
+            RETURNING user_id, work_id, edition_id, current_page_id, current_page_sequence_number, started_at, last_read_at, completed_at
+            "#,
+        )
+        .bind(user_id)
+        .bind(work_id)
+        .bind(edition_id)
+        .bind(first_page_id)
+        .fetch_one(&self.pool)
+        .await
+        .map_err(map_work_progress_write_error)?;
+
+        Ok(row.into_domain())
+    }
+
+    async fn update_progress(
+        &self,
+        user_id: Uuid,
+        edition_id: Uuid,
+        page_id: Uuid,
+        page_sequence_number: i32,
+    ) -> Result<bool, DomainError> {
+        let result = sqlx::query(
+            r#"
+            UPDATE user_work_progress
+            SET current_page_id = $1,
+                current_page_sequence_number = $2,
+                last_read_at = NOW()
+            WHERE user_id = $3 AND edition_id = $4
+            "#,
+        )
+        .bind(page_id)
+        .bind(page_sequence_number)
+        .bind(user_id)
+        .bind(edition_id)
+        .execute(&self.pool)
+        .await
+        .map_err(|e| DomainError::DatabaseError(format!("SQL update_progress: {}", e)))?;
+
+        Ok(result.rows_affected() > 0)
+    }
+
+    async fn get_progress(
+        &self,
+        user_id: Uuid,
+        work_id: Uuid,
+    ) -> Result<Option<UserWorkProgress>, DomainError> {
+        let row = sqlx::query_as::<_, SqlUserWorkProgress>(
+            r#"
+            SELECT user_id, work_id, edition_id, current_page_id, current_page_sequence_number, started_at, last_read_at, completed_at
+            FROM user_work_progress
+            WHERE user_id = $1 AND work_id = $2
+            "#,
+        )
+        .bind(user_id)
+        .bind(work_id)
+        .fetch_optional(&self.pool)
+        .await
+        .map_err(|e| DomainError::DatabaseError(format!("SQL get_progress: {}", e)))?;
+
+        Ok(row.map(SqlUserWorkProgress::into_domain))
+    }
+
+    async fn get_user_library(
+        &self,
+        user_id: Uuid,
+    ) -> Result<Vec<crate::application::dtos::UserLibraryItemDto>, DomainError> {
+        let rows = sqlx::query_as::<_, (Uuid, Uuid, String, String, String, i32, i64, DateTime<Utc>, DateTime<Utc>, Option<DateTime<Utc>>)>(
+            r#"
+            SELECT uwp.work_id, uwp.edition_id, w.title, w.author, e.edition_title,
+                   uwp.current_page_sequence_number,
+                   COALESCE((SELECT COUNT(*) FROM pages p WHERE p.edition_id = uwp.edition_id AND p.is_active = true), 0) AS total_pages,
+                   uwp.started_at, uwp.last_read_at, uwp.completed_at
+            FROM user_work_progress uwp
+            JOIN works w ON uwp.work_id = w.id
+            JOIN editions e ON uwp.edition_id = e.id
+            WHERE uwp.user_id = $1
+            ORDER BY uwp.last_read_at DESC
+            "#,
+        )
+        .bind(user_id)
+        .fetch_all(&self.pool)
+        .await
+        .map_err(|e| DomainError::DatabaseError(format!("SQL get_user_library: {}", e)))?;
+
+        Ok(rows
+            .into_iter()
+            .map(|r| crate::application::dtos::UserLibraryItemDto {
+                work_id: r.0,
+                edition_id: r.1,
+                title: r.2,
+                author: r.3,
+                edition_title: r.4,
+                current_page_sequence_number: r.5,
+                total_pages: r.6 as i32,
+                started_at: r.7,
+                last_read_at: r.8,
+                completed_at: r.9,
+            })
+            .collect())
+    }
+
+    async fn record_reading_event(
+        &self,
+        event: &ReadingEvent,
+    ) -> Result<(), DomainError> {
+        sqlx::query(
+            r#"
+            INSERT INTO reading_events (id, user_id, work_id, edition_id, page_id, event_type, page_sequence_number, created_at)
+            VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
+            "#,
+        )
+        .bind(event.id)
+        .bind(event.user_id)
+        .bind(event.work_id)
+        .bind(event.edition_id)
+        .bind(event.page_id)
+        .bind(&event.event_type)
+        .bind(event.page_sequence_number)
+        .bind(event.created_at)
+        .execute(&self.pool)
+        .await
+        .map_err(|e| DomainError::DatabaseError(format!("SQL record_reading_event: {}", e)))?;
+
+        Ok(())
     }
 }

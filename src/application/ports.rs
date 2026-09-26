@@ -28,6 +28,17 @@ pub trait PageRepository: Send + Sync {
         edition_id: Uuid,
         current_page_number: i32,
     ) -> impl std::future::Future<Output = Result<Option<Page>, DomainError>> + Send;
+
+    fn get_first_page_of_edition(
+        &self,
+        edition_id: Uuid,
+    ) -> impl std::future::Future<Output = Result<Option<Page>, DomainError>> + Send;
+
+    fn get_page_by_edition_and_number(
+        &self,
+        edition_id: Uuid,
+        page_number: i32,
+    ) -> impl std::future::Future<Output = Result<Option<Page>, DomainError>> + Send;
 }
 
 pub trait ImpressionRepository: Send + Sync {
@@ -163,4 +174,56 @@ pub trait AlphaInviteRepository: Send + Sync {
         &self,
         user_id: Uuid,
     ) -> impl std::future::Future<Output = Result<bool, DomainError>> + Send;
+}
+
+pub trait WorkProgressRepository: Send + Sync {
+    /// Vrai si l'édition appartient bien à l'œuvre (garde contre un couple incohérent).
+    fn edition_belongs_to_work(
+        &self,
+        work_id: Uuid,
+        edition_id: Uuid,
+    ) -> impl std::future::Future<Output = Result<bool, DomainError>> + Send;
+
+    /// Crée la progression à la page 1 uniquement si elle n'existe pas encore.
+    /// Retourne `None` si l'œuvre était déjà commencée : rien n'est modifié.
+    fn create_progress_if_absent(
+        &self,
+        user_id: Uuid,
+        work_id: Uuid,
+        edition_id: Uuid,
+        first_page_id: Uuid,
+    ) -> impl std::future::Future<Output = Result<Option<crate::domain::models::UserWorkProgress>, DomainError>> + Send;
+
+    /// Remise explicite à la page 1 (restart confirmé par le lecteur).
+    fn reset_progress(
+        &self,
+        user_id: Uuid,
+        work_id: Uuid,
+        edition_id: Uuid,
+        first_page_id: Uuid,
+    ) -> impl std::future::Future<Output = Result<crate::domain::models::UserWorkProgress, DomainError>> + Send;
+
+    fn update_progress(
+        &self,
+        user_id: Uuid,
+        edition_id: Uuid,
+        page_id: Uuid,
+        page_sequence_number: i32,
+    ) -> impl std::future::Future<Output = Result<bool, DomainError>> + Send;
+
+    fn get_progress(
+        &self,
+        user_id: Uuid,
+        work_id: Uuid,
+    ) -> impl std::future::Future<Output = Result<Option<crate::domain::models::UserWorkProgress>, DomainError>> + Send;
+
+    fn get_user_library(
+        &self,
+        user_id: Uuid,
+    ) -> impl std::future::Future<Output = Result<Vec<crate::application::dtos::UserLibraryItemDto>, DomainError>> + Send;
+
+    fn record_reading_event(
+        &self,
+        event: &crate::domain::models::ReadingEvent,
+    ) -> impl std::future::Future<Output = Result<(), DomainError>> + Send;
 }
