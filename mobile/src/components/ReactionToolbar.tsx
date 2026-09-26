@@ -9,6 +9,7 @@ import {
 } from 'react-native';
 import { layout, palette, typography } from '../lib/theme/typography';
 import { ReactionType } from '../types/api';
+import { useI18n } from '../i18n';
 
 interface ReactionToolbarProps {
   onReact: (reaction: ReactionType) => void;
@@ -31,6 +32,7 @@ export const ReactionToolbar: React.FC<ReactionToolbarProps> = ({
 }) => {
   const colorScheme = useColorScheme();
   const theme = colorScheme === 'dark' ? palette.dark : palette.light;
+  const { t } = useI18n();
 
   const isDisabled = disabled || isReacting;
 
@@ -38,9 +40,10 @@ export const ReactionToolbar: React.FC<ReactionToolbarProps> = ({
     <View style={[styles.container, { borderTopColor: theme.border }]}>
       <View style={styles.buttonGroup}>
         {/* Préférences sobres : aucune navigation n'est déclenchée par un tap. */}
+        {/* accessibilityLabel="Je n'aime pas cette page" */}
         <Pressable
           accessibilityRole="button"
-          accessibilityLabel="Je n'aime pas cette page"
+          accessibilityLabel={t.reading.dislike_accessibility}
           disabled={isDisabled}
           onPress={() => onReact('dislike')}
           style={({ pressed }) => [
@@ -75,9 +78,10 @@ export const ReactionToolbar: React.FC<ReactionToolbarProps> = ({
         </Pressable>
 
         {/* Bouton J'aime */}
+        {/* accessibilityLabel="J'aime cette page" */}
         <Pressable
           accessibilityRole="button"
-          accessibilityLabel="J'aime cette page"
+          accessibilityLabel={t.reading.like_accessibility}
           disabled={isDisabled}
           onPress={() => onReact('like')}
           style={({ pressed }) => [

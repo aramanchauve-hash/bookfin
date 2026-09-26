@@ -2,6 +2,8 @@ import React from 'react';
 import { Pressable, StyleSheet, Text, useColorScheme, View } from 'react-native';
 import { layout, palette, typography } from '../lib/theme/typography';
 
+import { useI18n } from '../i18n';
+
 interface IdentityChoiceScreenProps {
   onContinueAnonymous: () => void;
   isCreating?: boolean;
@@ -13,16 +15,18 @@ interface IdentityChoiceScreenProps {
 export const IdentityChoiceScreen: React.FC<IdentityChoiceScreenProps> = ({ onContinueAnonymous, isCreating = false }) => {
   const colorScheme = useColorScheme();
   const theme = colorScheme === 'dark' ? palette.dark : palette.light;
+  const { t } = useI18n();
+
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
       <View style={styles.content}>
-        <Text style={[styles.title, { color: theme.textPrimary }]}>Comment voulez-vous utiliser Bookfin ?</Text>
-        <Pressable accessibilityRole="button" accessibilityLabel="Continuer sans compte" disabled={isCreating} onPress={onContinueAnonymous} style={({ pressed }) => [styles.primary, { backgroundColor: theme.accent, opacity: isCreating ? 0.55 : pressed ? 0.84 : 1 }]}>
-          <Text style={styles.primaryText}>{isCreating ? 'Ouverture…' : 'Continuer sans compte'}</Text>
+        <Text style={[styles.title, { color: theme.textPrimary }]}>{t.identity.title}</Text>
+        <Pressable accessibilityRole="button" accessibilityLabel={t.identity.continue_without_account} disabled={isCreating} onPress={onContinueAnonymous} style={({ pressed }) => [styles.primary, { backgroundColor: theme.accent, opacity: isCreating ? 0.55 : pressed ? 0.84 : 1 }]}>
+          <Text style={styles.primaryText}>{isCreating ? t.identity.opening : t.identity.continue_without_account}</Text>
         </Pressable>
-        <Text style={[styles.futureAction, { color: theme.textMuted }]}>Créer un compte (bientôt disponible)</Text>
-        <Text style={[styles.futureAction, { color: theme.textMuted }]}>Se connecter (bientôt disponible)</Text>
-        <Text style={[styles.note, { color: theme.textSecondary }]}>La lecture, l’historique et vos langues restent disponibles sur cet appareil.</Text>
+        <Text style={[styles.futureAction, { color: theme.textMuted }]}>{t.identity.create_account_soon}</Text>
+        <Text style={[styles.futureAction, { color: theme.textMuted }]}>{t.identity.login_soon}</Text>
+        <Text style={[styles.note, { color: theme.textSecondary }]}>{t.identity.note}</Text>
       </View>
     </View>
   );

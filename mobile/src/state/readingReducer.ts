@@ -26,6 +26,13 @@ export interface ReadingState {
   transitionType: 'page_flip' | 'page_flip_back' | 'fade' | 'none';
   restoreScrollOffset: number;
   isBufferedPage: boolean;
+  readingMode: 'random' | 'sequential';
+  activeWork: {
+    workId: string;
+    editionId: string;
+    title: string;
+    author: string;
+  } | null;
 }
 
 export type ReadingAction =
@@ -44,6 +51,23 @@ export type ReadingAction =
       reaction: ReactionType | null;
       scrollOffset: number;
     }
+  | {
+      type: 'ENTER_SEQUENTIAL_MODE';
+      work: {
+        workId: string;
+        editionId: string;
+        title: string;
+        author: string;
+      };
+      page: FeedPageDto;
+    }
+  | {
+      type: 'EXIT_SEQUENTIAL_MODE';
+      page?: FeedPageDto;
+      metadata?: PageRevealDto | null;
+      reaction?: ReactionType | null;
+      scrollOffset?: number;
+    }
   | { type: 'END_OF_EDITION'; message?: string }
   | { type: 'RESET' };
 
@@ -59,6 +83,8 @@ export const initialReadingState: ReadingState = {
   transitionType: 'page_flip',
   restoreScrollOffset: 0,
   isBufferedPage: false,
+  readingMode: 'random',
+  activeWork: null,
 };
 
 /**
@@ -175,6 +201,44 @@ export function readingReducer(
         ...state,
         status: 'end_of_edition',
         errorMessage: action.message || 'Fin de cette édition',
+      };
+
+    case 'ENTER_SEQUENTIAL_MODE':
+      return {
+        ...state,
+        status: 'reading',
+        readingMode: 'sequential',
+        activeWork: action.work,
+        currentPage: action.page,
+        metadata: null,
+        userReaction: null,
+        pendingEventId: null,
+        lastNavigationAction: null,
+        errorMessage: null,
+        validationHint: null,
+        transitionType: 'fade',
+        restoreScrollOffset: 0,
+        isBufferedPage: false,
+      };
+
+    case 'EXIT_SEQUENTIAL_MODE':
+      return {
+        ...state,
+        // Le signet conserve la révélation et la réaction déjà enregistrées : sans elles,
+        // la page réapparaîtrait « non réagie » et une nouvelle réaction serait rejetée (409).
+        status: action.page ? (action.metadata ? 'revealed' : 'reading') : state.status,
+        readingMode: 'random',
+        activeWork: null,
+        currentPage: action.page || state.currentPage,
+        metadata: action.page ? action.metadata ?? null : null,
+        userReaction: action.page ? action.reaction ?? null : null,
+        pendingEventId: null,
+        lastNavigationAction: null,
+        errorMessage: null,
+        validationHint: null,
+        transitionType: 'fade',
+        restoreScrollOffset: action.page ? action.scrollOffset ?? 0 : 0,
+        isBufferedPage: false,
       };
 
     case 'RESET':

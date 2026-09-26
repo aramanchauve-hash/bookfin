@@ -75,3 +75,51 @@ export async function continueReading(
   );
 }
 
+/**
+ * Démarre une œuvre depuis le début (page 1) et l'ajoute à la bibliothèque personnelle.
+ * Sur une œuvre déjà commencée, le serveur refuse (409 `work_already_started`) sans
+ * toucher à la progression, sauf redémarrage explicite (`restart: true`).
+ */
+export async function startWork(
+  workId: string,
+  editionId: string,
+  options: { restart?: boolean } = {},
+  userId?: string
+): Promise<FeedPageDto> {
+  const uid = userId || getCurrentUserId();
+  return requestJson<FeedPageDto>(`/api/v1/works/${encodeURIComponent(workId)}/start`, {
+    method: 'POST',
+    body: JSON.stringify({ user_id: uid, edition_id: editionId, restart: options.restart === true }),
+  });
+}
+
+/**
+ * Reprend la lecture suivie d'une œuvre à sa page actuelle sauvegardée.
+ */
+export async function resumeWork(
+  workId: string,
+  userId?: string
+): Promise<FeedPageDto> {
+  const uid = userId || getCurrentUserId();
+  return requestJson<FeedPageDto>(`/api/v1/works/${encodeURIComponent(workId)}/resume`, {
+    method: 'POST',
+    body: JSON.stringify({ user_id: uid }),
+  });
+}
+
+/**
+ * Récupère la bibliothèque personnelle des œuvres commencées par le lecteur.
+ */
+export async function fetchUserLibrary(
+  userId?: string
+): Promise<import('../../types/api').UserLibraryItemDto[]> {
+  const uid = userId || getCurrentUserId();
+  return requestJson<import('../../types/api').UserLibraryItemDto[]>(
+    `/api/v1/me/library?user_id=${encodeURIComponent(uid)}`,
+    {
+      method: 'GET',
+    }
+  );
+}
+
+

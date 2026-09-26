@@ -63,3 +63,18 @@ export async function getStoredLanguages(): Promise<string[] | null> {
 export async function setStoredLanguages(languages: string[]): Promise<void> {
   await SecureStore.setItemAsync(KEY_LANGUAGES, JSON.stringify(languages));
 }
+
+const KEY_APP_LANGUAGE = 'bookfin_app_language';
+
+export async function getStoredAppLanguage(): Promise<string | null> {
+  try {
+    return await SecureStore.getItemAsync(KEY_APP_LANGUAGE);
+  } catch {
+    return null;
+  }
+}
+
+export async function setStoredAppLanguage(lang: string): Promise<void> {
+  await SecureStore.setItemAsync(KEY_APP_LANGUAGE, lang);
+}
+

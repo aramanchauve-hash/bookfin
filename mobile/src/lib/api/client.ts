@@ -20,6 +20,11 @@ export class ApiError extends Error {
     return this.status === 404 && this.payload?.error === 'feed_exhausted';
   }
 
+  /** START refusé : l'œuvre est déjà commencée, la progression est intacte (reprendre ou redémarrer). */
+  get isWorkAlreadyStarted(): boolean {
+    return this.status === 409 && this.payload?.error === 'work_already_started';
+  }
+
   get isDuplicateReaction(): boolean {
     return this.status === 409;
   }
@@ -61,7 +66,7 @@ export function isDevBuild(): boolean {
 }
 
 export function getAppVersions(): { appVersion: string; buildVersion: string } {
-  const appVersion = Constants.expoConfig?.version || '0.1.0-alpha';
+  const appVersion = Constants.expoConfig?.version || '0.1.0';
   const buildVersion =
     Constants.expoConfig?.android?.versionCode?.toString() || '1';
   return { appVersion, buildVersion };

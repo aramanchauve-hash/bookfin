@@ -5,10 +5,16 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { ReadingScreen } from './src/screens/ReadingScreen';
 import { LanguageSelectionScreen } from './src/screens/LanguageSelectionScreen';
 import { IdentityChoiceScreen } from './src/screens/IdentityChoiceScreen';
-import { getStoredLanguages, getStoredUserId, setStoredLanguages, setStoredUserId } from './src/lib/storage/secureStore';
+import {
+  getStoredLanguages,
+  getStoredUserId,
+  setStoredLanguages,
+  setStoredUserId,
+} from './src/lib/storage/secureStore';
 import { setCurrentUserId } from './src/lib/auth/userContext';
 import { ReadingLanguage } from './src/lib/onboarding/languages';
 import { createAnonymousIdentity, syncReadingLanguages } from './src/lib/api/identityApi';
+import { I18nProvider } from './src/i18n';
 
 // Expo Go uses a development bundle, so the exact `expo start -c` procedure
 // below opens the local corpus lab. The conditional require is eliminated from
@@ -24,12 +30,14 @@ export default function App() {
   const [userId, setUserId] = useState<string | null>(null);
   const [languages, setLanguages] = useState<ReadingLanguage[] | null>(null);
   const [isSaving, setIsSaving] = useState(false);
-  const [isEditingLanguages, setIsEditingLanguages] = useState(false);
 
   useEffect(() => {
     async function restoreReader() {
       try {
-        const [storedId, storedLanguages] = await Promise.all([getStoredUserId(), getStoredLanguages()]);
+        const [storedId, storedLanguages] = await Promise.all([
+          getStoredUserId(),
+          getStoredLanguages(),
+        ]);
         if (storedId) setCurrentUserId(storedId);
         setUserId(storedId);
         setLanguages(storedLanguages as ReadingLanguage[] | null);
@@ -77,13 +85,30 @@ export default function App() {
 
   return (
     <SafeAreaProvider>
-      <StatusBar style={colorScheme === 'dark' ? 'light' : 'dark'} />
-      {showCorpusPreview && CorpusPreviewScreen ? <CorpusPreviewScreen /> : !languages || isEditingLanguages ? <LanguageSelectionScreen initialLanguages={languages || []} onConfirm={async (chosen) => {
-        await saveLanguages(chosen);
-        setIsEditingLanguages(false);
-      }} isSaving={isSaving} /> :
-        !userId ? <IdentityChoiceScreen onContinueAnonymous={createAnonymousReader} isCreating={isSaving} /> :
-          <ReadingScreen onOpenLanguageSettings={() => setIsEditingLanguages(true)} />}
+      <I18nProvider>
+        <StatusBar style={colorScheme === 'dark' ? 'light' : 'dark'} />
+        {showCorpusPreview && CorpusPreviewScreen ? (
+          <CorpusPreviewScreen />
+        ) : !languages ? (
+          <LanguageSelectionScreen
+            initialLanguages={[]}
+            onConfirm={async (chosen) => {
+              await saveLanguages(chosen);
+            }}
+            isSaving={isSaving}
+          />
+        ) : !userId ? (
+          <IdentityChoiceScreen
+            onContinueAnonymous={createAnonymousReader}
+            isCreating={isSaving}
+          />
+        ) : (
+          <ReadingScreen
+            readingLanguages={languages}
+            onUpdateReadingLanguages={saveLanguages}
+          />
+        )}
+      </I18nProvider>
     </SafeAreaProvider>
   );
 }

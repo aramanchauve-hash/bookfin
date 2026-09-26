@@ -84,6 +84,8 @@ export interface PageRevealDto {
   has_reacted?: boolean;
   edition_id?: string;
   work_id?: string;
+  /** Page courante de la lecture suivie si ce lecteur a déjà commencé l'œuvre ; absent sinon. */
+  work_progress_page_sequence_number?: number | null;
 }
 
 export interface ContinueReadingRequestDto {
@@ -99,3 +101,28 @@ export interface EndOfEditionErrorDto {
   last_page_number: number;
   message: string;
 }
+
+export interface UserLibraryItemDto {
+  work_id: string;
+  edition_id: string;
+  title: string;
+  author: string;
+  edition_title: string;
+  current_page_sequence_number: number;
+  total_pages: number;
+  started_at: string;
+  last_read_at: string;
+  completed_at?: string | null;
+}
+
+export interface StartWorkRequestDto {
+  user_id: string;
+  edition_id: string;
+  /** Redémarrage explicite (confirmé) : remet la progression à la page 1. */
+  restart?: boolean;
+}
+
+export interface ResumeWorkRequestDto {
+  user_id: string;
+}
+

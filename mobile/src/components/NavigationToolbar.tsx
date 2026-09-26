@@ -9,6 +9,7 @@ import {
 } from 'react-native';
 import { layout, palette, typography } from '../lib/theme/typography';
 import { NavigationAction } from '../types/api';
+import { useI18n } from '../i18n';
 
 interface NavigationToolbarProps {
   onContinue: () => void;
@@ -35,6 +36,7 @@ export const NavigationToolbar: React.FC<NavigationToolbarProps> = ({
 }) => {
   const colorScheme = useColorScheme();
   const theme = colorScheme === 'dark' ? palette.dark : palette.light;
+  const { t } = useI18n();
 
   return (
     <View style={[styles.container, { borderTopColor: theme.border }]}>
@@ -43,11 +45,11 @@ export const NavigationToolbar: React.FC<NavigationToolbarProps> = ({
           // Fin de l'édition atteinte : invitation claire au tirage aléatoire
           <View style={styles.endOfEditionBlock}>
             <Text style={[styles.endOfEditionText, { color: theme.textSecondary }]}>
-              {endOfEditionMessage || 'Fin de cette édition'}
+              {endOfEditionMessage || t.reading.end_of_edition}
             </Text>
             <Pressable
               accessibilityRole="button"
-              accessibilityLabel="Explorer une autre page au hasard"
+              accessibilityLabel={t.reading.another_random_page}
               disabled={isNavigating}
               onPress={onRandom}
               style={({ pressed }) => [
@@ -62,7 +64,7 @@ export const NavigationToolbar: React.FC<NavigationToolbarProps> = ({
                 <ActivityIndicator size="small" color="#FFFFFF" />
               ) : (
                 <Text style={[styles.primaryButtonText, { color: '#FFFFFF' }]}>
-                  Une autre page au hasard
+                  {t.reading.another_random_page}
                 </Text>
               )}
             </Pressable>
@@ -72,7 +74,7 @@ export const NavigationToolbar: React.FC<NavigationToolbarProps> = ({
           <View style={styles.buttonRow}>
             <Pressable
               accessibilityRole="button"
-              accessibilityLabel="Lire la page suivante de ce livre"
+              accessibilityLabel={t.reading.read_next_page}
               disabled={isNavigating}
               onPress={onContinue}
               style={({ pressed }) => [
@@ -87,14 +89,14 @@ export const NavigationToolbar: React.FC<NavigationToolbarProps> = ({
                 <ActivityIndicator size="small" color="#FFFFFF" />
               ) : (
                 <Text style={[styles.primaryButtonText, { color: '#FFFFFF' }]}>
-                  Lire la page suivante →
+                  {t.reading.read_next_page}
                 </Text>
               )}
             </Pressable>
 
             <Pressable
               accessibilityRole="button"
-              accessibilityLabel="Tirer une autre page au hasard"
+              accessibilityLabel={t.reading.another_random_page}
               disabled={isNavigating}
               onPress={onRandom}
               style={({ pressed }) => [
@@ -110,7 +112,7 @@ export const NavigationToolbar: React.FC<NavigationToolbarProps> = ({
                 <ActivityIndicator size="small" color={theme.textPrimary} />
               ) : (
                 <Text style={[styles.secondaryButtonText, { color: theme.textPrimary }]}>
-                  Une autre page au hasard
+                  {t.reading.another_random_page}
                 </Text>
               )}
             </Pressable>

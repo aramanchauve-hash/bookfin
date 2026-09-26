@@ -7,6 +7,8 @@ import {
   SUPPORTED_READING_LANGUAGES,
 } from '../lib/onboarding/languages';
 
+import { useI18n } from '../i18n';
+
 interface LanguageSelectionScreenProps {
   initialLanguages?: readonly ReadingLanguage[];
   onConfirm: (languages: ReadingLanguage[]) => void;
@@ -21,6 +23,7 @@ export const LanguageSelectionScreen: React.FC<LanguageSelectionScreenProps> = (
   const [selected, setSelected] = useState<ReadingLanguage[]>([...initialLanguages]);
   const colorScheme = useColorScheme();
   const theme = colorScheme === 'dark' ? palette.dark : palette.light;
+  const { t } = useI18n();
   const isValid = canConfirmLanguages(selected);
 
   const toggle = (language: ReadingLanguage) => {
@@ -32,8 +35,8 @@ export const LanguageSelectionScreen: React.FC<LanguageSelectionScreenProps> = (
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
       <View style={styles.content}>
-        <Text style={[styles.title, { color: theme.textPrimary }]}>Dans quelles langues souhaitez-vous lire ?</Text>
-        <Text style={[styles.description, { color: theme.textSecondary }]}>Vous pouvez en choisir plusieurs.</Text>
+        <Text style={[styles.title, { color: theme.textPrimary }]}>{t.languages.onboarding_title}</Text>
+        <Text style={[styles.description, { color: theme.textSecondary }]}>{t.languages.onboarding_desc}</Text>
         <View style={styles.choices}>
           {SUPPORTED_READING_LANGUAGES.map((language) => {
             const active = selected.includes(language.code);
@@ -57,14 +60,14 @@ export const LanguageSelectionScreen: React.FC<LanguageSelectionScreenProps> = (
         </View>
         <Pressable
           accessibilityRole="button"
-          accessibilityLabel="Valider les langues de lecture"
+          accessibilityLabel={t.languages.continue_button}
           disabled={!isValid || isSaving}
           onPress={() => onConfirm(selected)}
           style={({ pressed }) => [styles.confirm, { backgroundColor: theme.accent, opacity: !isValid || isSaving ? 0.45 : pressed ? 0.84 : 1 }]}
         >
-          <Text style={styles.confirmText}>{isSaving ? 'Enregistrement…' : 'Continuer'}</Text>
+          <Text style={styles.confirmText}>{isSaving ? t.languages.saving : t.languages.continue_button}</Text>
         </Pressable>
-        {!isValid && <Text style={[styles.validation, { color: theme.textMuted }]}>Choisissez au moins une langue.</Text>}
+        {!isValid && <Text style={[styles.validation, { color: theme.textMuted }]}>{t.languages.validation_min_one}</Text>}
       </View>
     </View>
   );
