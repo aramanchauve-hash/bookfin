@@ -69,7 +69,7 @@ describe('Bookfin Closed Alpha - Mobile Core Tests', () => {
 
     test('Récupération automatique de la version et build_version', () => {
       const { appVersion, buildVersion } = getAppVersions();
-      expect(appVersion).toBe('0.1.0-alpha');
+      expect(appVersion).toBe('0.1.0');
       expect(buildVersion).toBe('1');
     });
 
@@ -101,7 +101,7 @@ describe('Bookfin Closed Alpha - Mobile Core Tests', () => {
 
       expect(mockFetch).toHaveBeenCalledTimes(1);
       const [, init] = mockFetch.mock.calls[0];
-      expect(init.headers['X-App-Version']).toBe('0.1.0-alpha');
+      expect(init.headers['X-App-Version']).toBe('0.1.0');
       expect(init.headers['X-Build-Version']).toBe('1');
     });
   });
@@ -128,7 +128,7 @@ describe('Bookfin Closed Alpha - Mobile Core Tests', () => {
       expect(init.method).toBe('POST');
       const body = JSON.parse(init.body);
       expect(body.code).toBe('ALPHA-TEST-01');
-      expect(body.app_version).toBe('0.1.0-alpha');
+      expect(body.app_version).toBe('0.1.0');
     });
 
     test('verifyAlphaUser appelle /api/v1/alpha/verify avec user_id', async () => {

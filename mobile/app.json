@@ -2,21 +2,21 @@
   "expo": {
     "name": "Bookfin",
     "slug": "bookfin",
-    "version": "0.1.0-alpha",
+    "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.bookfin.alpha",
-      "buildNumber": "2",
+      "buildNumber": "3",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
       "package": "com.bookfin.alpha",
-      "versionCode": 2,
+      "versionCode": 3,
       "adaptiveIcon": {
         "backgroundColor": "#F8F6F0",
         "foregroundImage": "./assets/android-icon-foreground.png",
