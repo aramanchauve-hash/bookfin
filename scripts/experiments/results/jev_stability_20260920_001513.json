@@ -1,0 +1,3072 @@
+{
+  "benchmark_version": "V4_STABILITY",
+  "started_at": "2026-09-19T22:13:59.702755+00:00",
+  "completed_at": "2026-09-19T22:15:13.051445+00:00",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "model": "jev-latest",
+  "runs_per_case": 10,
+  "total_cases": 12,
+  "api_randomness_audit": {
+    "temperature_supported": false,
+    "seed_supported": false,
+    "deterministic_mode_supported": false,
+    "note": "Aucun paramètre de sampling/seed/température n'est exposé par TypeSafe /v1/systemone. Le comportement est intrinsèquement stochastique."
+  },
+  "global_summary": {
+    "total_cases": 12,
+    "runs_per_case": 10,
+    "consensus_accuracy_pct": 91.66666666666666,
+    "consensus_correct_count": 11,
+    "mean_agreement_rate_pct": 96.66666666666667,
+    "stability_distribution": {
+      "STABLE": {
+        "count": 10,
+        "pct": 83.33333333333334
+      },
+      "SEMI_STABLE": {
+        "count": 2,
+        "pct": 16.666666666666664
+      },
+      "UNSTABLE": {
+        "count": 0,
+        "pct": 0.0
+      }
+    },
+    "mean_top1_margin_pct": 78.64166666666667,
+    "total_label_flips_across_runs": 7,
+    "total_high_conf_wrong_runs": 10,
+    "persistent_high_conf_wrong_cases": [
+      "hazlitt-uncertain-motto-12"
+    ],
+    "abstention_summary": {
+      "total_uncertain_cases": 1,
+      "mean_abstention_rate_pct": 0.0,
+      "mean_high_conf_violation_pct": 100.0,
+      "effective_abstention": false
+    },
+    "verdict": "STABLE ENOUGH FOR HUMAN TRIAGE",
+    "verdict_rationale": "Consensus exact à 91.7%, 100.0% des cas stables/semi-stables, et nombre de fausses certitudes persistantes sous contrôle (1)."
+  },
+  "cases": [
+    {
+      "case_id": "hazlitt-table-talk-01",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Past and Future'",
+      "expected": "VERSE_QUOTE",
+      "context_note": "Citation poétique de Dryden ('The Hind and the Panther') en <pre> dans la prose.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "PROSE_CONTINUATION": 2,
+        "VERSE_QUOTE": 8
+      },
+      "modal_label": "VERSE_QUOTE",
+      "agreement_rate": 0.8,
+      "stability_class": "SEMI_STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 0.394,
+      "mean_latency_ms": 643.1974799896125,
+      "mean_top1_margin": 0.08600000000000001,
+      "min_top1_margin": 0.0,
+      "label_changes": 3,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.49800000000000005,
+        "PROSE_CONTINUATION": 0.446,
+        "LAYOUT_ARTIFACT": 0.033,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.020999999999999998
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.05202563470700445,
+        "PROSE_CONTINUATION": 0.04742245131674331,
+        "LAYOUT_ARTIFACT": 0.0067494855771055295,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0031622776601683785
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:13:59.704771+00:00",
+          "latency_ms": 677.7109000249766,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.34,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.47,
+            "UNCERTAIN": 0.02,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.03,
+            "VERSE_QUOTE": 0.48
+          },
+          "top1_prob": 0.48,
+          "top2_prob": 0.47,
+          "top1_margin": 0.010000000000000009,
+          "is_correct": false
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:00.382982+00:00",
+          "latency_ms": 758.4029999561608,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.47,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.02,
+            "LAYOUT_ARTIFACT": 0.02,
+            "VERSE_QUOTE": 0.58,
+            "PROSE_CONTINUATION": 0.38
+          },
+          "top1_prob": 0.58,
+          "top2_prob": 0.38,
+          "top1_margin": 0.19999999999999996,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:01.141449+00:00",
+          "latency_ms": 574.1994999698363,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.44,
+          "probabilities": {
+            "UNCERTAIN": 0.02,
+            "PROSE_CONTINUATION": 0.55,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.04,
+            "VERSE_QUOTE": 0.38
+          },
+          "top1_prob": 0.55,
+          "top2_prob": 0.38,
+          "top1_margin": 0.17000000000000004,
+          "is_correct": false
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:01.715237+00:00",
+          "latency_ms": 679.542500001844,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.34,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.47,
+            "LAYOUT_ARTIFACT": 0.04,
+            "UNCERTAIN": 0.02,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.47
+          },
+          "top1_prob": 0.47,
+          "top2_prob": 0.47,
+          "top1_margin": 0.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:02.395311+00:00",
+          "latency_ms": 641.8791000032797,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.39,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.03,
+            "VERSE_QUOTE": 0.51,
+            "UNCERTAIN": 0.02,
+            "PROSE_CONTINUATION": 0.44
+          },
+          "top1_prob": 0.51,
+          "top2_prob": 0.44,
+          "top1_margin": 0.07,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:03.038860+00:00",
+          "latency_ms": 613.1446000072174,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.38,
+          "probabilities": {
+            "UNCERTAIN": 0.02,
+            "VERSE_QUOTE": 0.5,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.03,
+            "PROSE_CONTINUATION": 0.45
+          },
+          "top1_prob": 0.5,
+          "top2_prob": 0.45,
+          "top1_margin": 0.04999999999999999,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:03.652837+00:00",
+          "latency_ms": 575.7069999817759,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.37,
+          "probabilities": {
+            "UNCERTAIN": 0.02,
+            "LAYOUT_ARTIFACT": 0.04,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.45,
+            "VERSE_QUOTE": 0.49
+          },
+          "top1_prob": 0.49,
+          "top2_prob": 0.45,
+          "top1_margin": 0.03999999999999998,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:04.228925+00:00",
+          "latency_ms": 639.7022000164725,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.39,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.03,
+            "VERSE_QUOTE": 0.51,
+            "UNCERTAIN": 0.02,
+            "PROSE_CONTINUATION": 0.44
+          },
+          "top1_prob": 0.51,
+          "top2_prob": 0.44,
+          "top1_margin": 0.07,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:04.869271+00:00",
+          "latency_ms": 676.049499947112,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.4,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.42,
+            "UNCERTAIN": 0.03,
+            "LAYOUT_ARTIFACT": 0.03,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.52
+          },
+          "top1_prob": 0.52,
+          "top2_prob": 0.42,
+          "top1_margin": 0.10000000000000003,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:05.543217+00:00",
+          "latency_ms": 595.6364999874495,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "da77177e05cd3e3eaccee3003e6119dcf9a213da24cd7fb353a4e9e2e3eab07c",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.42,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.02,
+            "VERSE_QUOTE": 0.54,
+            "LAYOUT_ARTIFACT": 0.04,
+            "PROSE_CONTINUATION": 0.39
+          },
+          "top1_prob": 0.54,
+          "top2_prob": 0.39,
+          "top1_margin": 0.15000000000000002,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-table-talk-02",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Pleasure of Painting'",
+      "expected": "VERSE_QUOTE",
+      "context_note": "Vers de John Donne cité au sein d'un développement critique sur Andrea del Sarto (cas frontière ayant basculé entre runs).",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "VERSE_QUOTE": 8,
+        "PROSE_CONTINUATION": 2
+      },
+      "modal_label": "VERSE_QUOTE",
+      "agreement_rate": 0.8,
+      "stability_class": "SEMI_STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 0.42800000000000005,
+      "mean_latency_ms": 614.6514399966691,
+      "mean_top1_margin": 0.15699999999999997,
+      "min_top1_margin": 0.02999999999999997,
+      "label_changes": 4,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.53,
+        "PROSE_CONTINUATION": 0.39899999999999997,
+        "LAYOUT_ARTIFACT": 0.051000000000000004,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.02
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.06749485577105528,
+        "PROSE_CONTINUATION": 0.06488451279003334,
+        "LAYOUT_ARTIFACT": 0.00875595035770913,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:06.143346+00:00",
+          "latency_ms": 611.6463000071235,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.35,
+          "probabilities": {
+            "UNCERTAIN": 0.02,
+            "LAYOUT_ARTIFACT": 0.04,
+            "VERSE_QUOTE": 0.49,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.45
+          },
+          "top1_prob": 0.49,
+          "top2_prob": 0.45,
+          "top1_margin": 0.03999999999999998,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:06.756371+00:00",
+          "latency_ms": 693.7711999635212,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.49,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.59,
+            "UNCERTAIN": 0.02,
+            "LAYOUT_ARTIFACT": 0.04,
+            "PROSE_CONTINUATION": 0.35
+          },
+          "top1_prob": 0.59,
+          "top2_prob": 0.35,
+          "top1_margin": 0.24,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:07.451448+00:00",
+          "latency_ms": 583.55640002992,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.39,
+          "probabilities": {
+            "VERSE_QUOTE": 0.41,
+            "LAYOUT_ARTIFACT": 0.06,
+            "UNCERTAIN": 0.02,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.51
+          },
+          "top1_prob": 0.51,
+          "top2_prob": 0.41,
+          "top1_margin": 0.10000000000000003,
+          "is_correct": false
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:08.032356+00:00",
+          "latency_ms": 562.9592000041157,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.48,
+          "probabilities": {
+            "VERSE_QUOTE": 0.59,
+            "LAYOUT_ARTIFACT": 0.06,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.33,
+            "UNCERTAIN": 0.02
+          },
+          "top1_prob": 0.59,
+          "top2_prob": 0.33,
+          "top1_margin": 0.25999999999999995,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:08.597603+00:00",
+          "latency_ms": 594.2740999744274,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.47,
+          "probabilities": {
+            "UNCERTAIN": 0.02,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.36,
+            "VERSE_QUOTE": 0.57,
+            "LAYOUT_ARTIFACT": 0.05
+          },
+          "top1_prob": 0.57,
+          "top2_prob": 0.36,
+          "top1_margin": 0.20999999999999996,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:09.193177+00:00",
+          "latency_ms": 593.0517999804579,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.39,
+          "probabilities": {
+            "UNCERTAIN": 0.02,
+            "PROSE_CONTINUATION": 0.41,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.51,
+            "LAYOUT_ARTIFACT": 0.06
+          },
+          "top1_prob": 0.51,
+          "top2_prob": 0.41,
+          "top1_margin": 0.10000000000000003,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:09.783005+00:00",
+          "latency_ms": 586.5178999956697,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.36,
+          "probabilities": {
+            "VERSE_QUOTE": 0.5,
+            "UNCERTAIN": 0.02,
+            "LAYOUT_ARTIFACT": 0.06,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.42
+          },
+          "top1_prob": 0.5,
+          "top2_prob": 0.42,
+          "top1_margin": 0.08000000000000002,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:10.373753+00:00",
+          "latency_ms": 641.3796000415459,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.51,
+          "probabilities": {
+            "UNCERTAIN": 0.02,
+            "LAYOUT_ARTIFACT": 0.05,
+            "PROSE_CONTINUATION": 0.33,
+            "VERSE_QUOTE": 0.6,
+            "PARATEXT": 0.0
+          },
+          "top1_prob": 0.6,
+          "top2_prob": 0.33,
+          "top1_margin": 0.26999999999999996,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:11.014842+00:00",
+          "latency_ms": 665.1366999722086,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.36,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.02,
+            "LAYOUT_ARTIFACT": 0.05,
+            "VERSE_QUOTE": 0.45,
+            "PROSE_CONTINUATION": 0.48
+          },
+          "top1_prob": 0.48,
+          "top2_prob": 0.45,
+          "top1_margin": 0.02999999999999997,
+          "is_correct": false
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:11.681342+00:00",
+          "latency_ms": 614.2211999977008,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "b8288e88bb726c228cd9a0a5da8a3fb29c7559bbf858839f654d85d8db880d4f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.48,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.35,
+            "LAYOUT_ARTIFACT": 0.04,
+            "VERSE_QUOTE": 0.59,
+            "UNCERTAIN": 0.02,
+            "PARATEXT": 0.0
+          },
+          "top1_prob": 0.59,
+          "top2_prob": 0.35,
+          "top1_margin": 0.24,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-table-talk-03",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On Landscape-Painters'",
+      "expected": "VERSE_QUOTE",
+      "context_note": "Distique poétique de James Thomson ('The Castle of Indolence') sur deux lignes dans <pre>.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "VERSE_QUOTE": 10
+      },
+      "modal_label": "VERSE_QUOTE",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 0.99,
+      "mean_latency_ms": 604.2056600039359,
+      "mean_top1_margin": 0.994,
+      "min_top1_margin": 0.98,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.9970000000000001,
+        "PROSE_CONTINUATION": 0.003,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.004830458915396484,
+        "PROSE_CONTINUATION": 0.00483045891539648,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:12.298910+00:00",
+          "latency_ms": 561.1726000206545,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:12.859406+00:00",
+          "latency_ms": 665.0385999819264,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.01,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.99
+          },
+          "top1_prob": 0.99,
+          "top2_prob": 0.01,
+          "top1_margin": 0.98,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:13.524243+00:00",
+          "latency_ms": 623.3103999984451,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:14.149553+00:00",
+          "latency_ms": 607.6444000354968,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:14.757747+00:00",
+          "latency_ms": 588.0204000277445,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:15.345086+00:00",
+          "latency_ms": 585.8918000012636,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:15.932945+00:00",
+          "latency_ms": 614.2594999982975,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.01,
+            "VERSE_QUOTE": 0.99,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 0.99,
+          "top2_prob": 0.01,
+          "top1_margin": 0.98,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:16.547447+00:00",
+          "latency_ms": 599.3040999746881,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.01,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.99,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 0.99,
+          "top2_prob": 0.01,
+          "top1_margin": 0.98,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:17.145198+00:00",
+          "latency_ms": 604.1623000055552,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:17.751668+00:00",
+          "latency_ms": 593.2524999952875,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c5cff2b2fe7e78aa003ea1faed1fa498705c493bd13694c1a5390a40506e2ec1",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-spenser-anomaly-04",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Ignorance of the Learned'",
+      "expected": "VERSE_QUOTE",
+      "context_note": "Vers de Spenser ('Faerie Queene') inséré dans le flux mais tagué anormalement en <p> dans Gutenberg.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "VERSE_QUOTE": 10
+      },
+      "modal_label": "VERSE_QUOTE",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 0.609,
+      "mean_latency_ms": 613.0865699844435,
+      "mean_top1_margin": 0.388,
+      "min_top1_margin": 0.31,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.689,
+        "PROSE_CONTINUATION": 0.301,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.01
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.02131770260709261,
+        "PROSE_CONTINUATION": 0.021317702607092648,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:18.347137+00:00",
+          "latency_ms": 563.4638999472372,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.57,
+          "probabilities": {
+            "UNCERTAIN": 0.01,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.33,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.66
+          },
+          "top1_prob": 0.66,
+          "top2_prob": 0.33,
+          "top1_margin": 0.33,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:18.910073+00:00",
+          "latency_ms": 596.1382000241429,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.56,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.65,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.34,
+            "UNCERTAIN": 0.01
+          },
+          "top1_prob": 0.65,
+          "top2_prob": 0.34,
+          "top1_margin": 0.31,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:19.508937+00:00",
+          "latency_ms": 584.4694999977946,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.64,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.28,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.71,
+            "UNCERTAIN": 0.01
+          },
+          "top1_prob": 0.71,
+          "top2_prob": 0.28,
+          "top1_margin": 0.42999999999999994,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:20.093423+00:00",
+          "latency_ms": 587.0209999848157,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.63,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.01,
+            "VERSE_QUOTE": 0.7,
+            "PROSE_CONTINUATION": 0.29
+          },
+          "top1_prob": 0.7,
+          "top2_prob": 0.29,
+          "top1_margin": 0.41,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:20.679980+00:00",
+          "latency_ms": 701.0106999659911,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.58,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.67,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.01,
+            "PROSE_CONTINUATION": 0.32
+          },
+          "top1_prob": 0.67,
+          "top2_prob": 0.32,
+          "top1_margin": 0.35000000000000003,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:21.382998+00:00",
+          "latency_ms": 602.6274000178091,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.61,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.69,
+            "PROSE_CONTINUATION": 0.3,
+            "UNCERTAIN": 0.01,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 0.69,
+          "top2_prob": 0.3,
+          "top1_margin": 0.38999999999999996,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:21.984913+00:00",
+          "latency_ms": 588.516499963589,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.62,
+          "probabilities": {
+            "UNCERTAIN": 0.01,
+            "VERSE_QUOTE": 0.7,
+            "PROSE_CONTINUATION": 0.29,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 0.7,
+          "top2_prob": 0.29,
+          "top1_margin": 0.41,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:22.573408+00:00",
+          "latency_ms": 557.5928000034764,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.62,
+          "probabilities": {
+            "VERSE_QUOTE": 0.7,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.01,
+            "PROSE_CONTINUATION": 0.29
+          },
+          "top1_prob": 0.7,
+          "top2_prob": 0.29,
+          "top1_margin": 0.41,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:23.132857+00:00",
+          "latency_ms": 737.3455999768339,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.63,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.7,
+            "UNCERTAIN": 0.01,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.29
+          },
+          "top1_prob": 0.7,
+          "top2_prob": 0.29,
+          "top1_margin": 0.41,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:23.870306+00:00",
+          "latency_ms": 612.6800999627449,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f72bef24484e2bb7fc1b2a70f285b97937e42c912ea8b0c35257184579d561f",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.63,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.28,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.01,
+            "VERSE_QUOTE": 0.71
+          },
+          "top1_prob": 0.71,
+          "top2_prob": 0.28,
+          "top1_margin": 0.42999999999999994,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-prose-continuation-05",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Ignorance of the Learned'",
+      "expected": "PROSE_CONTINUATION",
+      "context_note": "Continuation de phrase de prose commençant par une minuscule ('but it is porous...') après citation intercalée.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "PROSE_CONTINUATION": 10
+      },
+      "modal_label": "PROSE_CONTINUATION",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 0.877,
+      "mean_latency_ms": 595.0061799958348,
+      "mean_top1_margin": 0.812,
+      "min_top1_margin": 0.74,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.094,
+        "PROSE_CONTINUATION": 0.906,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.022211108331943577,
+        "PROSE_CONTINUATION": 0.022211108331943594,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:24.483263+00:00",
+          "latency_ms": 577.0784000051208,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.86,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.89,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.11,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 0.89,
+          "top2_prob": 0.11,
+          "top1_margin": 0.78,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:25.061602+00:00",
+          "latency_ms": 591.2111999932677,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.88,
+          "probabilities": {
+            "VERSE_QUOTE": 0.09,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.91
+          },
+          "top1_prob": 0.91,
+          "top2_prob": 0.09,
+          "top1_margin": 0.8200000000000001,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:25.652065+00:00",
+          "latency_ms": 642.6868999842554,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.83,
+          "probabilities": {
+            "VERSE_QUOTE": 0.13,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.87,
+            "PARATEXT": 0.0
+          },
+          "top1_prob": 0.87,
+          "top2_prob": 0.13,
+          "top1_margin": 0.74,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:26.298774+00:00",
+          "latency_ms": 571.2056999909692,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.91,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.93,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.07,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 0.93,
+          "top2_prob": 0.07,
+          "top1_margin": 0.8600000000000001,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:26.869579+00:00",
+          "latency_ms": 627.0177999977022,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.89,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.09,
+            "PROSE_CONTINUATION": 0.91
+          },
+          "top1_prob": 0.91,
+          "top2_prob": 0.09,
+          "top1_margin": 0.8200000000000001,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:27.493473+00:00",
+          "latency_ms": 593.6185999889858,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.9,
+          "probabilities": {
+            "VERSE_QUOTE": 0.08,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.92,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 0.92,
+          "top2_prob": 0.08,
+          "top1_margin": 0.8400000000000001,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:28.090137+00:00",
+          "latency_ms": 581.1157000134699,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.9,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.07,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.93,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 0.93,
+          "top2_prob": 0.07,
+          "top1_margin": 0.8600000000000001,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:28.670789+00:00",
+          "latency_ms": 557.1776999859139,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.83,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.87,
+            "VERSE_QUOTE": 0.13,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 0.87,
+          "top2_prob": 0.13,
+          "top1_margin": 0.74,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:29.229885+00:00",
+          "latency_ms": 594.6650999831036,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.88,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.09,
+            "PROSE_CONTINUATION": 0.91
+          },
+          "top1_prob": 0.91,
+          "top2_prob": 0.09,
+          "top1_margin": 0.8200000000000001,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:29.825072+00:00",
+          "latency_ms": 614.2847000155598,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "d5253698f38dfbadd689c488b3811c15f0dbd8c09f2ba110c61965c6676c9e37",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 0.89,
+          "probabilities": {
+            "VERSE_QUOTE": 0.08,
+            "PROSE_CONTINUATION": 0.92,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 0.92,
+          "top2_prob": 0.08,
+          "top1_margin": 0.8400000000000001,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "o-henry-prose-continuation-06",
+      "author": "O. Henry",
+      "work": "The Gift of the Magi (1906)",
+      "expected": "PROSE_CONTINUATION",
+      "context_note": "Phrase brisée en cours de route par un saut de page physique (from which ... no mortal finger).",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "PROSE_CONTINUATION": 10
+      },
+      "modal_label": "PROSE_CONTINUATION",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 1.0,
+      "mean_latency_ms": 589.7585799975786,
+      "mean_top1_margin": 1.0,
+      "min_top1_margin": 1.0,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 1.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:30.444254+00:00",
+          "latency_ms": 577.9541999800131,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 1.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:31.021595+00:00",
+          "latency_ms": 583.2273999694735,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 1.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:31.606538+00:00",
+          "latency_ms": 578.1138999736868,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 1.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:32.184921+00:00",
+          "latency_ms": 552.3841999820434,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:32.738770+00:00",
+          "latency_ms": 620.1094000134617,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:33.359563+00:00",
+          "latency_ms": 585.8244000119157,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 1.0,
+            "PARATEXT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:33.942262+00:00",
+          "latency_ms": 632.8870000434108,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PROSE_CONTINUATION": 1.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:34.578960+00:00",
+          "latency_ms": 612.0674000121653,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:35.189712+00:00",
+          "latency_ms": 589.4443999859504,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:35.781846+00:00",
+          "latency_ms": 565.5735000036657,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "5e54405d88dde5bfab8492944457d38ccd7d9a7ce51e1f1dfabd74d4b1ae0a28",
+          "returned_label": "PROSE_CONTINUATION",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 1.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "o-henry-pagenum-07",
+      "author": "O. Henry",
+      "work": "The Gift of the Magi (1906)",
+      "expected": "LAYOUT_ARTIFACT",
+      "context_note": "Numéro de page physique '17' intercalé dans le DOM entre deux fragments de phrase.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "LAYOUT_ARTIFACT": 10
+      },
+      "modal_label": "LAYOUT_ARTIFACT",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 1.0,
+      "mean_latency_ms": 598.0829099949915,
+      "mean_top1_margin": 1.0,
+      "min_top1_margin": 1.0,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 1.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:36.349752+00:00",
+          "latency_ms": 575.8064999827184,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:36.922080+00:00",
+          "latency_ms": 587.4387000221759,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:37.513017+00:00",
+          "latency_ms": 632.6782999676652,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:38.141990+00:00",
+          "latency_ms": 555.5397999705747,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:38.701010+00:00",
+          "latency_ms": 578.7564000347629,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:39.279996+00:00",
+          "latency_ms": 599.8062000144273,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 1.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:39.882493+00:00",
+          "latency_ms": 626.0558000067249,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:40.509467+00:00",
+          "latency_ms": 655.9457000112161,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:41.161899+00:00",
+          "latency_ms": 595.7393999560736,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:41.761931+00:00",
+          "latency_ms": 573.0622999835759,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "78aedb9331e1341a989c14641ce0a9bef2353e420b7372b96833709c4476dafc",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "poe-cask-pagenum-08",
+      "author": "Edgar Allan Poe",
+      "work": "The Cask of Amontillado (1846)",
+      "expected": "LAYOUT_ARTIFACT",
+      "context_note": "Balise de jalon de pagination Gutenberg intercalée entre paragraphes.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "LAYOUT_ARTIFACT": 10
+      },
+      "modal_label": "LAYOUT_ARTIFACT",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 1.0,
+      "mean_latency_ms": 618.3278400043491,
+      "mean_top1_margin": 1.0,
+      "min_top1_margin": 1.0,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 1.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:42.338871+00:00",
+          "latency_ms": 580.2389000309631,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:42.919773+00:00",
+          "latency_ms": 586.4778999821283,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:43.505024+00:00",
+          "latency_ms": 603.1750999973156,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:44.109951+00:00",
+          "latency_ms": 581.4583000028506,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 1.0,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:44.692055+00:00",
+          "latency_ms": 594.1109000123106,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:45.286436+00:00",
+          "latency_ms": 705.0061000045389,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:45.990070+00:00",
+          "latency_ms": 608.7796000065282,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:46.599709+00:00",
+          "latency_ms": 608.4051000070758,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:47.209376+00:00",
+          "latency_ms": 670.8301000180654,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:47.881600+00:00",
+          "latency_ms": 644.7963999817148,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "153b7f46d2fc7564aee170cf6131959504e2c9eda7ea088acabf1b58a8a20f2f",
+          "returned_label": "LAYOUT_ARTIFACT",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 1.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-essay-heading-09",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821)",
+      "expected": "PARATEXT",
+      "context_note": "Titre et numérotation d'essai (h2) marquant une division éditoriale.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "PARATEXT": 10
+      },
+      "modal_label": "PARATEXT",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 1.0,
+      "mean_latency_ms": 625.0179900031071,
+      "mean_top1_margin": 1.0,
+      "min_top1_margin": 1.0,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 1.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:48.529631+00:00",
+          "latency_ms": 568.965999991633,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:49.099181+00:00",
+          "latency_ms": 651.2182999867946,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 1.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:49.750024+00:00",
+          "latency_ms": 596.8922000029124,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 1.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:50.345573+00:00",
+          "latency_ms": 633.4921999950893,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:50.982118+00:00",
+          "latency_ms": 640.9685999969952,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:51.621602+00:00",
+          "latency_ms": 638.3381999912672,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:52.261318+00:00",
+          "latency_ms": 699.1121000028215,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:52.962693+00:00",
+          "latency_ms": 638.0481999949552,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:53.600641+00:00",
+          "latency_ms": 560.9981000307016,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:14:54.161269+00:00",
+          "latency_ms": 622.1460000379011,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6b1e56250353e13791304016b143ef2fef45f5948f9f39a13926ee7ad0ecdb5d",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "sterne-footnote-10",
+      "author": "Laurence Sterne",
+      "work": "A Sentimental Journey (1768)",
+      "expected": "PARATEXT",
+      "context_note": "Note de bas de page explicative de l'auteur sur le droit d'aubaine en France.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "PARATEXT": 10
+      },
+      "modal_label": "PARATEXT",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 1.0,
+      "mean_latency_ms": 603.2395399990492,
+      "mean_top1_margin": 1.0,
+      "min_top1_margin": 1.0,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 1.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:14:54.789446+00:00",
+          "latency_ms": 589.4622000050731,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:14:55.379377+00:00",
+          "latency_ms": 604.028899979312,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:14:55.983049+00:00",
+          "latency_ms": 617.914300004486,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:14:56.601357+00:00",
+          "latency_ms": 588.3181000244804,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 1.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:14:57.191218+00:00",
+          "latency_ms": 591.8664000346325,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:14:57.781090+00:00",
+          "latency_ms": 574.9293999979272,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:14:58.358778+00:00",
+          "latency_ms": 576.8221999751404,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:14:58.936380+00:00",
+          "latency_ms": 700.7604999816976,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 1.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:14:59.633344+00:00",
+          "latency_ms": 571.214499999769,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:15:00.209719+00:00",
+          "latency_ms": 617.0788999879733,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "a9c40ed829aa91ea7df220f10494fb0a470c99d57d014078888f8159afc9d939",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "gutenberg-transcriber-note-11",
+      "author": "Project Gutenberg / Editorial",
+      "work": "Table-Talk transcription apparatus",
+      "expected": "PARATEXT",
+      "context_note": "Notice de transcription Gutenberg encadrée dans une balise transnote.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "PARATEXT": 10
+      },
+      "modal_label": "PARATEXT",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": true,
+      "mean_confidence": 1.0,
+      "mean_latency_ms": 627.5310199940577,
+      "mean_top1_margin": 1.0,
+      "min_top1_margin": 1.0,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 1.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 0,
+      "persistent_high_conf_wrong": false,
+      "persistent_wrong_label": null,
+      "abstention_stats": null,
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:15:00.828938+00:00",
+          "latency_ms": 611.9577000499703,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:15:01.441687+00:00",
+          "latency_ms": 655.351499968674,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:15:02.097946+00:00",
+          "latency_ms": 652.7235000394285,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:15:02.751374+00:00",
+          "latency_ms": 608.6652999510989,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:15:03.359949+00:00",
+          "latency_ms": 591.0246000275947,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:15:03.949609+00:00",
+          "latency_ms": 656.5130999661051,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:15:04.610011+00:00",
+          "latency_ms": 709.2105999472551,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:15:05.319715+00:00",
+          "latency_ms": 592.3436000011861,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:15:05.911507+00:00",
+          "latency_ms": 608.4599999594502,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:15:06.521404+00:00",
+          "latency_ms": 589.0603000298142,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "6de976d5db9b87cd65564c4a794fb4d59394507cf5654c4f969561aaae9f4290",
+          "returned_label": "PARATEXT",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 1.0,
+            "VERSE_QUOTE": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-uncertain-motto-12",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821)",
+      "expected": "UNCERTAIN",
+      "context_note": "Fragment de poème de Dyer ('My mind to me a kingdom is') cité directement au fil de la prose sans balise de bloc. Cas test d'abstention.",
+      "total_runs": 10,
+      "valid_runs": 10,
+      "distribution": {
+        "VERSE_QUOTE": 10
+      },
+      "modal_label": "VERSE_QUOTE",
+      "agreement_rate": 1.0,
+      "stability_class": "STABLE",
+      "consensus_correct": false,
+      "mean_confidence": 1.0,
+      "mean_latency_ms": 592.9699400090612,
+      "mean_top1_margin": 1.0,
+      "min_top1_margin": 1.0,
+      "label_changes": 0,
+      "mean_probabilities": {
+        "VERSE_QUOTE": 1.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "std_probabilities": {
+        "VERSE_QUOTE": 0.0,
+        "PROSE_CONTINUATION": 0.0,
+        "LAYOUT_ARTIFACT": 0.0,
+        "PARATEXT": 0.0,
+        "UNCERTAIN": 0.0
+      },
+      "high_conf_wrong_count": 10,
+      "persistent_high_conf_wrong": true,
+      "persistent_wrong_label": "VERSE_QUOTE",
+      "abstention_stats": {
+        "uncertain_runs_pct": 0.0,
+        "non_uncertain_runs_pct": 100.0,
+        "high_conf_non_uncertain_pct": 100.0,
+        "label_entropy": 0.0,
+        "unique_labels_count": 1
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:15:07.112238+00:00",
+          "latency_ms": 555.8422000030987,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:15:07.669602+00:00",
+          "latency_ms": 582.3230000096373,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 1.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:15:08.252337+00:00",
+          "latency_ms": 619.5998000330292,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:15:08.872344+00:00",
+          "latency_ms": 625.2069000038318,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 1.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:15:09.498957+00:00",
+          "latency_ms": 627.764200035017,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 1.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 6,
+          "timestamp": "2026-09-19T22:15:10.125223+00:00",
+          "latency_ms": 553.6861000000499,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 7,
+          "timestamp": "2026-09-19T22:15:10.681459+00:00",
+          "latency_ms": 570.0557000236586,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 8,
+          "timestamp": "2026-09-19T22:15:11.252899+00:00",
+          "latency_ms": 605.6310999556445,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "PARATEXT": 0.0,
+            "UNCERTAIN": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 9,
+          "timestamp": "2026-09-19T22:15:11.859138+00:00",
+          "latency_ms": 608.7002000422217,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "PROSE_CONTINUATION": 0.0,
+            "UNCERTAIN": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "LAYOUT_ARTIFACT": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        },
+        {
+          "run_idx": 10,
+          "timestamp": "2026-09-19T22:15:12.465068+00:00",
+          "latency_ms": 580.8901999844238,
+          "requested_model": "jev-latest",
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7d1eb2e72bc46a57f8c1149ddc4ebe8f14b90b0d8e20cdba11abe018bb77742b",
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 1.0,
+          "probabilities": {
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "UNCERTAIN": 0.0
+          },
+          "top1_prob": 1.0,
+          "top2_prob": 0.0,
+          "top1_margin": 1.0,
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

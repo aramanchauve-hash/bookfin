@@ -1,0 +1,3829 @@
+{
+  "benchmark_version": "V5_THREE_DIMENSIONS",
+  "started_at": "2026-09-19T22:20:19.158123+00:00",
+  "completed_at": "2026-09-19T22:20:56.713234+00:00",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "model": "jev-latest",
+  "runs_per_case": 5,
+  "total_cases": 12,
+  "global_summary": {
+    "total_cases": 12,
+    "runs_per_case": 5,
+    "semantic_role": {
+      "consensus_accuracy_pct": 83.33333333333334,
+      "stable_or_semi_pct": 100.0,
+      "accuracy_by_class": {
+        "VERSE_QUOTE": {
+          "total": 5,
+          "correct": 3
+        },
+        "PROSE_CONTINUATION": {
+          "total": 2,
+          "correct": 2
+        },
+        "LAYOUT_ARTIFACT": {
+          "total": 2,
+          "correct": 2
+        },
+        "PARATEXT": {
+          "total": 3,
+          "correct": 3
+        }
+      }
+    },
+    "evidence_sufficiency": {
+      "consensus_accuracy_pct": 41.66666666666667,
+      "insufficient_precision_pct": 22.22222222222222,
+      "insufficient_recall_pct": 100.0,
+      "true_positives": 2,
+      "false_positives": 7,
+      "false_negatives": 0
+    },
+    "recommended_action": {
+      "consensus_accuracy_pct": 66.66666666666666,
+      "human_review_expected_count": 2,
+      "human_review_consensus_correct": 0,
+      "human_review_recall_pct": 0.0,
+      "false_human_review_cases": [],
+      "total_unsafe_auto_actions": 10,
+      "cases_with_unsafe_auto": [
+        "hazlitt-spenser-anomaly-04",
+        "hazlitt-uncertain-motto-12"
+      ]
+    },
+    "verdict": "UNSAFE FOR AUTONOMOUS TRIAGE",
+    "verdict_rationale": "Présence significative de décisions automatiques injustifiées (10 runs, cas touchés : ['hazlitt-spenser-anomaly-04', 'hazlitt-uncertain-motto-12'])."
+  },
+  "cases": [
+    {
+      "case_id": "hazlitt-table-talk-01",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Past and Future'",
+      "context_note": "Citation poétique de Dryden ('The Hind and the Panther') explicitement isolée dans une balise <pre>.",
+      "v5_expected": {
+        "semantic_role": "VERSE_QUOTE",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "PRESERVE_AS_VERSE"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "PROSE_CONTINUATION": 4,
+          "VERSE_QUOTE": 1
+        },
+        "modal_label": "PROSE_CONTINUATION",
+        "agreement_rate": 0.8,
+        "stability_class": "SEMI_STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.08200000000000005,
+        "min_top1_margin": 0.020000000000000018,
+        "label_changes": 2,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.47800000000000004,
+          "PROSE_CONTINUATION": 0.504,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.018
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.049699094559156734,
+          "PROSE_CONTINUATION": 0.05029910535983719,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.004472135954999579
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.4,
+        "min_top1_margin": 0.34,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.3,
+          "INSUFFICIENT": 0.7
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.020000000000000004,
+          "INSUFFICIENT": 0.019999999999999976
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "KEEP_AS_PROSE": 5
+        },
+        "modal_label": "KEEP_AS_PROSE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.184,
+        "min_top1_margin": 0.09000000000000002,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.194,
+          "KEEP_AS_PROSE": 0.49000000000000005,
+          "PRESERVE_AS_VERSE": 0.306,
+          "REMOVE_LAYOUT_ARTIFACT": 0.01,
+          "PRESERVE_AS_PARATEXT": 0.0
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.01140175425099138,
+          "KEEP_AS_PROSE": 0.029154759474226504,
+          "PRESERVE_AS_VERSE": 0.02701851217221258,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:19.159133+00:00",
+          "latency_ms": 672.9042999795638,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c712be9c5d89a852223854b053790929f12cd5aa61bc53efdc81dbe911529e79",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.38,
+            "probabilities": {
+              "VERSE_QUOTE": 0.45,
+              "LAYOUT_ARTIFACT": 0.02,
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.53
+            },
+            "top1_prob": 0.53,
+            "top2_prob": 0.45,
+            "top1_margin": 0.08000000000000002
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.43,
+            "probabilities": {
+              "SUFFICIENT": 0.29,
+              "INSUFFICIENT": 0.71
+            },
+            "top1_prob": 0.71,
+            "top2_prob": 0.29,
+            "top1_margin": 0.42
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.39,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "KEEP_AS_PROSE": 0.51,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "PRESERVE_AS_VERSE": 0.29,
+              "HUMAN_REVIEW": 0.19
+            },
+            "top1_prob": 0.51,
+            "top2_prob": 0.29,
+            "top1_margin": 0.22000000000000003
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:19.831244+00:00",
+          "latency_ms": 553.1695000245236,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c712be9c5d89a852223854b053790929f12cd5aa61bc53efdc81dbe911529e79",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.33,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.02,
+              "PROSE_CONTINUATION": 0.5,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.48
+            },
+            "top1_prob": 0.5,
+            "top2_prob": 0.48,
+            "top1_margin": 0.020000000000000018
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.34,
+            "probabilities": {
+              "SUFFICIENT": 0.33,
+              "INSUFFICIENT": 0.67
+            },
+            "top1_prob": 0.67,
+            "top2_prob": 0.33,
+            "top1_margin": 0.34
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.4,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.3,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "HUMAN_REVIEW": 0.18,
+              "KEEP_AS_PROSE": 0.51
+            },
+            "top1_prob": 0.51,
+            "top2_prob": 0.3,
+            "top1_margin": 0.21000000000000002
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:20.386510+00:00",
+          "latency_ms": 547.6801000186242,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c712be9c5d89a852223854b053790929f12cd5aa61bc53efdc81dbe911529e79",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.4,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.02,
+              "PROSE_CONTINUATION": 0.55,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.43
+            },
+            "top1_prob": 0.55,
+            "top2_prob": 0.43,
+            "top1_margin": 0.12000000000000005
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.42,
+            "probabilities": {
+              "INSUFFICIENT": 0.71,
+              "SUFFICIENT": 0.29
+            },
+            "top1_prob": 0.71,
+            "top2_prob": 0.29,
+            "top1_margin": 0.42
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.38,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.28,
+              "HUMAN_REVIEW": 0.21,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "KEEP_AS_PROSE": 0.5,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01
+            },
+            "top1_prob": 0.5,
+            "top2_prob": 0.28,
+            "top1_margin": 0.21999999999999997
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:20.934166+00:00",
+          "latency_ms": 596.8126999796368,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c712be9c5d89a852223854b053790929f12cd5aa61bc53efdc81dbe911529e79",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.42,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.02,
+              "VERSE_QUOTE": 0.56,
+              "PROSE_CONTINUATION": 0.42
+            },
+            "top1_prob": 0.56,
+            "top2_prob": 0.42,
+            "top1_margin": 0.14000000000000007
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.39,
+            "probabilities": {
+              "SUFFICIENT": 0.31,
+              "INSUFFICIENT": 0.69
+            },
+            "top1_prob": 0.69,
+            "top2_prob": 0.31,
+            "top1_margin": 0.37999999999999995
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.31,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.2,
+              "KEEP_AS_PROSE": 0.44,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.35,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01
+            },
+            "top1_prob": 0.44,
+            "top2_prob": 0.35,
+            "top1_margin": 0.09000000000000002
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:21.531548+00:00",
+          "latency_ms": 819.1723999916576,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "c712be9c5d89a852223854b053790929f12cd5aa61bc53efdc81dbe911529e79",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.35,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.52,
+              "LAYOUT_ARTIFACT": 0.01,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.47
+            },
+            "top1_prob": 0.52,
+            "top2_prob": 0.47,
+            "top1_margin": 0.050000000000000044
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.44,
+            "probabilities": {
+              "INSUFFICIENT": 0.72,
+              "SUFFICIENT": 0.28
+            },
+            "top1_prob": 0.72,
+            "top2_prob": 0.28,
+            "top1_margin": 0.43999999999999995
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.36,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "KEEP_AS_PROSE": 0.49,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.31,
+              "HUMAN_REVIEW": 0.19
+            },
+            "top1_prob": 0.49,
+            "top2_prob": 0.31,
+            "top1_margin": 0.18
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-table-talk-02",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Pleasure of Painting'",
+      "context_note": "Vers de John Donne cité dans <pre> au sein d'un développement critique sur Andrea del Sarto.",
+      "v5_expected": {
+        "semantic_role": "VERSE_QUOTE",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "PRESERVE_AS_VERSE"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "PROSE_CONTINUATION": 4,
+          "VERSE_QUOTE": 1
+        },
+        "modal_label": "PROSE_CONTINUATION",
+        "agreement_rate": 0.8,
+        "stability_class": "SEMI_STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.12800000000000003,
+        "min_top1_margin": 0.07,
+        "label_changes": 2,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.43,
+          "PROSE_CONTINUATION": 0.53,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.04
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.05522680508593632,
+          "PROSE_CONTINUATION": 0.05147815070493499,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.010000000000000002
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.44399999999999995,
+        "min_top1_margin": 0.39999999999999997,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.278,
+          "INSUFFICIENT": 0.722
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.019235384061671336,
+          "INSUFFICIENT": 0.01923538406167136
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "KEEP_AS_PROSE": 5
+        },
+        "modal_label": "KEEP_AS_PROSE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.5279999999999999,
+        "min_top1_margin": 0.4,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.158,
+          "PRESERVE_AS_VERSE": 0.132,
+          "KEEP_AS_PROSE": 0.7,
+          "REMOVE_LAYOUT_ARTIFACT": 0.01,
+          "PRESERVE_AS_PARATEXT": 0.0
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.008366600265340763,
+          "PRESERVE_AS_VERSE": 0.049699094559156706,
+          "KEEP_AS_PROSE": 0.04636809247747851,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:22.352282+00:00",
+          "latency_ms": 646.4189999969676,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "abee63edbaa017993193bee5714d64767d6be670e0235b201d9c7a80cba2673a",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.46,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.04,
+              "VERSE_QUOTE": 0.37,
+              "PROSE_CONTINUATION": 0.59
+            },
+            "top1_prob": 0.59,
+            "top2_prob": 0.37,
+            "top1_margin": 0.21999999999999997
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.41,
+            "probabilities": {
+              "SUFFICIENT": 0.3,
+              "INSUFFICIENT": 0.7
+            },
+            "top1_prob": 0.7,
+            "top2_prob": 0.3,
+            "top1_margin": 0.39999999999999997
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.68,
+            "probabilities": {
+              "KEEP_AS_PROSE": 0.74,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.1,
+              "HUMAN_REVIEW": 0.15,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01
+            },
+            "top1_prob": 0.74,
+            "top2_prob": 0.15,
+            "top1_margin": 0.59
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:22.999606+00:00",
+          "latency_ms": 611.8137000012212,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "abee63edbaa017993193bee5714d64767d6be670e0235b201d9c7a80cba2673a",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.36,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.05,
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.52,
+              "VERSE_QUOTE": 0.43
+            },
+            "top1_prob": 0.52,
+            "top2_prob": 0.43,
+            "top1_margin": 0.09000000000000002
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.51,
+            "probabilities": {
+              "SUFFICIENT": 0.25,
+              "INSUFFICIENT": 0.75
+            },
+            "top1_prob": 0.75,
+            "top2_prob": 0.25,
+            "top1_margin": 0.5
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.63,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "HUMAN_REVIEW": 0.16,
+              "PRESERVE_AS_VERSE": 0.12,
+              "KEEP_AS_PROSE": 0.71,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01
+            },
+            "top1_prob": 0.71,
+            "top2_prob": 0.16,
+            "top1_margin": 0.5499999999999999
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:23.610928+00:00",
+          "latency_ms": 658.4865999757312,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "abee63edbaa017993193bee5714d64767d6be670e0235b201d9c7a80cba2673a",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.35,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.03,
+              "VERSE_QUOTE": 0.52,
+              "PROSE_CONTINUATION": 0.45
+            },
+            "top1_prob": 0.52,
+            "top2_prob": 0.45,
+            "top1_margin": 0.07
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.43,
+            "probabilities": {
+              "INSUFFICIENT": 0.72,
+              "SUFFICIENT": 0.28
+            },
+            "top1_prob": 0.72,
+            "top2_prob": 0.28,
+            "top1_margin": 0.43999999999999995
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.53,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.22,
+              "KEEP_AS_PROSE": 0.62,
+              "HUMAN_REVIEW": 0.15,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "PRESERVE_AS_PARATEXT": 0.0
+            },
+            "top1_prob": 0.62,
+            "top2_prob": 0.22,
+            "top1_margin": 0.4
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:24.270488+00:00",
+          "latency_ms": 601.0905000148341,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "abee63edbaa017993193bee5714d64767d6be670e0235b201d9c7a80cba2673a",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.4,
+            "probabilities": {
+              "VERSE_QUOTE": 0.42,
+              "LAYOUT_ARTIFACT": 0.03,
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.55
+            },
+            "top1_prob": 0.55,
+            "top2_prob": 0.42,
+            "top1_margin": 0.13000000000000006
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.43,
+            "probabilities": {
+              "INSUFFICIENT": 0.71,
+              "SUFFICIENT": 0.29
+            },
+            "top1_prob": 0.71,
+            "top2_prob": 0.29,
+            "top1_margin": 0.42
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.65,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "HUMAN_REVIEW": 0.16,
+              "PRESERVE_AS_VERSE": 0.11,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "KEEP_AS_PROSE": 0.72
+            },
+            "top1_prob": 0.72,
+            "top2_prob": 0.16,
+            "top1_margin": 0.5599999999999999
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:24.872564+00:00",
+          "latency_ms": 558.3588000154123,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "abee63edbaa017993193bee5714d64767d6be670e0235b201d9c7a80cba2673a",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.38,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.54,
+              "VERSE_QUOTE": 0.41,
+              "LAYOUT_ARTIFACT": 0.05
+            },
+            "top1_prob": 0.54,
+            "top2_prob": 0.41,
+            "top1_margin": 0.13000000000000006
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.46,
+            "probabilities": {
+              "INSUFFICIENT": 0.73,
+              "SUFFICIENT": 0.27
+            },
+            "top1_prob": 0.73,
+            "top2_prob": 0.27,
+            "top1_margin": 0.45999999999999996
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.63,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.17,
+              "KEEP_AS_PROSE": 0.71,
+              "PRESERVE_AS_VERSE": 0.11,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "PRESERVE_AS_PARATEXT": 0.0
+            },
+            "top1_prob": 0.71,
+            "top2_prob": 0.17,
+            "top1_margin": 0.5399999999999999
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-table-talk-03",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On Landscape-Painters'",
+      "context_note": "Distique poétique de Thomson ('The Castle of Indolence') sur 2 lignes dans <pre>.",
+      "v5_expected": {
+        "semantic_role": "VERSE_QUOTE",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "PRESERVE_AS_VERSE"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "VERSE_QUOTE": 5
+        },
+        "modal_label": "VERSE_QUOTE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.9800000000000001,
+        "min_top1_margin": 0.98,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.99,
+          "PROSE_CONTINUATION": 0.01,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.132,
+        "min_top1_margin": 0.06000000000000005,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "INSUFFICIENT": 0.5660000000000001,
+          "SUFFICIENT": 0.434
+        },
+        "std_probabilities": {
+          "INSUFFICIENT": 0.04098780306383837,
+          "SUFFICIENT": 0.04098780306383839
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "PRESERVE_AS_VERSE": 5
+        },
+        "modal_label": "PRESERVE_AS_VERSE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.788,
+        "min_top1_margin": 0.76,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.04,
+          "PRESERVE_AS_VERSE": 0.874,
+          "KEEP_AS_PROSE": 0.08600000000000001,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.007071067811865477,
+          "PRESERVE_AS_VERSE": 0.01341640786499875,
+          "KEEP_AS_PROSE": 0.01341640786499874,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:25.432688+00:00",
+          "latency_ms": 605.730599956587,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "89dc289f4070a1f8dd5297933939dee31babc8d3d19607146d976ef05921f641",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.01,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.99,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.08,
+            "probabilities": {
+              "INSUFFICIENT": 0.54,
+              "SUFFICIENT": 0.46
+            },
+            "top1_prob": 0.54,
+            "top2_prob": 0.46,
+            "top1_margin": 0.08000000000000002
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_VERSE",
+            "confidence": 0.86,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.88,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.08,
+              "HUMAN_REVIEW": 0.04
+            },
+            "top1_prob": 0.88,
+            "top2_prob": 0.08,
+            "top1_margin": 0.8
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:26.035669+00:00",
+          "latency_ms": 627.5319000124,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "89dc289f4070a1f8dd5297933939dee31babc8d3d19607146d976ef05921f641",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.01,
+              "VERSE_QUOTE": 0.99,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.24,
+            "probabilities": {
+              "INSUFFICIENT": 0.62,
+              "SUFFICIENT": 0.38
+            },
+            "top1_prob": 0.62,
+            "top2_prob": 0.38,
+            "top1_margin": 0.24
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_VERSE",
+            "confidence": 0.82,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.1,
+              "PRESERVE_AS_VERSE": 0.86,
+              "HUMAN_REVIEW": 0.04,
+              "PRESERVE_AS_PARATEXT": 0.0
+            },
+            "top1_prob": 0.86,
+            "top2_prob": 0.1,
+            "top1_margin": 0.76
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:26.667032+00:00",
+          "latency_ms": 655.8723999769427,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "89dc289f4070a1f8dd5297933939dee31babc8d3d19607146d976ef05921f641",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.01,
+              "VERSE_QUOTE": 0.99,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.09,
+            "probabilities": {
+              "INSUFFICIENT": 0.54,
+              "SUFFICIENT": 0.46
+            },
+            "top1_prob": 0.54,
+            "top2_prob": 0.46,
+            "top1_margin": 0.08000000000000002
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_VERSE",
+            "confidence": 0.86,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.08,
+              "PRESERVE_AS_VERSE": 0.89,
+              "HUMAN_REVIEW": 0.03,
+              "PRESERVE_AS_PARATEXT": 0.0
+            },
+            "top1_prob": 0.89,
+            "top2_prob": 0.08,
+            "top1_margin": 0.81
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:27.323197+00:00",
+          "latency_ms": 634.085799974855,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "89dc289f4070a1f8dd5297933939dee31babc8d3d19607146d976ef05921f641",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.98,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.01,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.99,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.19,
+            "probabilities": {
+              "SUFFICIENT": 0.4,
+              "INSUFFICIENT": 0.6
+            },
+            "top1_prob": 0.6,
+            "top2_prob": 0.4,
+            "top1_margin": 0.19999999999999996
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_VERSE",
+            "confidence": 0.81,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "HUMAN_REVIEW": 0.04,
+              "KEEP_AS_PROSE": 0.1,
+              "PRESERVE_AS_VERSE": 0.86
+            },
+            "top1_prob": 0.86,
+            "top2_prob": 0.1,
+            "top1_margin": 0.76
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:27.953972+00:00",
+          "latency_ms": 634.8071999964304,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "89dc289f4070a1f8dd5297933939dee31babc8d3d19607146d976ef05921f641",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.99,
+              "PROSE_CONTINUATION": 0.01,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.06,
+            "probabilities": {
+              "SUFFICIENT": 0.47,
+              "INSUFFICIENT": 0.53
+            },
+            "top1_prob": 0.53,
+            "top2_prob": 0.47,
+            "top1_margin": 0.06000000000000005
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_VERSE",
+            "confidence": 0.85,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.88,
+              "HUMAN_REVIEW": 0.05,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.07
+            },
+            "top1_prob": 0.88,
+            "top2_prob": 0.07,
+            "top1_margin": 0.81
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-spenser-anomaly-04",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Ignorance of the Learned'",
+      "context_note": "Vers de Spenser ('Faerie Queene') inséré dans la prose mais tagué par erreur en <p> dans Gutenberg sans balise de vers.",
+      "v5_expected": {
+        "semantic_role": "VERSE_QUOTE",
+        "evidence_sufficiency": "INSUFFICIENT",
+        "recommended_action": "HUMAN_REVIEW"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "VERSE_QUOTE": 5
+        },
+        "modal_label": "VERSE_QUOTE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.20800000000000002,
+        "min_top1_margin": 0.15999999999999998,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.604,
+          "PROSE_CONTINUATION": 0.396,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.03049590136395384,
+          "PROSE_CONTINUATION": 0.03049590136395381,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.6000000000000001,
+        "min_top1_margin": 0.5800000000000001,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "INSUFFICIENT": 0.8,
+          "SUFFICIENT": 0.2
+        },
+        "std_probabilities": {
+          "INSUFFICIENT": 0.007071067811865481,
+          "SUFFICIENT": 0.007071067811865472
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "KEEP_AS_PROSE": 5
+        },
+        "modal_label": "KEEP_AS_PROSE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.11199999999999999,
+        "min_top1_margin": 0.08000000000000002,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.344,
+          "KEEP_AS_PROSE": 0.45599999999999996,
+          "PRESERVE_AS_VERSE": 0.188,
+          "REMOVE_LAYOUT_ARTIFACT": 0.012,
+          "PRESERVE_AS_PARATEXT": 0.0
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.005477225575051635,
+          "KEEP_AS_PROSE": 0.016733200530681502,
+          "PRESERVE_AS_VERSE": 0.008366600265340763,
+          "REMOVE_LAYOUT_ARTIFACT": 0.004472135954999579,
+          "PRESERVE_AS_PARATEXT": 0.0
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 5,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:28.589335+00:00",
+          "latency_ms": 649.0242999861948,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "e544a25c34dd9875c2b5f332bf6332740523d78652ae6c58edc9b8e58c65ba14",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.45,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.41,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.59,
+              "PARATEXT": 0.0
+            },
+            "top1_prob": 0.59,
+            "top2_prob": 0.41,
+            "top1_margin": 0.18
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.6,
+            "probabilities": {
+              "INSUFFICIENT": 0.8,
+              "SUFFICIENT": 0.2
+            },
+            "top1_prob": 0.8,
+            "top2_prob": 0.2,
+            "top1_margin": 0.6000000000000001
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.34,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.34,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.18,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "KEEP_AS_PROSE": 0.47
+            },
+            "top1_prob": 0.47,
+            "top2_prob": 0.34,
+            "top1_margin": 0.12999999999999995
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:29.243687+00:00",
+          "latency_ms": 645.2365000150166,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "e544a25c34dd9875c2b5f332bf6332740523d78652ae6c58edc9b8e58c65ba14",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.49,
+            "probabilities": {
+              "VERSE_QUOTE": 0.62,
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.38,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.62,
+            "top2_prob": 0.38,
+            "top1_margin": 0.24
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.62,
+            "probabilities": {
+              "INSUFFICIENT": 0.81,
+              "SUFFICIENT": 0.19
+            },
+            "top1_prob": 0.81,
+            "top2_prob": 0.19,
+            "top1_margin": 0.6200000000000001
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.33,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "PRESERVE_AS_VERSE": 0.18,
+              "KEEP_AS_PROSE": 0.47,
+              "HUMAN_REVIEW": 0.34
+            },
+            "top1_prob": 0.47,
+            "top2_prob": 0.34,
+            "top1_margin": 0.12999999999999995
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:29.889779+00:00",
+          "latency_ms": 593.0563000147231,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "e544a25c34dd9875c2b5f332bf6332740523d78652ae6c58edc9b8e58c65ba14",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.44,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.42,
+              "VERSE_QUOTE": 0.58,
+              "PARATEXT": 0.0
+            },
+            "top1_prob": 0.58,
+            "top2_prob": 0.42,
+            "top1_margin": 0.15999999999999998
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.59,
+            "probabilities": {
+              "SUFFICIENT": 0.21,
+              "INSUFFICIENT": 0.79
+            },
+            "top1_prob": 0.79,
+            "top2_prob": 0.21,
+            "top1_margin": 0.5800000000000001
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.31,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "HUMAN_REVIEW": 0.35,
+              "KEEP_AS_PROSE": 0.45,
+              "PRESERVE_AS_VERSE": 0.19,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01
+            },
+            "top1_prob": 0.45,
+            "top2_prob": 0.35,
+            "top1_margin": 0.10000000000000003
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:30.482742+00:00",
+          "latency_ms": 580.8646000223234,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "e544a25c34dd9875c2b5f332bf6332740523d78652ae6c58edc9b8e58c65ba14",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.53,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.35,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.65
+            },
+            "top1_prob": 0.65,
+            "top2_prob": 0.35,
+            "top1_margin": 0.30000000000000004
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.6,
+            "probabilities": {
+              "INSUFFICIENT": 0.8,
+              "SUFFICIENT": 0.2
+            },
+            "top1_prob": 0.8,
+            "top2_prob": 0.2,
+            "top1_margin": 0.6000000000000001
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.32,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "KEEP_AS_PROSE": 0.46,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.19,
+              "HUMAN_REVIEW": 0.34
+            },
+            "top1_prob": 0.46,
+            "top2_prob": 0.34,
+            "top1_margin": 0.12
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:31.062421+00:00",
+          "latency_ms": 558.1343999947421,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "e544a25c34dd9875c2b5f332bf6332740523d78652ae6c58edc9b8e58c65ba14",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.44,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.42,
+              "VERSE_QUOTE": 0.58
+            },
+            "top1_prob": 0.58,
+            "top2_prob": 0.42,
+            "top1_margin": 0.15999999999999998
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.6,
+            "probabilities": {
+              "INSUFFICIENT": 0.8,
+              "SUFFICIENT": 0.2
+            },
+            "top1_prob": 0.8,
+            "top2_prob": 0.2,
+            "top1_margin": 0.6000000000000001
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.29,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.02,
+              "PRESERVE_AS_VERSE": 0.2,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "HUMAN_REVIEW": 0.35,
+              "KEEP_AS_PROSE": 0.43
+            },
+            "top1_prob": 0.43,
+            "top2_prob": 0.35,
+            "top1_margin": 0.08000000000000002
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-prose-continuation-05",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821) - Essay 'On the Ignorance of the Learned'",
+      "context_note": "Continuation de prose débutant par une minuscule ('but it is porous...') après une citation intercalée.",
+      "v5_expected": {
+        "semantic_role": "PROSE_CONTINUATION",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "KEEP_AS_PROSE"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "PROSE_CONTINUATION": 5
+        },
+        "modal_label": "PROSE_CONTINUATION",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.9039999999999999,
+        "min_top1_margin": 0.8999999999999999,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.048,
+          "PROSE_CONTINUATION": 0.952,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.00447213595499958,
+          "PROSE_CONTINUATION": 0.004472135954999584,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.10400000000000001,
+        "min_top1_margin": 0.06000000000000005,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.44800000000000006,
+          "INSUFFICIENT": 0.5519999999999999
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.017888543819998316,
+          "INSUFFICIENT": 0.017888543819998277
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "KEEP_AS_PROSE": 5
+        },
+        "modal_label": "KEEP_AS_PROSE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.8400000000000001,
+        "min_top1_margin": 0.8200000000000001,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.07,
+          "KEEP_AS_PROSE": 0.9099999999999999,
+          "PRESERVE_AS_VERSE": 0.02,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.007071067811865477,
+          "KEEP_AS_PROSE": 0.007071067811865481,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:31.625522+00:00",
+          "latency_ms": 634.114199958276,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f59b38339b0204284f64bbb64f14c14b56fd99988c6c0ab1947a8ba87af9589",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.94,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.96,
+              "VERSE_QUOTE": 0.04,
+              "PARATEXT": 0.0
+            },
+            "top1_prob": 0.96,
+            "top2_prob": 0.04,
+            "top1_margin": 0.9199999999999999
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.06,
+            "probabilities": {
+              "SUFFICIENT": 0.47,
+              "INSUFFICIENT": 0.53
+            },
+            "top1_prob": 0.53,
+            "top2_prob": 0.47,
+            "top1_margin": 0.06000000000000005
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.9,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "KEEP_AS_PROSE": 0.92,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_VERSE": 0.02,
+              "HUMAN_REVIEW": 0.06
+            },
+            "top1_prob": 0.92,
+            "top2_prob": 0.06,
+            "top1_margin": 0.8600000000000001
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:32.259543+00:00",
+          "latency_ms": 609.5419999910519,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f59b38339b0204284f64bbb64f14c14b56fd99988c6c0ab1947a8ba87af9589",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.93,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.95,
+              "VERSE_QUOTE": 0.05
+            },
+            "top1_prob": 0.95,
+            "top2_prob": 0.05,
+            "top1_margin": 0.8999999999999999
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.14,
+            "probabilities": {
+              "INSUFFICIENT": 0.57,
+              "SUFFICIENT": 0.43
+            },
+            "top1_prob": 0.57,
+            "top2_prob": 0.43,
+            "top1_margin": 0.13999999999999996
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.88,
+            "probabilities": {
+              "KEEP_AS_PROSE": 0.9,
+              "HUMAN_REVIEW": 0.08,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.02
+            },
+            "top1_prob": 0.9,
+            "top2_prob": 0.08,
+            "top1_margin": 0.8200000000000001
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:32.870018+00:00",
+          "latency_ms": 633.8395999628119,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f59b38339b0204284f64bbb64f14c14b56fd99988c6c0ab1947a8ba87af9589",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.94,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.95,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.05,
+              "PARATEXT": 0.0
+            },
+            "top1_prob": 0.95,
+            "top2_prob": 0.05,
+            "top1_margin": 0.8999999999999999
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.15,
+            "probabilities": {
+              "INSUFFICIENT": 0.57,
+              "SUFFICIENT": 0.43
+            },
+            "top1_prob": 0.57,
+            "top2_prob": 0.43,
+            "top1_margin": 0.13999999999999996
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.89,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.07,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_VERSE": 0.02,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "KEEP_AS_PROSE": 0.91
+            },
+            "top1_prob": 0.91,
+            "top2_prob": 0.07,
+            "top1_margin": 0.8400000000000001
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:33.504206+00:00",
+          "latency_ms": 591.4869999978691,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f59b38339b0204284f64bbb64f14c14b56fd99988c6c0ab1947a8ba87af9589",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.93,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.95,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.05,
+              "PARATEXT": 0.0
+            },
+            "top1_prob": 0.95,
+            "top2_prob": 0.05,
+            "top1_margin": 0.8999999999999999
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.09,
+            "probabilities": {
+              "INSUFFICIENT": 0.54,
+              "SUFFICIENT": 0.46
+            },
+            "top1_prob": 0.54,
+            "top2_prob": 0.46,
+            "top1_margin": 0.08000000000000002
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.89,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "HUMAN_REVIEW": 0.07,
+              "PRESERVE_AS_VERSE": 0.02,
+              "KEEP_AS_PROSE": 0.91,
+              "PRESERVE_AS_PARATEXT": 0.0
+            },
+            "top1_prob": 0.91,
+            "top2_prob": 0.07,
+            "top1_margin": 0.8400000000000001
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:34.096789+00:00",
+          "latency_ms": 644.0935999853536,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "7f59b38339b0204284f64bbb64f14c14b56fd99988c6c0ab1947a8ba87af9589",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.93,
+            "probabilities": {
+              "VERSE_QUOTE": 0.05,
+              "PROSE_CONTINUATION": 0.95,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.95,
+            "top2_prob": 0.05,
+            "top1_margin": 0.8999999999999999
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.11,
+            "probabilities": {
+              "SUFFICIENT": 0.45,
+              "INSUFFICIENT": 0.55
+            },
+            "top1_prob": 0.55,
+            "top2_prob": 0.45,
+            "top1_margin": 0.10000000000000003
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.9,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.02,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.91,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "HUMAN_REVIEW": 0.07
+            },
+            "top1_prob": 0.91,
+            "top2_prob": 0.07,
+            "top1_margin": 0.8400000000000001
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "o-henry-prose-continuation-06",
+      "author": "O. Henry",
+      "work": "The Gift of the Magi (1906)",
+      "context_note": "Phrase brisée en cours de route par un saut de page physique ('from which ... no mortal finger').",
+      "v5_expected": {
+        "semantic_role": "PROSE_CONTINUATION",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "KEEP_AS_PROSE"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "PROSE_CONTINUATION": 5
+        },
+        "modal_label": "PROSE_CONTINUATION",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 1.0,
+        "min_top1_margin": 1.0,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 1.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "SUFFICIENT": 5
+        },
+        "modal_label": "SUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.22800000000000004,
+        "min_top1_margin": 0.18,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "INSUFFICIENT": 0.386,
+          "SUFFICIENT": 0.614
+        },
+        "std_probabilities": {
+          "INSUFFICIENT": 0.02302172886644267,
+          "SUFFICIENT": 0.023021728866442697
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "KEEP_AS_PROSE": 5
+        },
+        "modal_label": "KEEP_AS_PROSE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.976,
+        "min_top1_margin": 0.96,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.012,
+          "KEEP_AS_PROSE": 0.9879999999999999,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.004472135954999579,
+          "KEEP_AS_PROSE": 0.004472135954999584,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.0
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:34.742509+00:00",
+          "latency_ms": 562.4693999998271,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "3ccd902df64696b77b4290609ef3df36258bae89d1d69416545fa3f566d590c4",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 0.99,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 1.0,
+              "VERSE_QUOTE": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.29,
+            "probabilities": {
+              "INSUFFICIENT": 0.36,
+              "SUFFICIENT": 0.64
+            },
+            "top1_prob": 0.64,
+            "top2_prob": 0.36,
+            "top1_margin": 0.28
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.98,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.99,
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:35.304541+00:00",
+          "latency_ms": 586.918400018476,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "3ccd902df64696b77b4290609ef3df36258bae89d1d69416545fa3f566d590c4",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 1.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.18,
+            "probabilities": {
+              "SUFFICIENT": 0.59,
+              "INSUFFICIENT": 0.41
+            },
+            "top1_prob": 0.59,
+            "top2_prob": 0.41,
+            "top1_margin": 0.18
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.98,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_VERSE": 0.0,
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.99
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:35.891696+00:00",
+          "latency_ms": 584.1179999988526,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "3ccd902df64696b77b4290609ef3df36258bae89d1d69416545fa3f566d590c4",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.18,
+            "probabilities": {
+              "INSUFFICIENT": 0.41,
+              "SUFFICIENT": 0.59
+            },
+            "top1_prob": 0.59,
+            "top2_prob": 0.41,
+            "top1_margin": 0.18
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.98,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.99,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:36.477917+00:00",
+          "latency_ms": 837.1371999965049,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "3ccd902df64696b77b4290609ef3df36258bae89d1d69416545fa3f566d590c4",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 1.0,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.24,
+            "probabilities": {
+              "INSUFFICIENT": 0.38,
+              "SUFFICIENT": 0.62
+            },
+            "top1_prob": 0.62,
+            "top2_prob": 0.38,
+            "top1_margin": 0.24
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.97,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.02,
+              "KEEP_AS_PROSE": 0.98,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.02,
+            "top1_margin": 0.96
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:37.315860+00:00",
+          "latency_ms": 637.2171000111848,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "3ccd902df64696b77b4290609ef3df36258bae89d1d69416545fa3f566d590c4",
+          "semantic_role": {
+            "returned_label": "PROSE_CONTINUATION",
+            "confidence": 1.0,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.27,
+            "probabilities": {
+              "SUFFICIENT": 0.63,
+              "INSUFFICIENT": 0.37
+            },
+            "top1_prob": 0.63,
+            "top2_prob": 0.37,
+            "top1_margin": 0.26
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.98,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.99,
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "PRESERVE_AS_VERSE": 0.0,
+              "HUMAN_REVIEW": 0.01
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "o-henry-pagenum-07",
+      "author": "O. Henry",
+      "work": "The Gift of the Magi (1906)",
+      "context_note": "Numéro de page physique '17' intercalé dans le DOM entre deux fragments de phrase.",
+      "v5_expected": {
+        "semantic_role": "LAYOUT_ARTIFACT",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "REMOVE_LAYOUT_ARTIFACT"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "LAYOUT_ARTIFACT": 5
+        },
+        "modal_label": "LAYOUT_ARTIFACT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 1.0,
+        "min_top1_margin": 1.0,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 1.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "SUFFICIENT": 5
+        },
+        "modal_label": "SUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.10800000000000001,
+        "min_top1_margin": 0.040000000000000036,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.554,
+          "INSUFFICIENT": 0.446
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.024083189157584565,
+          "INSUFFICIENT": 0.024083189157584593
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "REMOVE_LAYOUT_ARTIFACT": 5
+        },
+        "modal_label": "REMOVE_LAYOUT_ARTIFACT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.9640000000000001,
+        "min_top1_margin": 0.95,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.008,
+          "KEEP_AS_PROSE": 0.0,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.978,
+          "PRESERVE_AS_PARATEXT": 0.014000000000000002
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.004472135954999579,
+          "KEEP_AS_PROSE": 0.0,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.008366600265340763,
+          "PRESERVE_AS_PARATEXT": 0.005477225575051661
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:37.955721+00:00",
+          "latency_ms": 613.2391000282951,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "28d91366fc05ee7393b171dc2c3ae5f2c7472d20c5d0ac1e003235683f158068",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 1.0,
+              "PROSE_CONTINUATION": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.09,
+            "probabilities": {
+              "SUFFICIENT": 0.54,
+              "INSUFFICIENT": 0.46
+            },
+            "top1_prob": 0.54,
+            "top2_prob": 0.46,
+            "top1_margin": 0.08000000000000002
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.97,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.01,
+              "PRESERVE_AS_PARATEXT": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.98,
+              "PRESERVE_AS_VERSE": 0.0,
+              "KEEP_AS_PROSE": 0.0
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.01,
+            "top1_margin": 0.97
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:38.569538+00:00",
+          "latency_ms": 602.8267000219785,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "28d91366fc05ee7393b171dc2c3ae5f2c7472d20c5d0ac1e003235683f158068",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 1.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.13,
+            "probabilities": {
+              "INSUFFICIENT": 0.43,
+              "SUFFICIENT": 0.57
+            },
+            "top1_prob": 0.57,
+            "top2_prob": 0.43,
+            "top1_margin": 0.13999999999999996
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.98,
+            "probabilities": {
+              "KEEP_AS_PROSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.99,
+              "PRESERVE_AS_VERSE": 0.0,
+              "HUMAN_REVIEW": 0.0
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:39.172812+00:00",
+          "latency_ms": 615.8626999822445,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "28d91366fc05ee7393b171dc2c3ae5f2c7472d20c5d0ac1e003235683f158068",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.0,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 1.0,
+              "VERSE_QUOTE": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.16,
+            "probabilities": {
+              "INSUFFICIENT": 0.42,
+              "SUFFICIENT": 0.58
+            },
+            "top1_prob": 0.58,
+            "top2_prob": 0.42,
+            "top1_margin": 0.15999999999999998
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.97,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.97,
+              "PRESERVE_AS_VERSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.02,
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.0
+            },
+            "top1_prob": 0.97,
+            "top2_prob": 0.02,
+            "top1_margin": 0.95
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:39.789694+00:00",
+          "latency_ms": 576.3938999734819,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "28d91366fc05ee7393b171dc2c3ae5f2c7472d20c5d0ac1e003235683f158068",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.04,
+            "probabilities": {
+              "SUFFICIENT": 0.52,
+              "INSUFFICIENT": 0.48
+            },
+            "top1_prob": 0.52,
+            "top2_prob": 0.48,
+            "top1_margin": 0.040000000000000036
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.97,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.02,
+              "REMOVE_LAYOUT_ARTIFACT": 0.97,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.97,
+            "top2_prob": 0.02,
+            "top1_margin": 0.95
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:40.365936+00:00",
+          "latency_ms": 574.2784999893047,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "28d91366fc05ee7393b171dc2c3ae5f2c7472d20c5d0ac1e003235683f158068",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.12,
+            "probabilities": {
+              "INSUFFICIENT": 0.44,
+              "SUFFICIENT": 0.56
+            },
+            "top1_prob": 0.56,
+            "top2_prob": 0.44,
+            "top1_margin": 0.12000000000000005
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.98,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.01,
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.98,
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.0
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.01,
+            "top1_margin": 0.97
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "poe-cask-pagenum-08",
+      "author": "Edgar Allan Poe",
+      "work": "The Cask of Amontillado (1846)",
+      "context_note": "Balise de jalon de pagination Gutenberg intercalée entre paragraphes.",
+      "v5_expected": {
+        "semantic_role": "LAYOUT_ARTIFACT",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "REMOVE_LAYOUT_ARTIFACT"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "LAYOUT_ARTIFACT": 5
+        },
+        "modal_label": "LAYOUT_ARTIFACT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 1.0,
+        "min_top1_margin": 1.0,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 1.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "SUFFICIENT": 5
+        },
+        "modal_label": "SUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.16,
+        "min_top1_margin": 0.06000000000000005,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.58,
+          "INSUFFICIENT": 0.42000000000000004
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.02999999999999998,
+          "INSUFFICIENT": 0.029999999999999992
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "REMOVE_LAYOUT_ARTIFACT": 5
+        },
+        "modal_label": "REMOVE_LAYOUT_ARTIFACT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.8939999999999999,
+        "min_top1_margin": 0.8800000000000001,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.006,
+          "PRESERVE_AS_VERSE": 0.0,
+          "KEEP_AS_PROSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.944,
+          "PRESERVE_AS_PARATEXT": 0.05
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.005477225575051661,
+          "PRESERVE_AS_VERSE": 0.0,
+          "KEEP_AS_PROSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.005477225575051626,
+          "PRESERVE_AS_PARATEXT": 0.009999999999999998
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:40.941771+00:00",
+          "latency_ms": 651.036600000225,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "2ab9e32f2068e950e4c4724197c0431f4dd54edea927f1aa913c1adc2658a3a0",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 1.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.18,
+            "probabilities": {
+              "SUFFICIENT": 0.59,
+              "INSUFFICIENT": 0.41
+            },
+            "top1_prob": 0.59,
+            "top2_prob": 0.41,
+            "top1_margin": 0.18
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.92,
+            "probabilities": {
+              "KEEP_AS_PROSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.06,
+              "REMOVE_LAYOUT_ARTIFACT": 0.9400000000000001,
+              "PRESERVE_AS_VERSE": 0.0,
+              "HUMAN_REVIEW": 0.0
+            },
+            "top1_prob": 0.9400000000000001,
+            "top2_prob": 0.06,
+            "top1_margin": 0.8800000000000001
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:41.592024+00:00",
+          "latency_ms": 552.9152999515645,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "2ab9e32f2068e950e4c4724197c0431f4dd54edea927f1aa913c1adc2658a3a0",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 1.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.16,
+            "probabilities": {
+              "SUFFICIENT": 0.58,
+              "INSUFFICIENT": 0.42
+            },
+            "top1_prob": 0.58,
+            "top2_prob": 0.42,
+            "top1_margin": 0.15999999999999998
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.92,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.06,
+              "HUMAN_REVIEW": 0.0,
+              "KEEP_AS_PROSE": 0.0,
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.9400000000000001
+            },
+            "top1_prob": 0.9400000000000001,
+            "top2_prob": 0.06,
+            "top1_margin": 0.8800000000000001
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:42.146679+00:00",
+          "latency_ms": 869.5600999635644,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "2ab9e32f2068e950e4c4724197c0431f4dd54edea927f1aa913c1adc2658a3a0",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "LAYOUT_ARTIFACT": 1.0,
+              "PROSE_CONTINUATION": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.19,
+            "probabilities": {
+              "INSUFFICIENT": 0.41,
+              "SUFFICIENT": 0.59
+            },
+            "top1_prob": 0.59,
+            "top2_prob": 0.41,
+            "top1_margin": 0.18
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.94,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.95,
+              "PRESERVE_AS_VERSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.04,
+              "KEEP_AS_PROSE": 0.0,
+              "HUMAN_REVIEW": 0.01
+            },
+            "top1_prob": 0.95,
+            "top2_prob": 0.04,
+            "top1_margin": 0.9099999999999999
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:43.014672+00:00",
+          "latency_ms": 594.8021000367589,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "2ab9e32f2068e950e4c4724197c0431f4dd54edea927f1aa913c1adc2658a3a0",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "LAYOUT_ARTIFACT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.23,
+            "probabilities": {
+              "INSUFFICIENT": 0.39,
+              "SUFFICIENT": 0.61
+            },
+            "top1_prob": 0.61,
+            "top2_prob": 0.39,
+            "top1_margin": 0.21999999999999997
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.94,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.95,
+              "PRESERVE_AS_PARATEXT": 0.04,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.95,
+            "top2_prob": 0.04,
+            "top1_margin": 0.9099999999999999
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:43.613108+00:00",
+          "latency_ms": 613.405000010971,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "2ab9e32f2068e950e4c4724197c0431f4dd54edea927f1aa913c1adc2658a3a0",
+          "semantic_role": {
+            "returned_label": "LAYOUT_ARTIFACT",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "SUFFICIENT",
+            "confidence": 0.06,
+            "probabilities": {
+              "INSUFFICIENT": 0.47,
+              "SUFFICIENT": 0.53
+            },
+            "top1_prob": 0.53,
+            "top2_prob": 0.47,
+            "top1_margin": 0.06000000000000005
+          },
+          "recommended_action": {
+            "returned_label": "REMOVE_LAYOUT_ARTIFACT",
+            "confidence": 0.93,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.05,
+              "PRESERVE_AS_VERSE": 0.0,
+              "HUMAN_REVIEW": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.94,
+              "KEEP_AS_PROSE": 0.0
+            },
+            "top1_prob": 0.94,
+            "top2_prob": 0.05,
+            "top1_margin": 0.8899999999999999
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-essay-heading-09",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821)",
+      "context_note": "Titre et numérotation d'essai (h2) marquant une division éditoriale explicite.",
+      "v5_expected": {
+        "semantic_role": "PARATEXT",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "PRESERVE_AS_PARATEXT"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "PARATEXT": 5
+        },
+        "modal_label": "PARATEXT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 1.0,
+        "min_top1_margin": 1.0,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 1.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.56,
+        "min_top1_margin": 0.52,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "INSUFFICIENT": 0.78,
+          "SUFFICIENT": 0.22000000000000003
+        },
+        "std_probabilities": {
+          "INSUFFICIENT": 0.02345207879911717,
+          "SUFFICIENT": 0.02345207879911714
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "PRESERVE_AS_PARATEXT": 5
+        },
+        "modal_label": "PRESERVE_AS_PARATEXT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.834,
+        "min_top1_margin": 0.8200000000000001,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.027999999999999997,
+          "KEEP_AS_PROSE": 0.01,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.064,
+          "PRESERVE_AS_PARATEXT": 0.898
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.004472135954999578,
+          "KEEP_AS_PROSE": 0.0,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.008944271909999161,
+          "PRESERVE_AS_PARATEXT": 0.013038404810405309
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:44.227233+00:00",
+          "latency_ms": 591.339600039646,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "52cce8ece903a480508dc60e5785471832d49abf9cca2b12caf4d9ccb0081a83",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "PARATEXT": 1.0,
+              "VERSE_QUOTE": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.53,
+            "probabilities": {
+              "INSUFFICIENT": 0.76,
+              "SUFFICIENT": 0.24
+            },
+            "top1_prob": 0.76,
+            "top2_prob": 0.24,
+            "top1_margin": 0.52
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.87,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.03,
+              "PRESERVE_AS_VERSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.89,
+              "KEEP_AS_PROSE": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.07
+            },
+            "top1_prob": 0.89,
+            "top2_prob": 0.07,
+            "top1_margin": 0.8200000000000001
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:44.819416+00:00",
+          "latency_ms": 609.3816999928094,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "52cce8ece903a480508dc60e5785471832d49abf9cca2b12caf4d9ccb0081a83",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 1.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.61,
+            "probabilities": {
+              "SUFFICIENT": 0.2,
+              "INSUFFICIENT": 0.8
+            },
+            "top1_prob": 0.8,
+            "top2_prob": 0.2,
+            "top1_margin": 0.6000000000000001
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.87,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.0,
+              "KEEP_AS_PROSE": 0.01,
+              "PRESERVE_AS_PARATEXT": 0.89,
+              "HUMAN_REVIEW": 0.03,
+              "REMOVE_LAYOUT_ARTIFACT": 0.07
+            },
+            "top1_prob": 0.89,
+            "top2_prob": 0.07,
+            "top1_margin": 0.8200000000000001
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:45.430218+00:00",
+          "latency_ms": 605.1617999910377,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "52cce8ece903a480508dc60e5785471832d49abf9cca2b12caf4d9ccb0081a83",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 1.0,
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.53,
+            "probabilities": {
+              "SUFFICIENT": 0.24,
+              "INSUFFICIENT": 0.76
+            },
+            "top1_prob": 0.76,
+            "top2_prob": 0.24,
+            "top1_margin": 0.52
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.86,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.07,
+              "KEEP_AS_PROSE": 0.01,
+              "HUMAN_REVIEW": 0.03,
+              "PRESERVE_AS_PARATEXT": 0.89
+            },
+            "top1_prob": 0.89,
+            "top2_prob": 0.07,
+            "top1_margin": 0.8200000000000001
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:46.037388+00:00",
+          "latency_ms": 592.0981999952346,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "52cce8ece903a480508dc60e5785471832d49abf9cca2b12caf4d9ccb0081a83",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 1.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.54,
+            "probabilities": {
+              "SUFFICIENT": 0.23,
+              "INSUFFICIENT": 0.77
+            },
+            "top1_prob": 0.77,
+            "top2_prob": 0.23,
+            "top1_margin": 0.54
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.88,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.9,
+              "KEEP_AS_PROSE": 0.01,
+              "HUMAN_REVIEW": 0.03,
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.06
+            },
+            "top1_prob": 0.9,
+            "top2_prob": 0.06,
+            "top1_margin": 0.8400000000000001
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:46.630538+00:00",
+          "latency_ms": 634.8464000038803,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "52cce8ece903a480508dc60e5785471832d49abf9cca2b12caf4d9ccb0081a83",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 1.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.61,
+            "probabilities": {
+              "SUFFICIENT": 0.19,
+              "INSUFFICIENT": 0.81
+            },
+            "top1_prob": 0.81,
+            "top2_prob": 0.19,
+            "top1_margin": 0.6200000000000001
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.89,
+            "probabilities": {
+              "KEEP_AS_PROSE": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.05,
+              "PRESERVE_AS_PARATEXT": 0.92,
+              "HUMAN_REVIEW": 0.02,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.92,
+            "top2_prob": 0.05,
+            "top1_margin": 0.87
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "sterne-footnote-10",
+      "author": "Laurence Sterne",
+      "work": "A Sentimental Journey (1768)",
+      "context_note": "Note de bas de page explicative de l'auteur sur le droit d'aubaine dans <p class='footnote'>.",
+      "v5_expected": {
+        "semantic_role": "PARATEXT",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "PRESERVE_AS_PARATEXT"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "PARATEXT": 5
+        },
+        "modal_label": "PARATEXT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 1.0,
+        "min_top1_margin": 1.0,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 1.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.27599999999999997,
+        "min_top1_margin": 0.18,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.362,
+          "INSUFFICIENT": 0.638
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.03563705936241091,
+          "INSUFFICIENT": 0.03563705936241091
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "PRESERVE_AS_PARATEXT": 5
+        },
+        "modal_label": "PRESERVE_AS_PARATEXT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.952,
+        "min_top1_margin": 0.95,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.02,
+          "KEEP_AS_PROSE": 0.008,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.9719999999999999
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.0,
+          "KEEP_AS_PROSE": 0.004472135954999579,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.004472135954999583
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:47.266875+00:00",
+          "latency_ms": 612.6613999949768,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "33faaf32a1860b340090e22bdd3aaefea7280f11c827f329b017e35a5aa944d8",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.19,
+            "probabilities": {
+              "SUFFICIENT": 0.41,
+              "INSUFFICIENT": 0.59
+            },
+            "top1_prob": 0.59,
+            "top2_prob": 0.41,
+            "top1_margin": 0.18
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.97,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.98,
+              "HUMAN_REVIEW": 0.02,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.02,
+            "top1_margin": 0.96
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:47.880052+00:00",
+          "latency_ms": 588.1302000489086,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "33faaf32a1860b340090e22bdd3aaefea7280f11c827f329b017e35a5aa944d8",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 1.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PROSE_CONTINUATION": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.37,
+            "probabilities": {
+              "SUFFICIENT": 0.31,
+              "INSUFFICIENT": 0.69
+            },
+            "top1_prob": 0.69,
+            "top2_prob": 0.31,
+            "top1_margin": 0.37999999999999995
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.96,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.0,
+              "KEEP_AS_PROSE": 0.01,
+              "PRESERVE_AS_PARATEXT": 0.97,
+              "HUMAN_REVIEW": 0.02,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.97,
+            "top2_prob": 0.02,
+            "top1_margin": 0.95
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:48.469112+00:00",
+          "latency_ms": 611.058599955868,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "33faaf32a1860b340090e22bdd3aaefea7280f11c827f329b017e35a5aa944d8",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.26,
+            "probabilities": {
+              "INSUFFICIENT": 0.63,
+              "SUFFICIENT": 0.37
+            },
+            "top1_prob": 0.63,
+            "top2_prob": 0.37,
+            "top1_margin": 0.26
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.97,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "HUMAN_REVIEW": 0.02,
+              "PRESERVE_AS_VERSE": 0.0,
+              "KEEP_AS_PROSE": 0.01,
+              "PRESERVE_AS_PARATEXT": 0.97
+            },
+            "top1_prob": 0.97,
+            "top2_prob": 0.02,
+            "top1_margin": 0.95
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:49.079359+00:00",
+          "latency_ms": 614.9385999888182,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "33faaf32a1860b340090e22bdd3aaefea7280f11c827f329b017e35a5aa944d8",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PARATEXT": 1.0,
+              "VERSE_QUOTE": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.28,
+            "probabilities": {
+              "INSUFFICIENT": 0.64,
+              "SUFFICIENT": 0.36
+            },
+            "top1_prob": 0.64,
+            "top2_prob": 0.36,
+            "top1_margin": 0.28
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.96,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.97,
+              "KEEP_AS_PROSE": 0.01,
+              "HUMAN_REVIEW": 0.02,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.97,
+            "top2_prob": 0.02,
+            "top1_margin": 0.95
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:49.694411+00:00",
+          "latency_ms": 600.5659000365995,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "33faaf32a1860b340090e22bdd3aaefea7280f11c827f329b017e35a5aa944d8",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 1.0,
+              "PROSE_CONTINUATION": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.29,
+            "probabilities": {
+              "SUFFICIENT": 0.36,
+              "INSUFFICIENT": 0.64
+            },
+            "top1_prob": 0.64,
+            "top2_prob": 0.36,
+            "top1_margin": 0.28
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.97,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.97,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_VERSE": 0.0,
+              "HUMAN_REVIEW": 0.02,
+              "KEEP_AS_PROSE": 0.01
+            },
+            "top1_prob": 0.97,
+            "top2_prob": 0.02,
+            "top1_margin": 0.95
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "gutenberg-transcriber-note-11",
+      "author": "Project Gutenberg / Editorial",
+      "work": "Table-Talk transcription apparatus",
+      "context_note": "Notice de transcription Gutenberg encadrée dans une balise transnote.",
+      "v5_expected": {
+        "semantic_role": "PARATEXT",
+        "evidence_sufficiency": "SUFFICIENT",
+        "recommended_action": "PRESERVE_AS_PARATEXT"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "PARATEXT": 5
+        },
+        "modal_label": "PARATEXT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 1.0,
+        "min_top1_margin": 1.0,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 1.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.0,
+          "PROSE_CONTINUATION": 0.0,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.392,
+        "min_top1_margin": 0.34,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.304,
+          "INSUFFICIENT": 0.696
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.020736441353327723,
+          "INSUFFICIENT": 0.020736441353327684
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "PRESERVE_AS_PARATEXT": 5
+        },
+        "modal_label": "PRESERVE_AS_PARATEXT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.966,
+        "min_top1_margin": 0.95,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.012,
+          "KEEP_AS_PROSE": 0.0,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.01,
+          "PRESERVE_AS_PARATEXT": 0.978
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.004472135954999579,
+          "KEEP_AS_PROSE": 0.0,
+          "PRESERVE_AS_VERSE": 0.0,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.004472135954999584
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 0,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:50.299248+00:00",
+          "latency_ms": 620.0096000102349,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "f124ba1c26606f01b61d2d4154940a08391528acd30db8a6277ebc21c501a22e",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "PARATEXT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.44,
+            "probabilities": {
+              "SUFFICIENT": 0.28,
+              "INSUFFICIENT": 0.72
+            },
+            "top1_prob": 0.72,
+            "top2_prob": 0.28,
+            "top1_margin": 0.43999999999999995
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.97,
+            "probabilities": {
+              "HUMAN_REVIEW": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "KEEP_AS_PROSE": 0.0,
+              "PRESERVE_AS_PARATEXT": 0.98,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.01,
+            "top1_margin": 0.97
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:50.919577+00:00",
+          "latency_ms": 669.1973999841139,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "f124ba1c26606f01b61d2d4154940a08391528acd30db8a6277ebc21c501a22e",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 1.0,
+              "PROSE_CONTINUATION": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.43,
+            "probabilities": {
+              "INSUFFICIENT": 0.71,
+              "SUFFICIENT": 0.29
+            },
+            "top1_prob": 0.71,
+            "top2_prob": 0.29,
+            "top1_margin": 0.42
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.96,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.97,
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "HUMAN_REVIEW": 0.02,
+              "KEEP_AS_PROSE": 0.0
+            },
+            "top1_prob": 0.97,
+            "top2_prob": 0.02,
+            "top1_margin": 0.95
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:51.588977+00:00",
+          "latency_ms": 675.528799998574,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "f124ba1c26606f01b61d2d4154940a08391528acd30db8a6277ebc21c501a22e",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.34,
+            "probabilities": {
+              "SUFFICIENT": 0.33,
+              "INSUFFICIENT": 0.67
+            },
+            "top1_prob": 0.67,
+            "top2_prob": 0.33,
+            "top1_margin": 0.34
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.98,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.98,
+              "KEEP_AS_PROSE": 0.0,
+              "HUMAN_REVIEW": 0.01,
+              "PRESERVE_AS_VERSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.01,
+            "top1_margin": 0.97
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:52.265653+00:00",
+          "latency_ms": 565.8992000389844,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "f124ba1c26606f01b61d2d4154940a08391528acd30db8a6277ebc21c501a22e",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 0.0,
+              "PARATEXT": 1.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.41,
+            "probabilities": {
+              "INSUFFICIENT": 0.7,
+              "SUFFICIENT": 0.3
+            },
+            "top1_prob": 0.7,
+            "top2_prob": 0.3,
+            "top1_margin": 0.39999999999999997
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.98,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.0,
+              "KEEP_AS_PROSE": 0.0,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "HUMAN_REVIEW": 0.01,
+              "PRESERVE_AS_PARATEXT": 0.98
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.01,
+            "top1_margin": 0.97
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:52.832224+00:00",
+          "latency_ms": 596.4655000134371,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "f124ba1c26606f01b61d2d4154940a08391528acd30db8a6277ebc21c501a22e",
+          "semantic_role": {
+            "returned_label": "PARATEXT",
+            "confidence": 1.0,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.0,
+              "PARATEXT": 1.0,
+              "VERSE_QUOTE": 0.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.35,
+            "probabilities": {
+              "SUFFICIENT": 0.32,
+              "INSUFFICIENT": 0.68
+            },
+            "top1_prob": 0.68,
+            "top2_prob": 0.32,
+            "top1_margin": 0.36000000000000004
+          },
+          "recommended_action": {
+            "returned_label": "PRESERVE_AS_PARATEXT",
+            "confidence": 0.97,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.98,
+              "REMOVE_LAYOUT_ARTIFACT": 0.01,
+              "HUMAN_REVIEW": 0.01,
+              "KEEP_AS_PROSE": 0.0,
+              "PRESERVE_AS_VERSE": 0.0
+            },
+            "top1_prob": 0.98,
+            "top2_prob": 0.01,
+            "top1_margin": 0.97
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "hazlitt-uncertain-motto-12",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821)",
+      "context_note": "Fragment de vers ('My mind to me a kingdom is') cité en incise directement dans la prose sans balise de bloc. Décision automatique injustifiée.",
+      "v5_expected": {
+        "semantic_role": "VERSE_QUOTE",
+        "evidence_sufficiency": "INSUFFICIENT",
+        "recommended_action": "HUMAN_REVIEW"
+      },
+      "valid_runs": 5,
+      "semantic_role": {
+        "distribution": {
+          "VERSE_QUOTE": 5
+        },
+        "modal_label": "VERSE_QUOTE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.9960000000000001,
+        "min_top1_margin": 0.98,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "VERSE_QUOTE": 0.998,
+          "PROSE_CONTINUATION": 0.002,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        },
+        "std_probabilities": {
+          "VERSE_QUOTE": 0.004472135954999584,
+          "PROSE_CONTINUATION": 0.004472135954999579,
+          "PARATEXT": 0.0,
+          "LAYOUT_ARTIFACT": 0.0
+        }
+      },
+      "evidence_sufficiency": {
+        "distribution": {
+          "INSUFFICIENT": 5
+        },
+        "modal_label": "INSUFFICIENT",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": true,
+        "mean_top1_margin": 0.21199999999999997,
+        "min_top1_margin": 0.13999999999999996,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "SUFFICIENT": 0.394,
+          "INSUFFICIENT": 0.606
+        },
+        "std_probabilities": {
+          "SUFFICIENT": 0.025099800796022267,
+          "INSUFFICIENT": 0.025099800796022288
+        }
+      },
+      "recommended_action": {
+        "distribution": {
+          "KEEP_AS_PROSE": 5
+        },
+        "modal_label": "KEEP_AS_PROSE",
+        "agreement_rate": 1.0,
+        "stability_class": "STABLE",
+        "consensus_correct": false,
+        "mean_top1_margin": 0.44800000000000006,
+        "min_top1_margin": 0.42000000000000004,
+        "label_changes": 0,
+        "mean_probabilities": {
+          "HUMAN_REVIEW": 0.11599999999999999,
+          "PRESERVE_AS_VERSE": 0.21400000000000002,
+          "KEEP_AS_PROSE": 0.662,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.008
+        },
+        "std_probabilities": {
+          "HUMAN_REVIEW": 0.011401754250991379,
+          "PRESERVE_AS_VERSE": 0.011401754250991382,
+          "KEEP_AS_PROSE": 0.013038404810405309,
+          "REMOVE_LAYOUT_ARTIFACT": 0.0,
+          "PRESERVE_AS_PARATEXT": 0.004472135954999579
+        }
+      },
+      "safety_metrics": {
+        "unsafe_auto_actions": 5,
+        "correct_human_reviews": 0,
+        "false_human_reviews": 0
+      },
+      "raw_runs": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:20:53.430818+00:00",
+          "latency_ms": 613.3016999810934,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "4adeb03a369ae1b388cc146b3d5d62b622d975394284de8cbd92bd4334b47d32",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "LAYOUT_ARTIFACT": 0.0,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 1.0,
+              "PROSE_CONTINUATION": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.23,
+            "probabilities": {
+              "SUFFICIENT": 0.39,
+              "INSUFFICIENT": 0.61
+            },
+            "top1_prob": 0.61,
+            "top2_prob": 0.39,
+            "top1_margin": 0.21999999999999997
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.59,
+            "probabilities": {
+              "KEEP_AS_PROSE": 0.68,
+              "PRESERVE_AS_PARATEXT": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "PRESERVE_AS_VERSE": 0.21,
+              "HUMAN_REVIEW": 0.1
+            },
+            "top1_prob": 0.68,
+            "top2_prob": 0.21,
+            "top1_margin": 0.4700000000000001
+          }
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:20:54.044578+00:00",
+          "latency_ms": 608.8572000153363,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "4adeb03a369ae1b388cc146b3d5d62b622d975394284de8cbd92bd4334b47d32",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "PROSE_CONTINUATION": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PARATEXT": 0.0,
+              "VERSE_QUOTE": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.2,
+            "probabilities": {
+              "INSUFFICIENT": 0.6,
+              "SUFFICIENT": 0.4
+            },
+            "top1_prob": 0.6,
+            "top2_prob": 0.4,
+            "top1_margin": 0.19999999999999996
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.57,
+            "probabilities": {
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.65,
+              "PRESERVE_AS_PARATEXT": 0.01,
+              "PRESERVE_AS_VERSE": 0.21,
+              "HUMAN_REVIEW": 0.13
+            },
+            "top1_prob": 0.65,
+            "top2_prob": 0.21,
+            "top1_margin": 0.44000000000000006
+          }
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:20:54.653983+00:00",
+          "latency_ms": 682.2141999728046,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "4adeb03a369ae1b388cc146b3d5d62b622d975394284de8cbd92bd4334b47d32",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 1.0,
+              "LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.15,
+            "probabilities": {
+              "SUFFICIENT": 0.43,
+              "INSUFFICIENT": 0.57
+            },
+            "top1_prob": 0.57,
+            "top2_prob": 0.43,
+            "top1_margin": 0.13999999999999996
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.57,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.22,
+              "HUMAN_REVIEW": 0.11,
+              "KEEP_AS_PROSE": 0.66,
+              "PRESERVE_AS_PARATEXT": 0.01,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.66,
+            "top2_prob": 0.22,
+            "top1_margin": 0.44000000000000006
+          }
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:20:55.336314+00:00",
+          "latency_ms": 692.0625999919139,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "4adeb03a369ae1b388cc146b3d5d62b622d975394284de8cbd92bd4334b47d32",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "PARATEXT": 0.0,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PROSE_CONTINUATION": 0.0,
+              "VERSE_QUOTE": 1.0
+            },
+            "top1_prob": 1.0,
+            "top2_prob": 0.0,
+            "top1_margin": 1.0
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.28,
+            "probabilities": {
+              "INSUFFICIENT": 0.64,
+              "SUFFICIENT": 0.36
+            },
+            "top1_prob": 0.64,
+            "top2_prob": 0.36,
+            "top1_margin": 0.28
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.58,
+            "probabilities": {
+              "PRESERVE_AS_VERSE": 0.2,
+              "PRESERVE_AS_PARATEXT": 0.01,
+              "HUMAN_REVIEW": 0.12,
+              "KEEP_AS_PROSE": 0.67,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0
+            },
+            "top1_prob": 0.67,
+            "top2_prob": 0.2,
+            "top1_margin": 0.47000000000000003
+          }
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:20:56.030001+00:00",
+          "latency_ms": 686.5206999937072,
+          "actual_model": "jev-1.13.0",
+          "payload_sha256": "4adeb03a369ae1b388cc146b3d5d62b622d975394284de8cbd92bd4334b47d32",
+          "semantic_role": {
+            "returned_label": "VERSE_QUOTE",
+            "confidence": 0.99,
+            "probabilities": {
+              "VERSE_QUOTE": 0.99,
+              "LAYOUT_ARTIFACT": 0.0,
+              "PARATEXT": 0.0,
+              "PROSE_CONTINUATION": 0.01
+            },
+            "top1_prob": 0.99,
+            "top2_prob": 0.01,
+            "top1_margin": 0.98
+          },
+          "evidence_sufficiency": {
+            "returned_label": "INSUFFICIENT",
+            "confidence": 0.22,
+            "probabilities": {
+              "INSUFFICIENT": 0.61,
+              "SUFFICIENT": 0.39
+            },
+            "top1_prob": 0.61,
+            "top2_prob": 0.39,
+            "top1_margin": 0.21999999999999997
+          },
+          "recommended_action": {
+            "returned_label": "KEEP_AS_PROSE",
+            "confidence": 0.56,
+            "probabilities": {
+              "PRESERVE_AS_PARATEXT": 0.0,
+              "HUMAN_REVIEW": 0.12,
+              "PRESERVE_AS_VERSE": 0.23,
+              "REMOVE_LAYOUT_ARTIFACT": 0.0,
+              "KEEP_AS_PROSE": 0.65
+            },
+            "top1_prob": 0.65,
+            "top2_prob": 0.23,
+            "top1_margin": 0.42000000000000004
+          }
+        }
+      ]
+    }
+  ]
+}

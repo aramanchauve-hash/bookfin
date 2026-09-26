@@ -1,0 +1,304 @@
+{
+  "benchmark_version": "V6_ISOLATED_TRIAGE",
+  "started_at": "2026-09-19T22:23:57.807023+00:00",
+  "completed_at": "2026-09-19T22:24:04.410232+00:00",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "model": "jev-latest",
+  "runs_per_case": 5,
+  "total_cases": 1,
+  "global_summary": {
+    "total_cases": 1,
+    "runs_per_case": 5,
+    "semantic_role": {
+      "consensus_accuracy_pct": 100.0,
+      "mean_agreement_pct": 100.0,
+      "mean_top1_margin_pct": 100.0,
+      "accuracy_by_class": {
+        "VERSE_QUOTE": {
+          "total": 1,
+          "correct": 1
+        },
+        "PROSE_CONTINUATION": {
+          "total": 0,
+          "correct": 0
+        },
+        "LAYOUT_ARTIFACT": {
+          "total": 0,
+          "correct": 0
+        },
+        "PARATEXT": {
+          "total": 0,
+          "correct": 0
+        }
+      },
+      "confusion_matrix": {
+        "VERSE_QUOTE": {
+          "VERSE_QUOTE": 1,
+          "PROSE_CONTINUATION": 0,
+          "LAYOUT_ARTIFACT": 0,
+          "PARATEXT": 0
+        },
+        "PROSE_CONTINUATION": {
+          "VERSE_QUOTE": 0,
+          "PROSE_CONTINUATION": 0,
+          "LAYOUT_ARTIFACT": 0,
+          "PARATEXT": 0
+        },
+        "LAYOUT_ARTIFACT": {
+          "VERSE_QUOTE": 0,
+          "PROSE_CONTINUATION": 0,
+          "LAYOUT_ARTIFACT": 0,
+          "PARATEXT": 0
+        },
+        "PARATEXT": {
+          "VERSE_QUOTE": 0,
+          "PROSE_CONTINUATION": 0,
+          "LAYOUT_ARTIFACT": 0,
+          "PARATEXT": 0
+        }
+      }
+    },
+    "review_gate": {
+      "consensus_accuracy_pct": 100.0,
+      "human_judgment_precision_pct": 100.0,
+      "human_judgment_recall_pct": 100.0,
+      "human_judgment_f1_pct": 100.0,
+      "true_positives": 1,
+      "false_positives_false_review": 0,
+      "false_negatives_false_safe": 0,
+      "true_negatives": 0,
+      "total_false_safe_runs": 1,
+      "total_false_review_runs": 0
+    },
+    "safety_and_triage": {
+      "consensus_triage_accuracy_pct": 100.0,
+      "total_unsafe_triage_runs": 1,
+      "consensus_unsafe_cases": [],
+      "can_proceed_to_60_cases": false
+    },
+    "verdict": "PROMISING BUT REQUIRES GATE REFINEMENT",
+    "verdict_rationale": "Sémantique solide (100.0%), mais 1 runs non sécurisés ou rappel gate imparfait (100.0%)."
+  },
+  "cases": [
+    {
+      "case_id": "hazlitt-uncertain-motto-12",
+      "author": "William Hazlitt",
+      "work": "Table-Talk (1821)",
+      "context_note": "Fragment de vers ('My mind to me a kingdom is') cité en incise directement dans la prose sans balise de bloc.",
+      "expected_semantic_role": "VERSE_QUOTE",
+      "expected_source_evidence": "HUMAN_JUDGMENT_REQUIRED",
+      "expected_triage_action": "HUMAN_REVIEW",
+      "step_a_semantic_role": {
+        "distribution": {
+          "VERSE_QUOTE": 5
+        },
+        "modal_label": "VERSE_QUOTE",
+        "agreement_rate": 1.0,
+        "mean_top1_margin": 1.0,
+        "consensus_correct": true,
+        "stability_class": "STABLE"
+      },
+      "step_b_source_evidence": {
+        "distribution": {
+          "HUMAN_JUDGMENT_REQUIRED": 4,
+          "EXPLICIT_SOURCE_EVIDENCE": 1
+        },
+        "modal_label": "HUMAN_JUDGMENT_REQUIRED",
+        "agreement_rate": 0.8,
+        "mean_top1_margin": 0.06000000000000001,
+        "consensus_correct": true,
+        "stability_class": "SEMI_STABLE"
+      },
+      "local_triage": {
+        "consensus_action": "HUMAN_REVIEW",
+        "consensus_correct": true,
+        "consensus_unsafe": false,
+        "false_safe_runs": 1,
+        "false_review_runs": 0,
+        "unsafe_triage_runs": 1,
+        "valid_pairs": 5
+      },
+      "raw_runs_a": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:23:57.808531+00:00",
+          "latency_ms": 756.0566000174731,
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0
+          },
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:23:58.562766+00:00",
+          "latency_ms": 715.1325999875553,
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0,
+            "PROSE_CONTINUATION": 0.0
+          },
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:23:59.280988+00:00",
+          "latency_ms": 638.4582000318915,
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "PARATEXT": 0.0,
+            "VERSE_QUOTE": 1.0
+          },
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:23:59.919789+00:00",
+          "latency_ms": 653.435000043828,
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "LAYOUT_ARTIFACT": 0.0,
+            "PROSE_CONTINUATION": 0.0,
+            "VERSE_QUOTE": 1.0,
+            "PARATEXT": 0.0
+          },
+          "top1_margin": 1.0,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:24:00.572847+00:00",
+          "latency_ms": 607.151200005319,
+          "returned_label": "VERSE_QUOTE",
+          "confidence": 0.99,
+          "probabilities": {
+            "VERSE_QUOTE": 1.0,
+            "PROSE_CONTINUATION": 0.0,
+            "LAYOUT_ARTIFACT": 0.0,
+            "PARATEXT": 0.0
+          },
+          "top1_margin": 1.0,
+          "is_correct": true
+        }
+      ],
+      "raw_runs_b": [
+        {
+          "run_idx": 1,
+          "timestamp": "2026-09-19T22:24:01.179500+00:00",
+          "latency_ms": 615.8524000202306,
+          "returned_label": "HUMAN_JUDGMENT_REQUIRED",
+          "confidence": 0.02,
+          "probabilities": {
+            "EXPLICIT_SOURCE_EVIDENCE": 0.49,
+            "HUMAN_JUDGMENT_REQUIRED": 0.51
+          },
+          "top1_margin": 0.020000000000000018,
+          "is_correct": true
+        },
+        {
+          "run_idx": 2,
+          "timestamp": "2026-09-19T22:24:01.792129+00:00",
+          "latency_ms": 693.9329999731854,
+          "returned_label": "HUMAN_JUDGMENT_REQUIRED",
+          "confidence": 0.09,
+          "probabilities": {
+            "EXPLICIT_SOURCE_EVIDENCE": 0.46,
+            "HUMAN_JUDGMENT_REQUIRED": 0.54
+          },
+          "top1_margin": 0.08000000000000002,
+          "is_correct": true
+        },
+        {
+          "run_idx": 3,
+          "timestamp": "2026-09-19T22:24:02.492152+00:00",
+          "latency_ms": 570.7087999908254,
+          "returned_label": "EXPLICIT_SOURCE_EVIDENCE",
+          "confidence": 0.02,
+          "probabilities": {
+            "EXPLICIT_SOURCE_EVIDENCE": 0.51,
+            "HUMAN_JUDGMENT_REQUIRED": 0.49
+          },
+          "top1_margin": 0.020000000000000018,
+          "is_correct": false
+        },
+        {
+          "run_idx": 4,
+          "timestamp": "2026-09-19T22:24:03.063013+00:00",
+          "latency_ms": 692.3934000078589,
+          "returned_label": "HUMAN_JUDGMENT_REQUIRED",
+          "confidence": 0.04,
+          "probabilities": {
+            "HUMAN_JUDGMENT_REQUIRED": 0.52,
+            "EXPLICIT_SOURCE_EVIDENCE": 0.48
+          },
+          "top1_margin": 0.040000000000000036,
+          "is_correct": true
+        },
+        {
+          "run_idx": 5,
+          "timestamp": "2026-09-19T22:24:03.753218+00:00",
+          "latency_ms": 656.0592000023462,
+          "returned_label": "HUMAN_JUDGMENT_REQUIRED",
+          "confidence": 0.14,
+          "probabilities": {
+            "HUMAN_JUDGMENT_REQUIRED": 0.57,
+            "EXPLICIT_SOURCE_EVIDENCE": 0.43
+          },
+          "top1_margin": 0.13999999999999996,
+          "is_correct": true
+        }
+      ],
+      "triage_runs": [
+        {
+          "run_idx": 1,
+          "semantic_role": "VERSE_QUOTE",
+          "source_evidence": "HUMAN_JUDGMENT_REQUIRED",
+          "bookfin_triage_action": "HUMAN_REVIEW",
+          "is_safe": true
+        },
+        {
+          "run_idx": 2,
+          "semantic_role": "VERSE_QUOTE",
+          "source_evidence": "HUMAN_JUDGMENT_REQUIRED",
+          "bookfin_triage_action": "HUMAN_REVIEW",
+          "is_safe": true
+        },
+        {
+          "run_idx": 3,
+          "semantic_role": "VERSE_QUOTE",
+          "source_evidence": "EXPLICIT_SOURCE_EVIDENCE",
+          "bookfin_triage_action": "PRESERVE_AS_VERSE",
+          "is_safe": false
+        },
+        {
+          "run_idx": 4,
+          "semantic_role": "VERSE_QUOTE",
+          "source_evidence": "HUMAN_JUDGMENT_REQUIRED",
+          "bookfin_triage_action": "HUMAN_REVIEW",
+          "is_safe": true
+        },
+        {
+          "run_idx": 5,
+          "semantic_role": "VERSE_QUOTE",
+          "source_evidence": "HUMAN_JUDGMENT_REQUIRED",
+          "bookfin_triage_action": "HUMAN_REVIEW",
+          "is_safe": true
+        }
+      ]
+    }
+  ]
+}
