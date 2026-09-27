@@ -137,13 +137,41 @@ Le défaut de WebView vide au lancement à froid, découvert ensuite, concerne c
 
 ---
 
+## 5ter. ANDROID BUILD 3 VALIDATION (27 SEPTEMBRE 2026)
+
+- **Build ID** : `bb40bb1d-ab3b-44ed-a0e6-1088a07b22eb`
+- **Profil** : `preview` (`distribution: internal`)
+- **Version** : `0.1.0` (versionCode `3`)
+- **APK URL** : [https://expo.dev/artifacts/eas/FQmx2KDO3G7ee1ESldR9TndlEwx4OE1gkKukl1lQhjY.apk](https://expo.dev/artifacts/eas/FQmx2KDO3G7ee1ESldR9TndlEwx4OE1gkKukl1lQhjY.apk)
+- **Fichier local** : `mobile/builds/bookfin-v0.1.0-build3.apk` (SHA-256 `41C06D2277A07597878917213118D35222AF74023477918014B88531C029A824`)
+
+### RÉSULTATS DU SMOKE TEST SUR ENVIRONNEMENT DE REPRODUCTION (AVD Pixel_8a, API 35)
+1. **Lancement à froid Light Mode** : **PASS** (Poliphili chargée, texte immédiatement visible, 0 écran blanc/noir)
+2. **Lancement à froid Dark Mode** : **PASS** (Fond sombre, texte ivoire net, 0 écran noir)
+3. **Scroll vertical & gestes** : **PASS**
+4. **Like / Dislike / Révélation sobre** : **PASS** (Léon Bloy révélé)
+5. **Commencer depuis le début** : **PASS** (Page 1 servie avec contexte `sequential`)
+6. **Swipe lecture suivie** : **PASS** (Page 2 servie, pas de réaction LIKE ajoutée)
+7. **Retour à la découverte** : **PASS** (Reprise du flux aléatoire intact)
+8. **Bibliothèque (Profil)** : **PASS** (Affichage de l'ouvrage en cours `Page 2 / 194`)
+9. **Reprise depuis bibliothèque** : **PASS** (Reprise directe à la page 2)
+10. **Réglages & i18n** : **PASS** (Choix de l'interface et des langues de lecture)
+
+### STATUT SAMSUNG PHYSIQUE
+- En attente de passage sur le terminal physique Samsung problématique.
+
+---
+
 ## 6. FINAL VERDICT
 
 ```
-READY FOR PRIVATE ALPHA: NO (26 septembre) — en attente du build 3
+ANDROID BUILD 3 READY FOR PRIVATE ALPHA: NO (En attente du test sur Samsung physique)
 ```
 
-Verdict initial du 19 septembre : `YES`. Il est révoqué par la découverte du défaut de WebView vide dans l'APK build 2. Conditions de retour à `YES` : backend déployé avec 0012, build 3 produit, lancements à froid clair/sombre validés sur émulateur et sur Samsung (voir `PRIVATE_ALPHA_BUILD_3_PREP.md`).
+- **Backend Railway** : Migration 0012 déployée et validée (PASS).
+- **Émulateur Android (reproduction bug)** : Build 3 testé et validé sans régression ni écran noir (PASS).
+- **Samsung physique réel** : Doit être validé manuellement avec le build 3 avant ouverture définitive de la diffusion.
+
 
 ---
 

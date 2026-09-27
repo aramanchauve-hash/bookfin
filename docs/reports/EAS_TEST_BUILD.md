@@ -1,90 +1,70 @@
 # BOOKFIN — RAPPORT DE BUILD EAS DE TEST
 
-Date: 2026-09-19  
+Date: 27 septembre 2026 (Mise à jour Build 3)  
 Projet: **Bookfin Mobile**  
 Compte EAS: `rmnchv` (`aramanchauve@gmail.com`) / Project ID: `aa201c92-31a3-4f32-b9df-1c7b7d20a320`  
-Commit de référence: `c8215c0bf18b2c6d515de67b9dfc67bf0a2ea12b`  
+Commit de référence: `f07b7ea0deb63bbf0e569b4dc0e51f82ecf12aa2`  
 Expo SDK: `57.0.24` (react-native `0.86.3`)  
 Profil EAS: `preview` (Distribution interne)  
-URL API cible: `https://bookfin-api-production.up.railway.app`  
-Version de l'application: `0.1.0-alpha`  
-Numéro de build iOS: `2` (`bundleIdentifier`: `com.bookfin.alpha`)  
-Version code Android: `2` (`package`: `com.bookfin.alpha`)  
+URL API cible: `https://bookfin-api-production.up.railway.app` (Railway Production avec migration 0012)  
+Version de l'application: `0.1.0`  
+Numéro de build iOS: `3` (`bundleIdentifier`: `com.bookfin.alpha`)  
+Version code Android: `3` (`package`: `com.bookfin.alpha`)  
 
 ---
 
 ## 1. VÉRIFICATIONS PRÉ-BUILD
 
-Avant le déclenchement des builds cloud EAS, l'ensemble des validations locales obligatoires a été exécuté avec succès :
-
-- **TypeScript (`npm run typecheck`)** : PASS (0 erreur)
-- **Tests unitaires & intégration (`npm test`)** : PASS (14/14 suites, 97/97 tests réussis)
-- **Expo Doctor (`npx expo-doctor`)** : PASS (21/21 vérifications conformes)
-- **Statut Git** : Arbre propre, commit dédié enregistré (`c8215c0`)
+- **Backend Railway** : Migration 0012 déployée, /health 200, routes start/resume/library opérationnelles.
+- **Git** : Working tree propre sur master (`f07b7ea`).
+- **Configuration** : `appVersionSource: local`, `android.versionCode: 3`, `ios.buildNumber: 3`.
 
 ---
 
-## 2. RÉSULTATS DES BUILDS EAS
+## 2. RÉSULTATS DES BUILDS EAS (BUILD 3)
 
-### Android
-- **Build ID** : `0e0ad500-0f67-4e04-aa79-06f93a89b65f`
+### Android Build 3
+- **Build ID** : `bb40bb1d-ab3b-44ed-a0e6-1088a07b22eb`
 - **Plateforme** : Android
-- **Statut** : **PASS** (`finished`)
+- **Statut** : **PASS** (`FINISHED`)
 - **Profil** : `preview` (`distribution: internal`)
 - **Type d'artefact** : APK directement installable (`buildType: apk`)
-- **Version code** : `2`
-- **Application Archive URL** : [https://expo.dev/artifacts/eas/ThFqr8lbgF4JL8w1uS2t9PfdNKzQpQICcN6jRbde-0k.apk](https://expo.dev/artifacts/eas/ThFqr8lbgF4JL8w1uS2t9PfdNKzQpQICcN6jRbde-0k.apk)
-- **Page EAS & QR Code** : [https://expo.dev/accounts/rmnchv/projects/bookfin/builds/0e0ad500-0f67-4e04-aa79-06f93a89b65f](https://expo.dev/accounts/rmnchv/projects/bookfin/builds/0e0ad500-0f67-4e04-aa79-06f93a89b65f)
+- **Version code** : `3` (version `0.1.0`)
+- **Application Archive URL** : [https://expo.dev/artifacts/eas/FQmx2KDO3G7ee1ESldR9TndlEwx4OE1gkKukl1lQhjY.apk](https://expo.dev/artifacts/eas/FQmx2KDO3G7ee1ESldR9TndlEwx4OE1gkKukl1lQhjY.apk)
+- **Fichier local** : `mobile/builds/bookfin-v0.1.0-build3.apk` (71 018 176 octets, SHA-256 `41C06D2277A07597878917213118D35222AF74023477918014B88531C029A824`)
 
 ### iOS
-- **Statut** : **NEEDS USER ACTION**
-- **Profil** : `preview` (`distribution: internal`)
-- **Raison exacte** :
-  Le profil d'exportation interne Ad Hoc / Distribution interne iOS requiert l'association préalable de credentials Apple (Certificat de distribution et Profil de provisionnement Ad Hoc incluant les UDID des appareils de test enregistrés sur le compte Apple Developer du développeur).
-  En mode `--non-interactive`, EAS CLI n'a pas trouvé de certificat/profil existant sur les serveurs EAS pour `com.bookfin.alpha`.
-  L'utilisateur doit exécuter une fois de manière interactive dans son terminal :
+- Non lancé dans cette mission (conformément aux consignes).
+
+---
+
+## 3. VALIDATION ÉMULATEUR ANDROID (ENVIRONNEMENT DE REPRODUCTION DU BUG)
+
+Testé sur `emulator-5554` (AVD `Pixel_8a`, API 35 — environnement exact où le bug WebView noir sur Build 2 avait été reproduit) :
+
+- **Lancement à froid Light Mode** : **PASS** (Poliphili chargée, texte immédiatement visible, 0 écran blanc/noir)
+- **Lancement à froid Dark Mode** : **PASS** (Fond sombre, texte ivoire net, 0 écran noir)
+- **Scroll vertical & gestes** : **PASS**
+- **Like / Révélation titre & auteur** : **PASS**
+- **Commencer depuis le début (page 1)** : **PASS**
+- **Swipe séquentiel (page 2)** : **PASS** (progression incrémentée sans like)
+- **Retour à la découverte** : **PASS**
+- **Bibliothèque (Profil)** : **PASS** (reprise directe à la page 2)
+- **Réglages & langues UI/Corpus** : **PASS**
+
+---
+
+## 4. VALIDATION SAMSUNG RÉEL
+
+- En attente de déploiement et test sur l'appareil physique Samsung concerné.
+- L'APK peut être installé directement via :
   ```bash
-  cd mobile
-  eas build --platform ios --profile preview
+  adb install -r mobile/builds/bookfin-v0.1.0-build3.apk
   ```
-  et s'authentifier auprès de son compte Apple Developer pour générer ou lier automatiquement ses certificats.
-  *Note configuration :* La clé `ios.infoPlist.ITSAppUsesNonExemptEncryption: false` a déjà été configurée dans `app.json` pour éliminer toute interruption relative à la conformité du chiffrement.
+  ou téléchargé directement sur le téléphone via le lien EAS :
+  [Télécharger Bookfin v0.1.0 Build 3 APK](https://expo.dev/artifacts/eas/FQmx2KDO3G7ee1ESldR9TndlEwx4OE1gkKukl1lQhjY.apk)
 
 ---
 
-## 3. INSTRUCTIONS D'INSTALLATION SUR APPAREIL DE TEST
+READY FOR DEVICE TEST DISTRIBUTION: YES (Build 3 prêt pour installation Samsung)
 
-### Android (Installation immédiate via APK)
-1. Télécharger directement l'APK sur votre smartphone Android depuis le lien sécurisé EAS :  
-   👉 [Télécharger Bookfin v0.1.0-alpha (Build 2) APK](https://expo.dev/artifacts/eas/ThFqr8lbgF4JL8w1uS2t9PfdNKzQpQICcN6jRbde-0k.apk)  
-   *(ou scanner le QR code disponible sur [la page de build EAS](https://expo.dev/accounts/rmnchv/projects/bookfin/builds/0e0ad500-0f67-4e04-aa79-06f93a89b65f))*.
-2. Ouvrir le fichier `.apk` téléchargé sur votre téléphone.
-3. Si Android affiche une alerte de sécurité, autoriser l'installation d'applications inconnues pour votre navigateur ou explorateur de fichiers.
-4. Appuyer sur **Installer** puis ouvrir **Bookfin**.
-
-### iOS (Dès synchronisation interactive des credentials Apple)
-1. Enregistrer au préalable l'UDID de l'iPhone de test via `eas device:create` ou directement sur le portail Apple Developer.
-2. Lancer `eas build --platform ios --profile preview` depuis votre terminal interactif.
-3. Scanner le QR code généré par Expo pour installer le profil et l'application via Safari mobile.
-
----
-
-## 4. CHECKLIST DU SMOKE TEST SUR APPAREIL RÉEL
-
-1. [ ] Lancement de l'application
-2. [ ] Affichage de l'écran d'onboarding au premier démarrage
-3. [ ] Choix des langues (FR / EN / ES) et validation
-4. [ ] Arrivée directe sur le premier extrait littéraire
-5. [ ] Typographie Poliphili Roman active, visible et nette
-6. [ ] Défilement vertical fluide
-7. [ ] Pouce levé (Like) -> révélation sobre de l'auteur
-8. [ ] Pouce baissé (Dislike) -> révélation sobre de l'auteur
-9. [ ] Swipe gauche après avoir atteint le bas de page -> page suivante (Like + Continue)
-10. [ ] Swipe droit -> retour immédiat sur la page précédente en mémoire locale
-11. [ ] Changement de langue via le bouton discret "Langues"
-12. [ ] Fermeture forcée et relance de l'application -> reprise directe de la lecture avec préférences conservées
-13. [ ] Absence complète des contrôles de débogage et des bandeaux DEV
-
----
-
-READY FOR DEVICE TEST DISTRIBUTION: YES
