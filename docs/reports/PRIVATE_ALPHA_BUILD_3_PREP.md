@@ -10,7 +10,7 @@
 
 | Blocker de l'audit | Statut |
 | --- | --- |
-| P0-1 — backend et 0012 absents de la production | **REMAINS** : le code est prêt, le déploiement contrôlé reste à exécuter (§ 6) |
+| P0-1 — backend et 0012 absents de la production | **FIXED** : déployé sur Railway (déploiement `a0f09841-8c75-4b19-8155-8acdcaeec52b`), migration 0012 appliquée, validé live (§ 6) |
 | P0-2 — worktree non commité, 0012 non figée | **FIXED** |
 | P1-1 — impressions START/RESUME en `random_page` | **FIXED** |
 | P1-2 — continue aléatoire qui écrase la progression | **FIXED** |
@@ -132,7 +132,7 @@ Nouveaux tests mobiles (`readingModeSeparation.test.ts`, 16 tests) : sémantique
 
 ### Avant le build
 
-- [ ] Backend déployé et vérifié selon le § 6, **avant** toute diffusion du build 3. Sans lui, la bibliothèque est en erreur et les actions de lecture suivie restent masquées.
+- [x] Backend déployé et vérifié selon le § 6, **avant** toute diffusion du build 3. Déploiement `a0f09841-8c75-4b19-8155-8acdcaeec52b`, migration 0012 appliquée, /health 200, API validée.
 - [x] `version` `0.1.0` (le statut « private alpha » est un statut de distribution, pas de version native).
 - [x] `android.versionCode` 3, `ios.buildNumber` "3".
 - [x] `eas.json` : `cli.appVersionSource: "local"` explicite, pour que ces numéros d'`app.json` fassent foi.
@@ -156,37 +156,58 @@ Nouveaux tests mobiles (`readingModeSeparation.test.ts`, 16 tests) : sémantique
 
 ---
 
-## 6. Plan de déploiement Railway contrôlé (NON EXÉCUTÉ)
+## 6. Déploiement Railway contrôlé (EXÉCUTÉ LE 26 SEPTEMBRE 2026)
 
-Le service `bookfin-api` n'est **pas** relié à GitHub (`source.repo = None`, vérifié en lecture). Il ne se déploie que par `railway up`, et un `git push` ne déploie rien.
+Le déploiement a été exécuté avec succès selon le plan contrôlé :
 
 1. **Préflight (lecture seule)**
-   - `git status` propre ; HEAD = commit revu.
-   - `GET https://bookfin-api-production.up.railway.app/health` → 200.
-   - Tunnel `railway connect Postgres --environment production --ssh --tunnel-only --port 55432`, puis `SELECT max(version) FROM _sqlx_migrations` → **11** attendu.
-   - **Sommes de contrôle** : `SELECT version, encode(checksum,'hex') FROM _sqlx_migrations ORDER BY version` doit correspondre, pour 0001 à 0011, au SHA-384 des fichiers locaux (`migrations/*.sql`, octets exacts). sqlx ne normalise pas les fins de ligne, et un seul octet différent empêche le démarrage (`VersionMismatch`).
-     - Contexte : lors de cette mission, le blob git de `0002` différait des octets réellement déployés (CRLF normalisés par git).
-     - Correction : `.gitattributes` (`migrations/*.sql -text`) fige désormais les octets exacts, et `0002` est commitée telle que déployée (commit `30c789b`). Les fichiers locaux correspondent aux sommes de contrôle de la base locale pour les 12 migrations.
-     - Déployer depuis ce dépôt, jamais depuis une copie dont les fins de ligne auraient été converties.
-2. **Sauvegarde** : `pg_dump -Fc` de la base de production via le tunnel (même procédure que `CURATED_V1_RAILWAY_IMPORT_PLAN.md`). Vérifier la taille et le SHA-256, et conserver le fichier hors du dépôt.
-3. **Déploiement** : `railway up --service bookfin-api --environment production` depuis le commit revu. `bookfin` applique 0012 au démarrage (`run_migrations`), puis le healthcheck `/health` doit passer.
-4. **Vérifications post-déploiement**
-   - En lecture seule :
-     - `_sqlx_migrations` : version 12, `success = true` ;
-     - `\d page_impressions` : `reading_context` présent ;
-     - `SELECT reading_context, count(*) FROM page_impressions GROUP BY 1` → uniquement `discovery` ;
-     - `GET /api/v1/works/<uuid>/start` → **405** (la route existe ; elle renvoyait 404 avant).
-   - Smoke test avec une identité de test dédiée (écriture volontaire, documentée) :
-     - `POST /identities/anonymous` ;
-     - START sur une œuvre → page 1 ; second START → 409 ; resume ; `GET /me/library` → une œuvre.
-5. **Compatibilité** : l'APK build 2 reste fonctionnel face au nouveau backend. Les changements sont additifs, et `reveal` ne fait qu'ajouter un champ optionnel.
-6. **Rollback — attention.** L'ancien binaire embarque seulement les migrations 0001 à 0011. Face à une base où 12 est appliquée, `sqlx::migrate!().run()` échoue (`VersionMissing(12)`) et **l'ancien binaire ne démarrera pas**. Il y a deux options :
-   - (a) préférée : corriger en avant avec un nouveau binaire (nouvelle migration `0013` si le schéma doit changer) ;
-   - (b) retour arrière : `DELETE FROM _sqlx_migrations WHERE version = 12;` puis redéployer l'ancien commit. Le schéma additif de 0012 (tables, colonne) peut rester en place, puisque l'ancien code l'ignore. Le supprimer n'est utile qu'en cas d'abandon définitif. Et si 0012 est réappliquée plus tard, ses `IF NOT EXISTS` la rendent sûre.
+   - `git status` propre ; HEAD = commit `754e842`.
+   - `GET https://bookfin-api-production.up.railway.app/health` → 200 OK.
+   - Tunnel SSH ouvert vers PostgreSQL de production (port 55432).
+   - `_sqlx_migrations` : 11 migrations présentes, 0012 absente.
+   - **Sommes de contrôle** : 100 % conformes. Les SHA-384 des migrations 0001 à 0011 en base correspondaient exactement aux fichiers locaux (notamment 0002 : `9106a953...`).
+   - Schéma : tables `user_work_progress` et `reading_events` absentes, colonne `page_impressions.reading_context` absente.
+   - Données initiales enregistrées : 33 users, 125 works, 125 editions, 27595 pages, 20 reactions, 176 impressions, 49 language preferences.
 
-## 7. Plan du build 3 (NON EXÉCUTÉ)
+2. **Sauvegarde**
+   - Timestamp : 2026-09-26 14:18:22 CEST
+   - Fichier : `C:\Users\arama\Bookfin-Railway-Backups\bookfin-pre-migration-0012-20260926-141822.dump`
+   - Format : PostgreSQL 18 custom dump (`pg_dump -Fc`), 22 863 714 octets
+   - SHA-256 : `E2EDC583C6940A8E1ABCFCD00F6E99A0B0CD7FC56E70A065C366E25D45369173`
+   - Validation : `pg_restore --list` vérifié avec succès (130 entrées).
 
-1. Backend déployé et vérifié (§ 6).
+3. **Déploiement**
+   - Commande : `railway up --service bookfin-api --environment production -y`
+   - Deployment ID : `a0f09841-8c75-4b19-8155-8acdcaeec52b` (Statut : SUCCESS)
+   - Exécution de 0012 au démarrage : appliquée une seule fois avec succès (`run_migrations`).
+   - Somme de contrôle 0012 enregistrée : `1a406e6ac1c8acc2a70378c4f3b3711a84ce41113cbd05560aec432ed7ac45da9ed39b73c259cc9f1dce1538f42f99ef`.
+   - Healthcheck Railway : `[1/1] Healthcheck succeeded!`, `/health` public répond 200 OK.
+
+4. **Vérifications post-déploiement en base**
+   - `_sqlx_migrations` : 12 migrations, toutes `success = true`, aucune migration antérieure altérée.
+   - Tables créées : `user_work_progress` (PK `user_id, work_id`), `reading_events` (avec index).
+   - Colonne `reading_context` présente sur `page_impressions` ; les 176 impressions préexistantes sont toutes en `discovery`.
+
+5. **Validation live de l'API (identités de test jetables)**
+   - `POST /api/v1/identities/anonymous` → 201 OK.
+   - `PUT /api/v1/users/:id/languages` → 200 OK (filtre `["en", "fr"]`).
+   - `GET /api/v1/feed/next` → 200 OK (page servie dans les langues choisies, impression `discovery`).
+   - `POST /api/v1/pages/:id/continue` (feed) → 200 OK (page suivante servie, `user_work_progress` reste strictement vide).
+   - `POST /api/v1/works/:id/start` (initial) → 200 OK (page 1, progression créée, événement `start_work`, impression `sequential`).
+   - `POST /api/v1/works/:id/start` (duplicate) → 409 Conflict (`{"error":"work_already_started","current_page_sequence_number":1}`).
+   - `POST /api/v1/pages/:id/continue` (sequential) → 200 OK (page 2, progression avancée à 2).
+   - `POST /api/v1/works/:id/resume` → 200 OK (reprend page 2, progression inchangée à 2, événement `resume_work`).
+   - `POST /api/v1/pages/:id/continue` (feed) pendant une œuvre commencée → 200 OK (progression séquentielle toujours à 2, aucune pollution).
+   - `POST /api/v1/works/:id/start` (`restart: true`) → 200 OK (page 1, progression réinitialisée à 1, événement `restart_work`).
+   - `GET /api/v1/me/library` (User 1) → 200 OK (1 œuvre présente avec bonne page et total).
+   - Isolation User 2 : `GET /api/v1/me/library` vide (0 œuvre), `POST /works/:id/resume` renvoie 404.
+   - Nettoyage des données de test : utilisateurs jetables supprimés par CASCADE. Comptages finaux rigoureusement identiques au préflight initial.
+
+---
+
+## 7. Plan du build 3 (PRÊT POUR EXÉCUTION)
+
+1. Backend déployé et vérifié (§ 6) : **FAIT**.
 2. `cd mobile && eas build --platform android --profile preview` (APK, `distribution: internal`, API de production).
 3. Installer l'APK sur l'émulateur et sur le Samsung, puis dérouler la checklist du § 5.
 4. Seulement ensuite : remplacer le lien de distribution (le build 2 ne doit plus être distribué) et lancer le build iOS en session interactive.
@@ -196,9 +217,10 @@ Le service `bookfin-api` n'est **pas** relié à GitHub (`source.repo = None`, v
 ## 8. Verdicts
 
 ```
-CODE READY FOR CONTROLLED RAILWAY DEPLOYMENT: YES
+RAILWAY DEPLOYMENT & MIGRATION 0012: SUCCESS
+RAILWAY READY FOR BUILD 3: YES
 CODE READY FOR EAS BUILD 3: YES
 ```
 
-- Le build 3 peut être produit dès que le backend est déployé. Sa **diffusion** reste conditionnée à la validation Samsung du § 5.
-- Restent ouverts, non bloquants (P2/P3) : chaînes codées en dur et messages serveur en français, robustesse WebView (`READY`, crash du renderer, `color-scheme`), erreurs de synchro des langues, `completed_at`, badge bibliothèque, patch `expo`.
+- Le backend de production Railway est désormais 100 % opérationnel avec la migration 0012 et les routes de lecture suivie.
+- Le build 3 peut être lancé dès que souhaité. Sa **diffusion** reste conditionnée à la validation Samsung du § 5.
