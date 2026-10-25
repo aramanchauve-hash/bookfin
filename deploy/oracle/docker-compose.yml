@@ -1,0 +1,76 @@
+services:
+  postgres:
+    image: ${POSTGRES_IMAGE:-postgres:18-alpine}
+    container_name: bookfin-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-bookfin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?POSTGRES_PASSWORD is required}
+      POSTGRES_DB: ${POSTGRES_DB:-bookfin}
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER:-bookfin} -d $${POSTGRES_DB:-bookfin}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - internal_net
+    # Sécurité absolue : aucun port postgres exposé sur l'hôte ou Internet
+
+  api:
+    build:
+      context: ../..
+      dockerfile: Dockerfile
+    image: bookfin-api:latest
+    container_name: bookfin-api
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://${POSTGRES_USER:-bookfin}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB:-bookfin}
+      PORT: 3000
+      RUST_LOG: ${RUST_LOG:-info,bookfin=debug}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
+    networks:
+      - internal_net
+      - caddy_net
+    # Sécurité : aucun port directement exposé sur l'hôte ; transit exclusif par Caddy
+
+  caddy:
+    image: caddy:2-alpine
+    container_name: bookfin-caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      DOMAIN: ${DOMAIN:-:80}
+      ACME_EMAIL: ${ACME_EMAIL:-}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      api:
+        condition: service_healthy
+    networks:
+      - caddy_net
+
+networks:
+  internal_net:
+    internal: true
+  caddy_net:
+
+volumes:
+  postgres_data:
+  caddy_data:
+  caddy_config:

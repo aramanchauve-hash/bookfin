@@ -36,12 +36,13 @@ RUN cargo build --release \
 FROM debian:bookworm-slim AS runtime
 
 # ca-certificates : requis pour toute connexion TLS sortante éventuelle.
+# curl : requis pour le healthcheck Docker (/health).
 # Pas de libssl/openssl : le binaire n'est lié à aucune bibliothèque TLS
 # (sqlx est compilé avec la feature "runtime-tokio" sans backend
 # tls-native-tls / tls-rustls, donc aucune dépendance OpenSSL n'existe
 # dans l'arbre de dépendances actuel).
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends ca-certificates \
+    && apt-get install -y --no-install-recommends ca-certificates curl \
     && rm -rf /var/lib/apt/lists/*
 
 COPY --from=builder /app/target/release/bookfin /usr/local/bin/bookfin
