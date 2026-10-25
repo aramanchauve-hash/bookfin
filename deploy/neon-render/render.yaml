@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: bookfin-api
+    runtime: docker
+    plan: free
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    autoDeploy: false
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: RUST_LOG
+        value: info,bookfin=debug

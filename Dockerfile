@@ -35,12 +35,10 @@ RUN cargo build --release \
 # ---- Stage 2 : runtime ----
 FROM debian:bookworm-slim AS runtime
 
-# ca-certificates : requis pour toute connexion TLS sortante éventuelle.
+# ca-certificates : requis pour la validation des certificats TLS (HTTPS sortant, Neon PostgreSQL TLS via rustls).
 # curl : requis pour le healthcheck Docker (/health).
-# Pas de libssl/openssl : le binaire n'est lié à aucune bibliothèque TLS
-# (sqlx est compilé avec la feature "runtime-tokio" sans backend
-# tls-native-tls / tls-rustls, donc aucune dépendance OpenSSL n'existe
-# dans l'arbre de dépendances actuel).
+# Pas de libssl/openssl : sqlx utilise rustls (pur Rust), donc aucune dépendance OpenSSL/C
+# native n'est requise dans l'image runtime.
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ca-certificates curl \
     && rm -rf /var/lib/apt/lists/*
