@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
 
-const API_BASE = 'https://bookfin-api-production.up.railway.app';
+const API_BASE = process.env.EXPO_PUBLIC_API_BASE_URL || 'https://bookfin.onrender.com';
 
 function request(url, options = {}, body = null) {
   return new Promise((resolve, reject) => {
