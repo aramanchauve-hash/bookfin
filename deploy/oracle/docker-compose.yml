@@ -16,7 +16,7 @@ services:
       timeout: 5s
       retries: 5
     networks:
-      - internal_net
+      - backend
     # Sécurité absolue : aucun port postgres exposé sur l'hôte ou Internet
 
   api:
@@ -40,8 +40,8 @@ services:
       retries: 5
       start_period: 15s
     networks:
-      - internal_net
-      - caddy_net
+      - backend
+      - frontend
     # Sécurité : aucun port directement exposé sur l'hôte ; transit exclusif par Caddy
 
   caddy:
@@ -63,14 +63,15 @@ services:
       api:
         condition: service_healthy
     networks:
-      - caddy_net
+      - frontend
 
 networks:
-  internal_net:
+  backend:
     internal: true
-  caddy_net:
+  frontend:
 
 volumes:
   postgres_data:
   caddy_data:
   caddy_config:
+
