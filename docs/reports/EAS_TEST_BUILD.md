@@ -23,7 +23,21 @@ Version code Android: `3` (`package`: `com.bookfin.alpha`)
 
 ## 2. RÉSULTATS DES BUILDS EAS (BUILD 3)
 
-### Android Build 3
+### Android Build 4 (Cutover Render + Neon)
+- **Build ID** : `957e9c64-2472-4bc4-b245-83642dd77b3b`
+- **Plateforme** : Android
+- **Statut** : **PASS** (`FINISHED`)
+- **Profil** : `preview` (`distribution: internal`)
+- **Type d'artefact** : APK directement installable (`buildType: apk`)
+- **Version code** : `4` (version `0.1.0`, iOS build `4`)
+- **Commit source** : `8e60eeb320358490e8e7e4edfe442abaa48f3192`
+- **URL API cible** : `https://bookfin.onrender.com`
+- **Application Archive URL** : [https://expo.dev/artifacts/eas/5oST06kugd4c7VbqJA3zcAC01XnThP47Ed-1bsGGoKY.apk](https://expo.dev/artifacts/eas/5oST06kugd4c7VbqJA3zcAC01XnThP47Ed-1bsGGoKY.apk)
+- **Page d'installation EAS** : [https://expo.dev/accounts/rmnchv/projects/bookfin/builds/957e9c64-2472-4bc4-b245-83642dd77b3b](https://expo.dev/accounts/rmnchv/projects/bookfin/builds/957e9c64-2472-4bc4-b245-83642dd77b3b)
+- **Fichier local** : `mobile/builds/bookfin-v0.1.0-build4.apk` (71 018 156 octets, SHA-256 `BB89898B0547A55C092C49723979BEB88548FFD086EF6C181A9DCC7484C95C17`)
+- **Vérification binaire interne** : `assets/index.android.bundle` contient `onrender.com` = `true` et `railway.app` = `false`.
+
+### Android Build 3 (Historique)
 - **Build ID** : `bb40bb1d-ab3b-44ed-a0e6-1088a07b22eb`
 - **Plateforme** : Android
 - **Statut** : **PASS** (`FINISHED`)
